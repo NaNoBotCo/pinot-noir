@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "id": "raymond-bernard",
+ "type": "person",
+ "names": {
+  "name": "Raymond Bernard",
+  "sort": "Bernard, Raymond"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "role": "scientist",
+  "country": "France"
+ },
+ "text": {
+  "what": "The Dijon agronomist behind the clonal selection programme that gave the world the numbered pinot noirs — 113, 114, 115, 667, 777 and the rest.",
+  "story": "*Tradition holds —* Bernard directed the ONIVINS station at Dijon, ran the trials that certified the selections, and helped get the first of them to Oregon in the 1980s. The programme is well documented in the trade press; this record leans on the trade's account and says so."
+ },
+ "kin": [
+  {
+   "to": "dijon-115",
+   "as": "The selection most planted from that programme.",
+   "rel": "clone"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "as": "The whole story.",
+   "rel": "story"
+  },
+  {
+   "to": "adelsheim",
+   "as": "Who worked the Oregon end of the import.",
+   "rel": "person"
+  }
+ ],
+ "sources": [
+  "s:haeger-north-american",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

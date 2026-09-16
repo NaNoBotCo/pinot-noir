@@ -1,0 +1,113 @@
+{
+ "schema": 1,
+ "id": "tasmania",
+ "type": "region",
+ "names": {
+  "name": "Tasmania"
+ },
+ "region": [
+  "tasmania",
+  "australia"
+ ],
+ "facets": {
+  "country": "Australia",
+  "level": "gi"
+ },
+ "text": {
+  "what": "Australia's coldest vineyards, split between the Tamar in the north and the Coal River and Derwent in the south. Most of the pinot noir goes into sparkling base; the rest is picked ripe enough to bottle red."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown for bubbles first, red second.",
+   "rel": "variety"
+  },
+  {
+   "to": "champagne",
+   "as": "The model the sparkling program copies, at 42°S.",
+   "rel": "contrast"
+  }
+ ],
+ "geo": {
+  "lat": -41.6,
+  "lon": 147.2,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-tasmanian-wine",
+  "s:wp-australian-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Australia's coldest vineyards, split between the Tamar in the north and the Coal River and Derwent in the south. Most of the pinot noir goes into sparkling base; the rest is picked ripe enough to bottle red.",
+ "region_terms": [
+  {
+   "key": "tasmania",
+   "name": "Tasmania",
+   "country": "Australia",
+   "note": "the coolest Australian ground; sparkling base and still red"
+  },
+  {
+   "key": "australia",
+   "name": "Australia",
+   "country": "Australia",
+   "note": "cool corners of a warm continent"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown for bubbles first, red second.",
+   "rel": "variety"
+  },
+  {
+   "to": "champagne",
+   "type": "region",
+   "name": "Champagne",
+   "as": "The model the sparkling program copies, at 42°S.",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-tasmanian-wine",
+   "kind": "encyclopaedia",
+   "title": "Tasmanian wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13566419",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1343408247",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-australian-wine",
+   "kind": "encyclopaedia",
+   "title": "Australian wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3959588",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1343408200",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

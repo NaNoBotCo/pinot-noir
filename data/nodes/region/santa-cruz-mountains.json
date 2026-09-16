@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "id": "santa-cruz-mountains",
+ "type": "region",
+ "names": {
+  "name": "Santa Cruz Mountains"
+ },
+ "region": [
+  "santa-cruz-mountains",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1981
+ },
+ "text": {
+  "what": "Vines scattered through fault-ridge forest either side of the range, some facing the ocean, some facing the bay, none of them flat. Martin Ray planted pinot noir here when almost nobody in California would."
+ },
+ "kin": [
+  {
+   "to": "martin-ray",
+   "as": "Who kept pinot noir alive on this ridge through the 1940s and 1950s.",
+   "rel": "person"
+  },
+  {
+   "to": "mount-eden",
+   "as": "The selection that came off his vineyard and travelled.",
+   "rel": "clone"
+  }
+ ],
+ "geo": {
+  "lat": 37.15,
+  "lon": -122.05,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-santa-cruz-mountains-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1981",
+   "year": 1981,
+   "source": "s:ecfr-27-9",
+   "note": "46 FR 59240, Dec. 4, 1981"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

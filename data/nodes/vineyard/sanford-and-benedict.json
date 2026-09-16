@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "sanford-and-benedict",
+ "type": "vineyard",
+ "names": {
+  "name": "Sanford & Benedict"
+ },
+ "region": [
+  "sta-rita-hills",
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1971
+ },
+ "text": {
+  "what": "The planting that proved the Santa Ynez river gap: put in during 1971 by Richard Sanford and Michael Benedict on a north-facing slope nobody else wanted, and now inside the Sta. Rita Hills AVA.",
+  "story": "*Tradition holds —* Sanford went looking with weather records rather than with a realtor, hunting a valley that ran east-west so the ocean air could reach the vines. The old block still gets picked separately and named on labels made by people who never owned it."
+ },
+ "kin": [
+  {
+   "to": "sta-rita-hills",
+   "as": "The AVA drawn around this ground thirty years later.",
+   "rel": "region"
+  },
+  {
+   "to": "richard-sanford",
+   "as": "Who chose the site.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 34.62,
+  "lon": -120.3,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-sta-rita-hills-ava",
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "id": "truffle-pairing",
+ "type": "pairing",
+ "names": {
+  "name": "Truffle"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "course": "fungus",
+  "country": "France"
+ },
+ "text": {
+  "what": "Burgundy has its own black truffle, and the smell does to a glass of old pinot what nothing else does. Shaved late, over something plain, and never cooked hard."
+ },
+ "kin": [
+  {
+   "to": "mushrooms",
+   "as": "The everyday version of the same pairing.",
+   "rel": "kin"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where both come from.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-truffle"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "updated": "2026-09-16",
+ "blurb": "Burgundy has its own black truffle, and the smell does to a glass of old pinot what nothing else does. Shaved late, over something plain, and never cooked hard.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "mushrooms",
+   "type": "pairing",
+   "name": "Mushrooms",
+   "as": "The everyday version of the same pairing.",
+   "rel": "kin"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where both come from.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-truffle",
+   "kind": "encyclopaedia",
+   "title": "Truffle",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=291692",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366536535",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "mushrooms",
+   "type": "pairing",
+   "name": "Mushrooms",
+   "as": "The expensive end of the same idea.",
+   "rel": "kin"
+  }
+ ]
+}

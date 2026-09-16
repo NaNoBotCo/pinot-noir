@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "id": "santa-maria-salsa",
+ "type": "pairing",
+ "names": {
+  "name": "Santa Maria salsa"
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "course": "condiment",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Chopped raw tomato, celery, green chilli, onion and a shot of vinegar or Worcestershire — thinner and sharper than a Mexican pico de gallo, and spooned over sliced beef rather than eaten with chips.",
+  "how": "The acid is the point: the meat is lean and salty, and the salsa cuts it. That also changes what happens when you drink something with it."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "What it goes on.",
+   "rel": "pairing"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "Where the acid question meets the wine question.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-santa-maria-style-barbecue",
+  "s:wp-salsa-sauce"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recipes": [
+  {
+   "title": "Fresh salsa, as the tradition describes it",
+   "source": "s:wp-santa-maria-style-barbecue",
+   "license": "ingredients-only",
+   "ingredients": [
+    "ripe tomato",
+    "celery",
+    "green chilli",
+    "onion",
+    "vinegar or Worcestershire sauce",
+    "salt"
+   ],
+   "note": "ingredients only; proportions differ by household and this project has no free-to-use recipe for them"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

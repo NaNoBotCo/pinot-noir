@@ -1,0 +1,544 @@
+{
+ "schema": 1,
+ "id": "pinot-noir",
+ "type": "variety",
+ "names": {
+  "name": "Pinot noir",
+  "aliases": [
+   "Pinot Noir",
+   "Spätburgunder",
+   "Blauburgunder",
+   "Pinot nero",
+   "Blauer Burgunder"
+  ],
+  "said": "PEE-noh NWAHR"
+ },
+ "etymology": {
+  "root": "French pin (pine) + noir (black) — the bunch is shaped like a pinecone",
+  "note": "the cluster is small and conico-cylindrical",
+  "tier": "cited",
+  "source": "s:wp-pinot-noir"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "colour": "black",
+  "country": "France"
+ },
+ "text": {
+  "what": "A black grape from north-eastern France that ripens early, carries thin skin over tight pinecone-shaped bunches, and mutates more readily than almost any vine in cultivation. It gives pale wine with low tannin and high acid, and it rewards cold ground, which is why growers chase it toward the poles, the fog and the hills.",
+  "story": "Pinot sits one or two generations from wild Vitis sylvestris, which makes it about as old as cultivated vines get. Crossed with the peasants' workhorse Gouais blanc somewhere in medieval north-eastern France, it fathered chardonnay, gamay, aligoté, auxerrois, melon and eleven more — half the vineyards of France descend from that one mismatch between the nobility's plot and the commoner's. *Tradition holds —* the dukes of Burgundy did the rest of the marketing.",
+  "how": "Thin skins and little phenolic material give pale, medium-bodied, low-tannin wine. The same skins split and rot in a wet September. It buds early into frost, ripens early into heat, and its tight bunches trap moisture — every fault it has comes from the same anatomy that makes the wine taste the way it does.",
+  "today": "Grown on every continent that can chill it: Burgundy and Champagne, Germany's Ahr and Baden, Oregon, California's fog corridors, Central Otago, Tasmania, Patagonia, the Cape."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "Home ground, and the reference every other pinot region gets measured against.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-meunier",
+   "as": "A chimera of this vine — hairy leaves, earlier ripening, and a third of Champagne.",
+   "rel": "mutation"
+  },
+  {
+   "to": "pinot-gris",
+   "as": "The same vine with the colour genes switched off partway.",
+   "rel": "mutation"
+  },
+  {
+   "to": "chardonnay",
+   "as": "Its child, by Gouais blanc; the two share the same hillsides and the same cellars.",
+   "rel": "offspring"
+  },
+  {
+   "to": "thin-skin",
+   "as": "Every difficulty this grape hands a grower, in one place.",
+   "rel": "story"
+  },
+  {
+   "to": "dijon-115",
+   "as": "One of the numbered selections that let a grower buy this vine by catalogue.",
+   "rel": "clone"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:wine-grapes-2012",
+  "s:oxford-companion-wine-4"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-pinot-noir"
+   },
+   "text.today": {
+    "tier": "tradition"
+   }
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A black grape from north-eastern France that ripens early, carries thin skin over tight pinecone-shaped bunches, and mutates more readily than almost any vine in cultivation.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Home ground, and the reference every other pinot region gets measured against.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-meunier",
+   "type": "variety",
+   "name": "Pinot Meunier",
+   "as": "A chimera of this vine — hairy leaves, earlier ripening, and a third of Champagne.",
+   "rel": "mutation"
+  },
+  {
+   "to": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "as": "The same vine with the colour genes switched off partway.",
+   "rel": "mutation"
+  },
+  {
+   "to": "chardonnay",
+   "type": "variety",
+   "name": "Chardonnay",
+   "as": "Its child, by Gouais blanc; the two share the same hillsides and the same cellars.",
+   "rel": "offspring"
+  },
+  {
+   "to": "thin-skin",
+   "type": "story",
+   "name": "What thin skin costs",
+   "as": "Every difficulty this grape hands a grower, in one place.",
+   "rel": "story"
+  },
+  {
+   "to": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "One of the numbered selections that let a grower buy this vine by catalogue.",
+   "rel": "clone"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wine-grapes-2012",
+   "kind": "book",
+   "title": "Wine Grapes: A Complete Guide to 1,368 Vine Varieties",
+   "author": "Jancis Robinson, Julia Harding and José Vouillamoz",
+   "publisher": "Allen Lane",
+   "year": 2012
+  },
+  {
+   "id": "s:oxford-companion-wine-4",
+   "kind": "book",
+   "title": "The Oxford Companion to Wine",
+   "author": "Jancis Robinson (ed.)",
+   "publisher": "Oxford University Press",
+   "year": 2015,
+   "note": "fourth edition"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-pinot-noir"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "text.today": {
+   "tier": "tradition"
+  },
+  "etymology": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "chardonnay",
+   "type": "variety",
+   "name": "Chardonnay",
+   "as": "Its parent, and the vine planted on the next row.",
+   "rel": "origin"
+  },
+  {
+   "from": "fruhburgunder",
+   "type": "variety",
+   "name": "Frühburgunder",
+   "as": "The same family, running four to six weeks ahead of the latest clones.",
+   "rel": "kin"
+  },
+  {
+   "from": "gamay",
+   "type": "variety",
+   "name": "Gamay",
+   "as": "Same parentage story, opposite fate on the same hill.",
+   "rel": "kin"
+  },
+  {
+   "from": "pinot-blanc",
+   "type": "variety",
+   "name": "Pinot blanc",
+   "as": "The parent form; the mutation runs both ways.",
+   "rel": "origin"
+  },
+  {
+   "from": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "as": "The black form, and the one this site is about.",
+   "rel": "origin"
+  },
+  {
+   "from": "pinot-meunier",
+   "type": "variety",
+   "name": "Pinot Meunier",
+   "as": "The vine it mutated from, and cannot be a parent of.",
+   "rel": "origin"
+  },
+  {
+   "from": "ahr",
+   "type": "region",
+   "name": "Ahr",
+   "as": "Called spätburgunder here, and grown in a higher share than anywhere else in Germany.",
+   "rel": "variety"
+  },
+  {
+   "from": "alsace",
+   "type": "region",
+   "name": "Alsace",
+   "as": "The only red the appellation permits.",
+   "rel": "variety"
+  },
+  {
+   "from": "alto-adige",
+   "type": "region",
+   "name": "Alto Adige",
+   "as": "Called pinot nero and blauburgunder in the same village.",
+   "rel": "variety"
+  },
+  {
+   "from": "anderson-valley",
+   "type": "region",
+   "name": "Anderson Valley",
+   "as": "The variety that took the valley over.",
+   "rel": "variety"
+  },
+  {
+   "from": "baden",
+   "type": "region",
+   "name": "Baden",
+   "as": "Spätburgunder: more than a third of the region's vines.",
+   "rel": "variety"
+  },
+  {
+   "from": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The grape this hill selected, and the one it exported.",
+   "rel": "variety"
+  },
+  {
+   "from": "casablanca-valley",
+   "type": "region",
+   "name": "Casablanca Valley",
+   "as": "Grown on the cool coastal side of the range.",
+   "rel": "variety"
+  },
+  {
+   "from": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "as": "More than four fifths of everything planted here.",
+   "rel": "variety"
+  },
+  {
+   "from": "champagne",
+   "type": "region",
+   "name": "Champagne",
+   "as": "Grown for structure, not colour.",
+   "rel": "variety"
+  },
+  {
+   "from": "cote-chalonnaise",
+   "type": "region",
+   "name": "Côte Chalonnaise",
+   "as": "Grown here for drinking rather than for keeping.",
+   "rel": "variety"
+  },
+  {
+   "from": "eola-amity-hills",
+   "type": "region",
+   "name": "Eola-Amity Hills",
+   "as": "Grown small-berried here, because the wind stops the vine mid-afternoon.",
+   "rel": "variety"
+  },
+  {
+   "from": "finger-lakes",
+   "type": "region",
+   "name": "Finger Lakes",
+   "as": "Grown where the lake keeps the vine from freezing out.",
+   "rel": "variety"
+  },
+  {
+   "from": "hemel-en-aarde",
+   "type": "region",
+   "name": "Hemel-en-Aarde",
+   "as": "Planted here from the 1970s, on clay that holds water through a dry summer.",
+   "rel": "variety"
+  },
+  {
+   "from": "jura",
+   "type": "region",
+   "name": "Jura",
+   "as": "One of three reds allowed, and rarely the loudest.",
+   "rel": "variety"
+  },
+  {
+   "from": "los-carneros",
+   "type": "region",
+   "name": "Los Carneros",
+   "as": "Grown for still wine and for sparkling base, often on the same ranch.",
+   "rel": "variety"
+  },
+  {
+   "from": "marlborough",
+   "type": "region",
+   "name": "Marlborough",
+   "as": "Planted at scale here, and rarely the headline.",
+   "rel": "variety"
+  },
+  {
+   "from": "martinborough",
+   "type": "region",
+   "name": "Martinborough",
+   "as": "The reason the terrace was planted at all.",
+   "rel": "variety"
+  },
+  {
+   "from": "mornington-peninsula",
+   "type": "region",
+   "name": "Mornington Peninsula",
+   "as": "Grown cool and picked early, beside chardonnay.",
+   "rel": "variety"
+  },
+  {
+   "from": "okanagan-valley",
+   "type": "region",
+   "name": "Okanagan Valley",
+   "as": "Grown at the lake's cool end.",
+   "rel": "variety"
+  },
+  {
+   "from": "sancerre",
+   "type": "region",
+   "name": "Sancerre",
+   "as": "Grown light, and often drunk chilled.",
+   "rel": "variety"
+  },
+  {
+   "from": "santa-lucia-highlands",
+   "type": "region",
+   "name": "Santa Lucia Highlands",
+   "as": "Planted on the benches above the fog line.",
+   "rel": "variety"
+  },
+  {
+   "from": "sonoma-coast",
+   "type": "region",
+   "name": "Sonoma Coast",
+   "as": "Grown at the edge of where it will ripen at all.",
+   "rel": "variety"
+  },
+  {
+   "from": "tasmania",
+   "type": "region",
+   "name": "Tasmania",
+   "as": "Grown for bubbles first, red second.",
+   "rel": "variety"
+  },
+  {
+   "from": "yarra-valley",
+   "type": "region",
+   "name": "Yarra Valley",
+   "as": "Replanted here first among Australia's cool regions.",
+   "rel": "variety"
+  },
+  {
+   "from": "bass-phillip",
+   "type": "producer",
+   "name": "Bass Phillip",
+   "as": "What the cabernet was replaced with.",
+   "rel": "variety"
+  },
+  {
+   "from": "felton-road",
+   "type": "producer",
+   "name": "Felton Road",
+   "as": "Nearly everything in the cellar.",
+   "rel": "variety"
+  },
+  {
+   "from": "hanzell",
+   "type": "producer",
+   "name": "Hanzell Vineyards",
+   "as": "Among the earliest serious American plantings after Prohibition.",
+   "rel": "variety"
+  },
+  {
+   "from": "pinot-droit",
+   "type": "clone",
+   "name": "Pinot Droit",
+   "as": "The same variety, selected for a different habit.",
+   "rel": "variety"
+  },
+  {
+   "from": "malolactic",
+   "type": "practice",
+   "name": "Malolactic fermentation",
+   "as": "A high-acid grape, which is why the softening matters here.",
+   "rel": "variety"
+  },
+  {
+   "from": "whole-cluster",
+   "type": "practice",
+   "name": "Whole cluster",
+   "as": "A variety thin enough in tannin to notice what the stems add.",
+   "rel": "variety"
+  },
+  {
+   "from": "coq-au-vin",
+   "type": "pairing",
+   "name": "Coq au vin",
+   "as": "The wine in the pot and in the glass.",
+   "rel": "variety"
+  },
+  {
+   "from": "duck",
+   "type": "pairing",
+   "name": "Duck",
+   "as": "The wine most often poured with it.",
+   "rel": "variety"
+  },
+  {
+   "from": "mushrooms",
+   "type": "pairing",
+   "name": "Mushrooms",
+   "as": "The wine whose aged character it mirrors.",
+   "rel": "variety"
+  },
+  {
+   "from": "salmon",
+   "type": "pairing",
+   "name": "Salmon",
+   "as": "The red that gets poured with fish without an argument.",
+   "rel": "variety"
+  },
+  {
+   "from": "washed-rind-cheese",
+   "type": "pairing",
+   "name": "Washed-rind cheese",
+   "as": "Poured with it locally, and argued about everywhere else.",
+   "rel": "variety"
+  },
+  {
+   "from": "ipnc",
+   "type": "event",
+   "name": "International Pinot Noir Celebration",
+   "as": "The single subject.",
+   "rel": "variety"
+  },
+  {
+   "from": "brix",
+   "type": "term",
+   "name": "Brix",
+   "as": "A grape that can hit sugar before its stems and skins are ready.",
+   "rel": "variety"
+  },
+  {
+   "from": "spatburgunder",
+   "type": "term",
+   "name": "Spätburgunder",
+   "as": "The same vine.",
+   "rel": "variety"
+  },
+  {
+   "from": "terroir",
+   "type": "term",
+   "name": "Terroir",
+   "as": "The variety most often held up as the transmitter, whether or not it is.",
+   "rel": "variety"
+  },
+  {
+   "from": "how-pinot-travelled",
+   "type": "story",
+   "name": "How pinot left the hill",
+   "as": "The vine doing the travelling.",
+   "rel": "variety"
+  },
+  {
+   "from": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "A variety that mutates enough to make all this necessary.",
+   "rel": "variety"
+  },
+  {
+   "from": "the-sideways-effect",
+   "type": "story",
+   "name": "One film, measured",
+   "as": "The variety it sold.",
+   "rel": "variety"
+  },
+  {
+   "from": "thin-skin",
+   "type": "story",
+   "name": "What thin skin costs",
+   "as": "The vine in question.",
+   "rel": "variety"
+  },
+  {
+   "from": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The grape on the other side of the question.",
+   "rel": "variety"
+  }
+ ]
+}

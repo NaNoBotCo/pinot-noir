@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "alsace",
+ "type": "region",
+ "names": {
+  "name": "Alsace"
+ },
+ "region": [
+  "alsace"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "region"
+ },
+ "text": {
+  "what": "A dry strip in the rain shadow of the Vosges where nearly everything is white — except pinot noir, the one red grape the appellation allows.",
+  "today": "What used to be pale and often rosé now gets destemmed, barrel-aged and sold as red, and the 2022 rules brought thirteen grand cru sites into play for it. *Tradition holds —* the older bottles were lighter because nobody expected otherwise."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The only red the appellation permits.",
+   "rel": "variety"
+  },
+  {
+   "to": "pinot-gris",
+   "as": "Its grey sibling, grown on the same slopes.",
+   "rel": "variety"
+  },
+  {
+   "to": "baden",
+   "as": "Across the Rhine, the same climate under another flag.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 48.2,
+  "lon": 7.35,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-alsace-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "tradition"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A dry strip in the rain shadow of the Vosges where nearly everything is white — except pinot noir, the one red grape the appellation allows.",
+ "region_terms": [
+  {
+   "key": "alsace",
+   "name": "Alsace",
+   "country": "France",
+   "note": "the one red grape the appellation allows"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The only red the appellation permits.",
+   "rel": "variety"
+  },
+  {
+   "to": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "as": "Its grey sibling, grown on the same slopes.",
+   "rel": "variety"
+  },
+  {
+   "to": "baden",
+   "type": "region",
+   "name": "Baden",
+   "as": "Across the Rhine, the same climate under another flag.",
+   "rel": "neighbour"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-alsace-wine",
+   "kind": "encyclopaedia",
+   "title": "Alsace wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1083426",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1351653670",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.today": {
+   "tier": "tradition"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "as": "Where it grows beside its black parent under the same appellation.",
+   "rel": "region"
+  },
+  {
+   "from": "baden",
+   "type": "region",
+   "name": "Baden",
+   "as": "Same rift valley, other bank, similar size.",
+   "rel": "neighbour"
+  }
+ ]
+}

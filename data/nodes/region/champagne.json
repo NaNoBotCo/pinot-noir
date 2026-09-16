@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "id": "champagne",
+ "type": "region",
+ "names": {
+  "name": "Champagne"
+ },
+ "region": [
+  "champagne"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "region",
+  "soil": "chalk"
+ },
+ "text": {
+  "what": "Chalk country 150 km north-east of Paris where pinot noir is pressed off its skins within hours and comes out white. More pinot noir grows here than anywhere else in France, and almost none of it is red.",
+  "how": "Five districts: Montagne de Reims, Vallée de la Marne, Côte des Blancs, Côte de Sézanne, the Aube. Pinot noir leads the Aube and does well on the Montagne; meunier holds the frost-prone Marne floors.",
+  "today": "Coteaux Champenois lets a grower bottle the red instead, which in a warm year is no longer a curiosity."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown for structure, not colour.",
+   "rel": "variety"
+  },
+  {
+   "to": "pinot-meunier",
+   "as": "Its frost insurance on the valley floor.",
+   "rel": "variety"
+  },
+  {
+   "to": "saignee",
+   "as": "The bleed that makes rosé, and the other way to use a black grape here.",
+   "rel": "practice"
+  }
+ ],
+ "geo": {
+  "lat": 49.05,
+  "lon": 4.0,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-champagne-wine-region",
+  "s:wp-champagne"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Vineyard",
+   "value": 33500,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-champagne-wine-region",
+   "tier": "cited"
+  },
+  {
+   "key": "villages",
+   "label": "Villages inside the boundary",
+   "value": 319,
+   "unit": "",
+   "year": 2008,
+   "source": "s:wp-champagne-wine-region",
+   "tier": "cited"
+  },
+  {
+   "key": "growers",
+   "label": "Growers selling grapes",
+   "value": 14000,
+   "unit": "",
+   "year": 2008,
+   "source": "s:wp-champagne-wine-region",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

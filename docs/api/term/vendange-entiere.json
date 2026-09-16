@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "id": "vendange-entiere",
+ "type": "term",
+ "names": {
+  "name": "Vendange entière"
+ },
+ "etymology": {
+  "root": "French vendange (grape harvest, from Latin vindemia) + entière (whole)",
+  "tier": "tradition"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "letter": "V",
+  "kind": "ferment"
+ },
+ "text": {
+  "what": "Whole harvest: the bunches go in as they came off the vine, stems and all."
+ },
+ "kin": [
+  {
+   "to": "whole-cluster",
+   "as": "The practice itself.",
+   "rel": "practice"
+  },
+  {
+   "to": "pinot-meunier",
+   "as": "A variety often treated this way in Champagne.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-maceration-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Whole harvest: the bunches go in as they came off the vine, stems and all.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "whole-cluster",
+   "type": "practice",
+   "name": "Whole cluster",
+   "as": "The practice itself.",
+   "rel": "practice"
+  },
+  {
+   "to": "pinot-meunier",
+   "type": "variety",
+   "name": "Pinot Meunier",
+   "as": "A variety often treated this way in Champagne.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-maceration-wine",
+   "kind": "encyclopaedia",
+   "title": "Maceration (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1455948",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1302144966",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "etymology": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "pinot-meunier",
+   "type": "variety",
+   "name": "Pinot Meunier",
+   "as": "A press-house decision that treats it the same as its parent.",
+   "rel": "practice"
+  },
+  {
+   "from": "whole-cluster",
+   "type": "practice",
+   "name": "Whole cluster",
+   "as": "The French word, and its root.",
+   "rel": "term"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "id": "richard-sanford",
+ "type": "person",
+ "names": {
+  "name": "Richard Sanford",
+  "sort": "Sanford, Richard"
+ },
+ "region": [
+  "sta-rita-hills",
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "role": "grower",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Read weather data instead of real-estate listings, worked out that the Santa Ynez Valley runs east-west and lets the ocean in, and planted pinot noir at Sanford & Benedict in 1971."
+ },
+ "kin": [
+  {
+   "to": "sanford-and-benedict",
+   "as": "The vineyard he planted with Michael Benedict.",
+   "rel": "made-by"
+  },
+  {
+   "to": "sta-rita-hills",
+   "as": "The AVA drawn around that ground in 2001.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:haeger-north-american",
+  "s:wp-sta-rita-hills-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

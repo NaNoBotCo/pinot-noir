@@ -1,0 +1,1636 @@
+{
+ "source": "English Wikipedia, via the MediaWiki action API",
+ "licence": "CC BY-SA 4.0",
+ "note": "corpus only — each record cites the revision it read",
+ "missing": [
+  "Climats of Burgundy",
+  "Calera",
+  "Williams Selyem",
+  "Martin Ray",
+  "Prince Edward County wine region",
+  "Pinot noir precoce",
+  "Foxen Canyon",
+  "Sanford & Benedict Vineyard",
+  "Richard Sanford",
+  "Burt Williams",
+  "Merry Edwards",
+  "Ted Lemon",
+  "Véronique Drouhin-Boss",
+  "Ponzi Vineyards",
+  "Erath Winery",
+  "Ata Rangi",
+  "Freeman Abbey"
+ ],
+ "articles": [
+  {
+   "title": "Adelsheim Vineyard",
+   "pageid": 81057897,
+   "revid": 1336662478,
+   "touched": "2026-09-12T02:29:16Z",
+   "chars": 5636,
+   "slug": "adelsheim-vineyard",
+   "asked": "Adelsheim Vineyard",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Ahr (wine region)",
+   "pageid": 15010808,
+   "revid": 1358145069,
+   "touched": "2026-09-12T01:43:23Z",
+   "chars": 3869,
+   "slug": "ahr-wine-region",
+   "asked": "Ahr (wine region)",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Alsace wine",
+   "pageid": 1083426,
+   "revid": 1351653670,
+   "touched": "2026-09-14T11:32:07Z",
+   "chars": 11206,
+   "slug": "alsace-wine",
+   "asked": "Alsace wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "American Viticultural Area",
+   "pageid": 448714,
+   "revid": 1370555561,
+   "touched": "2026-09-14T11:31:49Z",
+   "chars": 5798,
+   "slug": "american-viticultural-area",
+   "asked": "American Viticultural Area",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Ampelography",
+   "pageid": 1106293,
+   "revid": 1371070907,
+   "touched": "2026-09-15T01:15:29Z",
+   "chars": 4988,
+   "slug": "ampelography",
+   "asked": "Ampelography",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Anderson Valley AVA",
+   "pageid": 13390838,
+   "revid": 1369908409,
+   "touched": "2026-09-15T01:18:13Z",
+   "chars": 6855,
+   "slug": "anderson-valley-ava",
+   "asked": "Anderson Valley AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "André Tchelistcheff",
+   "pageid": 3607017,
+   "revid": 1354489790,
+   "touched": "2026-09-14T11:32:57Z",
+   "chars": 5769,
+   "slug": "andr-tchelistcheff",
+   "asked": "André Tchelistcheff",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Anthocyanin",
+   "pageid": 18952492,
+   "revid": 1369793348,
+   "touched": "2026-09-14T11:35:42Z",
+   "chars": 15179,
+   "slug": "anthocyanin",
+   "asked": "Anthocyanin",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Appellation d'origine contrôlée",
+   "pageid": 1217686,
+   "revid": 1368808209,
+   "touched": "2026-09-14T11:32:11Z",
+   "chars": 15068,
+   "slug": "appellation-dorigine-contr-l-e",
+   "asked": "Appellation d'origine contrôlée",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Aptos, California",
+   "pageid": 108170,
+   "revid": 1373987591,
+   "touched": "2026-09-15T01:14:30Z",
+   "chars": 11944,
+   "slug": "aptos-california",
+   "asked": "Aptos, California",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Argentine wine",
+   "pageid": 3440627,
+   "revid": 1367165286,
+   "touched": "2026-09-14T11:32:54Z",
+   "chars": 35322,
+   "slug": "argentine-wine",
+   "asked": "Argentine wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Au Bon Climat",
+   "pageid": 7416326,
+   "revid": 1333503261,
+   "touched": "2026-09-16T06:39:43Z",
+   "chars": 1029,
+   "slug": "au-bon-climat",
+   "asked": "Au Bon Climat",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Aubert de Villaine",
+   "pageid": 3969626,
+   "revid": 1305476611,
+   "touched": "2026-09-16T10:53:41Z",
+   "chars": 2045,
+   "slug": "aubert-de-villaine",
+   "asked": "Aubert de Villaine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Australian wine",
+   "pageid": 3959588,
+   "revid": 1343408200,
+   "touched": "2026-09-16T10:53:41Z",
+   "chars": 14285,
+   "slug": "australian-wine",
+   "asked": "Australian wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Austrian wine",
+   "pageid": 8318345,
+   "revid": 1323163032,
+   "touched": "2026-09-14T11:33:55Z",
+   "chars": 19966,
+   "slug": "austrian-wine",
+   "asked": "Austrian wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Baden (wine region)",
+   "pageid": 14989190,
+   "revid": 1343190178,
+   "touched": "2026-09-12T01:43:19Z",
+   "chars": 4381,
+   "slug": "baden-wine-region",
+   "asked": "Baden (wine region)",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Barbecue",
+   "pageid": 37135,
+   "revid": 1374372669,
+   "touched": "2026-09-15T01:14:24Z",
+   "chars": 11766,
+   "slug": "barbecue",
+   "asked": "Barbecue",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Barrel",
+   "pageid": 640764,
+   "revid": 1368251228,
+   "touched": "2026-09-15T01:15:03Z",
+   "chars": 17472,
+   "slug": "barrel",
+   "asked": "Barrel",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Bass Phillip",
+   "pageid": 32894188,
+   "revid": 1306331974,
+   "touched": "2026-09-12T02:25:08Z",
+   "chars": 2527,
+   "slug": "bass-phillip",
+   "asked": "Bass Phillip",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Bean",
+   "pageid": 4487,
+   "revid": 1373686563,
+   "touched": "2026-09-16T10:53:10Z",
+   "chars": 10839,
+   "slug": "bean",
+   "asked": "Bean",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Beaune",
+   "pageid": 328807,
+   "revid": 1353559243,
+   "touched": "2026-09-15T01:14:47Z",
+   "chars": 6748,
+   "slug": "beaune",
+   "asked": "Beaune",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Beef aging",
+   "pageid": 859227,
+   "revid": 1345562803,
+   "touched": "2026-09-12T00:46:44Z",
+   "chars": 5184,
+   "slug": "beef-aging",
+   "asked": "Beef aging",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Bien Nacido Vineyards",
+   "pageid": 6614595,
+   "revid": 1368046917,
+   "touched": "2026-09-12T02:22:24Z",
+   "chars": 6076,
+   "slug": "bien-nacido-vineyard",
+   "asked": "Bien Nacido Vineyard",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Biodynamic wine",
+   "pageid": 1044195,
+   "revid": 1371309300,
+   "touched": "2026-09-12T00:47:37Z",
+   "chars": 5361,
+   "slug": "biodynamic-wine",
+   "asked": "Biodynamic wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Champagne",
+   "pageid": 53754,
+   "revid": 1375080208,
+   "touched": "2026-09-16T10:53:12Z",
+   "chars": 39325,
+   "slug": "blanc-de-noirs",
+   "asked": "Blanc de noirs",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Brettanomyces",
+   "pageid": 1044750,
+   "revid": 1330177882,
+   "touched": "2026-09-12T00:47:37Z",
+   "chars": 5586,
+   "slug": "brettanomyces",
+   "asked": "Brettanomyces",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Burgundy wine",
+   "pageid": 715978,
+   "revid": 1365731507,
+   "touched": "2026-09-14T11:31:57Z",
+   "chars": 24619,
+   "slug": "burgundy-wine",
+   "asked": "Burgundy wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Côte Chalonnaise",
+   "pageid": 2897847,
+   "revid": 1342122793,
+   "touched": "2026-09-12T00:54:08Z",
+   "chars": 12589,
+   "slug": "c-te-chalonnaise",
+   "asked": "Côte Chalonnaise",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Côte de Beaune",
+   "pageid": 2756908,
+   "revid": 1367177988,
+   "touched": "2026-09-09T14:15:40Z",
+   "chars": 11630,
+   "slug": "c-te-de-beaune",
+   "asked": "Côte de Beaune",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Côte de Nuits",
+   "pageid": 2755475,
+   "revid": 1373291337,
+   "touched": "2026-09-14T11:32:42Z",
+   "chars": 23383,
+   "slug": "c-te-de-nuits",
+   "asked": "Côte de Nuits",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "California wine",
+   "pageid": 14660227,
+   "revid": 1368273923,
+   "touched": "2026-09-15T01:18:22Z",
+   "chars": 20292,
+   "slug": "california-wine",
+   "asked": "California wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Casablanca, Chile",
+   "pageid": 10407597,
+   "revid": 1345733918,
+   "touched": "2026-09-14T11:34:13Z",
+   "chars": 2867,
+   "slug": "casablanca-valley",
+   "asked": "Casablanca Valley",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Central Otago wine region",
+   "pageid": 1468699,
+   "revid": 1363939055,
+   "touched": "2026-09-16T10:53:30Z",
+   "chars": 5977,
+   "slug": "central-otago-wine-region",
+   "asked": "Central Otago wine region",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Chalone AVA",
+   "pageid": 4619477,
+   "revid": 1360711609,
+   "touched": "2026-09-12T13:28:04Z",
+   "chars": 6621,
+   "slug": "chalone-ava",
+   "asked": "Chalone AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Chambolle-Musigny",
+   "pageid": 2273454,
+   "revid": 1349309231,
+   "touched": "2026-09-15T01:16:07Z",
+   "chars": 2809,
+   "slug": "chambolle-musigny",
+   "asked": "Chambolle-Musigny",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Champagne",
+   "pageid": 53754,
+   "revid": 1375080208,
+   "touched": "2026-09-16T10:53:12Z",
+   "chars": 39325,
+   "slug": "champagne",
+   "asked": "Champagne",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Champagne wine region",
+   "pageid": 53755,
+   "revid": 1371925991,
+   "touched": "2026-09-12T00:41:25Z",
+   "chars": 17490,
+   "slug": "champagne-wine-region",
+   "asked": "Champagne (wine region)",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Chardonnay",
+   "pageid": 37566,
+   "revid": 1375174126,
+   "touched": "2026-09-16T06:21:14Z",
+   "chars": 45967,
+   "slug": "chardonnay",
+   "asked": "Chardonnay",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Chehalem Mountains AVA",
+   "pageid": 15487897,
+   "revid": 1361294978,
+   "touched": "2026-09-12T13:28:55Z",
+   "chars": 11068,
+   "slug": "chehalem-mountains-ava",
+   "asked": "Chehalem Mountains AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Chilean wine",
+   "pageid": 521306,
+   "revid": 1368380371,
+   "touched": "2026-09-15T01:14:56Z",
+   "chars": 34697,
+   "slug": "chilean-wine",
+   "asked": "Chilean wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Chumash",
+   "pageid": 11415581,
+   "revid": 1317782667,
+   "touched": "2026-09-15T01:17:55Z",
+   "chars": 456,
+   "slug": "chumash",
+   "asked": "Chumash",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Clos de Vougeot",
+   "pageid": 1967576,
+   "revid": 1256308730,
+   "touched": "2026-09-15T01:15:58Z",
+   "chars": 9117,
+   "slug": "clos-de-vougeot",
+   "asked": "Clos de Vougeot",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Cloudy Bay Vineyards",
+   "pageid": 3980663,
+   "revid": 1363939439,
+   "touched": "2026-09-14T11:33:02Z",
+   "chars": 2179,
+   "slug": "cloudy-bay-vineyards",
+   "asked": "Cloudy Bay Vineyards",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Coq au vin",
+   "pageid": 244551,
+   "revid": 1352191402,
+   "touched": "2026-09-15T01:14:42Z",
+   "chars": 1943,
+   "slug": "coq-au-vin",
+   "asked": "Coq au vin",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Corton (wine)",
+   "pageid": 1972868,
+   "revid": 1333880654,
+   "touched": "2026-09-02T16:37:09Z",
+   "chars": 2513,
+   "slug": "corton-aoc",
+   "asked": "Corton AOC",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Corton-Charlemagne",
+   "pageid": 3423651,
+   "revid": 1314932645,
+   "touched": "2026-09-02T16:42:42Z",
+   "chars": 11781,
+   "slug": "corton-charlemagne",
+   "asked": "Corton-Charlemagne",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Sparkling wine",
+   "pageid": 143177,
+   "revid": 1373590388,
+   "touched": "2026-09-16T08:51:41Z",
+   "chars": 47477,
+   "slug": "cr-mant",
+   "asked": "Crémant",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Cut of beef",
+   "pageid": 5453492,
+   "revid": 1371263209,
+   "touched": "2026-09-14T11:33:21Z",
+   "chars": 11472,
+   "slug": "cut-of-beef",
+   "asked": "Cut of beef",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "David Lett",
+   "pageid": 5890815,
+   "revid": 1356053194,
+   "touched": "2026-09-12T01:04:16Z",
+   "chars": 1358,
+   "slug": "david-lett",
+   "asked": "David Lett",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Decanter (magazine)",
+   "pageid": 9980983,
+   "revid": 1368558141,
+   "touched": "2026-09-12T01:25:18Z",
+   "chars": 2404,
+   "slug": "decanter-wine",
+   "asked": "Decanter (wine)",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Domaine de la Romanée-Conti",
+   "pageid": 30873274,
+   "revid": 1347537183,
+   "touched": "2026-09-12T13:28:08Z",
+   "chars": 6872,
+   "slug": "domaine-de-la-roman-e-conti",
+   "asked": "Domaine de la Romanée-Conti",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Maison Joseph Drouhin",
+   "pageid": 6528081,
+   "revid": 1312893554,
+   "touched": "2026-09-12T01:09:03Z",
+   "chars": 2336,
+   "slug": "domaine-drouhin-oregon",
+   "asked": "Domaine Drouhin Oregon",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Domaine Leflaive",
+   "pageid": 3710721,
+   "revid": 1325549183,
+   "touched": "2026-09-02T16:43:42Z",
+   "chars": 2944,
+   "slug": "domaine-leflaive",
+   "asked": "Domaine Leflaive",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Domaine Leroy",
+   "pageid": 56625561,
+   "revid": 1300818613,
+   "touched": "2026-09-12T03:01:28Z",
+   "chars": 2708,
+   "slug": "domaine-leroy",
+   "asked": "Domaine Leroy",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Duck as food",
+   "pageid": 2579000,
+   "revid": 1373965088,
+   "touched": "2026-09-16T10:53:36Z",
+   "chars": 15108,
+   "slug": "duck-as-food",
+   "asked": "Duck as food",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Dundee Hills AVA",
+   "pageid": 6485071,
+   "revid": 1355925572,
+   "touched": "2026-09-12T13:28:15Z",
+   "chars": 8033,
+   "slug": "dundee-hills-ava",
+   "asked": "Dundee Hills AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Edible mushroom",
+   "pageid": 193975,
+   "revid": 1374773352,
+   "touched": "2026-09-16T10:53:16Z",
+   "chars": 11233,
+   "slug": "edible-mushroom",
+   "asked": "Edible mushroom",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Wine from the United Kingdom",
+   "pageid": 6032951,
+   "revid": 1373453846,
+   "touched": "2026-09-16T10:41:07Z",
+   "chars": 15098,
+   "slug": "english-wine",
+   "asked": "English wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Eola-Amity Hills AVA",
+   "pageid": 15488487,
+   "revid": 1355925595,
+   "touched": "2026-09-12T13:28:55Z",
+   "chars": 10475,
+   "slug": "eola-amity-hills-ava",
+   "asked": "Eola-Amity Hills AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Bannockburn, New Zealand",
+   "pageid": 28532222,
+   "revid": 1374981804,
+   "touched": "2026-09-15T04:30:13Z",
+   "chars": 3968,
+   "slug": "felton-road",
+   "asked": "Felton Road",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Fermentation in winemaking",
+   "pageid": 13824744,
+   "revid": 1334072242,
+   "touched": "2026-09-12T01:39:55Z",
+   "chars": 11218,
+   "slug": "fermentation-in-winemaking",
+   "asked": "Fermentation in winemaking",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Agriculture in California",
+   "pageid": 57071645,
+   "revid": 1373938455,
+   "touched": "2026-09-15T19:45:39Z",
+   "chars": 98885,
+   "slug": "foundation-plant-services",
+   "asked": "Foundation Plant Services",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Pinot Noir Précoce",
+   "pageid": 25123541,
+   "revid": 1371306597,
+   "touched": "2026-09-14T11:36:37Z",
+   "chars": 3836,
+   "slug": "fr-hburgunder",
+   "asked": "Frühburgunder",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Gamay",
+   "pageid": 555090,
+   "revid": 1269650375,
+   "touched": "2026-09-14T11:31:53Z",
+   "chars": 5429,
+   "slug": "gamay",
+   "asked": "Gamay",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "German wine",
+   "pageid": 1039202,
+   "revid": 1363074961,
+   "touched": "2026-09-16T05:04:33Z",
+   "chars": 30768,
+   "slug": "german-wine",
+   "asked": "German wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Gevrey-Chambertin",
+   "pageid": 2747537,
+   "revid": 1351994781,
+   "touched": "2026-09-15T01:16:19Z",
+   "chars": 4331,
+   "slug": "gevrey-chambertin",
+   "asked": "Gevrey-Chambertin",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Grafting",
+   "pageid": 14080493,
+   "revid": 1367896147,
+   "touched": "2026-09-15T01:18:18Z",
+   "chars": 30370,
+   "slug": "grafting",
+   "asked": "Grafting",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Grand cru",
+   "pageid": 1967586,
+   "revid": 1298253085,
+   "touched": "2026-09-12T18:42:34Z",
+   "chars": 437,
+   "slug": "grand-cru",
+   "asked": "Grand cru",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Grilling",
+   "pageid": 52987,
+   "revid": 1371778347,
+   "touched": "2026-09-15T01:14:25Z",
+   "chars": 19437,
+   "slug": "grilling",
+   "asked": "Grilling",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Guadalupe, California",
+   "pageid": 108131,
+   "revid": 1374533359,
+   "touched": "2026-09-15T01:14:30Z",
+   "chars": 13543,
+   "slug": "guadalupe-california",
+   "asked": "Guadalupe, California",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Hanzell Vineyards",
+   "pageid": 31227179,
+   "revid": 1148167066,
+   "touched": "2026-09-16T05:36:08Z",
+   "chars": 3574,
+   "slug": "hanzell-vineyards",
+   "asked": "Hanzell Vineyards",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Henri Jayer",
+   "pageid": 7135825,
+   "revid": 1350392479,
+   "touched": "2026-09-14T10:34:56Z",
+   "chars": 3561,
+   "slug": "henri-jayer",
+   "asked": "Henri Jayer",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Hermanus",
+   "pageid": 2920807,
+   "revid": 1371684991,
+   "touched": "2026-09-15T01:16:23Z",
+   "chars": 7556,
+   "slug": "hermanus",
+   "asked": "Hermanus",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Hospices de Beaune",
+   "pageid": 42940493,
+   "revid": 1374147070,
+   "touched": "2026-09-15T01:21:59Z",
+   "chars": 6281,
+   "slug": "hospices-de-beaune",
+   "asked": "Hospices de Beaune",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Jim Clendenen",
+   "pageid": 7416474,
+   "revid": 1372278234,
+   "touched": "2026-09-12T02:33:35Z",
+   "chars": 3409,
+   "slug": "jim-clendenen",
+   "asked": "Jim Clendenen",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Maison Joseph Drouhin",
+   "pageid": 6528081,
+   "revid": 1312893554,
+   "touched": "2026-09-12T01:09:03Z",
+   "chars": 2336,
+   "slug": "joseph-drouhin",
+   "asked": "Joseph Drouhin",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Judgment of Paris (wine)",
+   "pageid": 3127210,
+   "revid": 1369361784,
+   "touched": "2026-09-16T10:53:39Z",
+   "chars": 13194,
+   "slug": "judgment-of-paris-wine",
+   "asked": "Judgment of Paris (wine)",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Jura wine",
+   "pageid": 2655795,
+   "revid": 1364484294,
+   "touched": "2026-09-12T00:53:24Z",
+   "chars": 9032,
+   "slug": "jura-wine",
+   "asked": "Jura wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "King Estate Winery",
+   "pageid": 21197872,
+   "revid": 1368284642,
+   "touched": "2026-09-12T02:24:03Z",
+   "chars": 2149,
+   "slug": "king-estate-winery",
+   "asked": "King Estate Winery",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "La Tâche AOC",
+   "pageid": 24833557,
+   "revid": 1287613431,
+   "touched": "2026-09-14T11:36:34Z",
+   "chars": 3449,
+   "slug": "la-t-che-aoc",
+   "asked": "La Tâche AOC",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Lalou Bize-Leroy",
+   "pageid": 9588650,
+   "revid": 1363874379,
+   "touched": "2026-09-02T17:04:39Z",
+   "chars": 1894,
+   "slug": "lalou-bize-leroy",
+   "asked": "Lalou Bize-Leroy",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Musigny AOC",
+   "pageid": 13983508,
+   "revid": 1366444357,
+   "touched": "2026-09-06T02:31:28Z",
+   "chars": 2152,
+   "slug": "le-musigny",
+   "asked": "Le Musigny",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Lompoc, California",
+   "pageid": 108133,
+   "revid": 1369644960,
+   "touched": "2026-09-15T01:14:30Z",
+   "chars": 20492,
+   "slug": "lompoc-california",
+   "asked": "Lompoc, California",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Los Alamos, California",
+   "pageid": 108134,
+   "revid": 1368701709,
+   "touched": "2026-09-15T01:14:30Z",
+   "chars": 9833,
+   "slug": "los-alamos-california",
+   "asked": "Los Alamos, California",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Los Carneros AVA",
+   "pageid": 13609419,
+   "revid": 1372386670,
+   "touched": "2026-09-12T13:28:47Z",
+   "chars": 12190,
+   "slug": "los-carneros-ava",
+   "asked": "Los Carneros AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Maceration (wine)",
+   "pageid": 1455948,
+   "revid": 1302144966,
+   "touched": "2026-09-12T00:49:14Z",
+   "chars": 4725,
+   "slug": "maceration-wine",
+   "asked": "Maceration (wine)",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Maison Louis Jadot",
+   "pageid": 7897895,
+   "revid": 1327642944,
+   "touched": "2026-09-14T11:33:51Z",
+   "chars": 952,
+   "slug": "maison-louis-jadot",
+   "asked": "Maison Louis Jadot",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Malolactic fermentation",
+   "pageid": 1045027,
+   "revid": 1262301785,
+   "touched": "2026-09-12T00:47:37Z",
+   "chars": 41298,
+   "slug": "malolactic-fermentation",
+   "asked": "Malolactic fermentation",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Marlborough wine region",
+   "pageid": 62196449,
+   "revid": 1363939282,
+   "touched": "2026-09-13T04:44:52Z",
+   "chars": 5707,
+   "slug": "marlborough-wine-region",
+   "asked": "Marlborough wine region",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Martinborough",
+   "pageid": 979602,
+   "revid": 1373616656,
+   "touched": "2026-09-14T11:32:04Z",
+   "chars": 6763,
+   "slug": "martinborough",
+   "asked": "Martinborough",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "McMinnville AVA",
+   "pageid": 6485077,
+   "revid": 1361638564,
+   "touched": "2026-09-12T13:28:15Z",
+   "chars": 9212,
+   "slug": "mcminnville-ava",
+   "asked": "McMinnville AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Michael Les Benedict",
+   "pageid": 5423060,
+   "revid": 1372781307,
+   "touched": "2026-09-12T01:01:26Z",
+   "chars": 2004,
+   "slug": "michael-benedict",
+   "asked": "Michael Benedict",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Monopole (wine)",
+   "pageid": 2338456,
+   "revid": 1320835976,
+   "touched": "2026-09-14T11:32:35Z",
+   "chars": 889,
+   "slug": "monopole-wine",
+   "asked": "Monopole (wine)",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Mornington Peninsula",
+   "pageid": 492787,
+   "revid": 1368089781,
+   "touched": "2026-09-15T01:14:55Z",
+   "chars": 19179,
+   "slug": "mornington-peninsula",
+   "asked": "Mornington Peninsula",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Winemaker",
+   "pageid": 928516,
+   "revid": 1352783684,
+   "touched": "2026-09-12T00:47:04Z",
+   "chars": 4248,
+   "slug": "n-gociant",
+   "asked": "Négociant",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Natural wine",
+   "pageid": 10998525,
+   "revid": 1367062038,
+   "touched": "2026-09-09T14:18:38Z",
+   "chars": 6927,
+   "slug": "natural-wine",
+   "asked": "Natural wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "New Zealand wine",
+   "pageid": 3974835,
+   "revid": 1375093713,
+   "touched": "2026-09-16T10:53:41Z",
+   "chars": 39166,
+   "slug": "new-zealand-wine",
+   "asked": "New Zealand wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Nuits-Saint-Georges",
+   "pageid": 2169398,
+   "revid": 1365254970,
+   "touched": "2026-09-15T01:16:04Z",
+   "chars": 3307,
+   "slug": "nuits-saint-georges",
+   "asked": "Nuits-Saint-Georges",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Oak (wine)",
+   "pageid": 748887,
+   "revid": 1370961109,
+   "touched": "2026-09-15T01:15:09Z",
+   "chars": 16475,
+   "slug": "oak-wine",
+   "asked": "Oak (wine)",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Okanagan Valley (wine region)",
+   "pageid": 30299619,
+   "revid": 1289712096,
+   "touched": "2026-09-12T13:30:09Z",
+   "chars": 7046,
+   "slug": "okanagan-valley-wine-region",
+   "asked": "Okanagan Valley (wine region)",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Oregon wine",
+   "pageid": 6426696,
+   "revid": 1373054628,
+   "touched": "2026-09-12T13:28:15Z",
+   "chars": 20349,
+   "slug": "oregon-wine",
+   "asked": "Oregon wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Organic wine",
+   "pageid": 10950343,
+   "revid": 1374345235,
+   "touched": "2026-09-12T01:29:44Z",
+   "chars": 4160,
+   "slug": "organic-wine",
+   "asked": "Organic wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Paul Masson",
+   "pageid": 1338911,
+   "revid": 1355864523,
+   "touched": "2026-09-12T13:27:36Z",
+   "chars": 9500,
+   "slug": "paul-masson",
+   "asked": "Paul Masson",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Palatinate (wine region)",
+   "pageid": 9223433,
+   "revid": 1301470254,
+   "touched": "2026-09-14T11:34:03Z",
+   "chars": 4603,
+   "slug": "pfalz-wine-region",
+   "asked": "Pfalz (wine region)",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Phylloxera",
+   "pageid": 223504,
+   "revid": 1373438254,
+   "touched": "2026-09-14T11:31:40Z",
+   "chars": 13982,
+   "slug": "phylloxera",
+   "asked": "Phylloxera",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Pinot blanc",
+   "pageid": 265448,
+   "revid": 1364188369,
+   "touched": "2026-09-14T11:31:41Z",
+   "chars": 4563,
+   "slug": "pinot-blanc",
+   "asked": "Pinot blanc",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Pinot gris",
+   "pageid": 344643,
+   "revid": 1375152512,
+   "touched": "2026-09-16T02:59:02Z",
+   "chars": 11017,
+   "slug": "pinot-gris",
+   "asked": "Pinot gris",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Pinot Meunier",
+   "pageid": 475108,
+   "revid": 1371307542,
+   "touched": "2026-09-14T11:31:50Z",
+   "chars": 8787,
+   "slug": "pinot-meunier",
+   "asked": "Pinot Meunier",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Pinot noir",
+   "pageid": 197760,
+   "revid": 1371302191,
+   "touched": "2026-09-16T10:53:16Z",
+   "chars": 30016,
+   "slug": "pinot-noir",
+   "asked": "Pinot noir",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Pommard",
+   "pageid": 5312109,
+   "revid": 1358092989,
+   "touched": "2026-09-15T01:17:00Z",
+   "chars": 1534,
+   "slug": "pommard",
+   "asked": "Pommard",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "First Growth",
+   "pageid": 831138,
+   "revid": 1290217898,
+   "touched": "2026-09-14T11:32:00Z",
+   "chars": 6156,
+   "slug": "premier-cru",
+   "asked": "Premier cru",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Quercus agrifolia",
+   "pageid": 523174,
+   "revid": 1374637938,
+   "touched": "2026-09-15T01:14:56Z",
+   "chars": 13018,
+   "slug": "quercus-agrifolia",
+   "asked": "Quercus agrifolia",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Rancho Tepusquet",
+   "pageid": 26442607,
+   "revid": 1304255405,
+   "touched": "2026-09-12T02:11:26Z",
+   "chars": 1842,
+   "slug": "rancho-tepusquet",
+   "asked": "Rancho Tepusquet",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Ribbon Ridge AVA",
+   "pageid": 9570398,
+   "revid": 1362218464,
+   "touched": "2026-09-12T13:28:30Z",
+   "chars": 11632,
+   "slug": "ribbon-ridge-ava",
+   "asked": "Ribbon Ridge AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Richebourg",
+   "pageid": 12608821,
+   "revid": 1061184993,
+   "touched": "2026-09-12T18:43:12Z",
+   "chars": 426,
+   "slug": "richebourg",
+   "asked": "Richebourg",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Rippon",
+   "pageid": 15971242,
+   "revid": 1015530625,
+   "touched": "2026-09-12T18:43:22Z",
+   "chars": 487,
+   "slug": "rippon",
+   "asked": "Rippon",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Romanée-Conti",
+   "pageid": 10181194,
+   "revid": 1372749840,
+   "touched": "2026-09-02T17:06:48Z",
+   "chars": 9133,
+   "slug": "roman-e-conti",
+   "asked": "Romanée-Conti",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Rootstock",
+   "pageid": 2613688,
+   "revid": 1363865071,
+   "touched": "2026-09-12T00:53:15Z",
+   "chars": 8194,
+   "slug": "rootstock",
+   "asked": "Rootstock",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Rosé",
+   "pageid": 1039412,
+   "revid": 1374076830,
+   "touched": "2026-09-14T11:32:06Z",
+   "chars": 35894,
+   "slug": "ros",
+   "asked": "Rosé",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Russian River Valley AVA",
+   "pageid": 13610140,
+   "revid": 1355926003,
+   "touched": "2026-09-12T13:28:47Z",
+   "chars": 13816,
+   "slug": "russian-river-valley-ava",
+   "asked": "Russian River Valley AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Salmon as food",
+   "pageid": 35566729,
+   "revid": 1367989983,
+   "touched": "2026-09-15T01:21:13Z",
+   "chars": 3538,
+   "slug": "salmon-as-food",
+   "asked": "Salmon as food",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Salsa (food)",
+   "pageid": 425104,
+   "revid": 1373777102,
+   "touched": "2026-09-15T01:14:52Z",
+   "chars": 3656,
+   "slug": "salsa-sauce",
+   "asked": "Salsa (sauce)",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Sancerre (wine)",
+   "pageid": 1606878,
+   "revid": 1374514443,
+   "touched": "2026-09-13T08:24:30Z",
+   "chars": 12368,
+   "slug": "sancerre-aoc",
+   "asked": "Sancerre AOC",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Santa Barbara County wine",
+   "pageid": 75415297,
+   "revid": 1355926051,
+   "touched": "2026-09-12T13:33:50Z",
+   "chars": 14840,
+   "slug": "santa-barbara-county-wine",
+   "asked": "Santa Barbara County wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Santa Cruz Mountains AVA",
+   "pageid": 13510227,
+   "revid": 1372397285,
+   "touched": "2026-09-16T10:53:57Z",
+   "chars": 8858,
+   "slug": "santa-cruz-mountains-ava",
+   "asked": "Santa Cruz Mountains AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Santa Lucia Highlands AVA",
+   "pageid": 15414637,
+   "revid": 1355926056,
+   "touched": "2026-09-12T13:28:55Z",
+   "chars": 6669,
+   "slug": "santa-lucia-highlands-ava",
+   "asked": "Santa Lucia Highlands AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Santa Maria, California",
+   "pageid": 108140,
+   "revid": 1370180710,
+   "touched": "2026-09-15T01:14:30Z",
+   "chars": 25611,
+   "slug": "santa-maria-california",
+   "asked": "Santa Maria, California",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Santa Maria–style barbecue",
+   "pageid": 22881131,
+   "revid": 1328359472,
+   "touched": "2026-09-12T02:05:17Z",
+   "chars": 3498,
+   "slug": "santa-maria-style-barbecue",
+   "asked": "Santa Maria-style barbecue",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Santa Maria Valley AVA",
+   "pageid": 10711580,
+   "revid": 1360626562,
+   "touched": "2026-09-04T04:21:35Z",
+   "chars": 5229,
+   "slug": "santa-maria-valley",
+   "asked": "Santa Maria Valley",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Santa Maria Valley AVA",
+   "pageid": 10711580,
+   "revid": 1360626562,
+   "touched": "2026-09-04T04:21:35Z",
+   "chars": 5229,
+   "slug": "santa-maria-valley-ava",
+   "asked": "Santa Maria Valley AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Sideways",
+   "pageid": 1144172,
+   "revid": 1370534473,
+   "touched": "2026-09-14T11:32:09Z",
+   "chars": 11744,
+   "slug": "sideways",
+   "asked": "Sideways",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Sokol Blosser Winery",
+   "pageid": 35905595,
+   "revid": 1323759762,
+   "touched": "2026-09-12T02:25:23Z",
+   "chars": 10151,
+   "slug": "sokol-blosser",
+   "asked": "Sokol Blosser",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Sonoma Coast AVA",
+   "pageid": 13610213,
+   "revid": 1355926109,
+   "touched": "2026-09-12T13:28:47Z",
+   "chars": 2679,
+   "slug": "sonoma-coast-ava",
+   "asked": "Sonoma Coast AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "South African wine",
+   "pageid": 4111898,
+   "revid": 1372800950,
+   "touched": "2026-09-15T13:06:00Z",
+   "chars": 37743,
+   "slug": "south-african-wine",
+   "asked": "South African wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "South Tyrol wine",
+   "pageid": 31371069,
+   "revid": 1371465754,
+   "touched": "2026-09-12T02:19:32Z",
+   "chars": 8749,
+   "slug": "south-tyrol-wine",
+   "asked": "South Tyrol wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Sparkling wine",
+   "pageid": 143177,
+   "revid": 1373590388,
+   "touched": "2026-09-16T08:51:41Z",
+   "chars": 47477,
+   "slug": "sparkling-wine",
+   "asked": "Sparkling wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Sta. Rita Hills AVA",
+   "pageid": 15415082,
+   "revid": 1370033962,
+   "touched": "2026-09-12T13:28:55Z",
+   "chars": 8851,
+   "slug": "sta-rita-hills-ava",
+   "asked": "Sta. Rita Hills AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Sulfur dioxide",
+   "pageid": 50958,
+   "revid": 1373528260,
+   "touched": "2026-09-15T01:14:25Z",
+   "chars": 26597,
+   "slug": "sulfur-dioxide",
+   "asked": "Sulfur dioxide",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Swiss wine",
+   "pageid": 8496915,
+   "revid": 1352617216,
+   "touched": "2026-09-12T01:18:31Z",
+   "chars": 5681,
+   "slug": "switzerland-wine",
+   "asked": "Switzerland wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Tannin",
+   "pageid": 61983,
+   "revid": 1374264114,
+   "touched": "2026-09-15T01:14:26Z",
+   "chars": 18300,
+   "slug": "tannin",
+   "asked": "Tannin",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Tasmanian wine",
+   "pageid": 13566419,
+   "revid": 1343408247,
+   "touched": "2026-09-12T13:28:47Z",
+   "chars": 5495,
+   "slug": "tasmanian-wine",
+   "asked": "Tasmanian wine",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Terroir",
+   "pageid": 896092,
+   "revid": 1364178782,
+   "touched": "2026-09-16T10:53:25Z",
+   "chars": 17756,
+   "slug": "terroir",
+   "asked": "Terroir",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "The Eyrie Vineyards",
+   "pageid": 3800003,
+   "revid": 1340357536,
+   "touched": "2026-09-12T02:21:51Z",
+   "chars": 1690,
+   "slug": "the-eyrie-vineyards",
+   "asked": "The Eyrie Vineyards",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Tri-tip",
+   "pageid": 2982651,
+   "revid": 1368736893,
+   "touched": "2026-09-12T00:46:50Z",
+   "chars": 3866,
+   "slug": "tri-tip",
+   "asked": "Tri-tip",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Truffle",
+   "pageid": 291692,
+   "revid": 1366536535,
+   "touched": "2026-09-15T01:14:44Z",
+   "chars": 29495,
+   "slug": "truffle",
+   "asked": "Truffle",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Umami",
+   "pageid": 62462,
+   "revid": 1373211998,
+   "touched": "2026-09-16T10:53:12Z",
+   "chars": 14044,
+   "slug": "umami",
+   "asked": "Umami",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Vintage",
+   "pageid": 1052470,
+   "revid": 1364749374,
+   "touched": "2026-09-15T01:15:26Z",
+   "chars": 5457,
+   "slug": "vintage",
+   "asked": "Vintage",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Vitis vinifera",
+   "pageid": 413408,
+   "revid": 1370458146,
+   "touched": "2026-09-15T01:14:51Z",
+   "chars": 21274,
+   "slug": "vitis-vinifera",
+   "asked": "Vitis vinifera",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Volnay wine",
+   "pageid": 17102651,
+   "revid": 1316082908,
+   "touched": "2026-09-12T13:22:48Z",
+   "chars": 2476,
+   "slug": "volnay-aoc",
+   "asked": "Volnay AOC",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Vosne-Romanée",
+   "pageid": 2361456,
+   "revid": 1368842589,
+   "touched": "2026-09-15T01:16:10Z",
+   "chars": 2552,
+   "slug": "vosne-roman-e",
+   "asked": "Vosne-Romanée",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Walker Bay",
+   "pageid": 10973233,
+   "revid": 1366780574,
+   "touched": "2026-09-14T11:34:17Z",
+   "chars": 916,
+   "slug": "walker-bay",
+   "asked": "Walker Bay",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Willamette Valley AVA",
+   "pageid": 6470250,
+   "revid": 1361730329,
+   "touched": "2026-09-14T11:33:34Z",
+   "chars": 10026,
+   "slug": "willamette-valley-ava",
+   "asked": "Willamette Valley AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Wine and food pairing",
+   "pageid": 1045978,
+   "revid": 1348171918,
+   "touched": "2026-09-12T00:47:37Z",
+   "chars": 19969,
+   "slug": "wine-and-food-matching",
+   "asked": "Wine and food matching",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Wine cellar",
+   "pageid": 5624725,
+   "revid": 1374108044,
+   "touched": "2026-09-15T01:17:04Z",
+   "chars": 3295,
+   "slug": "wine-cellar",
+   "asked": "Wine cellar",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Wine fault",
+   "pageid": 3031996,
+   "revid": 1366999655,
+   "touched": "2026-09-12T00:54:33Z",
+   "chars": 20180,
+   "slug": "wine-fault",
+   "asked": "Wine fault",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Wine glass",
+   "pageid": 3675632,
+   "revid": 1359702629,
+   "touched": "2026-09-15T01:16:38Z",
+   "chars": 12132,
+   "slug": "wine-glass",
+   "asked": "Wine glass",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Wine tasting",
+   "pageid": 19719473,
+   "revid": 1374178166,
+   "touched": "2026-09-16T00:44:04Z",
+   "chars": 19264,
+   "slug": "wine-tasting",
+   "asked": "Wine tasting",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Winemaking",
+   "pageid": 373172,
+   "revid": 1373928422,
+   "touched": "2026-09-15T01:14:49Z",
+   "chars": 39310,
+   "slug": "winemaking",
+   "asked": "Winemaking",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Yamhill-Carlton AVA",
+   "pageid": 6485102,
+   "revid": 1361937775,
+   "touched": "2026-09-14T11:33:34Z",
+   "chars": 11525,
+   "slug": "yamhill-carlton-ava",
+   "asked": "Yamhill-Carlton AVA",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Yarra Valley",
+   "pageid": 34386,
+   "revid": 1344863701,
+   "touched": "2026-09-15T01:14:24Z",
+   "chars": 4731,
+   "slug": "yarra-valley",
+   "asked": "Yarra Valley",
+   "accessed": "2026-09-16"
+  },
+  {
+   "title": "Yeast in winemaking",
+   "pageid": 36029170,
+   "revid": 1352990811,
+   "touched": "2026-09-14T11:38:01Z",
+   "chars": 37619,
+   "slug": "yeast-in-winemaking",
+   "asked": "Yeast in winemaking",
+   "accessed": "2026-09-16"
+  }
+ ]
+}

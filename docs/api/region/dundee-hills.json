@@ -1,0 +1,205 @@
+{
+ "schema": 1,
+ "id": "dundee-hills",
+ "type": "region",
+ "names": {
+  "name": "Dundee Hills"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "sub-ava",
+  "established": 2004,
+  "soil": "Jory — basalt-derived red clay loam"
+ },
+ "text": {
+  "what": "A single hill of red volcanic Jory soil north-west of Dundee, and the ground Oregon pinot noir started on in 1965."
+ },
+ "kin": [
+  {
+   "to": "willamette-valley",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole"
+  },
+  {
+   "to": "eyrie-vineyards",
+   "as": "Whose South Block vines are the oldest pinot here.",
+   "rel": "producer"
+  },
+  {
+   "to": "domaine-drouhin-oregon",
+   "as": "Built high on the same hill in 1987.",
+   "rel": "producer"
+  },
+  {
+   "to": "sokol-blosser",
+   "as": "Planting since 1971, two ridges over.",
+   "rel": "producer"
+  }
+ ],
+ "geo": {
+  "lat": 45.28,
+  "lon": -123.05,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-dundee-hills-ava",
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "AVA area",
+   "value": 6940,
+   "unit": "acres",
+   "year": 2004,
+   "source": "s:wp-dundee-hills-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "acres_planted",
+   "label": "Planted",
+   "value": 1300,
+   "unit": "acres",
+   "year": 2004,
+   "source": "s:wp-dundee-hills-ava",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 2004",
+   "year": 2004,
+   "source": "s:ecfr-27-9",
+   "note": "69 FR 69527, Nov. 30, 2004"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A single hill of red volcanic Jory soil north-west of Dundee, and the ground Oregon pinot noir started on in 1965.",
+ "region_terms": [
+  {
+   "key": "willamette",
+   "name": "Willamette Valley",
+   "country": "United States",
+   "note": "a hundred miles of valley floor and volcanic hills south of Portland"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole"
+  },
+  {
+   "to": "eyrie-vineyards",
+   "type": "producer",
+   "name": "The Eyrie Vineyards",
+   "as": "Whose South Block vines are the oldest pinot here.",
+   "rel": "producer"
+  },
+  {
+   "to": "domaine-drouhin-oregon",
+   "type": "producer",
+   "name": "Domaine Drouhin Oregon",
+   "as": "Built high on the same hill in 1987.",
+   "rel": "producer"
+  },
+  {
+   "to": "sokol-blosser",
+   "type": "producer",
+   "name": "Sokol Blosser",
+   "as": "Planting since 1971, two ridges over.",
+   "rel": "producer"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-dundee-hills-ava",
+   "kind": "encyclopaedia",
+   "title": "Dundee Hills AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6485071",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355925572",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 2004",
+   "url": "",
+   "year": 2004,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The red Jory hills where Oregon pinot started.",
+   "rel": "part"
+  },
+  {
+   "from": "domaine-drouhin-oregon",
+   "type": "producer",
+   "name": "Domaine Drouhin Oregon",
+   "as": "The hill it sits high on.",
+   "rel": "region"
+  },
+  {
+   "from": "eyrie-vineyards",
+   "type": "producer",
+   "name": "The Eyrie Vineyards",
+   "as": "The hill his first block sits on.",
+   "rel": "region"
+  },
+  {
+   "from": "sokol-blosser",
+   "type": "producer",
+   "name": "Sokol Blosser",
+   "as": "The AVA its blocks sit in.",
+   "rel": "region"
+  }
+ ]
+}

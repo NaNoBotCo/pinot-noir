@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "pinquito-beans",
+ "type": "pairing",
+ "names": {
+  "name": "Pinquito beans",
+  "aliases": [
+   "Pinquitos"
+  ]
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "course": "side",
+  "country": "United States"
+ },
+ "text": {
+  "what": "A small pink bean grown in the Santa Maria Valley and almost nowhere else, cooked with bacon or ham, garlic, chilli and a little tomato, and served in a bowl beside the beef.",
+  "story": "Considered indigenous to this valley; a cross between a pink bean and a small white one. Betteravia Farms began growing them commercially in 1972, and a handful of local brands still supply the barbecue trade."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "The plate it belongs to.",
+   "rel": "pairing"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The only ground that grows them at scale.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-santa-maria-style-barbecue"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recipes": [
+  {
+   "title": "Pinquito beans, as the tradition describes them",
+   "source": "s:wp-santa-maria-style-barbecue",
+   "license": "ingredients-only",
+   "ingredients": [
+    "pinquito beans",
+    "bacon or ham",
+    "garlic",
+    "chilli",
+    "tomato"
+   ],
+   "note": "ingredients only: the seasoning varies house to house and no free-to-use recipe was found for the method"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "A small pink bean grown in the Santa Maria Valley and almost nowhere else, cooked with bacon or ham, garlic, chilli and a little tomato, and served in a bowl beside the beef.",
+ "region_terms": [
+  {
+   "key": "santa-maria-valley",
+   "name": "Santa Maria Valley",
+   "country": "United States",
+   "note": "Bien Nacido, the bench, and the red-oak barbecue on the same ground"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The plate it belongs to.",
+   "rel": "pairing"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The only ground that grows them at scale.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-santa-maria-style-barbecue",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria–style barbecue",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=22881131",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1328359472",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "What comes beside it.",
+   "rel": "pairing"
+  },
+  {
+   "from": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The bean that grows nowhere else much.",
+   "rel": "pairing"
+  }
+ ]
+}

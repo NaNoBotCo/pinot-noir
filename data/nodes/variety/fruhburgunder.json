@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "id": "fruhburgunder",
+ "type": "variety",
+ "names": {
+  "name": "Frühburgunder",
+  "aliases": [
+   "Pinot noir précoce",
+   "Early Burgundy",
+   "Blauer Frühburgunder"
+  ]
+ },
+ "etymology": {
+  "root": "German früh (early) + Burgunder (Burgundian)",
+  "tier": "cited",
+  "source": "s:wp-fr-hburgunder"
+ },
+ "region": [
+  "ahr",
+  "germany"
+ ],
+ "facets": {
+  "colour": "black",
+  "country": "Germany"
+ },
+ "text": {
+  "what": "An early-ripening pinot that comes in two to three weeks ahead of the rest. Germany kept it alive in the Ahr and on the Nahe when growers elsewhere pulled it out for cropping too lightly.",
+  "how": "Small bunches, small berries, low yield, and a harvest date that beats autumn rain — useful where the season runs short."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The same family, running four to six weeks ahead of the latest clones.",
+   "rel": "kin"
+  },
+  {
+   "to": "ahr",
+   "as": "The slate valley that kept it planted.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-fr-hburgunder",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

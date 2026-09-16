@@ -1,0 +1,123 @@
+{
+ "schema": 1,
+ "id": "burgundy",
+ "type": "region",
+ "names": {
+  "name": "Burgundy",
+  "aliases": [
+   "Bourgogne"
+  ]
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "region",
+  "established": 1936,
+  "soil": "limestone and marl"
+ },
+ "text": {
+  "what": "A strip of limestone running south-west from Dijon where pinot noir and chardonnay have been sorted, fenced and argued over for a thousand years. Everything here is small: the hill is 40 km long and rarely 2 km wide, and it carries 100 appellations stacked in four ranks.",
+  "story": "Medieval monks and the Valois dukes did the surveying: which parcel ripened, which drained, which froze. Denis Morelot wrote it down in 1831; Jules Lavalle classified it in 1855; the Beaune agricultural committee formalised it in 1861; and when the AOC laws arrived in 1936 most of Lavalle's first class became grands crus. The ranks on today's label are a nineteenth-century map given the force of law.",
+  "how": "Four ranks, and the smaller the ground the louder the name. Grand cru takes 2% of production at 35 hl/ha and labels the vineyard alone. Premier cru takes 12% at 45 hl/ha and labels village plus vineyard. Village wines take 36% at 50 hl/ha across 42 villages. Regional Bourgogne carries the rest. A grower may always sell down a rank, never up.",
+  "today": "UNESCO inscribed the climats in 2015, which put a heritage listing on a land-holding pattern rather than a building."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The grape this hill selected, and the one it exported.",
+   "rel": "variety"
+  },
+  {
+   "to": "cote-de-nuits",
+   "as": "The northern half, holding nearly every red grand cru.",
+   "rel": "part"
+  },
+  {
+   "to": "cote-de-beaune",
+   "as": "The southern half, where the whites take the hill.",
+   "rel": "part"
+  },
+  {
+   "to": "climat",
+   "as": "The word for a named parcel, and the unit the whole system counts in.",
+   "rel": "term"
+  },
+  {
+   "to": "hospices-de-beaune",
+   "as": "The charity whose November auction sets the tone for the vintage.",
+   "rel": "org"
+  },
+  {
+   "to": "how-pinot-travelled",
+   "as": "How cuttings and arguments from this hill reached Oregon, Otago and the Cape.",
+   "rel": "story"
+  }
+ ],
+ "geo": {
+  "lat": 47.05,
+  "lon": 4.85,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-burgundy-wine",
+  "s:unesco-1425",
+  "s:wp-pinot-noir",
+  "s:morris-inside-burgundy"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "length_km",
+   "label": "Length of the Côte d'Or",
+   "value": 40,
+   "unit": "km",
+   "year": null,
+   "source": "s:wp-burgundy-wine",
+   "tier": "cited"
+  },
+  {
+   "key": "hectares_pinot",
+   "label": "Pinot noir on the Côte d'Or escarpment",
+   "value": 4500,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-pinot-noir",
+   "tier": "cited"
+  },
+  {
+   "key": "appellations",
+   "label": "Appellations",
+   "value": 100,
+   "unit": "AOC",
+   "year": null,
+   "source": "s:wp-burgundy-wine",
+   "tier": "cited"
+  },
+  {
+   "key": "village_appellations",
+   "label": "Village appellations",
+   "value": 42,
+   "unit": "AOC",
+   "year": null,
+   "source": "s:wp-burgundy-wine",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "unesco",
+   "what": "The Climats, terroirs of Burgundy, World Heritage List 1425",
+   "year": 2015,
+   "source": "s:unesco-1425",
+   "url": "https://whc.unesco.org/en/list/1425/"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

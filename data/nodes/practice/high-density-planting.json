@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "id": "high-density-planting",
+ "type": "practice",
+ "names": {
+  "name": "High-density planting"
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "kind": "planting"
+ },
+ "text": {
+  "what": "Nine to twelve thousand vines a hectare, rows a metre apart, each vine carrying a handful of bunches. Burgundy's grand cru rules set a floor of 9,000 vines per hectare and the New World mostly did not follow.",
+  "how": "More vines, more competition, smaller root systems each, less fruit per plant at the same yield per hectare. It also means narrow tractors, more labour and more money in the ground before the first harvest."
+ },
+ "kin": [
+  {
+   "to": "la-tache",
+   "as": "Where the 9,000-vine minimum is written into the appellation.",
+   "rel": "region"
+  },
+  {
+   "to": "bass-phillip",
+   "as": "Which planted at Burgundian density in Gippsland and waited twelve years to sell a bottle.",
+   "rel": "producer"
+  }
+ ],
+ "sources": [
+  "s:wp-la-t-che-aoc",
+  "s:wp-bass-phillip"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

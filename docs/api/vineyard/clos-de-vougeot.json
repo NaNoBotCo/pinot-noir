@@ -1,0 +1,170 @@
+{
+ "schema": 1,
+ "id": "clos-de-vougeot",
+ "type": "vineyard",
+ "names": {
+  "name": "Clos de Vougeot"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "soil": "limestone at the top, clay at the bottom"
+ },
+ "text": {
+  "what": "Fifty hectares behind a wall the Cistercians of Cîteaux built, and more than eighty owners inside it. One name on every label, and a slope that runs from grand cru ground at the top to heavy clay by the road.",
+  "story": "Bought or gifted to the monks between the twelfth and early fourteenth centuries, farmed as one block for six hundred years, then broken up after the Revolution and split again at every inheritance. The wall is the appellation; the ground inside it is not one thing."
+ },
+ "kin": [
+  {
+   "to": "cote-de-nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "climat",
+   "as": "The unit this vineyard is usually held up to explain — and to complicate.",
+   "rel": "term"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where dividing land by inheritance became the system.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.176,
+  "lon": 4.955,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-clos-de-vougeot"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Appellation area",
+   "value": 50.6,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-clos-de-vougeot",
+   "tier": "cited"
+  },
+  {
+   "key": "hectares_producing",
+   "label": "In production",
+   "value": 47.3,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-clos-de-vougeot",
+   "tier": "cited"
+  },
+  {
+   "key": "owners",
+   "label": "Owners",
+   "value": 80,
+   "unit": "",
+   "year": 2000,
+   "source": "s:wp-clos-de-vougeot",
+   "tier": "cited",
+   "note": "stated as more than 80 in the early 2000s"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Fifty hectares behind a wall the Cistercians of Cîteaux built, and more than eighty owners inside it. One name on every label, and a slope that runs from grand cru ground at the top to heavy clay by the road.",
+ "region_terms": [
+  {
+   "key": "cote-de-nuits",
+   "name": "Côte de Nuits",
+   "country": "France",
+   "note": "Marsannay south to Corton; most of the red grands crus sit on this strip"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "The unit this vineyard is usually held up to explain — and to complicate.",
+   "rel": "term"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where dividing land by inheritance became the system.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-clos-de-vougeot",
+   "kind": "encyclopaedia",
+   "title": "Clos de Vougeot",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1967576",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1256308730",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "Fifty hectares, eighty owners, one grand cru name.",
+   "rel": "vineyard"
+  },
+  {
+   "from": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "One name, fifty hectares, and a lesson about what a climat does not tell you.",
+   "rel": "vineyard"
+  },
+  {
+   "from": "monopole",
+   "type": "term",
+   "name": "Monopole",
+   "as": "The opposite case: one name, eighty owners.",
+   "rel": "contrast"
+  }
+ ]
+}

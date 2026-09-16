@@ -1,0 +1,133 @@
+{
+ "schema": 1,
+ "id": "negociant",
+ "type": "term",
+ "names": {
+  "name": "Négociant"
+ },
+ "etymology": {
+  "root": "French négociant, a trader, from Latin negotiari, to do business",
+  "tier": "cited",
+  "source": "s:wp-n-gociant"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "letter": "N",
+  "kind": "cellar"
+ },
+ "text": {
+  "what": "A merchant who buys grapes, juice or finished wine, raises it in their own cellar and sells it under their own name. Half of Burgundy's output moves this way.",
+  "how": "A négociant-éleveur raises what it buys. A domaine bottles only its own fruit. Many houses do both and the label says which is which, if you read the small print."
+ },
+ "kin": [
+  {
+   "to": "louis-jadot",
+   "as": "A house that grew into a large grower as well.",
+   "rel": "producer"
+  },
+  {
+   "to": "joseph-drouhin",
+   "as": "And another.",
+   "rel": "producer"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where the trade is structured around this.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-n-gociant"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A merchant who buys grapes, juice or finished wine, raises it in their own cellar and sells it under their own name. Half of Burgundy's output moves this way.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "louis-jadot",
+   "type": "producer",
+   "name": "Maison Louis Jadot",
+   "as": "A house that grew into a large grower as well.",
+   "rel": "producer"
+  },
+  {
+   "to": "joseph-drouhin",
+   "type": "producer",
+   "name": "Maison Joseph Drouhin",
+   "as": "And another.",
+   "rel": "producer"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where the trade is structured around this.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-n-gociant",
+   "kind": "encyclopaedia",
+   "title": "Winemaker",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=928516",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1352783684",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "etymology": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "louis-jadot",
+   "type": "producer",
+   "name": "Maison Louis Jadot",
+   "as": "What this house does, and the word for it.",
+   "rel": "term"
+  },
+  {
+   "from": "bivb",
+   "type": "org",
+   "name": "BIVB",
+   "as": "One half of the trade it represents.",
+   "rel": "term"
+  },
+  {
+   "from": "vigneron",
+   "type": "term",
+   "name": "Vigneron",
+   "as": "The other half of the Burgundian trade.",
+   "rel": "contrast"
+  }
+ ]
+}

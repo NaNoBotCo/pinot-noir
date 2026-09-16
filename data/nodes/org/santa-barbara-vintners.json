@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "id": "santa-barbara-vintners",
+ "type": "org",
+ "names": {
+  "name": "Santa Barbara Vintners"
+ },
+ "region": [
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "kind": "association",
+  "status": "open"
+ },
+ "text": {
+  "what": "The county association that runs the tasting weekends and publishes the maps for the Santa Maria Valley, the Sta. Rita Hills and everything between."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-valley",
+   "as": "One of the AVAs it represents.",
+   "rel": "region"
+  },
+  {
+   "to": "sta-rita-hills",
+   "as": "And the other.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 34.62,
+  "lon": -120.19,
+  "precision": "town"
+ },
+ "address": {
+  "city": "Los Olivos",
+  "state": "CA",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-santa-barbara-county-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

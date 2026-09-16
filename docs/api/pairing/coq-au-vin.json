@@ -1,0 +1,103 @@
+{
+ "schema": 1,
+ "id": "coq-au-vin",
+ "type": "pairing",
+ "names": {
+  "name": "Coq au vin"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "course": "main",
+  "country": "France"
+ },
+ "text": {
+  "what": "A tough old bird braised in red wine, lardons, mushrooms and onions, thickened with its own blood in the oldest versions. Burgundy cooks it in Burgundy and drinks the same wine with it.",
+  "story": "The dish attaches itself to Julius Caesar in the usual apocryphal way. What it is, plainly, is a way to make a rooster edible: long, slow, wet heat and acid."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The wine in the pot and in the glass.",
+   "rel": "variety"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where the version with a named wine comes from.",
+   "rel": "region"
+  },
+  {
+   "to": "mushrooms",
+   "as": "In the pot from the start.",
+   "rel": "pairing"
+  }
+ ],
+ "sources": [
+  "s:wp-coq-au-vin"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "A tough old bird braised in red wine, lardons, mushrooms and onions, thickened with its own blood in the oldest versions. Burgundy cooks it in Burgundy and drinks the same wine with it.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The wine in the pot and in the glass.",
+   "rel": "variety"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where the version with a named wine comes from.",
+   "rel": "region"
+  },
+  {
+   "to": "mushrooms",
+   "type": "pairing",
+   "name": "Mushrooms",
+   "as": "In the pot from the start.",
+   "rel": "pairing"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-coq-au-vin",
+   "kind": "encyclopaedia",
+   "title": "Coq au vin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=244551",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1352191402",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

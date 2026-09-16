@@ -1,0 +1,147 @@
+{
+ "schema": 1,
+ "id": "yamhill-carlton",
+ "type": "region",
+ "names": {
+  "name": "Yamhill-Carlton"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "sub-ava",
+  "established": 2004,
+  "soil": "ancient marine sedimentary"
+ },
+ "text": {
+  "what": "A horseshoe of old marine sediment around the towns of Yamhill and Carlton, draining fast and ripening early."
+ },
+ "kin": [
+  {
+   "to": "willamette-valley",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole"
+  },
+  {
+   "to": "ribbon-ridge",
+   "as": "The small ridge in the middle of the horseshoe, with its own name.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 45.3,
+  "lon": -123.25,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-yamhill-carlton-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 2004",
+   "year": 2004,
+   "source": "s:ecfr-27-9",
+   "note": "69 FR 71374, Dec. 9, 2004"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "A horseshoe of old marine sediment around the towns of Yamhill and Carlton, draining fast and ripening early.",
+ "region_terms": [
+  {
+   "key": "willamette",
+   "name": "Willamette Valley",
+   "country": "United States",
+   "note": "a hundred miles of valley floor and volcanic hills south of Portland"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole"
+  },
+  {
+   "to": "ribbon-ridge",
+   "type": "region",
+   "name": "Ribbon Ridge",
+   "as": "The small ridge in the middle of the horseshoe, with its own name.",
+   "rel": "neighbour"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  },
+  {
+   "id": "s:wp-yamhill-carlton-ava",
+   "kind": "encyclopaedia",
+   "title": "Yamhill-Carlton AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6485102",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1361937775",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 2004",
+   "url": "",
+   "year": 2004,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "ribbon-ridge",
+   "type": "region",
+   "name": "Ribbon Ridge",
+   "as": "The larger AVA that surrounds it.",
+   "rel": "whole"
+  },
+  {
+   "from": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "Old marine sediment, and vines that ripen early.",
+   "rel": "part"
+  }
+ ]
+}

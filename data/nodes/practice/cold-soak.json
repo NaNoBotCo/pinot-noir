@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "id": "cold-soak",
+ "type": "practice",
+ "names": {
+  "name": "Cold soak",
+  "aliases": [
+   "Pre-fermentation maceration",
+   "Macération à froid"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "ferment"
+ },
+ "text": {
+  "what": "Chilling the crushed fruit and holding it below fermentation temperature for days before the yeast start. Water pulls colour and aroma out of the skins; alcohol has not arrived yet to pull tannin.",
+  "how": "Three to six days near 10 °C, usually under dry ice or a blanket of CO₂ to keep spoilage organisms and oxygen out. Whether it does what its advocates claim is one of the livelier arguments in a pinot cellar."
+ },
+ "kin": [
+  {
+   "to": "whole-cluster",
+   "as": "A decision taken at the same moment, on the same fruit.",
+   "rel": "kin"
+  },
+  {
+   "to": "native-yeast",
+   "as": "Cold soak lasts until something starts the ferment — which is where this comes in.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-maceration-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

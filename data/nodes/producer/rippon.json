@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "rippon",
+ "type": "producer",
+ "names": {
+  "name": "Rippon"
+ },
+ "region": [
+  "central-otago",
+  "new-zealand"
+ ],
+ "facets": {
+  "country": "New Zealand"
+ },
+ "text": {
+  "what": "Vines on a lake terrace at Wanaka, biodynamic, with the Southern Alps behind them — the photograph that sells Central Otago, and a family that has farmed the slope since the nineteenth century."
+ },
+ "kin": [
+  {
+   "to": "central-otago",
+   "as": "Its region, at the cooler northern end.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": -44.71,
+  "lon": 169.12,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Wanaka",
+  "state": "Otago",
+  "country": "NZ"
+ },
+ "sources": [
+  "s:wp-rippon",
+  "s:wp-central-otago-wine-region"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

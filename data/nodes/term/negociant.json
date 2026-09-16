@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "id": "negociant",
+ "type": "term",
+ "names": {
+  "name": "Négociant"
+ },
+ "etymology": {
+  "root": "French négociant, a trader, from Latin negotiari, to do business",
+  "tier": "cited",
+  "source": "s:wp-n-gociant"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "letter": "N",
+  "kind": "cellar"
+ },
+ "text": {
+  "what": "A merchant who buys grapes, juice or finished wine, raises it in their own cellar and sells it under their own name. Half of Burgundy's output moves this way.",
+  "how": "A négociant-éleveur raises what it buys. A domaine bottles only its own fruit. Many houses do both and the label says which is which, if you read the small print."
+ },
+ "kin": [
+  {
+   "to": "louis-jadot",
+   "as": "A house that grew into a large grower as well.",
+   "rel": "producer"
+  },
+  {
+   "to": "joseph-drouhin",
+   "as": "And another.",
+   "rel": "producer"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where the trade is structured around this.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-n-gociant"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

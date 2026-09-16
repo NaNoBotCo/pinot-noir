@@ -1,0 +1,203 @@
+{
+ "note": "Known facet keys per type, with their known values. Open: an unknown value warns, never fails.",
+ "facets": {
+  "country": {
+   "types": [
+    "region",
+    "vineyard",
+    "producer",
+    "org",
+    "event",
+    "person",
+    "art",
+    "story",
+    "pairing",
+    "clone",
+    "variety"
+   ],
+   "values": []
+  },
+  "level": {
+   "types": [
+    "region"
+   ],
+   "values": [
+    "country",
+    "region",
+    "district",
+    "ava",
+    "sub-ava",
+    "gi",
+    "doc",
+    "commune",
+    "village",
+    "premier cru",
+    "grand cru",
+    "zone"
+   ]
+  },
+  "soil": {
+   "types": [
+    "region",
+    "vineyard"
+   ],
+   "values": []
+  },
+  "established": {
+   "types": [
+    "region",
+    "producer",
+    "org",
+    "event",
+    "vineyard"
+   ],
+   "values": []
+  },
+  "kind": {
+   "types": [
+    "practice",
+    "art",
+    "story",
+    "term",
+    "org",
+    "variety",
+    "event"
+   ],
+   "values": [
+    "vineyard",
+    "cellar",
+    "press",
+    "ferment",
+    "ageing",
+    "bottling",
+    "farming",
+    "planting",
+    "essay",
+    "map",
+    "chart",
+    "resources",
+    "label",
+    "poster",
+    "photograph",
+    "painting",
+    "print",
+    "sign",
+    "nursery",
+    "association",
+    "appellation",
+    "archive",
+    "school"
+   ]
+  },
+  "course": {
+   "types": [
+    "pairing"
+   ],
+   "values": [
+    "main",
+    "side",
+    "cheese",
+    "sweet",
+    "snack",
+    "condiment",
+    "fish",
+    "bird",
+    "fungus"
+   ]
+  },
+  "role": {
+   "types": [
+    "person"
+   ],
+   "values": [
+    "grower",
+    "winemaker",
+    "owner",
+    "nurseryman",
+    "scientist",
+    "writer",
+    "critic",
+    "importer",
+    "sommelier",
+    "cooper",
+    "pitmaster",
+    "butcher"
+   ]
+  },
+  "status": {
+   "types": [
+    "producer",
+    "org",
+    "event",
+    "vineyard"
+   ],
+   "values": [
+    "open",
+    "closed",
+    "seasonal",
+    "unknown",
+    "by appointment"
+   ]
+  },
+  "origin": {
+   "types": [
+    "clone"
+   ],
+   "values": [
+    "Dijon",
+    "Swiss",
+    "California",
+    "Oregon",
+    "Burgundy field selection",
+    "Champagne",
+    "unknown"
+   ]
+  },
+  "letter": {
+   "types": [
+    "term"
+   ],
+   "values": []
+  },
+  "colour": {
+   "types": [
+    "variety",
+    "practice"
+   ],
+   "values": [
+    "black",
+    "grey",
+    "white",
+    "red-fleshed"
+   ]
+  },
+  "hectares": {
+   "types": [
+    "region",
+    "vineyard"
+   ],
+   "values": []
+  },
+  "acres": {
+   "types": [
+    "region",
+    "vineyard"
+   ],
+   "values": []
+  },
+  "elevation_m": {
+   "types": [
+    "vineyard",
+    "region"
+   ],
+   "values": []
+  },
+  "first_planted": {
+   "types": [
+    "vineyard",
+    "region"
+   ],
+   "values": []
+  }
+ }
+}

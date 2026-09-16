@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "id": "hospices-auction",
+ "type": "event",
+ "names": {
+  "name": "Hospices de Beaune auction"
+ },
+ "region": [
+  "cote-de-beaune",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "status": "seasonal",
+  "kind": "association"
+ },
+ "text": {
+  "what": "The third Sunday of November in Beaune: the hospital's barrels go under the hammer, buyers pay well over the market, and the trade reads the prices as a verdict on the vintage.",
+  "how": "Lots are barrels of new wine, sold by cuvée names that belong to the donors who gave the land. The buyer arranges the élevage and the bottling."
+ },
+ "kin": [
+  {
+   "to": "hospices-de-beaune",
+   "as": "Whose sale it is.",
+   "rel": "org"
+  },
+  {
+   "to": "burgundy",
+   "as": "The region that reads it as a weather report with prices.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.022,
+  "lon": 4.837,
+  "precision": "town"
+ },
+ "sources": [
+  "s:wp-hospices-de-beaune"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

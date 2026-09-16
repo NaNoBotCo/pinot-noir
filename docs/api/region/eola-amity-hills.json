@@ -1,0 +1,140 @@
+{
+ "schema": 1,
+ "id": "eola-amity-hills",
+ "type": "region",
+ "names": {
+  "name": "Eola-Amity Hills"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "sub-ava",
+  "established": 2006,
+  "soil": "basalt, marine sediment"
+ },
+ "text": {
+  "what": "Basalt hills west of Salem with a hole in the Coast Range beside them. Afternoon wind off the Pacific comes through the Van Duzer Corridor, shuts the vines down and holds the acid."
+ },
+ "kin": [
+  {
+   "to": "willamette-valley",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "Grown small-berried here, because the wind stops the vine mid-afternoon.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 45.0,
+  "lon": -123.15,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-eola-amity-hills-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 2006",
+   "year": 2006,
+   "source": "s:ecfr-27-9",
+   "note": "71 FR 40404, July 17, 2006"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Basalt hills west of Salem with a hole in the Coast Range beside them. Afternoon wind off the Pacific comes through the Van Duzer Corridor, shuts the vines down and holds the acid.",
+ "region_terms": [
+  {
+   "key": "willamette",
+   "name": "Willamette Valley",
+   "country": "United States",
+   "note": "a hundred miles of valley floor and volcanic hills south of Portland"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown small-berried here, because the wind stops the vine mid-afternoon.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  },
+  {
+   "id": "s:wp-eola-amity-hills-ava",
+   "kind": "encyclopaedia",
+   "title": "Eola-Amity Hills AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15488487",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355925595",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 2006",
+   "url": "",
+   "year": 2006,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The gap that lets the Van Duzer wind through.",
+   "rel": "part"
+  }
+ ]
+}

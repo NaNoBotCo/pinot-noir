@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "id": "wine-fault-brett",
+ "type": "term",
+ "names": {
+  "name": "Brett",
+  "aliases": [
+   "Brettanomyces"
+  ]
+ },
+ "etymology": {
+  "root": "Latinised Greek: Brettano- (British) + -myces (fungus) — named in a Carlsberg lab from British beer",
+  "tier": "cited",
+  "source": "s:wp-brettanomyces"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "letter": "B",
+  "kind": "cellar"
+ },
+ "text": {
+  "what": "Brettanomyces, a yeast that lives in old barrels and makes phenols people describe as barnyard, plaster or clove. Some drinkers read a little of it as complexity, laboratories read it as spoilage, and pinot noir shows it early because there is so little else in the way."
+ },
+ "kin": [
+  {
+   "to": "native-yeast",
+   "as": "Whose risk this is.",
+   "rel": "kin"
+  },
+  {
+   "to": "neutral-oak",
+   "as": "Where it lives, if it lives anywhere.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-brettanomyces",
+  "s:wp-wine-fault"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

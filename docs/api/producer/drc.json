@@ -1,0 +1,201 @@
+{
+ "schema": 1,
+ "id": "drc",
+ "type": "producer",
+ "names": {
+  "name": "Domaine de la Romanée-Conti",
+  "aliases": [
+   "DRC",
+   "Domaine de la Romanee-Conti"
+  ]
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "status": "unknown"
+ },
+ "text": {
+  "what": "The Vosne-Romanée domaine that owns Romanée-Conti and La Tâche outright and holds pieces of Richebourg, Échezeaux, Grands Échezeaux, Romanée-Saint-Vivant and Montrachet. Sold in mixed cases, allocated by relationship, and resold at multiples nobody at the domaine sets.",
+  "story": "The Abbey of Saint-Vivant in Vosne held 1.8 hectares here from 1232. The prince de Conti bought the parcel in 1760; the Revolution sold it on; the Villaine and Leroy families have run the domaine through the twentieth century. Five hectares in La Tâche and Grands Échezeaux went biodynamic first, and the practice spread from there."
+ },
+ "kin": [
+  {
+   "to": "romanee-conti",
+   "as": "Its monopole, and its name.",
+   "rel": "owns"
+  },
+  {
+   "to": "la-tache",
+   "as": "Its other monopole.",
+   "rel": "owns"
+  },
+  {
+   "to": "aubert-de-villaine",
+   "as": "Co-director, and the man who carried the Climats to UNESCO.",
+   "rel": "person"
+  },
+  {
+   "to": "burgundy",
+   "as": "The region whose reputation this address both makes and distorts.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.162,
+  "lon": 4.951,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Vosne-Romanée",
+  "state": "Côte-d'Or",
+  "country": "FR"
+ },
+ "sources": [
+  "s:wp-domaine-de-la-roman-e-conti",
+  "s:meadows-pearl"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "tags": [
+  {
+   "tag": "no-visits",
+   "source": "s:wp-domaine-de-la-roman-e-conti",
+   "tier": "cited",
+   "note": "no tasting room; the domaine does not receive the public"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The Vosne-Romanée domaine that owns Romanée-Conti and La Tâche outright and holds pieces of Richebourg, Échezeaux, Grands Échezeaux, Romanée-Saint-Vivant and Montrachet.",
+ "region_terms": [
+  {
+   "key": "cote-de-nuits",
+   "name": "Côte de Nuits",
+   "country": "France",
+   "note": "Marsannay south to Corton; most of the red grands crus sit on this strip"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "romanee-conti",
+   "type": "vineyard",
+   "name": "Romanée-Conti",
+   "as": "Its monopole, and its name.",
+   "rel": "owns"
+  },
+  {
+   "to": "la-tache",
+   "type": "vineyard",
+   "name": "La Tâche",
+   "as": "Its other monopole.",
+   "rel": "owns"
+  },
+  {
+   "to": "aubert-de-villaine",
+   "type": "person",
+   "name": "Aubert de Villaine",
+   "as": "Co-director, and the man who carried the Climats to UNESCO.",
+   "rel": "person"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The region whose reputation this address both makes and distorts.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-domaine-de-la-roman-e-conti",
+   "kind": "encyclopaedia",
+   "title": "Domaine de la Romanée-Conti",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=30873274",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1347537183",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:meadows-pearl",
+   "kind": "book",
+   "title": "The Pearl of the Côte: The Great Wines of Vosne-Romanée",
+   "author": "Allen Meadows",
+   "publisher": "Burghound Books",
+   "year": 2010
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  },
+  "address": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "no-visits",
+   "label": "No visitors",
+   "icon": "🚪",
+   "group": "visit",
+   "evidence": "the cellar says so, or a published list records it as closed to the public",
+   "resources": [],
+   "source": "s:wp-domaine-de-la-roman-e-conti",
+   "note": "no tasting room; the domaine does not receive the public",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "la-tache",
+   "type": "vineyard",
+   "name": "La Tâche",
+   "as": "Its sole owner.",
+   "rel": "made-by"
+  },
+  {
+   "from": "romanee-conti",
+   "type": "vineyard",
+   "name": "Romanée-Conti",
+   "as": "Its sole owner, and the domaine named after it.",
+   "rel": "made-by"
+  },
+  {
+   "from": "aubert-de-villaine",
+   "type": "person",
+   "name": "Aubert de Villaine",
+   "as": "The domaine he ran for nearly fifty years.",
+   "rel": "made-by"
+  },
+  {
+   "from": "lalou-bize-leroy",
+   "type": "person",
+   "name": "Lalou Bize-Leroy",
+   "as": "Which she co-directed until 1991.",
+   "rel": "kin"
+  }
+ ]
+}

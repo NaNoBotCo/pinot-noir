@@ -1,0 +1,121 @@
+{
+ "schema": 1,
+ "id": "cru",
+ "type": "term",
+ "names": {
+  "name": "Cru"
+ },
+ "etymology": {
+  "root": "French cru, past participle of croître, to grow — 'that which has grown'",
+  "tier": "cited",
+  "source": "s:wp-grand-cru"
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "letter": "C",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "A growth: a vineyard, or a class of vineyards, recognised for what it yields. Grand cru and premier cru rank the ground in Burgundy; in Bordeaux the same word ranks the château instead."
+ },
+ "kin": [
+  {
+   "to": "climat",
+   "as": "The plot a cru rank is attached to here.",
+   "rel": "kin"
+  },
+  {
+   "to": "burgundy",
+   "as": "Four ranks, and the smaller the ground the louder the name.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-grand-cru",
+  "s:wp-premier-cru"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A growth: a vineyard, or a class of vineyards, recognised for what it yields. Grand cru and premier cru rank the ground in Burgundy; in Bordeaux the same word ranks the château instead.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  },
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "The plot a cru rank is attached to here.",
+   "rel": "kin"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Four ranks, and the smaller the ground the louder the name.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-grand-cru",
+   "kind": "encyclopaedia",
+   "title": "Grand cru",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1967586",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1298253085",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-premier-cru",
+   "kind": "encyclopaedia",
+   "title": "First Growth",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=831138",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1290217898",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "etymology": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "inao",
+   "type": "org",
+   "name": "INAO",
+   "as": "The rank it grants and withholds.",
+   "rel": "term"
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "schema": 1,
+ "id": "ahr",
+ "type": "region",
+ "names": {
+  "name": "Ahr"
+ },
+ "region": [
+  "ahr",
+  "germany"
+ ],
+ "facets": {
+  "country": "Germany",
+  "level": "region",
+  "soil": "slate, basalt, greywacke"
+ },
+ "text": {
+  "what": "A narrow slate valley south of Bonn, among the smallest German regions and the one that gives more of its ground to spätburgunder than any other.",
+  "story": "Steep terraces on a river that runs east-west, this far north, on dark stone that holds the day's heat. The July 2021 flood tore through the valley and its cellars; growers were still rebuilding years after."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Called spätburgunder here, and grown in a higher share than anywhere else in Germany.",
+   "rel": "variety"
+  },
+  {
+   "to": "fruhburgunder",
+   "as": "The early-ripening cousin the valley kept.",
+   "rel": "variety"
+  },
+  {
+   "to": "baden",
+   "as": "The other German pinot region, warmer and far larger.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 50.54,
+  "lon": 7.05,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-ahr-wine-region",
+  "s:wp-german-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "tradition",
+    "note": "the 2021 flood is general knowledge here, not taken from the corpus"
+   }
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Vineyard",
+   "value": 558,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-ahr-wine-region",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "A narrow slate valley south of Bonn, among the smallest German regions and the one that gives more of its ground to spätburgunder than any other.",
+ "region_terms": [
+  {
+   "key": "ahr",
+   "name": "Ahr",
+   "country": "Germany",
+   "note": "a narrow slate valley north of the Mosel that grows almost nothing else"
+  },
+  {
+   "key": "germany",
+   "name": "Germany",
+   "country": "Germany",
+   "note": "spätburgunder; the third-largest pinot noir planting on earth"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Called spätburgunder here, and grown in a higher share than anywhere else in Germany.",
+   "rel": "variety"
+  },
+  {
+   "to": "fruhburgunder",
+   "type": "variety",
+   "name": "Frühburgunder",
+   "as": "The early-ripening cousin the valley kept.",
+   "rel": "variety"
+  },
+  {
+   "to": "baden",
+   "type": "region",
+   "name": "Baden",
+   "as": "The other German pinot region, warmer and far larger.",
+   "rel": "neighbour"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-ahr-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Ahr (wine region)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15010808",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1358145069",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-german-wine",
+   "kind": "encyclopaedia",
+   "title": "German wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1039202",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363074961",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "tradition",
+   "note": "the 2021 flood is general knowledge here, not taken from the corpus"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "fruhburgunder",
+   "type": "variety",
+   "name": "Frühburgunder",
+   "as": "The slate valley that kept it planted.",
+   "rel": "region"
+  }
+ ]
+}

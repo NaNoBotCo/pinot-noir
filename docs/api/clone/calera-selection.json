@@ -1,0 +1,128 @@
+{
+ "schema": 1,
+ "id": "calera-selection",
+ "type": "clone",
+ "names": {
+  "name": "Calera selection",
+  "aliases": [
+   "Jensen selection"
+  ]
+ },
+ "region": [
+  "california"
+ ],
+ "facets": {
+  "origin": "California"
+ },
+ "text": {
+  "what": "Cuttings Josh Jensen is said to have brought back from Burgundy in the mid-1970s, planted on Mount Harlan and passed around California since. Growers who plant it say so on the label.",
+  "story": "*Tradition holds —* the cuttings came from the Domaine de la Romanée-Conti. That story is told widely, including by people who bought the plant material; documentation for the specific source is another matter."
+ },
+ "kin": [
+  {
+   "to": "calera",
+   "as": "The vineyard it is named for.",
+   "rel": "grown-at"
+  },
+  {
+   "to": "josh-jensen",
+   "as": "Who carried it, by the usual account.",
+   "rel": "person"
+  },
+  {
+   "to": "massale-selection",
+   "as": "The practice, and its grey areas.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:devilliers-heartbreak",
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Cuttings Josh Jensen is said to have brought back from Burgundy in the mid-1970s, planted on Mount Harlan and passed around California since. Growers who plant it say so on the label.",
+ "region_terms": [
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "calera",
+   "type": "producer",
+   "name": "Calera",
+   "as": "The vineyard it is named for.",
+   "rel": "grown-at"
+  },
+  {
+   "to": "josh-jensen",
+   "type": "person",
+   "name": "Josh Jensen",
+   "as": "Who carried it, by the usual account.",
+   "rel": "person"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "The practice, and its grey areas.",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:devilliers-heartbreak",
+   "kind": "book",
+   "title": "The Heartbreak Grape: A Journey in Search of the Perfect Pinot Noir",
+   "author": "Marq de Villiers",
+   "publisher": "HarperCollins",
+   "year": 1993
+  },
+  {
+   "id": "s:haeger-north-american",
+   "kind": "book",
+   "title": "North American Pinot Noir",
+   "author": "John Winthrop Haeger",
+   "publisher": "University of California Press",
+   "year": 2004
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "text.story": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "calera",
+   "type": "producer",
+   "name": "Calera",
+   "as": "The cuttings that came home with him, and what growers now call them.",
+   "rel": "clone"
+  },
+  {
+   "from": "josh-jensen",
+   "type": "person",
+   "name": "Josh Jensen",
+   "as": "The cuttings that travelled with him.",
+   "rel": "clone"
+  }
+ ]
+}

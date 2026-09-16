@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "sanford-and-benedict",
+ "type": "vineyard",
+ "names": {
+  "name": "Sanford & Benedict"
+ },
+ "region": [
+  "sta-rita-hills",
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1971
+ },
+ "text": {
+  "what": "The planting that proved the Santa Ynez river gap: put in during 1971 by Richard Sanford and Michael Benedict on a north-facing slope nobody else wanted, and now inside the Sta. Rita Hills AVA.",
+  "story": "*Tradition holds —* Sanford went looking with weather records rather than with a realtor, hunting a valley that ran east-west so the ocean air could reach the vines. The old block still gets picked separately and named on labels made by people who never owned it."
+ },
+ "kin": [
+  {
+   "to": "sta-rita-hills",
+   "as": "The AVA drawn around this ground thirty years later.",
+   "rel": "region"
+  },
+  {
+   "to": "richard-sanford",
+   "as": "Who chose the site.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 34.62,
+  "lon": -120.3,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-sta-rita-hills-ava",
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "The planting that proved the Santa Ynez river gap: put in during 1971 by Richard Sanford and Michael Benedict on a north-facing slope nobody else wanted, and now inside the Sta. Rita Hills AVA.",
+ "region_terms": [
+  {
+   "key": "sta-rita-hills",
+   "name": "Sta. Rita Hills",
+   "country": "United States",
+   "note": "a wind tunnel between Buellton and Lompoc"
+  },
+  {
+   "key": "santa-barbara",
+   "name": "Santa Barbara County",
+   "country": "United States",
+   "note": "the transverse ranges turn the valleys east-west and let the ocean in"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "The AVA drawn around this ground thirty years later.",
+   "rel": "region"
+  },
+  {
+   "to": "richard-sanford",
+   "type": "person",
+   "name": "Richard Sanford",
+   "as": "Who chose the site.",
+   "rel": "person"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-sta-rita-hills-ava",
+   "kind": "encyclopaedia",
+   "title": "Sta. Rita Hills AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15415082",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370033962",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:haeger-north-american",
+   "kind": "book",
+   "title": "North American Pinot Noir",
+   "author": "John Winthrop Haeger",
+   "publisher": "University of California Press",
+   "year": 2004
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "text.story": {
+   "tier": "tradition"
+  },
+  "geo": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "The 1971 planting that proved the ground.",
+   "rel": "vineyard"
+  },
+  {
+   "from": "richard-sanford",
+   "type": "person",
+   "name": "Richard Sanford",
+   "as": "The vineyard he planted with Michael Benedict.",
+   "rel": "made-by"
+  }
+ ]
+}

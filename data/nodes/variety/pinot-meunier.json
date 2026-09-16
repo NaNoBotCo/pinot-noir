@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "pinot-meunier",
+ "type": "variety",
+ "names": {
+  "name": "Pinot Meunier",
+  "aliases": [
+   "Meunier",
+   "Schwarzriesling",
+   "Müllerrebe"
+  ]
+ },
+ "etymology": {
+  "root": "French meunier, miller — from the floury white hairs on the leaves",
+  "tier": "cited",
+  "source": "s:wp-pinot-meunier"
+ },
+ "region": [
+  "champagne"
+ ],
+ "facets": {
+  "colour": "black",
+  "country": "France"
+ },
+ "text": {
+  "what": "Pinot noir with white down on its shoot tips and leaves — meunier means miller, and the vine looks dusted with flour. It buds later, ripens earlier and survives a frosty Champagne spring that kills its parent.",
+  "how": "Genetically it is a chimera: two tissue layers, each carrying its own mutation, neither identical to pinot noir. Propagate it from the wrong layer and you get something else.",
+  "today": "Champagne plants it heavily in the frost-prone Marne valley, and a handful of growers now bottle it alone."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The vine it mutated from, and cannot be a parent of.",
+   "rel": "origin"
+  },
+  {
+   "to": "champagne",
+   "as": "Where it earns its keep: the valley floors that frost.",
+   "rel": "region"
+  },
+  {
+   "to": "vendange-entiere",
+   "as": "A press-house decision that treats it the same as its parent.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-meunier",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

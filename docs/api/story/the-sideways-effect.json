@@ -1,0 +1,135 @@
+{
+ "schema": 1,
+ "id": "the-sideways-effect",
+ "type": "story",
+ "names": {
+  "name": "One film, measured"
+ },
+ "region": [
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "kind": "essay"
+ },
+ "text": {
+  "what": "In October 2004 a comedy about two men on a road trip through Santa Barbara County put a speech about pinot noir into cinemas, and the American wine trade could see it in the sales figures within months."
+ },
+ "kin": [
+  {
+   "to": "sta-rita-hills",
+   "as": "Where much of it was filmed.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "The variety it sold.",
+   "rel": "variety"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "Half an hour north of the film's route, and a beneficiary.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-sideways",
+  "s:wp-sta-rita-hills-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  },
+  "fields": {
+   "sections[1].text": {
+    "tier": "inference"
+   }
+  }
+ },
+ "sections": [
+  {
+   "h": "The numbers",
+   "text": "In the months after release, merlot sales fell 2% and pinot noir sales rose 16% in the western United States. A 2009 Sonoma State University study found the film slowed merlot's growth and pushed its price down, but concluded that its main effect was a rise in pinot noir's volume and price, and in wine consumption overall."
+  },
+  {
+   "h": "What it did to a county",
+   "text": "The road trip runs through the Santa Ynez Valley and the Sta. Rita Hills, and the tasting rooms it passed got a decade of visitors out of it. *Inference —* the timing helped: the Sta. Rita Hills AVA had been established in 2001, so a region with a new name on the label got a national advertisement for free, three years in."
+  },
+  {
+   "h": "What it did not do",
+   "text": "It did not teach anyone what pinot noir tastes like, and it did not change a single thing in a vineyard. The vines that carried the increase were already in the ground — planted by people who had spent the 1980s and 1990s being told the variety was a dead end."
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "In October 2004 a comedy about two men on a road trip through Santa Barbara County put a speech about pinot noir into cinemas, and the American wine trade could see it in the sales figures within months.",
+ "region_terms": [
+  {
+   "key": "santa-barbara",
+   "name": "Santa Barbara County",
+   "country": "United States",
+   "note": "the transverse ranges turn the valleys east-west and let the ocean in"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "Where much of it was filmed.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The variety it sold.",
+   "rel": "variety"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "Half an hour north of the film's route, and a beneficiary.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-sideways",
+   "kind": "encyclopaedia",
+   "title": "Sideways",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1144172",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370534473",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sta-rita-hills-ava",
+   "kind": "encyclopaedia",
+   "title": "Sta. Rita Hills AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15415082",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370033962",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

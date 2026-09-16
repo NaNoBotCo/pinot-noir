@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "santa-lucia-highlands",
+ "type": "region",
+ "names": {
+  "name": "Santa Lucia Highlands"
+ },
+ "region": [
+  "santa-lucia-highlands",
+  "central-coast",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1992
+ },
+ "text": {
+  "what": "Terraces on the east face of the Santa Lucia range, above the Salinas Valley floor. The wind comes up the valley every afternoon hard enough to shape the canopy."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Planted on the benches above the fog line.",
+   "rel": "variety"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "Another Central Coast valley that runs the wrong way and gets away with it.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 36.45,
+  "lon": -121.4,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-santa-lucia-highlands-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1992",
+   "year": 1992,
+   "source": "s:ecfr-27-9",
+   "note": "57 FR 20764, May 15, 1992"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Terraces on the east face of the Santa Lucia range, above the Salinas Valley floor. The wind comes up the valley every afternoon hard enough to shape the canopy.",
+ "region_terms": [
+  {
+   "key": "santa-lucia-highlands",
+   "name": "Santa Lucia Highlands",
+   "country": "United States",
+   "note": "benchland terraces above the Salinas Valley wind"
+  },
+  {
+   "key": "central-coast",
+   "name": "Central Coast",
+   "country": "United States",
+   "note": "Monterey down to Santa Barbara, an AVA large enough to hold several climates"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Planted on the benches above the fog line.",
+   "rel": "variety"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "Another Central Coast valley that runs the wrong way and gets away with it.",
+   "rel": "neighbour"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  },
+  {
+   "id": "s:wp-santa-lucia-highlands-ava",
+   "kind": "encyclopaedia",
+   "title": "Santa Lucia Highlands AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15414637",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355926056",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 1992",
+   "url": "",
+   "year": 1992,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": []
+}

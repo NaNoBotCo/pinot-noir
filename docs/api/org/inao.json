@@ -1,0 +1,140 @@
+{
+ "schema": 1,
+ "id": "inao",
+ "type": "org",
+ "names": {
+  "name": "INAO",
+  "aliases": [
+   "Institut national de l'origine et de la qualité"
+  ]
+ },
+ "region": [
+  "burgundy",
+  "champagne",
+  "alsace"
+ ],
+ "facets": {
+  "country": "France",
+  "kind": "appellation",
+  "status": "open"
+ },
+ "text": {
+  "what": "The French body that defines appellations, polices their boundaries and decides what may be planted, at what density, and how much may be picked."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "Whose four ranks it administers.",
+   "rel": "region"
+  },
+  {
+   "to": "ava",
+   "as": "The American equivalent, which regulates far less.",
+   "rel": "contrast"
+  },
+  {
+   "to": "cru",
+   "as": "The rank it grants and withholds.",
+   "rel": "term"
+  }
+ ],
+ "geo": {
+  "lat": 48.85,
+  "lon": 2.35,
+  "precision": "town"
+ },
+ "links": [
+  {
+   "label": "INAO",
+   "url": "https://www.inao.gouv.fr/"
+  }
+ ],
+ "sources": [
+  "s:inao",
+  "s:wp-appellation-dorigine-contr-l-e"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The French body that defines appellations, polices their boundaries and decides what may be planted, at what density, and how much may be picked.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  },
+  {
+   "key": "champagne",
+   "name": "Champagne",
+   "country": "France",
+   "note": "pinot noir by area is the region's largest planting, mostly pressed white"
+  },
+  {
+   "key": "alsace",
+   "name": "Alsace",
+   "country": "France",
+   "note": "the one red grape the appellation allows"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Whose four ranks it administers.",
+   "rel": "region"
+  },
+  {
+   "to": "ava",
+   "type": "term",
+   "name": "AVA",
+   "as": "The American equivalent, which regulates far less.",
+   "rel": "contrast"
+  },
+  {
+   "to": "cru",
+   "type": "term",
+   "name": "Cru",
+   "as": "The rank it grants and withholds.",
+   "rel": "term"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:inao",
+   "kind": "org",
+   "title": "Institut national de l'origine et de la qualité",
+   "publisher": "INAO",
+   "url": "https://www.inao.gouv.fr/",
+   "note": "the body that defines and polices French appellations"
+  },
+  {
+   "id": "s:wp-appellation-dorigine-contr-l-e",
+   "kind": "encyclopaedia",
+   "title": "Appellation d'origine contrôlée",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1217686",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368808209",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

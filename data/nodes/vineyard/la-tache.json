@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "id": "la-tache",
+ "type": "vineyard",
+ "names": {
+  "name": "La Tâche"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "soil": "limestone, marl"
+ },
+ "text": {
+  "what": "Five hectares in Vosne-Romanée, one owner, about 12,700 bottles. The appellation rules set 35 hl/ha, 9,000 vines to the hectare and 11.5% potential alcohol before anyone picks."
+ },
+ "kin": [
+  {
+   "to": "drc",
+   "as": "Its sole owner.",
+   "rel": "made-by"
+  },
+  {
+   "to": "romanee-conti",
+   "as": "Its neighbour, and the more famous half of the same domaine.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 47.16,
+  "lon": 4.953,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-la-t-che-aoc"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "In production",
+   "value": 5.03,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-la-t-che-aoc",
+   "tier": "cited"
+  },
+  {
+   "key": "bottles",
+   "label": "Bottles produced",
+   "value": 12700,
+   "unit": "bottles",
+   "year": 2008,
+   "source": "s:wp-la-t-che-aoc",
+   "tier": "cited"
+  },
+  {
+   "key": "density",
+   "label": "Minimum planting density",
+   "value": 9000,
+   "unit": "vines/ha",
+   "year": null,
+   "source": "s:wp-la-t-che-aoc",
+   "tier": "cited"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "monopole",
+   "source": "s:wp-la-t-che-aoc",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

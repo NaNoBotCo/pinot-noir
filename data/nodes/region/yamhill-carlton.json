@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "yamhill-carlton",
+ "type": "region",
+ "names": {
+  "name": "Yamhill-Carlton"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "sub-ava",
+  "established": 2004,
+  "soil": "ancient marine sedimentary"
+ },
+ "text": {
+  "what": "A horseshoe of old marine sediment around the towns of Yamhill and Carlton, draining fast and ripening early."
+ },
+ "kin": [
+  {
+   "to": "willamette-valley",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole"
+  },
+  {
+   "to": "ribbon-ridge",
+   "as": "The small ridge in the middle of the horseshoe, with its own name.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 45.3,
+  "lon": -123.25,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-yamhill-carlton-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 2004",
+   "year": 2004,
+   "source": "s:ecfr-27-9",
+   "note": "69 FR 71374, Dec. 9, 2004"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

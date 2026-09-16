@@ -1,0 +1,180 @@
+{
+ "schema": 1,
+ "id": "climat",
+ "type": "term",
+ "names": {
+  "name": "Climat"
+ },
+ "etymology": {
+  "root": "French climat, from Latin clima, Greek klima — a slope, a zone of the sky; the Burgundian sense is a named plot",
+  "note": "the everyday French word for climate is the same word, which confuses every visitor",
+  "tier": "tradition"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "letter": "C",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "In Burgundy, a named parcel of vineyard with a boundary, a history and a reputation — not a weather word. There are over a thousand of them on the Côte d'Or, and UNESCO listed the lot in 2015.",
+  "how": "A climat is drawn on the ground, and the appellation rank is attached to it. Two neighbouring climats can differ by a rank and by a factor of ten in price."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "The region that counts in these units.",
+   "rel": "region"
+  },
+  {
+   "to": "lieu-dit",
+   "as": "The wider French term a climat is a particular case of.",
+   "rel": "kin"
+  },
+  {
+   "to": "clos-de-vougeot",
+   "as": "One name, fifty hectares, and a lesson about what a climat does not tell you.",
+   "rel": "vineyard"
+  }
+ ],
+ "sources": [
+  "s:unesco-1425",
+  "s:wp-burgundy-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "unesco",
+   "what": "The Climats, terroirs of Burgundy, World Heritage List 1425",
+   "year": 2015,
+   "source": "s:unesco-1425"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "In Burgundy, a named parcel of vineyard with a boundary, a history and a reputation — not a weather word. There are over a thousand of them on the Côte d'Or, and UNESCO listed the lot in 2015.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The region that counts in these units.",
+   "rel": "region"
+  },
+  {
+   "to": "lieu-dit",
+   "type": "term",
+   "name": "Lieu-dit",
+   "as": "The wider French term a climat is a particular case of.",
+   "rel": "kin"
+  },
+  {
+   "to": "clos-de-vougeot",
+   "type": "vineyard",
+   "name": "Clos de Vougeot",
+   "as": "One name, fifty hectares, and a lesson about what a climat does not tell you.",
+   "rel": "vineyard"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:unesco-1425",
+   "kind": "org",
+   "title": "The Climats, terroirs of Burgundy — World Heritage List 1425",
+   "publisher": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1425/",
+   "note": "inscribed 2015"
+  },
+  {
+   "id": "s:wp-burgundy-wine",
+   "kind": "encyclopaedia",
+   "title": "Burgundy wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=715978",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1365731507",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "etymology": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "unesco",
+   "label": "UNESCO World Heritage",
+   "what": "The Climats, terroirs of Burgundy, World Heritage List 1425",
+   "url": "",
+   "year": 2015,
+   "source": "s:unesco-1425"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The word for a named parcel, and the unit the whole system counts in.",
+   "rel": "term"
+  },
+  {
+   "from": "clos-de-vougeot",
+   "type": "vineyard",
+   "name": "Clos de Vougeot",
+   "as": "The unit this vineyard is usually held up to explain — and to complicate.",
+   "rel": "term"
+  },
+  {
+   "from": "aubert-de-villaine",
+   "type": "person",
+   "name": "Aubert de Villaine",
+   "as": "The unit he argued was heritage.",
+   "rel": "term"
+  },
+  {
+   "from": "cru",
+   "type": "term",
+   "name": "Cru",
+   "as": "The plot a cru rank is attached to here.",
+   "rel": "kin"
+  },
+  {
+   "from": "lieu-dit",
+   "type": "term",
+   "name": "Lieu-dit",
+   "as": "Burgundy's own word for the ranked version.",
+   "rel": "kin"
+  },
+  {
+   "from": "terroir",
+   "type": "term",
+   "name": "Terroir",
+   "as": "The unit Burgundy uses to make the claim specific.",
+   "rel": "kin"
+  }
+ ]
+}

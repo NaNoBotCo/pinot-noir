@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "spatburgunder",
+ "type": "term",
+ "names": {
+  "name": "Spätburgunder",
+  "aliases": [
+   "Blauburgunder",
+   "Blauer Spätburgunder"
+  ]
+ },
+ "etymology": {
+  "root": "German spät (late) + Burgunder (Burgundian)",
+  "tier": "cited",
+  "source": "s:wp-german-wine"
+ },
+ "region": [
+  "germany"
+ ],
+ "facets": {
+  "letter": "S",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "German for pinot noir, and a name that carries an argument: 'late Burgundian', against the früh — early — one that ripens weeks sooner."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The same vine.",
+   "rel": "variety"
+  },
+  {
+   "to": "fruhburgunder",
+   "as": "The early one the name is set against.",
+   "rel": "contrast"
+  },
+  {
+   "to": "baden",
+   "as": "Where most of it grows.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-german-wine",
+  "s:wp-baden-wine-region"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

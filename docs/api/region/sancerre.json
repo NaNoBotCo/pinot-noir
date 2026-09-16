@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "id": "sancerre",
+ "type": "region",
+ "names": {
+  "name": "Sancerre"
+ },
+ "region": [
+  "loire"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "commune"
+ },
+ "text": {
+  "what": "Better known for sauvignon blanc, and still making red and rosé from pinot noir on the same Kimmeridgian slopes — lighter than Burgundy, good cold.",
+  "story": "The Loire's upper reaches answered to the dukes of Burgundy, which is the usual explanation for pinot noir being here at all."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown light, and often drunk chilled.",
+   "rel": "variety"
+  },
+  {
+   "to": "burgundy",
+   "as": "The duchy this ground once answered to.",
+   "rel": "origin"
+  }
+ ],
+ "geo": {
+  "lat": 47.33,
+  "lon": 2.84,
+  "precision": "town"
+ },
+ "sources": [
+  "s:wp-sancerre-aoc"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Better known for sauvignon blanc, and still making red and rosé from pinot noir on the same Kimmeridgian slopes — lighter than Burgundy, good cold.",
+ "region_terms": [
+  {
+   "key": "loire",
+   "name": "Loire",
+   "country": "France",
+   "note": "Sancerre rouge, Menetou-Salon, the northern edge of ripeness"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown light, and often drunk chilled.",
+   "rel": "variety"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The duchy this ground once answered to.",
+   "rel": "origin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-sancerre-aoc",
+   "kind": "encyclopaedia",
+   "title": "Sancerre (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1606878",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374514443",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

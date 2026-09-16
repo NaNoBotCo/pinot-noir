@@ -1,0 +1,336 @@
+{
+ "schema": 1,
+ "id": "willamette-valley",
+ "type": "region",
+ "names": {
+  "name": "Willamette Valley"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1983,
+  "soil": "volcanic Jory, marine sedimentary, windblown loess"
+ },
+ "text": {
+  "what": "Three and a half million acres of Oregon between the Coast Range and the Cascades, of which a thin band of hillside grows pinot noir. Eleven AVAs now sit inside it.",
+  "story": "David Lett planted pinot noir at Dundee in 1965 against the advice of everyone at Davis, who said Oregon was too cold and too wet. His 1975 Eyrie South Block Reserve placed tenth in a 1979 Paris tasting, Robert Drouhin re-ran the comparison in Beaune the following year, and the Burgundians started buying land. Adelsheim chaired the committee that petitioned for the AVA in 1983.",
+  "how": "Cool and wet, with rain that arrives near harvest and decides the vintage. Growers pick on the forecast as much as on sugar.",
+  "today": "Pinot noir covered 24,729 acres of Oregon in 2022 and brought the highest price per ton of any variety in the state."
+ },
+ "kin": [
+  {
+   "to": "dundee-hills",
+   "as": "The red Jory hills where Oregon pinot started.",
+   "rel": "part"
+  },
+  {
+   "to": "eola-amity-hills",
+   "as": "The gap that lets the Van Duzer wind through.",
+   "rel": "part"
+  },
+  {
+   "to": "yamhill-carlton",
+   "as": "Old marine sediment, and vines that ripen early.",
+   "rel": "part"
+  },
+  {
+   "to": "ribbon-ridge",
+   "as": "A single small ridge, its own AVA.",
+   "rel": "part"
+  },
+  {
+   "to": "david-lett",
+   "as": "Who planted the first pinot noir here and argued for the rest.",
+   "rel": "person"
+  },
+  {
+   "to": "eyrie-vineyards",
+   "as": "The winery that made the 1975 that changed the argument.",
+   "rel": "producer"
+  },
+  {
+   "to": "domaine-drouhin-oregon",
+   "as": "Burgundy buying in, four years after the tasting.",
+   "rel": "producer"
+  }
+ ],
+ "geo": {
+  "lat": 45.2,
+  "lon": -123.1,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-willamette-valley-ava",
+  "s:wp-oregon-wine",
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "AVA area",
+   "value": 3430000,
+   "unit": "acres",
+   "year": 1983,
+   "source": "s:wp-willamette-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "sub_avas",
+   "label": "AVAs inside it",
+   "value": 11,
+   "unit": "",
+   "year": null,
+   "source": "s:wp-willamette-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "acres_pinot",
+   "label": "Oregon pinot noir",
+   "value": 24729,
+   "unit": "acres",
+   "year": 2022,
+   "source": "s:wp-oregon-wine",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1983",
+   "year": 1983,
+   "source": "s:ecfr-27-9",
+   "note": "48 FR 54221, Dec. 1, 1983; boundary amended 81 FR 11112, Mar. 3, 2016"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Three and a half million acres of Oregon between the Coast Range and the Cascades, of which a thin band of hillside grows pinot noir. Eleven AVAs now sit inside it.",
+ "region_terms": [
+  {
+   "key": "willamette",
+   "name": "Willamette Valley",
+   "country": "United States",
+   "note": "a hundred miles of valley floor and volcanic hills south of Portland"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "dundee-hills",
+   "type": "region",
+   "name": "Dundee Hills",
+   "as": "The red Jory hills where Oregon pinot started.",
+   "rel": "part"
+  },
+  {
+   "to": "eola-amity-hills",
+   "type": "region",
+   "name": "Eola-Amity Hills",
+   "as": "The gap that lets the Van Duzer wind through.",
+   "rel": "part"
+  },
+  {
+   "to": "yamhill-carlton",
+   "type": "region",
+   "name": "Yamhill-Carlton",
+   "as": "Old marine sediment, and vines that ripen early.",
+   "rel": "part"
+  },
+  {
+   "to": "ribbon-ridge",
+   "type": "region",
+   "name": "Ribbon Ridge",
+   "as": "A single small ridge, its own AVA.",
+   "rel": "part"
+  },
+  {
+   "to": "david-lett",
+   "type": "person",
+   "name": "David Lett",
+   "as": "Who planted the first pinot noir here and argued for the rest.",
+   "rel": "person"
+  },
+  {
+   "to": "eyrie-vineyards",
+   "type": "producer",
+   "name": "The Eyrie Vineyards",
+   "as": "The winery that made the 1975 that changed the argument.",
+   "rel": "producer"
+  },
+  {
+   "to": "domaine-drouhin-oregon",
+   "type": "producer",
+   "name": "Domaine Drouhin Oregon",
+   "as": "Burgundy buying in, four years after the tasting.",
+   "rel": "producer"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-willamette-valley-ava",
+   "kind": "encyclopaedia",
+   "title": "Willamette Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6470250",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1361730329",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-oregon-wine",
+   "kind": "encyclopaedia",
+   "title": "Oregon wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6426696",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373054628",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "text.today": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 1983",
+   "url": "",
+   "year": 1983,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "dundee-hills",
+   "type": "region",
+   "name": "Dundee Hills",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole"
+  },
+  {
+   "from": "eola-amity-hills",
+   "type": "region",
+   "name": "Eola-Amity Hills",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole"
+  },
+  {
+   "from": "ribbon-ridge",
+   "type": "region",
+   "name": "Ribbon Ridge",
+   "as": "And the valley AVA around that.",
+   "rel": "whole"
+  },
+  {
+   "from": "yamhill-carlton",
+   "type": "region",
+   "name": "Yamhill-Carlton",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole"
+  },
+  {
+   "from": "adelsheim",
+   "type": "producer",
+   "name": "Adelsheim Vineyard",
+   "as": "Whose 1983 AVA petition he chaired.",
+   "rel": "region"
+  },
+  {
+   "from": "eyrie-vineyards",
+   "type": "producer",
+   "name": "The Eyrie Vineyards",
+   "as": "The valley he argued into existence as a wine region.",
+   "rel": "region"
+  },
+  {
+   "from": "joseph-drouhin",
+   "type": "producer",
+   "name": "Maison Joseph Drouhin",
+   "as": "Where Robert Drouhin re-ran the 1979 tasting and then bought land.",
+   "rel": "region"
+  },
+  {
+   "from": "sokol-blosser",
+   "type": "producer",
+   "name": "Sokol Blosser",
+   "as": "One of the valley's founding estates.",
+   "rel": "region"
+  },
+  {
+   "from": "wadenswil-ucd2a",
+   "type": "clone",
+   "name": "Wädenswil, UCD 2A",
+   "as": "Where the pairing did the early work.",
+   "rel": "region"
+  },
+  {
+   "from": "salmon",
+   "type": "pairing",
+   "name": "Salmon",
+   "as": "The valley that grows the wine beside the river.",
+   "rel": "region"
+  },
+  {
+   "from": "david-lett",
+   "type": "person",
+   "name": "David Lett",
+   "as": "The valley he bet on.",
+   "rel": "region"
+  },
+  {
+   "from": "oregon-wine-board",
+   "type": "org",
+   "name": "Oregon Wine Board",
+   "as": "The region most of its numbers describe.",
+   "rel": "region"
+  },
+  {
+   "from": "ipnc",
+   "type": "event",
+   "name": "International Pinot Noir Celebration",
+   "as": "The valley that hosts it.",
+   "rel": "region"
+  }
+ ]
+}

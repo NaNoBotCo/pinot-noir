@@ -1,0 +1,141 @@
+{
+ "schema": 1,
+ "id": "adelsheim",
+ "type": "producer",
+ "names": {
+  "name": "Adelsheim Vineyard"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1971
+ },
+ "text": {
+  "what": "David and Ginny Adelsheim bought 19 acres outside Newberg in 1971. He then spent decades on the committee work — the AVA petitions, the clone imports, the arguments about what Oregon should be allowed to call itself."
+ },
+ "kin": [
+  {
+   "to": "willamette-valley",
+   "as": "Whose 1983 AVA petition he chaired.",
+   "rel": "region"
+  },
+  {
+   "to": "dijon-115",
+   "as": "One of the Dijon selections Oregon imported through that work.",
+   "rel": "clone"
+  }
+ ],
+ "geo": {
+  "lat": 45.32,
+  "lon": -122.99,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Newberg",
+  "state": "OR",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-adelsheim-vineyard",
+  "s:wp-willamette-valley-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "Estate vineyards",
+   "value": 200,
+   "unit": "acres",
+   "year": 2013,
+   "source": "s:wp-adelsheim-vineyard",
+   "tier": "cited",
+   "note": "across 11 vineyards, mostly in the Chehalem Mountains AVA"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "David and Ginny Adelsheim bought 19 acres outside Newberg in 1971. He then spent decades on the committee work — the AVA petitions, the clone imports, the arguments about what Oregon should be allowed to call itself.",
+ "region_terms": [
+  {
+   "key": "willamette",
+   "name": "Willamette Valley",
+   "country": "United States",
+   "note": "a hundred miles of valley floor and volcanic hills south of Portland"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "Whose 1983 AVA petition he chaired.",
+   "rel": "region"
+  },
+  {
+   "to": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "One of the Dijon selections Oregon imported through that work.",
+   "rel": "clone"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-adelsheim-vineyard",
+   "kind": "encyclopaedia",
+   "title": "Adelsheim Vineyard",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=81057897",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1336662478",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-willamette-valley-ava",
+   "kind": "encyclopaedia",
+   "title": "Willamette Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6470250",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1361730329",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  },
+  "address": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "raymond-bernard",
+   "type": "person",
+   "name": "Raymond Bernard",
+   "as": "Who worked the Oregon end of the import.",
+   "rel": "person"
+  }
+ ]
+}

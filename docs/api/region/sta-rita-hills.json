@@ -1,0 +1,219 @@
+{
+ "schema": 1,
+ "id": "sta-rita-hills",
+ "type": "region",
+ "names": {
+  "name": "Sta. Rita Hills",
+  "aliases": [
+   "Santa Rita Hills"
+  ]
+ },
+ "region": [
+  "sta-rita-hills",
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "sub-ava",
+  "established": 2001,
+  "soil": "diatomaceous shale, sandy loam"
+ },
+ "text": {
+  "what": "A wind tunnel between Buellton and Lompoc where the Santa Ynez Valley opens west to the ocean. Fog in the morning, thirty-knot afternoons, and some of the slowest ripening in California.",
+  "story": "Petitioned by growers inside the Santa Ynez Valley AVA who wanted their own name, and established as Santa Rita Hills in 2001. Chile's Viña Santa Rita objected; the TTB shortened it to Sta. Rita Hills in 2005, and the label now carries an abbreviation nobody says out loud."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-valley",
+   "as": "The county's other pinot valley, half an hour north.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "sanford-and-benedict",
+   "as": "The 1971 planting that proved the ground.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "richard-sanford",
+   "as": "Who read the weather maps and picked this gap.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 34.63,
+  "lon": -120.4,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-sta-rita-hills-ava",
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "AVA area at designation",
+   "value": 30720,
+   "unit": "acres",
+   "year": 2001,
+   "source": "s:wp-sta-rita-hills-ava",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 2001",
+   "year": 2001,
+   "source": "s:ecfr-27-9",
+   "note": "66 FR 29479, May 31, 2001; renamed 70 FR 72713, Dec. 7, 2005"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A wind tunnel between Buellton and Lompoc where the Santa Ynez Valley opens west to the ocean. Fog in the morning, thirty-knot afternoons, and some of the slowest ripening in California.",
+ "region_terms": [
+  {
+   "key": "sta-rita-hills",
+   "name": "Sta. Rita Hills",
+   "country": "United States",
+   "note": "a wind tunnel between Buellton and Lompoc"
+  },
+  {
+   "key": "santa-barbara",
+   "name": "Santa Barbara County",
+   "country": "United States",
+   "note": "the transverse ranges turn the valleys east-west and let the ocean in"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The county's other pinot valley, half an hour north.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "sanford-and-benedict",
+   "type": "vineyard",
+   "name": "Sanford & Benedict",
+   "as": "The 1971 planting that proved the ground.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "richard-sanford",
+   "type": "person",
+   "name": "Richard Sanford",
+   "as": "Who read the weather maps and picked this gap.",
+   "rel": "person"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-sta-rita-hills-ava",
+   "kind": "encyclopaedia",
+   "title": "Sta. Rita Hills AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15415082",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370033962",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 2001",
+   "url": "",
+   "year": 2001,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The county's other pinot valley, half an hour south.",
+   "rel": "neighbour"
+  },
+  {
+   "from": "sanford-and-benedict",
+   "type": "vineyard",
+   "name": "Sanford & Benedict",
+   "as": "The AVA drawn around this ground thirty years later.",
+   "rel": "region"
+  },
+  {
+   "from": "richard-sanford",
+   "type": "person",
+   "name": "Richard Sanford",
+   "as": "The AVA drawn around that ground in 2001.",
+   "rel": "region"
+  },
+  {
+   "from": "santa-barbara-vintners",
+   "type": "org",
+   "name": "Santa Barbara Vintners",
+   "as": "And the other.",
+   "rel": "region"
+  },
+  {
+   "from": "ttb",
+   "type": "org",
+   "name": "TTB",
+   "as": "And renamed by the TTB in 2005 after a trademark objection.",
+   "rel": "region"
+  },
+  {
+   "from": "world-of-pinot-noir",
+   "type": "event",
+   "name": "World of Pinot Noir",
+   "as": "And the other local AVA.",
+   "rel": "region"
+  },
+  {
+   "from": "the-sideways-effect",
+   "type": "story",
+   "name": "One film, measured",
+   "as": "Where much of it was filmed.",
+   "rel": "region"
+  }
+ ]
+}

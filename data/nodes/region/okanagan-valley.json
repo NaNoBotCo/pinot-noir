@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "id": "okanagan-valley",
+ "type": "region",
+ "names": {
+  "name": "Okanagan Valley"
+ },
+ "region": [
+  "okanagan",
+  "canada"
+ ],
+ "facets": {
+  "country": "Canada",
+  "level": "gi"
+ },
+ "text": {
+  "what": "A long lake moderating a northern desert in British Columbia. Hot days, cold nights, a short season, and pinot noir on the cooler northern end."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown at the lake's cool end.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 49.8,
+  "lon": -119.6,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-okanagan-valley-wine-region"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

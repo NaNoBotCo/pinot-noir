@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "id": "henri-jayer",
+ "type": "person",
+ "names": {
+  "name": "Henri Jayer",
+  "sort": "Jayer, Henri"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "role": "winemaker",
+  "country": "France"
+ },
+ "text": {
+  "what": "A Vosne-Romanée grower who started with a 3-hectare inheritance in the 1950s and changed how the Côte handles pinot noir — destemming, cold soak before fermentation, no filtration, clean fruit above all.",
+  "story": "He read oenology at Dijon in the 1940s and farmed parcels in Échezeaux and Beaux Monts. His bottles now sell for more than almost any other Burgundy at auction, which is a fact about the market, not about the wine in the bottle."
+ },
+ "kin": [
+  {
+   "to": "richebourg",
+   "as": "One of the parcels his name is attached to.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "cold-soak",
+   "as": "A practice his cellar made standard on the Côte.",
+   "rel": "practice"
+  },
+  {
+   "to": "cote-de-nuits",
+   "as": "Where he worked all his life.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-henri-jayer"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

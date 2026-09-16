@@ -1,0 +1,153 @@
+{
+ "schema": 1,
+ "id": "santa-cruz-mountains",
+ "type": "region",
+ "names": {
+  "name": "Santa Cruz Mountains"
+ },
+ "region": [
+  "santa-cruz-mountains",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1981
+ },
+ "text": {
+  "what": "Vines scattered through fault-ridge forest either side of the range, some facing the ocean, some facing the bay, none of them flat. Martin Ray planted pinot noir here when almost nobody in California would."
+ },
+ "kin": [
+  {
+   "to": "martin-ray",
+   "as": "Who kept pinot noir alive on this ridge through the 1940s and 1950s.",
+   "rel": "person"
+  },
+  {
+   "to": "mount-eden",
+   "as": "The selection that came off his vineyard and travelled.",
+   "rel": "clone"
+  }
+ ],
+ "geo": {
+  "lat": 37.15,
+  "lon": -122.05,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-santa-cruz-mountains-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1981",
+   "year": 1981,
+   "source": "s:ecfr-27-9",
+   "note": "46 FR 59240, Dec. 4, 1981"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Vines scattered through fault-ridge forest either side of the range, some facing the ocean, some facing the bay, none of them flat. Martin Ray planted pinot noir here when almost nobody in California would.",
+ "region_terms": [
+  {
+   "key": "santa-cruz-mountains",
+   "name": "Santa Cruz Mountains",
+   "country": "United States",
+   "note": "fault ridges either side of the range; Martin Ray's ground"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "martin-ray",
+   "type": "person",
+   "name": "Martin Ray",
+   "as": "Who kept pinot noir alive on this ridge through the 1940s and 1950s.",
+   "rel": "person"
+  },
+  {
+   "to": "mount-eden",
+   "type": "clone",
+   "name": "Mount Eden selection",
+   "as": "The selection that came off his vineyard and travelled.",
+   "rel": "clone"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  },
+  {
+   "id": "s:wp-santa-cruz-mountains-ava",
+   "kind": "encyclopaedia",
+   "title": "Santa Cruz Mountains AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13510227",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372397285",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 1981",
+   "url": "",
+   "year": 1981,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "mount-eden",
+   "type": "clone",
+   "name": "Mount Eden selection",
+   "as": "The ridge it comes off.",
+   "rel": "region"
+  },
+  {
+   "from": "martin-ray",
+   "type": "person",
+   "name": "Martin Ray",
+   "as": "The ridge he farmed.",
+   "rel": "region"
+  },
+  {
+   "from": "paul-masson-person",
+   "type": "person",
+   "name": "Paul Masson",
+   "as": "Where he planted.",
+   "rel": "region"
+  }
+ ]
+}

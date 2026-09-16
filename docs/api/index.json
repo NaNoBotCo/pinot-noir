@@ -1,0 +1,3711 @@
+{
+ "built": "2026-09-16",
+ "count": 143,
+ "nodes": [
+  {
+   "id": "chardonnay",
+   "type": "variety",
+   "name": "Chardonnay",
+   "aliases": [],
+   "region": [
+    "burgundy",
+    "world"
+   ],
+   "facets": {
+    "colour": "white",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "Pinot's child by Gouais blanc, and the white grape sharing almost every hill in this directory. Where pinot goes, it follows — Burgundy, Champagne, the Willamette, Bien Nacido, Central Otago.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "variety/chardonnay/"
+  },
+  {
+   "id": "fruhburgunder",
+   "type": "variety",
+   "name": "Frühburgunder",
+   "aliases": [
+    "Pinot noir précoce",
+    "Early Burgundy",
+    "Blauer Frühburgunder"
+   ],
+   "region": [
+    "ahr",
+    "germany"
+   ],
+   "facets": {
+    "colour": "black",
+    "country": "Germany"
+   },
+   "state": null,
+   "blurb": "An early-ripening pinot that comes in two to three weeks ahead of the rest. Germany kept it alive in the Ahr and on the Nahe when growers elsewhere pulled it out for cropping too lightly.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "variety/fruhburgunder/"
+  },
+  {
+   "id": "gamay",
+   "type": "variety",
+   "name": "Gamay",
+   "aliases": [
+    "Gamay noir à jus blanc"
+   ],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "colour": "black",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "Pinot's other well-known child, banished from the Côte d'Or by ducal edict and sent south to granite, where it built Beaujolais.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "variety/gamay/"
+  },
+  {
+   "id": "pinot-blanc",
+   "type": "variety",
+   "name": "Pinot blanc",
+   "aliases": [
+    "Weissburgunder",
+    "Pinot bianco",
+    "Klevner"
+   ],
+   "region": [
+    "alsace"
+   ],
+   "facets": {
+    "colour": "white",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "The white end of the family. A further mutation that can come from pinot gris or pinot noir and can go back the other way, which is why nurserymen watch their mother vines.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "variety/pinot-blanc/"
+  },
+  {
+   "id": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "aliases": [
+    "Pinot Grigio",
+    "Grauburgunder",
+    "Ruländer"
+   ],
+   "region": [
+    "alsace"
+   ],
+   "facets": {
+    "colour": "grey",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "A colour sport of pinot: the berry loses most of its pigment and lands somewhere between grey, pink and bronze. Same vine, same bunch, different skin.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "variety/pinot-gris/"
+  },
+  {
+   "id": "pinot-meunier",
+   "type": "variety",
+   "name": "Pinot Meunier",
+   "aliases": [
+    "Meunier",
+    "Schwarzriesling",
+    "Müllerrebe"
+   ],
+   "region": [
+    "champagne"
+   ],
+   "facets": {
+    "colour": "black",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "Pinot noir with white down on its shoot tips and leaves — meunier means miller, and the vine looks dusted with flour. It buds later, ripens earlier and survives a frosty Champagne spring that kills its parent.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "variety/pinot-meunier/"
+  },
+  {
+   "id": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "aliases": [
+    "Pinot Noir",
+    "Spätburgunder",
+    "Blauburgunder",
+    "Pinot nero",
+    "Blauer Burgunder"
+   ],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "colour": "black",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "A black grape from north-eastern France that ripens early, carries thin skin over tight pinecone-shaped bunches, and mutates more readily than almost any vine in cultivation.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "variety/pinot-noir/"
+  },
+  {
+   "id": "ahr",
+   "type": "region",
+   "name": "Ahr",
+   "aliases": [],
+   "region": [
+    "ahr",
+    "germany"
+   ],
+   "facets": {
+    "country": "Germany",
+    "level": "region",
+    "soil": "slate, basalt, greywacke"
+   },
+   "state": null,
+   "blurb": "A narrow slate valley south of Bonn, among the smallest German regions and the one that gives more of its ground to spätburgunder than any other.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/ahr/"
+  },
+  {
+   "id": "alsace",
+   "type": "region",
+   "name": "Alsace",
+   "aliases": [],
+   "region": [
+    "alsace"
+   ],
+   "facets": {
+    "country": "France",
+    "level": "region"
+   },
+   "state": null,
+   "blurb": "A dry strip in the rain shadow of the Vosges where nearly everything is white — except pinot noir, the one red grape the appellation allows.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "region/alsace/"
+  },
+  {
+   "id": "alto-adige",
+   "type": "region",
+   "name": "Alto Adige",
+   "aliases": [
+    "Südtirol",
+    "South Tyrol"
+   ],
+   "region": [
+    "alto-adige"
+   ],
+   "facets": {
+    "country": "Italy",
+    "level": "doc"
+   },
+   "state": null,
+   "blurb": "German-speaking Italy, on terraces above Bolzano. Blauburgunder here is pinot nero on the label and Blauburgunder in the village, and it climbs as high as the frost allows.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/alto-adige/"
+  },
+  {
+   "id": "anderson-valley",
+   "type": "region",
+   "name": "Anderson Valley",
+   "aliases": [],
+   "region": [
+    "anderson-valley",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "ava",
+    "established": 1983
+   },
+   "state": null,
+   "blurb": "Mendocino's fog gap: a narrow valley along the Navarro River, open to the ocean at one end, redwoods at both edges. Sparkling houses came for the acid and stayed for the pinot.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/anderson-valley/"
+  },
+  {
+   "id": "baden",
+   "type": "region",
+   "name": "Baden",
+   "aliases": [],
+   "region": [
+    "baden",
+    "germany"
+   ],
+   "facets": {
+    "country": "Germany",
+    "level": "region",
+    "soil": "loess, limestone, volcanic"
+   },
+   "state": null,
+   "blurb": "Germany's warmest vineyards, in the Rhine rift between the Black Forest and the Vosges, facing Alsace across the river. Pinot in its three colours covers most of it.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/baden/"
+  },
+  {
+   "id": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "aliases": [
+    "Bourgogne"
+   ],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "level": "region",
+    "established": 1936,
+    "soil": "limestone and marl"
+   },
+   "state": null,
+   "blurb": "A strip of limestone running south-west from Dijon where pinot noir and chardonnay have been sorted, fenced and argued over for a thousand years.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/burgundy/"
+  },
+  {
+   "id": "casablanca-valley",
+   "type": "region",
+   "name": "Casablanca Valley",
+   "aliases": [],
+   "region": [
+    "casablanca",
+    "chile"
+   ],
+   "facets": {
+    "country": "Chile",
+    "level": "doc"
+   },
+   "state": null,
+   "blurb": "Between Santiago and the port at Valparaíso, close enough to the Humboldt current for morning fog. Chile planted it in the 1980s to grow something other than cabernet.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/casablanca-valley/"
+  },
+  {
+   "id": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "aliases": [],
+   "region": [
+    "central-otago",
+    "new-zealand"
+   ],
+   "facets": {
+    "country": "New Zealand",
+    "level": "gi",
+    "soil": "schist, loess, glacial gravel"
+   },
+   "state": null,
+   "blurb": "The southernmost commercial wine region on earth, and the only part of New Zealand with a true continental climate — frost in the spring, forty-degree swings in a day, schist under everything.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/central-otago/"
+  },
+  {
+   "id": "champagne",
+   "type": "region",
+   "name": "Champagne",
+   "aliases": [],
+   "region": [
+    "champagne"
+   ],
+   "facets": {
+    "country": "France",
+    "level": "region",
+    "soil": "chalk"
+   },
+   "state": null,
+   "blurb": "Chalk country 150 km north-east of Paris where pinot noir is pressed off its skins within hours and comes out white. More pinot noir grows here than anywhere else in France, and almost none of it is red.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/champagne/"
+  },
+  {
+   "id": "cote-chalonnaise",
+   "type": "region",
+   "name": "Côte Chalonnaise",
+   "aliases": [],
+   "region": [
+    "cote-chalonnaise",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "level": "district"
+   },
+   "state": null,
+   "blurb": "The same limestone, ten miles further south, at a third of the price. Bouzeron, Rully, Mercurey, Givry and Montagny — Mercurey and Givry do the red work.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/cote-chalonnaise/"
+  },
+  {
+   "id": "cote-de-beaune",
+   "type": "region",
+   "name": "Côte de Beaune",
+   "aliases": [],
+   "region": [
+    "cote-de-beaune",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "level": "district"
+   },
+   "state": null,
+   "blurb": "From Ladoix south to Maranges, where the hill turns and chardonnay takes the best of it. Corton is its only red grand cru; the reds that matter most sit in Pommard, Volnay and Beaune at premier cru.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/cote-de-beaune/"
+  },
+  {
+   "id": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "aliases": [],
+   "region": [
+    "cote-de-nuits",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "level": "district",
+    "soil": "limestone, marl, scree"
+   },
+   "state": null,
+   "blurb": "Fourteen communes between Dijon and Corgoloin holding 24 of Burgundy's 25 red grand cru appellations. Some of them are tiny — La Romanée covers less than a hectare.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/cote-de-nuits/"
+  },
+  {
+   "id": "dundee-hills",
+   "type": "region",
+   "name": "Dundee Hills",
+   "aliases": [],
+   "region": [
+    "willamette",
+    "oregon"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "sub-ava",
+    "established": 2004,
+    "soil": "Jory — basalt-derived red clay loam"
+   },
+   "state": null,
+   "blurb": "A single hill of red volcanic Jory soil north-west of Dundee, and the ground Oregon pinot noir started on in 1965.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/dundee-hills/"
+  },
+  {
+   "id": "eola-amity-hills",
+   "type": "region",
+   "name": "Eola-Amity Hills",
+   "aliases": [],
+   "region": [
+    "willamette",
+    "oregon"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "sub-ava",
+    "established": 2006,
+    "soil": "basalt, marine sediment"
+   },
+   "state": null,
+   "blurb": "Basalt hills west of Salem with a hole in the Coast Range beside them. Afternoon wind off the Pacific comes through the Van Duzer Corridor, shuts the vines down and holds the acid.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/eola-amity-hills/"
+  },
+  {
+   "id": "finger-lakes",
+   "type": "region",
+   "name": "Finger Lakes",
+   "aliases": [],
+   "region": [
+    "finger-lakes",
+    "new-york"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "ava",
+    "established": 1982
+   },
+   "state": null,
+   "blurb": "Deep glacial lakes in upstate New York holding off the winter. Riesling country, with pinot noir on the better-drained slopes and in the sparkling base.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/finger-lakes/"
+  },
+  {
+   "id": "hemel-en-aarde",
+   "type": "region",
+   "name": "Hemel-en-Aarde",
+   "aliases": [
+    "Hemel-en-Aarde Valley",
+    "Heaven and Earth"
+   ],
+   "region": [
+    "hemel-en-aarde",
+    "south-africa"
+   ],
+   "facets": {
+    "country": "South Africa",
+    "level": "doc",
+    "soil": "clay over Bokkeveld shale"
+   },
+   "state": null,
+   "blurb": "A valley behind Hermanus, running inland from Walker Bay, with clay over decomposed shale and cold air off the Atlantic. South Africa's pinot address.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/hemel-en-aarde/"
+  },
+  {
+   "id": "jura",
+   "type": "region",
+   "name": "Jura",
+   "aliases": [],
+   "region": [
+    "jura"
+   ],
+   "facets": {
+    "country": "France",
+    "level": "region"
+   },
+   "state": null,
+   "blurb": "One of France's smallest regions — about 1,950 hectares — where pinot noir shares the cellar with poulsard and trousseau and sometimes ends up in the white blend.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/jura/"
+  },
+  {
+   "id": "los-carneros",
+   "type": "region",
+   "name": "Los Carneros",
+   "aliases": [
+    "Carneros"
+   ],
+   "region": [
+    "carneros",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "ava",
+    "established": 1983,
+    "soil": "shallow clay over bedrock"
+   },
+   "state": null,
+   "blurb": "The cold shoulder where Napa and Sonoma both run down to San Pablo Bay. Wind off the bay every afternoon, clay underfoot, and a harvest that starts weeks before the valley floor upstream.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/los-carneros/"
+  },
+  {
+   "id": "marlborough",
+   "type": "region",
+   "name": "Marlborough",
+   "aliases": [],
+   "region": [
+    "marlborough",
+    "new-zealand"
+   ],
+   "facets": {
+    "country": "New Zealand",
+    "level": "gi"
+   },
+   "state": null,
+   "blurb": "New Zealand's largest region by a distance, known abroad for sauvignon blanc and holding the country's biggest pinot noir planting almost as a side effect — still wine on the clay of the Southern Valleys, sparkling base…",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/marlborough/"
+  },
+  {
+   "id": "martinborough",
+   "type": "region",
+   "name": "Martinborough",
+   "aliases": [],
+   "region": [
+    "martinborough",
+    "new-zealand"
+   ],
+   "facets": {
+    "country": "New Zealand",
+    "level": "gi",
+    "soil": "river gravel over clay"
+   },
+   "state": null,
+   "blurb": "A gravel terrace at the south end of the North Island, in the rain shadow of the Tararua Range, with a town laid out as a Union Jack. Small, dry, windy, and planted almost entirely to pinot noir.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/martinborough/"
+  },
+  {
+   "id": "mornington-peninsula",
+   "type": "region",
+   "name": "Mornington Peninsula",
+   "aliases": [],
+   "region": [
+    "mornington",
+    "australia"
+   ],
+   "facets": {
+    "country": "Australia",
+    "level": "gi"
+   },
+   "state": null,
+   "blurb": "An hour south of Melbourne with sea on three sides. Maritime, cool, and cut into small holdings — vineyards here are measured in a few hectares, not a few hundred.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/mornington-peninsula/"
+  },
+  {
+   "id": "okanagan-valley",
+   "type": "region",
+   "name": "Okanagan Valley",
+   "aliases": [],
+   "region": [
+    "okanagan",
+    "canada"
+   ],
+   "facets": {
+    "country": "Canada",
+    "level": "gi"
+   },
+   "state": null,
+   "blurb": "A long lake moderating a northern desert in British Columbia. Hot days, cold nights, a short season, and pinot noir on the cooler northern end.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/okanagan-valley/"
+  },
+  {
+   "id": "ribbon-ridge",
+   "type": "region",
+   "name": "Ribbon Ridge",
+   "aliases": [],
+   "region": [
+    "willamette",
+    "oregon"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "sub-ava",
+    "established": 2005,
+    "soil": "Willakenzie marine sediment"
+   },
+   "state": null,
+   "blurb": "Three and a half square miles of uniform sedimentary soil rising out of Yamhill-Carlton — one of the smallest AVAs in the country, and one of the tidiest arguments for drawing a line around a single landform.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/ribbon-ridge/"
+  },
+  {
+   "id": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "aliases": [],
+   "region": [
+    "russian-river",
+    "sonoma",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "ava",
+    "established": 1983,
+    "soil": "Goldridge sandy loam"
+   },
+   "state": null,
+   "blurb": "Fog runs up the river gap from the Pacific most summer nights and sits until mid-morning. Sonoma planted pinot noir into that fog and the plantings tripled in a decade.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/russian-river-valley/"
+  },
+  {
+   "id": "sancerre",
+   "type": "region",
+   "name": "Sancerre",
+   "aliases": [],
+   "region": [
+    "loire"
+   ],
+   "facets": {
+    "country": "France",
+    "level": "commune"
+   },
+   "state": null,
+   "blurb": "Better known for sauvignon blanc, and still making red and rosé from pinot noir on the same Kimmeridgian slopes — lighter than Burgundy, good cold.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/sancerre/"
+  },
+  {
+   "id": "santa-cruz-mountains",
+   "type": "region",
+   "name": "Santa Cruz Mountains",
+   "aliases": [],
+   "region": [
+    "santa-cruz-mountains",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "ava",
+    "established": 1981
+   },
+   "state": null,
+   "blurb": "Vines scattered through fault-ridge forest either side of the range, some facing the ocean, some facing the bay, none of them flat. Martin Ray planted pinot noir here when almost nobody in California would.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/santa-cruz-mountains/"
+  },
+  {
+   "id": "santa-lucia-highlands",
+   "type": "region",
+   "name": "Santa Lucia Highlands",
+   "aliases": [],
+   "region": [
+    "santa-lucia-highlands",
+    "central-coast",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "ava",
+    "established": 1992
+   },
+   "state": null,
+   "blurb": "Terraces on the east face of the Santa Lucia range, above the Salinas Valley floor. The wind comes up the valley every afternoon hard enough to shape the canopy.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/santa-lucia-highlands/"
+  },
+  {
+   "id": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "aliases": [],
+   "region": [
+    "santa-maria-valley",
+    "santa-barbara",
+    "central-coast",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "ava",
+    "established": 1981,
+    "soil": "sandy loam to clay loam; alluvial floor, shaly slopes"
+   },
+   "state": null,
+   "blurb": "A funnel opening west to the Pacific at 34.9°N — further south than anywhere sensible for pinot noir, and colder through the growing season than most of Oregon.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/santa-maria-valley/"
+  },
+  {
+   "id": "sonoma-coast",
+   "type": "region",
+   "name": "Sonoma Coast",
+   "aliases": [],
+   "region": [
+    "sonoma-coast",
+    "sonoma",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "ava",
+    "established": 1987
+   },
+   "state": null,
+   "blurb": "An AVA big enough to be an argument: it runs from the Pacific bluffs inland across most of the county.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/sonoma-coast/"
+  },
+  {
+   "id": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "aliases": [
+    "Santa Rita Hills"
+   ],
+   "region": [
+    "sta-rita-hills",
+    "santa-barbara",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "sub-ava",
+    "established": 2001,
+    "soil": "diatomaceous shale, sandy loam"
+   },
+   "state": null,
+   "blurb": "A wind tunnel between Buellton and Lompoc where the Santa Ynez Valley opens west to the ocean. Fog in the morning, thirty-knot afternoons, and some of the slowest ripening in California.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/sta-rita-hills/"
+  },
+  {
+   "id": "tasmania",
+   "type": "region",
+   "name": "Tasmania",
+   "aliases": [],
+   "region": [
+    "tasmania",
+    "australia"
+   ],
+   "facets": {
+    "country": "Australia",
+    "level": "gi"
+   },
+   "state": null,
+   "blurb": "Australia's coldest vineyards, split between the Tamar in the north and the Coal River and Derwent in the south. Most of the pinot noir goes into sparkling base; the rest is picked ripe enough to bottle red.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/tasmania/"
+  },
+  {
+   "id": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "aliases": [],
+   "region": [
+    "willamette",
+    "oregon"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "ava",
+    "established": 1983,
+    "soil": "volcanic Jory, marine sedimentary, windblown loess"
+   },
+   "state": null,
+   "blurb": "Three and a half million acres of Oregon between the Coast Range and the Cascades, of which a thin band of hillside grows pinot noir. Eleven AVAs now sit inside it.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/willamette-valley/"
+  },
+  {
+   "id": "yamhill-carlton",
+   "type": "region",
+   "name": "Yamhill-Carlton",
+   "aliases": [],
+   "region": [
+    "willamette",
+    "oregon"
+   ],
+   "facets": {
+    "country": "United States",
+    "level": "sub-ava",
+    "established": 2004,
+    "soil": "ancient marine sedimentary"
+   },
+   "state": null,
+   "blurb": "A horseshoe of old marine sediment around the towns of Yamhill and Carlton, draining fast and ripening early.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/yamhill-carlton/"
+  },
+  {
+   "id": "yarra-valley",
+   "type": "region",
+   "name": "Yarra Valley",
+   "aliases": [],
+   "region": [
+    "yarra",
+    "australia"
+   ],
+   "facets": {
+    "country": "Australia",
+    "level": "gi"
+   },
+   "state": null,
+   "blurb": "Hills north-east of Melbourne, planted in the 1830s, pulled out by the 1920s, replanted from the 1960s. Cool sites high in the valley grow pinot noir for still wine and for sparkling.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "region/yarra-valley/"
+  },
+  {
+   "id": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "aliases": [
+    "Bien Nacido Vineyards",
+    "Rancho Tepusquet"
+   ],
+   "region": [
+    "santa-maria-valley",
+    "santa-barbara",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "established": 1969,
+    "soil": "sand, chalk and marine loam"
+   },
+   "state": null,
+   "blurb": "Eight hundred acres on the Santa Maria bench, planted in 1969 and farmed row by row for whoever buys the rows. Over 250 acres of it is pinot noir, and the vineyard's name appears on more labels than most wineries manage.",
+   "image": null,
+   "confidence": "high",
+   "tags": [
+    "family-owned"
+   ],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "vineyard/bien-nacido/"
+  },
+  {
+   "id": "chambertin",
+   "type": "vineyard",
+   "name": "Chambertin",
+   "aliases": [],
+   "region": [
+    "cote-de-nuits",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "Gevrey's grand cru on the mid-slope, and the name the village bolted onto its own in 1847 — the first commune in Burgundy to do it, and the start of every double-barrelled name on the Côte.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "vineyard/chambertin/"
+  },
+  {
+   "id": "clos-de-vougeot",
+   "type": "vineyard",
+   "name": "Clos de Vougeot",
+   "aliases": [],
+   "region": [
+    "cote-de-nuits",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "soil": "limestone at the top, clay at the bottom"
+   },
+   "state": null,
+   "blurb": "Fifty hectares behind a wall the Cistercians of Cîteaux built, and more than eighty owners inside it. One name on every label, and a slope that runs from grand cru ground at the top to heavy clay by the road.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "vineyard/clos-de-vougeot/"
+  },
+  {
+   "id": "corton",
+   "type": "vineyard",
+   "name": "Corton",
+   "aliases": [],
+   "region": [
+    "cote-de-beaune",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "The hill above Aloxe, and Burgundy's largest grand cru: 95 hectares in production, nearly all of it red, and the only red grand cru on the Côte de Beaune.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "vineyard/corton/"
+  },
+  {
+   "id": "la-tache",
+   "type": "vineyard",
+   "name": "La Tâche",
+   "aliases": [],
+   "region": [
+    "cote-de-nuits",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "soil": "limestone, marl"
+   },
+   "state": null,
+   "blurb": "Five hectares in Vosne-Romanée, one owner, about 12,700 bottles. The appellation rules set 35 hl/ha, 9,000 vines to the hectare and 11.5% potential alcohol before anyone picks.",
+   "image": null,
+   "confidence": "high",
+   "tags": [
+    "monopole"
+   ],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "vineyard/la-tache/"
+  },
+  {
+   "id": "musigny",
+   "type": "vineyard",
+   "name": "Musigny",
+   "aliases": [],
+   "region": [
+    "cote-de-nuits",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "soil": "thin limestone over rock"
+   },
+   "state": null,
+   "blurb": "Ten hectares above Chambolle, the one grand cru of the Côte de Nuits that also makes a white — about two thirds of a hectare of it.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "vineyard/musigny/"
+  },
+  {
+   "id": "richebourg",
+   "type": "vineyard",
+   "name": "Richebourg",
+   "aliases": [],
+   "region": [
+    "cote-de-nuits",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "Vosne-Romanée grand cru north of Romanée-Conti, on deeper soil, giving the broadest wine of that group of neighbours.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "vineyard/richebourg/"
+  },
+  {
+   "id": "romanee-conti",
+   "type": "vineyard",
+   "name": "Romanée-Conti",
+   "aliases": [],
+   "region": [
+    "cote-de-nuits",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "established": 1936,
+    "soil": "limestone, marl",
+    "status": "open"
+   },
+   "state": null,
+   "blurb": "Under two hectares of Vosne-Romanée hillside, held by one owner, producing about 3,500 bottles a year. No other patch of ground in wine carries this much argument per square metre.",
+   "image": null,
+   "confidence": "high",
+   "tags": [
+    "monopole"
+   ],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "vineyard/romanee-conti/"
+  },
+  {
+   "id": "sanford-and-benedict",
+   "type": "vineyard",
+   "name": "Sanford & Benedict",
+   "aliases": [],
+   "region": [
+    "sta-rita-hills",
+    "santa-barbara",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "established": 1971
+   },
+   "state": null,
+   "blurb": "The planting that proved the Santa Ynez river gap: put in during 1971 by Richard Sanford and Michael Benedict on a north-facing slope nobody else wanted, and now inside the Sta. Rita Hills AVA.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "vineyard/sanford-and-benedict/"
+  },
+  {
+   "id": "adelsheim",
+   "type": "producer",
+   "name": "Adelsheim Vineyard",
+   "aliases": [],
+   "region": [
+    "willamette",
+    "oregon"
+   ],
+   "facets": {
+    "country": "United States",
+    "established": 1971
+   },
+   "state": "OR",
+   "blurb": "David and Ginny Adelsheim bought 19 acres outside Newberg in 1971. He then spent decades on the committee work — the AVA petitions, the clone imports, the arguments about what Oregon should be allowed to call itself.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "producer/adelsheim/"
+  },
+  {
+   "id": "au-bon-climat",
+   "type": "producer",
+   "name": "Au Bon Climat",
+   "aliases": [],
+   "region": [
+    "santa-maria-valley",
+    "santa-barbara",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "established": 1982
+   },
+   "state": "CA",
+   "blurb": "Founded in 1982 by Jim Clendenen and Adam Tolmach, and housed inside Bien Nacido since. Clendenen ran it alone from 1990 and made Santa Barbara pinot noir something people ordered by name.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "producer/au-bon-climat/"
+  },
+  {
+   "id": "bass-phillip",
+   "type": "producer",
+   "name": "Bass Phillip",
+   "aliases": [],
+   "region": [
+    "australia"
+   ],
+   "facets": {
+    "country": "Australia",
+    "established": 1979
+   },
+   "state": "Victoria",
+   "blurb": "Phillip Jones planted at Leongatha in South Gippsland in 1979 and did not sell a bottle for twelve years.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "producer/bass-phillip/"
+  },
+  {
+   "id": "calera",
+   "type": "producer",
+   "name": "Calera",
+   "aliases": [],
+   "region": [
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "established": 1975
+   },
+   "state": "CA",
+   "blurb": "Josh Jensen went looking for limestone in California because Burgundy grows on it, found a lime kiln site high on Mount Harlan in San Benito County, and planted pinot noir at 2,200 feet in 1975.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "producer/calera/"
+  },
+  {
+   "id": "domaine-drouhin-oregon",
+   "type": "producer",
+   "name": "Domaine Drouhin Oregon",
+   "aliases": [],
+   "region": [
+    "willamette",
+    "oregon"
+   ],
+   "facets": {
+    "country": "United States",
+    "established": 1987
+   },
+   "state": "OR",
+   "blurb": "Burgundy's answer to the 1979 tasting: the Drouhin family bought land in the Dundee Hills in 1987 and built a gravity-flow winery into the slope, with Véronique Drouhin making the wine.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "producer/domaine-drouhin-oregon/"
+  },
+  {
+   "id": "domaine-leroy",
+   "type": "producer",
+   "name": "Domaine Leroy",
+   "aliases": [],
+   "region": [
+    "cote-de-nuits",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France"
+   },
+   "state": "Côte-d'Or",
+   "blurb": "Twenty-three hectares of mostly premier and grand cru Burgundy, farmed biodynamically since Lalou Bize-Leroy assembled the domaine in 1988 out of Charles Noëllat's holdings.",
+   "image": null,
+   "confidence": "high",
+   "tags": [
+    "biodynamic-certified"
+   ],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "producer/domaine-leroy/"
+  },
+  {
+   "id": "drc",
+   "type": "producer",
+   "name": "Domaine de la Romanée-Conti",
+   "aliases": [
+    "DRC",
+    "Domaine de la Romanee-Conti"
+   ],
+   "region": [
+    "cote-de-nuits",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "status": "unknown"
+   },
+   "state": "Côte-d'Or",
+   "blurb": "The Vosne-Romanée domaine that owns Romanée-Conti and La Tâche outright and holds pieces of Richebourg, Échezeaux, Grands Échezeaux, Romanée-Saint-Vivant and Montrachet.",
+   "image": null,
+   "confidence": "high",
+   "tags": [
+    "no-visits"
+   ],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "producer/drc/"
+  },
+  {
+   "id": "eyrie-vineyards",
+   "type": "producer",
+   "name": "The Eyrie Vineyards",
+   "aliases": [],
+   "region": [
+    "willamette",
+    "oregon"
+   ],
+   "facets": {
+    "country": "United States",
+    "established": 1965
+   },
+   "state": "OR",
+   "blurb": "David and Diana Lett planted the Willamette Valley's first pinot noir in 1965 and made their first vintage in 1970. They also made the first American pinot gris.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "producer/eyrie-vineyards/"
+  },
+  {
+   "id": "felton-road",
+   "type": "producer",
+   "name": "Felton Road",
+   "aliases": [],
+   "region": [
+    "central-otago",
+    "new-zealand"
+   ],
+   "facets": {
+    "country": "New Zealand",
+    "established": 1991
+   },
+   "state": "Otago",
+   "blurb": "Bannockburn, Central Otago — schist, old gold workings, and a cellar that farms organically and biodynamically and bottles its blocks separately.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "producer/felton-road/"
+  },
+  {
+   "id": "hanzell",
+   "type": "producer",
+   "name": "Hanzell Vineyards",
+   "aliases": [],
+   "region": [
+    "sonoma",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "established": 1953
+   },
+   "state": "CA",
+   "blurb": "James Zellerbach planted two acres of pinot noir and four of chardonnay above Sonoma in 1953, then built a cellar copying Burgundy's methods — French oak, temperature control, inert gas.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "producer/hanzell/"
+  },
+  {
+   "id": "joseph-drouhin",
+   "type": "producer",
+   "name": "Maison Joseph Drouhin",
+   "aliases": [],
+   "region": [
+    "cote-de-beaune",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "established": 1880
+   },
+   "state": "Côte-d'Or",
+   "blurb": "Beaune house founded in 1880, certified organic across its own vineyards from the 2009 vintage, and the family that took Burgundy's argument to Oregon in 1987.",
+   "image": null,
+   "confidence": "high",
+   "tags": [
+    "organic-certified"
+   ],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "producer/joseph-drouhin/"
+  },
+  {
+   "id": "louis-jadot",
+   "type": "producer",
+   "name": "Maison Louis Jadot",
+   "aliases": [],
+   "region": [
+    "cote-de-beaune",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "established": 1859
+   },
+   "state": "Côte-d'Or",
+   "blurb": "A Beaune négociant founded in 1859, farming and buying across 270 hectares of Burgundy including Beaujolais crus, and bottling nothing that is not an appellation wine.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "producer/louis-jadot/"
+  },
+  {
+   "id": "rippon",
+   "type": "producer",
+   "name": "Rippon",
+   "aliases": [],
+   "region": [
+    "central-otago",
+    "new-zealand"
+   ],
+   "facets": {
+    "country": "New Zealand"
+   },
+   "state": "Otago",
+   "blurb": "Vines on a lake terrace at Wanaka, biodynamic, with the Southern Alps behind them — the photograph that sells Central Otago, and a family that has farmed the slope since the nineteenth century.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "producer/rippon/"
+  },
+  {
+   "id": "sokol-blosser",
+   "type": "producer",
+   "name": "Sokol Blosser",
+   "aliases": [],
+   "region": [
+    "willamette",
+    "oregon"
+   ],
+   "facets": {
+    "country": "United States",
+    "established": 1971
+   },
+   "state": "OR",
+   "blurb": "Bill Blosser and Susan Sokol Blosser planted five acres of pinot noir into a former prune orchard in 1971 and made their first vintage in 1977. The estate has been certified organic since 2005.",
+   "image": null,
+   "confidence": "high",
+   "tags": [
+    "organic-certified"
+   ],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "producer/sokol-blosser/"
+  },
+  {
+   "id": "williams-selyem",
+   "type": "producer",
+   "name": "Williams Selyem",
+   "aliases": [],
+   "region": [
+    "russian-river",
+    "sonoma",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "established": 1981
+   },
+   "state": "CA",
+   "blurb": "Burt Williams and Ed Selyem started in a Forestville garage in the early 1980s, bought fruit from Russian River growers and put the vineyard's name on the label.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "producer/williams-selyem/"
+  },
+  {
+   "id": "abel-clone",
+   "type": "clone",
+   "name": "Abel clone",
+   "aliases": [
+    "Ata Rangi clone",
+    "gumboot clone"
+   ],
+   "region": [
+    "new-zealand",
+    "martinborough",
+    "central-otago"
+   ],
+   "facets": {
+    "origin": "Burgundy field selection"
+   },
+   "state": null,
+   "blurb": "New Zealand's most-told vine story: a cutting confiscated at Auckland airport in the 1970s, handed to a customs officer who happened to make wine, propagated, and now planted the length of the country.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "clone/abel-clone/"
+  },
+  {
+   "id": "calera-selection",
+   "type": "clone",
+   "name": "Calera selection",
+   "aliases": [
+    "Jensen selection"
+   ],
+   "region": [
+    "california"
+   ],
+   "facets": {
+    "origin": "California"
+   },
+   "state": null,
+   "blurb": "Cuttings Josh Jensen is said to have brought back from Burgundy in the mid-1970s, planted on Mount Harlan and passed around California since. Growers who plant it say so on the label.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "clone/calera-selection/"
+  },
+  {
+   "id": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "aliases": [
+    "115",
+    "ENTAV-INRA 115"
+   ],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "origin": "Dijon"
+   },
+   "state": null,
+   "blurb": "Small berries, small bunches, early ripening, aromatic. The most planted of the Dijon selections in the New World and the one growers reach for when a site needs perfume.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "clone/dijon-115/"
+  },
+  {
+   "id": "dijon-667",
+   "type": "clone",
+   "name": "Dijon 667",
+   "aliases": [
+    "667",
+    "ENTAV-INRA 667"
+   ],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "origin": "Dijon"
+   },
+   "state": null,
+   "blurb": "The third of the trio that travelled: mid-weight, spicy, and useful for filling the gap between 115's perfume and 777's colour.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "clone/dijon-667/"
+  },
+  {
+   "id": "dijon-777",
+   "type": "clone",
+   "name": "Dijon 777",
+   "aliases": [
+    "777",
+    "ENTAV-INRA 777"
+   ],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "origin": "Dijon"
+   },
+   "state": null,
+   "blurb": "Deeper colour, smaller crop, more tannin than 115. Planted where a grower wants weight without waiting for a warm year.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "clone/dijon-777/"
+  },
+  {
+   "id": "mount-eden",
+   "type": "clone",
+   "name": "Mount Eden selection",
+   "aliases": [
+    "Mt. Eden clone",
+    "Martin Ray selection"
+   ],
+   "region": [
+    "santa-cruz-mountains",
+    "california"
+   ],
+   "facets": {
+    "origin": "California"
+   },
+   "state": null,
+   "blurb": "A California field selection traced back to Martin Ray's plantings in the Santa Cruz Mountains, and through him, by the usual account, to Paul Masson's cuttings from Burgundy. Tiny clusters, tiny crop.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "clone/mount-eden/"
+  },
+  {
+   "id": "pinot-droit",
+   "type": "clone",
+   "name": "Pinot Droit",
+   "aliases": [
+    "Gamay Beaujolais (Californian misnomer)"
+   ],
+   "region": [
+    "california",
+    "burgundy"
+   ],
+   "facets": {
+    "origin": "Burgundy field selection"
+   },
+   "state": null,
+   "blurb": "Upright-growing, high-cropping selections that suited a grower paid by weight. California sold a series of them under the misnomer 'Gamay Beaujolais', and Burgundy planted them in ground where nobody was looking.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "clone/pinot-droit/"
+  },
+  {
+   "id": "pommard-ucd4",
+   "type": "clone",
+   "name": "Pommard, UCD 4",
+   "aliases": [
+    "UCD 4",
+    "Pommard clone",
+    "UCD4"
+   ],
+   "region": [
+    "oregon",
+    "california"
+   ],
+   "facets": {
+    "origin": "Burgundy field selection",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "The workhorse of American pinot noir before the Dijon numbers arrived, and still planted everywhere. Bigger berries, firmer structure, a darker wine than the Dijons give.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "clone/pommard-ucd4/"
+  },
+  {
+   "id": "swan-selection",
+   "type": "clone",
+   "name": "Swan selection",
+   "aliases": [
+    "Joseph Swan selection"
+   ],
+   "region": [
+    "russian-river",
+    "sonoma",
+    "california"
+   ],
+   "facets": {
+    "origin": "California"
+   },
+   "state": null,
+   "blurb": "A Russian River field selection off Joseph Swan's vineyard, planted through Sonoma for its small berries and its dark, savoury wine.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "clone/swan-selection/"
+  },
+  {
+   "id": "wadenswil-ucd2a",
+   "type": "clone",
+   "name": "Wädenswil, UCD 2A",
+   "aliases": [
+    "UCD 2A",
+    "Wadensvil",
+    "Wädenswil"
+   ],
+   "region": [
+    "oregon"
+   ],
+   "facets": {
+    "origin": "Swiss"
+   },
+   "state": null,
+   "blurb": "A Swiss research-station selection that reached Oregon early and stayed. Lighter in colour, higher in aromatics, and often blended against Pommard to fill the middle.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "clone/wadenswil-ucd2a/"
+  },
+  {
+   "id": "cold-soak",
+   "type": "practice",
+   "name": "Cold soak",
+   "aliases": [
+    "Pre-fermentation maceration",
+    "Macération à froid"
+   ],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "kind": "ferment"
+   },
+   "state": null,
+   "blurb": "Chilling the crushed fruit and holding it below fermentation temperature for days before the yeast start. Water pulls colour and aroma out of the skins; alcohol has not arrived yet to pull tannin.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "practice/cold-soak/"
+  },
+  {
+   "id": "green-harvest",
+   "type": "practice",
+   "name": "Green harvest",
+   "aliases": [
+    "Vendange verte",
+    "Crop thinning"
+   ],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "kind": "vineyard"
+   },
+   "state": null,
+   "blurb": "Cutting unripe bunches onto the ground in summer so the vine ripens fewer. Yield control with secateurs, after the vine has already set more fruit than the grower wants.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "practice/green-harvest/"
+  },
+  {
+   "id": "hand-harvest",
+   "type": "practice",
+   "name": "Hand harvest",
+   "aliases": [],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "kind": "vineyard"
+   },
+   "state": null,
+   "blurb": "Picking into small crates by hand, so the bunch arrives whole and the cellar decides what to do with it.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "practice/hand-harvest/"
+  },
+  {
+   "id": "high-density-planting",
+   "type": "practice",
+   "name": "High-density planting",
+   "aliases": [],
+   "region": [
+    "burgundy",
+    "world"
+   ],
+   "facets": {
+    "kind": "planting"
+   },
+   "state": null,
+   "blurb": "Nine to twelve thousand vines a hectare, rows a metre apart, each vine carrying a handful of bunches. Burgundy's grand cru rules set a floor of 9,000 vines per hectare and the New World mostly did not follow.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "practice/high-density-planting/"
+  },
+  {
+   "id": "malolactic",
+   "type": "practice",
+   "name": "Malolactic fermentation",
+   "aliases": [
+    "Malo",
+    "MLF",
+    "Secondary fermentation"
+   ],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "kind": "ferment"
+   },
+   "state": null,
+   "blurb": "A bacterial conversion, not a yeast one: lactic acid bacteria turn sharp malic acid into softer lactic acid and let off CO₂. Nearly every red pinot noir goes through it.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "practice/malolactic/"
+  },
+  {
+   "id": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "aliases": [
+    "Sélection massale",
+    "Massale"
+   ],
+   "region": [
+    "burgundy",
+    "world"
+   ],
+   "facets": {
+    "kind": "planting"
+   },
+   "state": null,
+   "blurb": "Taking cuttings from many vines in a block you already trust, instead of ordering one numbered clone from a nursery. You keep the block's variation, and whatever virus it carries.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "practice/massale-selection/"
+  },
+  {
+   "id": "native-yeast",
+   "type": "practice",
+   "name": "Native yeast",
+   "aliases": [
+    "Wild ferment",
+    "Spontaneous fermentation",
+    "Indigenous yeast"
+   ],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "kind": "ferment"
+   },
+   "state": null,
+   "blurb": "Letting whatever came in on the fruit and lives in the cellar start the ferment, instead of pitching a selected strain from a packet.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "practice/native-yeast/"
+  },
+  {
+   "id": "neutral-oak",
+   "type": "practice",
+   "name": "Neutral oak",
+   "aliases": [
+    "Old barrels",
+    "Used barriques"
+   ],
+   "region": [
+    "burgundy",
+    "world"
+   ],
+   "facets": {
+    "kind": "ageing"
+   },
+   "state": null,
+   "blurb": "A barrel that has already given up its flavour — third use, fourth, older. It still lets oxygen through the staves and still shapes texture; it just stops tasting of the forest.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "practice/neutral-oak/"
+  },
+  {
+   "id": "pigeage",
+   "type": "practice",
+   "name": "Punching down",
+   "aliases": [
+    "Pigeage",
+    "Punch-down"
+   ],
+   "region": [
+    "burgundy",
+    "world"
+   ],
+   "facets": {
+    "kind": "ferment"
+   },
+   "state": null,
+   "blurb": "Pushing the floating cap of skins back under the wine, by foot or by plunger, several times a day. Pinot's cap rises fast and dries out if nobody moves it.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "practice/pigeage/"
+  },
+  {
+   "id": "saignee",
+   "type": "practice",
+   "name": "Saignée",
+   "aliases": [],
+   "region": [
+    "world",
+    "champagne"
+   ],
+   "facets": {
+    "kind": "press"
+   },
+   "state": null,
+   "blurb": "Bleeding juice off a red fermenter early, to raise the skin-to-juice ratio in what stays behind. The juice that comes out is sold as rosé.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "practice/saignee/"
+  },
+  {
+   "id": "whole-cluster",
+   "type": "practice",
+   "name": "Whole cluster",
+   "aliases": [
+    "Whole-bunch",
+    "Vendange entière",
+    "Stem inclusion"
+   ],
+   "region": [
+    "burgundy",
+    "world"
+   ],
+   "facets": {
+    "kind": "ferment"
+   },
+   "state": null,
+   "blurb": "Putting bunches into the fermenter with their stems still attached, instead of pulling the berries off first.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "practice/whole-cluster/"
+  },
+  {
+   "id": "coq-au-vin",
+   "type": "pairing",
+   "name": "Coq au vin",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "course": "main",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "A tough old bird braised in red wine, lardons, mushrooms and onions, thickened with its own blood in the oldest versions. Burgundy cooks it in Burgundy and drinks the same wine with it.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "pairing/coq-au-vin/"
+  },
+  {
+   "id": "duck",
+   "type": "pairing",
+   "name": "Duck",
+   "aliases": [],
+   "region": [
+    "burgundy",
+    "world"
+   ],
+   "facets": {
+    "course": "bird",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "The pairing pinot noir gets asked about most: dark meat, a thick fat cap, and enough savoury weight to meet a wine with little tannin.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "pairing/duck/"
+  },
+  {
+   "id": "mushrooms",
+   "type": "pairing",
+   "name": "Mushrooms",
+   "aliases": [],
+   "region": [
+    "burgundy",
+    "oregon",
+    "world"
+   ],
+   "facets": {
+    "course": "fungus",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "The flavour bridge: older pinot noir picks up a forest-floor smell, and a plate of fungi meets it head on. Glutamates in the mushroom read as savoury, which is the same register a mature bottle moves into.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "pairing/mushrooms/"
+  },
+  {
+   "id": "pinquito-beans",
+   "type": "pairing",
+   "name": "Pinquito beans",
+   "aliases": [
+    "Pinquitos"
+   ],
+   "region": [
+    "santa-maria-valley",
+    "california"
+   ],
+   "facets": {
+    "course": "side",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "A small pink bean grown in the Santa Maria Valley and almost nowhere else, cooked with bacon or ham, garlic, chilli and a little tomato, and served in a bowl beside the beef.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": true,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "pairing/pinquito-beans/"
+  },
+  {
+   "id": "red-oak",
+   "type": "pairing",
+   "name": "Red oak",
+   "aliases": [
+    "Coast live oak",
+    "Quercus agrifolia",
+    "Encina"
+   ],
+   "region": [
+    "santa-maria-valley",
+    "california"
+   ],
+   "facets": {
+    "course": "condiment",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "The wood the whole style rests on. In Santa Maria, red oak means coast live oak — Quercus agrifolia — which grows on the hills around the valley and burns down to hot, steady coals without throwing much smoke.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "pairing/red-oak/"
+  },
+  {
+   "id": "salmon",
+   "type": "pairing",
+   "name": "Salmon",
+   "aliases": [],
+   "region": [
+    "oregon",
+    "willamette"
+   ],
+   "facets": {
+    "course": "fish",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "A fish oily enough to take a red wine, and in Oregon the pairing is local logic rather than theory — the fish and the pinot come from the same watershed.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "pairing/salmon/"
+  },
+  {
+   "id": "santa-maria-salsa",
+   "type": "pairing",
+   "name": "Santa Maria salsa",
+   "aliases": [],
+   "region": [
+    "santa-maria-valley",
+    "california"
+   ],
+   "facets": {
+    "course": "condiment",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "Chopped raw tomato, celery, green chilli, onion and a shot of vinegar or Worcestershire — thinner and sharper than a Mexican pico de gallo, and spooned over sliced beef rather than eaten with chips.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": true,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "pairing/santa-maria-salsa/"
+  },
+  {
+   "id": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "aliases": [
+    "Tri-tip",
+    "Santa Maria steak",
+    "Triangle tip",
+    "Newport steak"
+   ],
+   "region": [
+    "santa-maria-valley",
+    "california"
+   ],
+   "facets": {
+    "course": "main",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "A triangular two-to-five-pound piece of bottom sirloin, rolled in salt, pepper and garlic, grilled over red oak coals to medium-rare and sliced across the grain.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": true,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "pairing/santa-maria-tri-tip/"
+  },
+  {
+   "id": "truffle-pairing",
+   "type": "pairing",
+   "name": "Truffle",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "course": "fungus",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "Burgundy has its own black truffle, and the smell does to a glass of old pinot what nothing else does. Shaved late, over something plain, and never cooked hard.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "pairing/truffle-pairing/"
+  },
+  {
+   "id": "washed-rind-cheese",
+   "type": "pairing",
+   "name": "Washed-rind cheese",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "course": "cheese",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "Époisses, Soumaintrain, Langres — Burgundy's own cheeses, washed in brine and marc until they smell like a farmyard and taste milder than they smell.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "pairing/washed-rind-cheese/"
+  },
+  {
+   "id": "andre-tchelistcheff",
+   "type": "person",
+   "name": "André Tchelistcheff",
+   "aliases": [],
+   "region": [
+    "california",
+    "carneros"
+   ],
+   "facets": {
+    "role": "winemaker",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "Russian-born, Paris-trained, and the winemaker most often credited with teaching post-Prohibition California what a cellar is for. He is remembered for cabernet, and he also argued for cold ground — Carneros among it.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "person/andre-tchelistcheff/"
+  },
+  {
+   "id": "aubert-de-villaine",
+   "type": "person",
+   "name": "Aubert de Villaine",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "role": "owner",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "Co-director of the Domaine de la Romanée-Conti from 1974 to 2021, and the man who spent a decade carrying Burgundy's climats to UNESCO.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "person/aubert-de-villaine/"
+  },
+  {
+   "id": "bob-schutz",
+   "type": "person",
+   "name": "Bob Schutz",
+   "aliases": [],
+   "region": [
+    "santa-maria-valley",
+    "california"
+   ],
+   "facets": {
+    "role": "butcher",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "A Santa Maria market manager who, in the late 1950s, took a triangular piece of bottom sirloin that was going into the hamburger grinder, seasoned it and put it on a rotisserie.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "person/bob-schutz/"
+  },
+  {
+   "id": "burt-williams",
+   "type": "person",
+   "name": "Burt Williams",
+   "aliases": [],
+   "region": [
+    "russian-river",
+    "anderson-valley",
+    "sonoma",
+    "california"
+   ],
+   "facets": {
+    "role": "winemaker",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "Made Williams Selyem's wine in a Forestville garage, put growers' vineyard names on the front label when nobody else bothered, then sold up and planted his own vines in Anderson Valley.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "person/burt-williams/"
+  },
+  {
+   "id": "david-lett",
+   "type": "person",
+   "name": "David Lett",
+   "aliases": [],
+   "region": [
+    "willamette",
+    "oregon"
+   ],
+   "facets": {
+    "role": "grower",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "Left UC Davis in 1964 with a degree and a plan to grow pinot noir outside Burgundy, and in 1965 planted it in the Willamette Valley — against the advice of every professor he had.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "person/david-lett/"
+  },
+  {
+   "id": "henri-jayer",
+   "type": "person",
+   "name": "Henri Jayer",
+   "aliases": [],
+   "region": [
+    "cote-de-nuits",
+    "burgundy"
+   ],
+   "facets": {
+    "role": "winemaker",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "A Vosne-Romanée grower who started with a 3-hectare inheritance in the 1950s and changed how the Côte handles pinot noir — destemming, cold soak before fermentation, no filtration, clean fruit above all.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "person/henri-jayer/"
+  },
+  {
+   "id": "jim-clendenen",
+   "type": "person",
+   "name": "Jim Clendenen",
+   "aliases": [],
+   "region": [
+    "santa-maria-valley",
+    "santa-barbara",
+    "california"
+   ],
+   "facets": {
+    "role": "winemaker",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "Founded Au Bon Climat in 1982 and spent forty years making Burgundian varieties on the Central Coast — big hair, big arguments, and a refusal to chase ripeness when everyone else did.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "person/jim-clendenen/"
+  },
+  {
+   "id": "josh-jensen",
+   "type": "person",
+   "name": "Josh Jensen",
+   "aliases": [],
+   "region": [
+    "california"
+   ],
+   "facets": {
+    "role": "owner",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "Worked harvests at the Domaine de la Romanée-Conti and Dujac, came home convinced the ground mattered more than the recipe, and hunted California for limestone until he found an old lime kiln on Mount Harlan.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "person/josh-jensen/"
+  },
+  {
+   "id": "lalou-bize-leroy",
+   "type": "person",
+   "name": "Lalou Bize-Leroy",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "role": "owner",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "Took over her father's négociant house in 1955, co-managed the Domaine de la Romanée-Conti from 1974, and built Domaine Leroy and Domaine d'Auvenay into biodynamic estates with famously small crops.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "person/lalou-bize-leroy/"
+  },
+  {
+   "id": "martin-ray",
+   "type": "person",
+   "name": "Martin Ray",
+   "aliases": [],
+   "region": [
+    "santa-cruz-mountains",
+    "california"
+   ],
+   "facets": {
+    "role": "owner",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "Bought Paul Masson's mountain winery in 1936, sold it during the war, and spent the rest of his life above Saratoga making pinot noir and chardonnay when California was planting neither.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "person/martin-ray/"
+  },
+  {
+   "id": "merry-edwards",
+   "type": "person",
+   "name": "Merry Edwards",
+   "aliases": [],
+   "region": [
+    "russian-river",
+    "sonoma",
+    "california"
+   ],
+   "facets": {
+    "role": "winemaker",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "One of California's first women to run a winery cellar, at Mount Eden in 1974, then at Matanzas Creek, then under her own name in the Russian River — where she also selected a pinot noir now propagated as her own.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "person/merry-edwards/"
+  },
+  {
+   "id": "paul-masson-person",
+   "type": "person",
+   "name": "Paul Masson",
+   "aliases": [],
+   "region": [
+    "santa-cruz-mountains",
+    "california"
+   ],
+   "facets": {
+    "role": "owner",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "Born in a wine village outside Beaune in 1859, arrived in California in 1878, and built a sparkling-wine business in the Santa Cruz Mountains on vines he brought from Burgundy.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "person/paul-masson-person/"
+  },
+  {
+   "id": "raymond-bernard",
+   "type": "person",
+   "name": "Raymond Bernard",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "role": "scientist",
+    "country": "France"
+   },
+   "state": null,
+   "blurb": "The Dijon agronomist behind the clonal selection programme that gave the world the numbered pinot noirs — 113, 114, 115, 667, 777 and the rest.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "person/raymond-bernard/"
+  },
+  {
+   "id": "richard-sanford",
+   "type": "person",
+   "name": "Richard Sanford",
+   "aliases": [],
+   "region": [
+    "sta-rita-hills",
+    "santa-barbara",
+    "california"
+   ],
+   "facets": {
+    "role": "grower",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "Read weather data instead of real-estate listings, worked out that the Santa Ynez Valley runs east-west and lets the ocean in, and planted pinot noir at Sanford & Benedict in 1971.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "person/richard-sanford/"
+  },
+  {
+   "id": "bivb",
+   "type": "org",
+   "name": "BIVB",
+   "aliases": [
+    "Bureau Interprofessionnel des Vins de Bourgogne"
+   ],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "kind": "association",
+    "status": "open"
+   },
+   "state": null,
+   "blurb": "Burgundy's trade body: the growers, the négociants and the appellation statistics, in one office in Beaune.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "org/bivb/"
+  },
+  {
+   "id": "fps",
+   "type": "org",
+   "name": "Foundation Plant Services",
+   "aliases": [
+    "Foundation Plant Services, UC Davis",
+    "FPS"
+   ],
+   "region": [
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "kind": "nursery",
+    "status": "open"
+   },
+   "state": "CA",
+   "blurb": "The UC Davis programme that holds, tests and distributes certified grapevine material in the United States. The numbers on American clones — UCD 4, UCD 2A — are its numbers.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "org/fps/"
+  },
+  {
+   "id": "hospices-de-beaune",
+   "type": "org",
+   "name": "Hospices de Beaune",
+   "aliases": [],
+   "region": [
+    "cote-de-beaune",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "kind": "association",
+    "established": 1443,
+    "status": "open"
+   },
+   "state": "Côte-d'Or",
+   "blurb": "A charitable hospital founded in 1443 that has been given vineyard land for five and a half centuries and sells the wine at auction every November to pay for the medicine.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "org/hospices-de-beaune/"
+  },
+  {
+   "id": "inao",
+   "type": "org",
+   "name": "INAO",
+   "aliases": [
+    "Institut national de l'origine et de la qualité"
+   ],
+   "region": [
+    "burgundy",
+    "champagne",
+    "alsace"
+   ],
+   "facets": {
+    "country": "France",
+    "kind": "appellation",
+    "status": "open"
+   },
+   "state": null,
+   "blurb": "The French body that defines appellations, polices their boundaries and decides what may be planted, at what density, and how much may be picked.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "org/inao/"
+  },
+  {
+   "id": "oregon-wine-board",
+   "type": "org",
+   "name": "Oregon Wine Board",
+   "aliases": [],
+   "region": [
+    "oregon",
+    "willamette"
+   ],
+   "facets": {
+    "country": "United States",
+    "kind": "association",
+    "status": "open"
+   },
+   "state": "OR",
+   "blurb": "The state commission that funds Oregon's viticulture research and publishes the harvest statistics this site quotes.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "org/oregon-wine-board/"
+  },
+  {
+   "id": "santa-barbara-vintners",
+   "type": "org",
+   "name": "Santa Barbara Vintners",
+   "aliases": [],
+   "region": [
+    "santa-barbara",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "kind": "association",
+    "status": "open"
+   },
+   "state": "CA",
+   "blurb": "The county association that runs the tasting weekends and publishes the maps for the Santa Maria Valley, the Sta. Rita Hills and everything between.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "org/santa-barbara-vintners/"
+  },
+  {
+   "id": "santa-maria-bbq-association",
+   "type": "org",
+   "name": "Santa Maria Style Barbeque Association",
+   "aliases": [],
+   "region": [
+    "santa-maria-valley",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "kind": "association",
+    "status": "open"
+   },
+   "state": "CA",
+   "blurb": "The body at the Santa Maria Valley Chamber of Commerce that defines the local barbecue and certifies places serving it: beef rolled in salt, pepper and garlic, cooked on skewers over coals of red oak native to the…",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "org/santa-maria-bbq-association/"
+  },
+  {
+   "id": "ttb",
+   "type": "org",
+   "name": "TTB",
+   "aliases": [
+    "Alcohol and Tobacco Tax and Trade Bureau"
+   ],
+   "region": [
+    "california",
+    "oregon"
+   ],
+   "facets": {
+    "country": "United States",
+    "kind": "appellation",
+    "status": "open"
+   },
+   "state": null,
+   "blurb": "The US Alcohol and Tobacco Tax and Trade Bureau: it rules on AVA petitions, writes them into 27 CFR part 9, and approves every label that goes on a bottle.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "org/ttb/"
+  },
+  {
+   "id": "dine-out-santa-maria-style",
+   "type": "event",
+   "name": "Dine Out Santa Maria Style",
+   "aliases": [],
+   "region": [
+    "santa-maria-valley",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "status": "seasonal"
+   },
+   "state": "CA",
+   "blurb": "A Chamber of Commerce restaurant fortnight built around the local barbecue — the valley's way of pointing visitors at the places that cook it.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "event/dine-out-santa-maria-style/"
+  },
+  {
+   "id": "hospices-auction",
+   "type": "event",
+   "name": "Hospices de Beaune auction",
+   "aliases": [],
+   "region": [
+    "cote-de-beaune",
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "status": "seasonal",
+    "kind": "association"
+   },
+   "state": null,
+   "blurb": "The third Sunday of November in Beaune: the hospital's barrels go under the hammer, buyers pay well over the market, and the trade reads the prices as a verdict on the vintage.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "event/hospices-auction/"
+  },
+  {
+   "id": "ipnc",
+   "type": "event",
+   "name": "International Pinot Noir Celebration",
+   "aliases": [],
+   "region": [
+    "willamette",
+    "oregon"
+   ],
+   "facets": {
+    "country": "United States",
+    "status": "seasonal"
+   },
+   "state": "OR",
+   "blurb": "Three days at Linfield College in McMinnville every summer since 1987: growers from everywhere pinot noir is grown, pouring beside each other under tents, with salmon grilled over alder on the Saturday.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "event/ipnc/"
+  },
+  {
+   "id": "saint-vincent-tournante",
+   "type": "event",
+   "name": "Saint-Vincent Tournante",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "country": "France",
+    "status": "seasonal"
+   },
+   "state": null,
+   "blurb": "Burgundy's growers' festival, held in a different village each January — the confréries process, the village decorates its streets with paper flowers, and the cellars open.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "event/saint-vincent-tournante/"
+  },
+  {
+   "id": "world-of-pinot-noir",
+   "type": "event",
+   "name": "World of Pinot Noir",
+   "aliases": [],
+   "region": [
+    "santa-barbara",
+    "california"
+   ],
+   "facets": {
+    "country": "United States",
+    "status": "seasonal"
+   },
+   "state": "CA",
+   "blurb": "A March weekend on the Santa Barbara coast where producers from Burgundy, Oregon, California and the southern hemisphere pour side by side — held at the ocean end of the county that grows the stuff.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "event/world-of-pinot-noir/"
+  },
+  {
+   "id": "ava",
+   "type": "term",
+   "name": "AVA",
+   "aliases": [
+    "American Viticultural Area"
+   ],
+   "region": [
+    "california",
+    "oregon"
+   ],
+   "facets": {
+    "letter": "A",
+    "kind": "appellation"
+   },
+   "state": null,
+   "blurb": "American Viticultural Area: a boundary drawn around ground with a name, established by federal rule in 27 CFR part 9. It says where the grapes grew and nothing at all about how good they were.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/ava/"
+  },
+  {
+   "id": "brix",
+   "type": "term",
+   "name": "Brix",
+   "aliases": [],
+   "region": [
+    "california",
+    "oregon"
+   ],
+   "facets": {
+    "letter": "B",
+    "kind": "vineyard"
+   },
+   "state": null,
+   "blurb": "Sugar in the juice, as a percentage by weight. Pickers read it off a refractometer in the row, and it is the number most arguments about picking dates are conducted in — usually alongside acid and pH, which matter as…",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/brix/"
+  },
+  {
+   "id": "climat",
+   "type": "term",
+   "name": "Climat",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "letter": "C",
+    "kind": "vineyard"
+   },
+   "state": null,
+   "blurb": "In Burgundy, a named parcel of vineyard with a boundary, a history and a reputation — not a weather word. There are over a thousand of them on the Côte d'Or, and UNESCO listed the lot in 2015.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 1,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/climat/"
+  },
+  {
+   "id": "cru",
+   "type": "term",
+   "name": "Cru",
+   "aliases": [],
+   "region": [
+    "burgundy",
+    "world"
+   ],
+   "facets": {
+    "letter": "C",
+    "kind": "vineyard"
+   },
+   "state": null,
+   "blurb": "A growth: a vineyard, or a class of vineyards, recognised for what it yields. Grand cru and premier cru rank the ground in Burgundy; in Bordeaux the same word ranks the château instead.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/cru/"
+  },
+  {
+   "id": "lieu-dit",
+   "type": "term",
+   "name": "Lieu-dit",
+   "aliases": [],
+   "region": [
+    "burgundy",
+    "alsace"
+   ],
+   "facets": {
+    "letter": "L",
+    "kind": "vineyard"
+   },
+   "state": null,
+   "blurb": "A named place on the cadastral map — the official French term for a piece of ground people call something. Every climat is a lieu-dit; not every lieu-dit carries a cru rank.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/lieu-dit/"
+  },
+  {
+   "id": "monopole",
+   "type": "term",
+   "name": "Monopole",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "letter": "M",
+    "kind": "vineyard"
+   },
+   "state": null,
+   "blurb": "A named vineyard held whole by one owner. Rare in Burgundy, where inheritance splits everything, and printed on the label whenever it is true.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/monopole/"
+  },
+  {
+   "id": "negociant",
+   "type": "term",
+   "name": "Négociant",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "letter": "N",
+    "kind": "cellar"
+   },
+   "state": null,
+   "blurb": "A merchant who buys grapes, juice or finished wine, raises it in their own cellar and sells it under their own name. Half of Burgundy's output moves this way.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/negociant/"
+  },
+  {
+   "id": "pigeage-term",
+   "type": "term",
+   "name": "Pigeage",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "letter": "P",
+    "kind": "ferment"
+   },
+   "state": null,
+   "blurb": "Punching the cap down into the wine. The old tool is a plunger; the old method is bare legs.",
+   "image": null,
+   "confidence": "low",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": true,
+   "updated": "2026-09-16",
+   "url": "word/pigeage-term/"
+  },
+  {
+   "id": "saignee-term",
+   "type": "term",
+   "name": "Saignée",
+   "aliases": [],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "letter": "S",
+    "kind": "press"
+   },
+   "state": null,
+   "blurb": "The bleed. Juice drawn off a red fermenter to concentrate what stays, and sold as rosé.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/saignee-term/"
+  },
+  {
+   "id": "spatburgunder",
+   "type": "term",
+   "name": "Spätburgunder",
+   "aliases": [
+    "Blauburgunder",
+    "Blauer Spätburgunder"
+   ],
+   "region": [
+    "germany"
+   ],
+   "facets": {
+    "letter": "S",
+    "kind": "vineyard"
+   },
+   "state": null,
+   "blurb": "German for pinot noir, and a name that carries an argument: 'late Burgundian', against the früh — early — one that ripens weeks sooner.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/spatburgunder/"
+  },
+  {
+   "id": "terroir",
+   "type": "term",
+   "name": "Terroir",
+   "aliases": [],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "letter": "T",
+    "kind": "vineyard"
+   },
+   "state": null,
+   "blurb": "The claim that a wine tastes of where it grew — soil, slope, aspect, weather, and the habits of the people farming it. In France it is also a legal argument, because appellations are drawn on it.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/terroir/"
+  },
+  {
+   "id": "vendange-entiere",
+   "type": "term",
+   "name": "Vendange entière",
+   "aliases": [],
+   "region": [
+    "burgundy"
+   ],
+   "facets": {
+    "letter": "V",
+    "kind": "ferment"
+   },
+   "state": null,
+   "blurb": "Whole harvest: the bunches go in as they came off the vine, stems and all.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/vendange-entiere/"
+  },
+  {
+   "id": "vigneron",
+   "type": "term",
+   "name": "Vigneron",
+   "aliases": [],
+   "region": [
+    "burgundy",
+    "world"
+   ],
+   "facets": {
+    "letter": "V",
+    "kind": "vineyard"
+   },
+   "state": null,
+   "blurb": "A grower who makes the wine. Not a winemaker who buys fruit and not a farmer who sells it — the word insists on both halves of the job.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/vigneron/"
+  },
+  {
+   "id": "wine-fault-brett",
+   "type": "term",
+   "name": "Brett",
+   "aliases": [
+    "Brettanomyces"
+   ],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "letter": "B",
+    "kind": "cellar"
+   },
+   "state": null,
+   "blurb": "Brettanomyces, a yeast that lives in old barrels and makes phenols people describe as barnyard, plaster or clove.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "word/wine-fault-brett/"
+  },
+  {
+   "id": "free-to-use",
+   "type": "story",
+   "name": "Where this comes from",
+   "aliases": [],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "kind": "resources"
+   },
+   "state": null,
+   "blurb": "Every fact on this site points at something you can open yourself. This page lists what those things are, what each one costs to use, and where the gaps sit.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "story/free-to-use/"
+  },
+  {
+   "id": "how-pinot-travelled",
+   "type": "story",
+   "name": "How pinot left the hill",
+   "aliases": [],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "kind": "essay"
+   },
+   "state": null,
+   "blurb": "Burgundy spent a thousand years working out which slope did what.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "story/how-pinot-travelled/"
+  },
+  {
+   "id": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "aliases": [],
+   "region": [
+    "burgundy",
+    "oregon",
+    "world"
+   ],
+   "facets": {
+    "kind": "essay"
+   },
+   "state": null,
+   "blurb": "A grower ordering pinot noir today picks numbers out of a catalogue: 115, 667, 777, or Pommard, or Wädenswil. Each one is a single mother vine, tested clean of virus and copied.",
+   "image": null,
+   "confidence": "medium",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "story/the-dijon-numbers/"
+  },
+  {
+   "id": "the-sideways-effect",
+   "type": "story",
+   "name": "One film, measured",
+   "aliases": [],
+   "region": [
+    "santa-barbara",
+    "california"
+   ],
+   "facets": {
+    "kind": "essay"
+   },
+   "state": null,
+   "blurb": "In October 2004 a comedy about two men on a road trip through Santa Barbara County put a speech about pinot noir into cinemas, and the American wine trade could see it in the sales figures within months.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "story/the-sideways-effect/"
+  },
+  {
+   "id": "thin-skin",
+   "type": "story",
+   "name": "What thin skin costs",
+   "aliases": [],
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "kind": "essay"
+   },
+   "state": null,
+   "blurb": "Every difficulty pinot noir hands a grower comes from the same anatomy that makes the wine worth the trouble: a small, tight, pinecone-shaped bunch of thin-skinned berries that ripens early.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": false,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "story/thin-skin/"
+  },
+  {
+   "id": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "aliases": [],
+   "region": [
+    "santa-maria-valley",
+    "santa-barbara",
+    "california"
+   ],
+   "facets": {
+    "kind": "essay",
+    "country": "United States"
+   },
+   "state": null,
+   "blurb": "One California valley cooks beef over local oak, grows pinot noir on the hills that oak comes off, and rarely puts the two together in the same sentence.",
+   "image": null,
+   "confidence": "high",
+   "tags": [],
+   "acclaim": 0,
+   "has_recipes": false,
+   "has_measures": true,
+   "needs_verification": false,
+   "updated": "2026-09-16",
+   "url": "story/tri-tip-over-red-oak/"
+  }
+ ]
+}

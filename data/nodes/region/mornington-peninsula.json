@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "mornington-peninsula",
+ "type": "region",
+ "names": {
+  "name": "Mornington Peninsula"
+ },
+ "region": [
+  "mornington",
+  "australia"
+ ],
+ "facets": {
+  "country": "Australia",
+  "level": "gi"
+ },
+ "text": {
+  "what": "An hour south of Melbourne with sea on three sides. Maritime, cool, and cut into small holdings — vineyards here are measured in a few hectares, not a few hundred."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown cool and picked early, beside chardonnay.",
+   "rel": "variety"
+  },
+  {
+   "to": "yarra-valley",
+   "as": "Victoria's other pinot region, inland and in the hills.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": -38.35,
+  "lon": 145.05,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-mornington-peninsula",
+  "s:wp-australian-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

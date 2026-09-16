@@ -1,0 +1,336 @@
+{
+ "schema": 1,
+ "id": "santa-maria-tri-tip",
+ "type": "pairing",
+ "names": {
+  "name": "Santa Maria tri-tip",
+  "aliases": [
+   "Tri-tip",
+   "Santa Maria steak",
+   "Triangle tip",
+   "Newport steak"
+  ]
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "course": "main",
+  "country": "United States"
+ },
+ "text": {
+  "what": "A triangular two-to-five-pound piece of bottom sirloin, rolled in salt, pepper and garlic, grilled over red oak coals to medium-rare and sliced across the grain. In its home valley it arrives with pinquito beans, salsa, green salad and buttered French bread grilled on the same fire.",
+  "story": "The barbecue is older than the cut. Californio ranchers fed their vaqueros each spring from oak-coal pits, and the Santa Maria Club ran a stag barbecue for up to 700 people a month from 1931. Top sirloin was the meat. In the late 1950s a market manager in Santa Maria put a triangular piece that usually went to the grinder on a rotisserie instead, and by the 1960s the town had a cut of its own.",
+  "how": "Grill directly over red oak, fat side up, turning once; pull at 130–135 °F and let it rest before slicing. The grain changes direction inside the muscle, so the knife has to change with it. Central California butchers leave the fat cap on; butchers elsewhere trim it.",
+  "today": "Sold country-wide now, and still the default thing to cook at a Santa Maria Valley fundraiser, rodeo or school benefit."
+ },
+ "kin": [
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "The long version: the ranch, the oak, the competing claims, and the wine question.",
+   "rel": "story"
+  },
+  {
+   "to": "red-oak",
+   "as": "The wood, which is not a red oak.",
+   "rel": "pairing"
+  },
+  {
+   "to": "pinquito-beans",
+   "as": "What comes beside it.",
+   "rel": "pairing"
+  },
+  {
+   "to": "santa-maria-salsa",
+   "as": "And what goes on it.",
+   "rel": "pairing"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The valley that also grows pinot noir on the same hills.",
+   "rel": "region"
+  },
+  {
+   "to": "bob-schutz",
+   "as": "The market manager the town credits.",
+   "rel": "person"
+  },
+  {
+   "to": "santa-maria-bbq-association",
+   "as": "Which defines the phrase on the menu.",
+   "rel": "org"
+  }
+ ],
+ "geo": {
+  "lat": 34.953,
+  "lon": -120.436,
+  "precision": "town"
+ },
+ "sources": [
+  "s:wp-santa-maria-style-barbecue",
+  "s:wp-tri-tip",
+  "s:usda-imps-100",
+  "s:web-smv-bbq-association",
+  "s:wp-cut-of-beef"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "imps",
+   "label": "IMPS / NAMP specification",
+   "value": "185C",
+   "unit": "",
+   "year": null,
+   "source": "s:usda-imps-100",
+   "tier": "cited",
+   "note": "bottom sirloin butt, tri-tip"
+  },
+  {
+   "key": "weight_lb",
+   "label": "Untrimmed weight",
+   "value": 5,
+   "unit": "lb",
+   "year": null,
+   "source": "s:wp-tri-tip",
+   "tier": "cited"
+  },
+  {
+   "key": "pull_temp_f",
+   "label": "Internal temperature for medium-rare",
+   "value": "130–135",
+   "unit": "°F",
+   "year": null,
+   "source": "s:wp-tri-tip",
+   "tier": "cited"
+  }
+ ],
+ "recipes": [
+  {
+   "title": "Santa Maria seasoning",
+   "source": "s:wp-santa-maria-style-barbecue",
+   "license": "ingredients-only",
+   "ingredients": [
+    "salt",
+    "black pepper",
+    "garlic salt"
+   ],
+   "note": "the seasoning as the tradition describes it — three things, rolled on before the meat goes over the coals"
+  },
+  {
+   "title": "The traditional plate",
+   "source": "s:wp-santa-maria-style-barbecue",
+   "license": "ingredients-only",
+   "ingredients": [
+    "tri-tip or top block sirloin",
+    "red oak coals",
+    "pinquito beans",
+    "fresh salsa",
+    "tossed green salad",
+    "French bread dipped in melted butter and grilled"
+   ],
+   "note": "the accompaniments named in the tradition; linguiça appears on many local menus alongside the beef"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A triangular two-to-five-pound piece of bottom sirloin, rolled in salt, pepper and garlic, grilled over red oak coals to medium-rare and sliced across the grain.",
+ "region_terms": [
+  {
+   "key": "santa-maria-valley",
+   "name": "Santa Maria Valley",
+   "country": "United States",
+   "note": "Bien Nacido, the bench, and the red-oak barbecue on the same ground"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The long version: the ranch, the oak, the competing claims, and the wine question.",
+   "rel": "story"
+  },
+  {
+   "to": "red-oak",
+   "type": "pairing",
+   "name": "Red oak",
+   "as": "The wood, which is not a red oak.",
+   "rel": "pairing"
+  },
+  {
+   "to": "pinquito-beans",
+   "type": "pairing",
+   "name": "Pinquito beans",
+   "as": "What comes beside it.",
+   "rel": "pairing"
+  },
+  {
+   "to": "santa-maria-salsa",
+   "type": "pairing",
+   "name": "Santa Maria salsa",
+   "as": "And what goes on it.",
+   "rel": "pairing"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The valley that also grows pinot noir on the same hills.",
+   "rel": "region"
+  },
+  {
+   "to": "bob-schutz",
+   "type": "person",
+   "name": "Bob Schutz",
+   "as": "The market manager the town credits.",
+   "rel": "person"
+  },
+  {
+   "to": "santa-maria-bbq-association",
+   "type": "org",
+   "name": "Santa Maria Style Barbeque Association",
+   "as": "Which defines the phrase on the menu.",
+   "rel": "org"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-santa-maria-style-barbecue",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria–style barbecue",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=22881131",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1328359472",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tri-tip",
+   "kind": "encyclopaedia",
+   "title": "Tri-tip",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2982651",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368736893",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:usda-imps-100",
+   "kind": "document",
+   "title": "Institutional Meat Purchase Specifications, Series 100 — Fresh Beef",
+   "publisher": "US Department of Agriculture, Agricultural Marketing Service",
+   "url": "https://www.ams.usda.gov/grades-standards/imps",
+   "licence": "public domain",
+   "note": "the specification that gives the tri-tip its number"
+  },
+  {
+   "id": "s:web-smv-bbq-association",
+   "kind": "web",
+   "title": "Santa Maria Style Barbeque Association",
+   "publisher": "Santa Maria Valley Chamber of Commerce",
+   "url": "https://www.santamaria.com/our-community/bbq-association/",
+   "accessed": "2026-09-16",
+   "note": "the association's own page: red oak native to the valley, beef rolled in salt, pepper and garlic, cooked on skewers over the coals; points at a certification programme for 'Santa Maria Style Barbeque Certified' locations"
+  },
+  {
+   "id": "s:wp-cut-of-beef",
+   "kind": "encyclopaedia",
+   "title": "Cut of beef",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=5453492",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371263209",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "text.today": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "What the valley eats, and the argument about what to pour with it.",
+   "rel": "pairing"
+  },
+  {
+   "from": "pinquito-beans",
+   "type": "pairing",
+   "name": "Pinquito beans",
+   "as": "The plate it belongs to.",
+   "rel": "pairing"
+  },
+  {
+   "from": "red-oak",
+   "type": "pairing",
+   "name": "Red oak",
+   "as": "The meat it cooks.",
+   "rel": "pairing"
+  },
+  {
+   "from": "santa-maria-salsa",
+   "type": "pairing",
+   "name": "Santa Maria salsa",
+   "as": "What it goes on.",
+   "rel": "pairing"
+  },
+  {
+   "from": "bob-schutz",
+   "type": "person",
+   "name": "Bob Schutz",
+   "as": "The dish that followed.",
+   "rel": "pairing"
+  },
+  {
+   "from": "santa-maria-bbq-association",
+   "type": "org",
+   "name": "Santa Maria Style Barbeque Association",
+   "as": "The dish it defines.",
+   "rel": "pairing"
+  },
+  {
+   "from": "dine-out-santa-maria-style",
+   "type": "event",
+   "name": "Dine Out Santa Maria Style",
+   "as": "What is on every menu in it.",
+   "rel": "pairing"
+  },
+  {
+   "from": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The dish itself, in one card.",
+   "rel": "pairing"
+  }
+ ]
+}

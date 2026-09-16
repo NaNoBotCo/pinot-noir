@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "id": "swan-selection",
+ "type": "clone",
+ "names": {
+  "name": "Swan selection",
+  "aliases": [
+   "Joseph Swan selection"
+  ]
+ },
+ "region": [
+  "russian-river",
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "origin": "California"
+ },
+ "text": {
+  "what": "A Russian River field selection off Joseph Swan's vineyard, planted through Sonoma for its small berries and its dark, savoury wine."
+ },
+ "kin": [
+  {
+   "to": "russian-river-valley",
+   "as": "Where it comes from and mostly stays.",
+   "rel": "region"
+  },
+  {
+   "to": "massale-selection",
+   "as": "How it spread.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A Russian River field selection off Joseph Swan's vineyard, planted through Sonoma for its small berries and its dark, savoury wine.",
+ "region_terms": [
+  {
+   "key": "russian-river",
+   "name": "Russian River Valley",
+   "country": "United States",
+   "note": "fog up the river valley, and the AVA that taught California what pinot could do"
+  },
+  {
+   "key": "sonoma",
+   "name": "Sonoma County",
+   "country": "United States",
+   "note": "Russian River, the true coast, Carneros' western half"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "as": "Where it comes from and mostly stays.",
+   "rel": "region"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "How it spread.",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:haeger-north-american",
+   "kind": "book",
+   "title": "North American Pinot Noir",
+   "author": "John Winthrop Haeger",
+   "publisher": "University of California Press",
+   "year": 2004
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

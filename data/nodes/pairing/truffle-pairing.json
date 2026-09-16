@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "id": "truffle-pairing",
+ "type": "pairing",
+ "names": {
+  "name": "Truffle"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "course": "fungus",
+  "country": "France"
+ },
+ "text": {
+  "what": "Burgundy has its own black truffle, and the smell does to a glass of old pinot what nothing else does. Shaved late, over something plain, and never cooked hard."
+ },
+ "kin": [
+  {
+   "to": "mushrooms",
+   "as": "The everyday version of the same pairing.",
+   "rel": "kin"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where both come from.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-truffle"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "updated": "2026-09-16"
+}

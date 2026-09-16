@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "id": "oregon-wine-board",
+ "type": "org",
+ "names": {
+  "name": "Oregon Wine Board"
+ },
+ "region": [
+  "oregon",
+  "willamette"
+ ],
+ "facets": {
+  "country": "United States",
+  "kind": "association",
+  "status": "open"
+ },
+ "text": {
+  "what": "The state commission that funds Oregon's viticulture research and publishes the harvest statistics this site quotes."
+ },
+ "kin": [
+  {
+   "to": "willamette-valley",
+   "as": "The region most of its numbers describe.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 45.52,
+  "lon": -122.68,
+  "precision": "town"
+ },
+ "address": {
+  "city": "Portland",
+  "state": "OR",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-oregon-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "The state commission that funds Oregon's viticulture research and publishes the harvest statistics this site quotes.",
+ "region_terms": [
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  },
+  {
+   "key": "willamette",
+   "name": "Willamette Valley",
+   "country": "United States",
+   "note": "a hundred miles of valley floor and volcanic hills south of Portland"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The region most of its numbers describe.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-oregon-wine",
+   "kind": "encyclopaedia",
+   "title": "Oregon wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6426696",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373054628",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "geo": {
+   "tier": "tradition"
+  },
+  "address": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

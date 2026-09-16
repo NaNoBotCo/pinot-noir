@@ -1,0 +1,92 @@
+{
+ "schema": 1,
+ "id": "pigeage-term",
+ "type": "term",
+ "names": {
+  "name": "Pigeage"
+ },
+ "etymology": {
+  "root": "French pigeage, from piger / pigeon-dialect verbs for treading or pressing down",
+  "note": "the exact etymon is disputed; Burgundian dialect is the usual source given",
+  "tier": "tradition"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "letter": "P",
+  "kind": "ferment"
+ },
+ "text": {
+  "what": "Punching the cap down into the wine. The old tool is a plunger; the old method is bare legs."
+ },
+ "kin": [
+  {
+   "to": "pigeage",
+   "as": "The practice, at length.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:wp-maceration-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Punching the cap down into the wine. The old tool is a plunger; the old method is bare legs.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pigeage",
+   "type": "practice",
+   "name": "Punching down",
+   "as": "The practice, at length.",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-maceration-wine",
+   "kind": "encyclopaedia",
+   "title": "Maceration (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1455948",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1302144966",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "etymology": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "pigeage",
+   "type": "practice",
+   "name": "Punching down",
+   "as": "The word itself.",
+   "rel": "term"
+  }
+ ]
+}

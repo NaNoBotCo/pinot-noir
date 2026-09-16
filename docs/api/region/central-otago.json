@@ -1,0 +1,199 @@
+{
+ "schema": 1,
+ "id": "central-otago",
+ "type": "region",
+ "names": {
+  "name": "Central Otago"
+ },
+ "region": [
+  "central-otago",
+  "new-zealand"
+ ],
+ "facets": {
+  "country": "New Zealand",
+  "level": "gi",
+  "soil": "schist, loess, glacial gravel"
+ },
+ "text": {
+  "what": "The southernmost commercial wine region on earth, and the only part of New Zealand with a true continental climate — frost in the spring, forty-degree swings in a day, schist under everything.",
+  "story": "Vines went from 92 hectares to 1,930 in about two decades. Pinot noir takes over 80% of the plantings, which is a bet no other region of this size has made."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "More than four fifths of everything planted here.",
+   "rel": "variety"
+  },
+  {
+   "to": "felton-road",
+   "as": "Bannockburn, and the cellar that made the region legible abroad.",
+   "rel": "producer"
+  },
+  {
+   "to": "rippon",
+   "as": "Lake Wanaka, and one of the most photographed vineyards anywhere.",
+   "rel": "producer"
+  },
+  {
+   "to": "abel-clone",
+   "as": "The cutting that walked through customs and changed New Zealand pinot.",
+   "rel": "clone"
+  }
+ ],
+ "geo": {
+  "lat": -45.02,
+  "lon": 169.2,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-central-otago-wine-region",
+  "s:wp-new-zealand-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Planted",
+   "value": 1930,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-central-otago-wine-region",
+   "tier": "cited"
+  },
+  {
+   "key": "pinot_share",
+   "label": "Share of plantings given to pinot noir",
+   "value": 80,
+   "unit": "%",
+   "year": null,
+   "source": "s:wp-central-otago-wine-region",
+   "tier": "cited",
+   "note": "stated as over 80%"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The southernmost commercial wine region on earth, and the only part of New Zealand with a true continental climate — frost in the spring, forty-degree swings in a day, schist under everything.",
+ "region_terms": [
+  {
+   "key": "central-otago",
+   "name": "Central Otago",
+   "country": "New Zealand",
+   "note": "the southernmost wine region on earth, and continental with it"
+  },
+  {
+   "key": "new-zealand",
+   "name": "New Zealand",
+   "country": "New Zealand",
+   "note": "the country pinot noir made its second home"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "More than four fifths of everything planted here.",
+   "rel": "variety"
+  },
+  {
+   "to": "felton-road",
+   "type": "producer",
+   "name": "Felton Road",
+   "as": "Bannockburn, and the cellar that made the region legible abroad.",
+   "rel": "producer"
+  },
+  {
+   "to": "rippon",
+   "type": "producer",
+   "name": "Rippon",
+   "as": "Lake Wanaka, and one of the most photographed vineyards anywhere.",
+   "rel": "producer"
+  },
+  {
+   "to": "abel-clone",
+   "type": "clone",
+   "name": "Abel clone",
+   "as": "The cutting that walked through customs and changed New Zealand pinot.",
+   "rel": "clone"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-central-otago-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Central Otago wine region",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1468699",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363939055",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-new-zealand-wine",
+   "kind": "encyclopaedia",
+   "title": "New Zealand wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3974835",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375093713",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "marlborough",
+   "type": "region",
+   "name": "Marlborough",
+   "as": "The region that gets the pinot attention.",
+   "rel": "contrast"
+  },
+  {
+   "from": "martinborough",
+   "type": "region",
+   "name": "Martinborough",
+   "as": "The country's other pinot argument, 900 km south.",
+   "rel": "neighbour"
+  },
+  {
+   "from": "felton-road",
+   "type": "producer",
+   "name": "Felton Road",
+   "as": "The region it sits in and helped explain abroad.",
+   "rel": "region"
+  },
+  {
+   "from": "rippon",
+   "type": "producer",
+   "name": "Rippon",
+   "as": "Its region, at the cooler northern end.",
+   "rel": "region"
+  },
+  {
+   "from": "abel-clone",
+   "type": "clone",
+   "name": "Abel clone",
+   "as": "And where it now grows, 900 km further south.",
+   "rel": "region"
+  }
+ ]
+}

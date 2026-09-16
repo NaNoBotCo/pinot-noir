@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "id": "felton-road",
+ "type": "producer",
+ "names": {
+  "name": "Felton Road"
+ },
+ "region": [
+  "central-otago",
+  "new-zealand"
+ ],
+ "facets": {
+  "country": "New Zealand",
+  "established": 1991
+ },
+ "text": {
+  "what": "Bannockburn, Central Otago — schist, old gold workings, and a cellar that farms organically and biodynamically and bottles its blocks separately."
+ },
+ "kin": [
+  {
+   "to": "central-otago",
+   "as": "The region it sits in and helped explain abroad.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "Nearly everything in the cellar.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": -45.05,
+  "lon": 169.18,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Bannockburn",
+  "state": "Otago",
+  "country": "NZ"
+ },
+ "sources": [
+  "s:wp-felton-road",
+  "s:wp-central-otago-wine-region"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

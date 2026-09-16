@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "los-carneros",
+ "type": "region",
+ "names": {
+  "name": "Los Carneros",
+  "aliases": [
+   "Carneros"
+  ]
+ },
+ "region": [
+  "carneros",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1983,
+  "soil": "shallow clay over bedrock"
+ },
+ "text": {
+  "what": "The cold shoulder where Napa and Sonoma both run down to San Pablo Bay. Wind off the bay every afternoon, clay underfoot, and a harvest that starts weeks before the valley floor upstream."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown for still wine and for sparkling base, often on the same ranch.",
+   "rel": "variety"
+  },
+  {
+   "to": "andre-tchelistcheff",
+   "as": "Who argued for this ground when Napa wanted cabernet.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 38.25,
+  "lon": -122.35,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-los-carneros-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1983",
+   "year": 1983,
+   "source": "s:ecfr-27-9",
+   "note": "48 FR 37368, Aug. 18, 1983"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "The cold shoulder where Napa and Sonoma both run down to San Pablo Bay. Wind off the bay every afternoon, clay underfoot, and a harvest that starts weeks before the valley floor upstream.",
+ "region_terms": [
+  {
+   "key": "carneros",
+   "name": "Los Carneros",
+   "country": "United States",
+   "note": "the cold shoulder where Napa and Sonoma both reach San Pablo Bay"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown for still wine and for sparkling base, often on the same ranch.",
+   "rel": "variety"
+  },
+  {
+   "to": "andre-tchelistcheff",
+   "type": "person",
+   "name": "André Tchelistcheff",
+   "as": "Who argued for this ground when Napa wanted cabernet.",
+   "rel": "person"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  },
+  {
+   "id": "s:wp-los-carneros-ava",
+   "kind": "encyclopaedia",
+   "title": "Los Carneros AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13609419",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372386670",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 1983",
+   "url": "",
+   "year": 1983,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "andre-tchelistcheff",
+   "type": "person",
+   "name": "André Tchelistcheff",
+   "as": "The cold shoulder he pointed people toward.",
+   "rel": "region"
+  }
+ ]
+}

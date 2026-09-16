@@ -1,0 +1,163 @@
+{
+ "schema": 1,
+ "id": "sokol-blosser",
+ "type": "producer",
+ "names": {
+  "name": "Sokol Blosser"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1971
+ },
+ "text": {
+  "what": "Bill Blosser and Susan Sokol Blosser planted five acres of pinot noir into a former prune orchard in 1971 and made their first vintage in 1977. The estate has been certified organic since 2005."
+ },
+ "kin": [
+  {
+   "to": "dundee-hills",
+   "as": "The AVA its blocks sit in.",
+   "rel": "region"
+  },
+  {
+   "to": "willamette-valley",
+   "as": "One of the valley's founding estates.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 45.27,
+  "lon": -123.07,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Dayton",
+  "state": "OR",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-sokol-blosser"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "Estate vineyard",
+   "value": 89,
+   "unit": "acres",
+   "year": null,
+   "source": "s:wp-sokol-blosser",
+   "tier": "cited"
+  },
+  {
+   "key": "solar_kw",
+   "label": "Photovoltaic array",
+   "value": 24,
+   "unit": "kW",
+   "year": 2006,
+   "source": "s:wp-sokol-blosser",
+   "tier": "cited",
+   "note": "about a quarter of the winery's electricity"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "organic-certified",
+   "source": "s:wp-sokol-blosser",
+   "tier": "cited",
+   "note": "certified by the Oregon Department of Agriculture since 2005; estate blocks USDA certified organic"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Bill Blosser and Susan Sokol Blosser planted five acres of pinot noir into a former prune orchard in 1971 and made their first vintage in 1977. The estate has been certified organic since 2005.",
+ "region_terms": [
+  {
+   "key": "willamette",
+   "name": "Willamette Valley",
+   "country": "United States",
+   "note": "a hundred miles of valley floor and volcanic hills south of Portland"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "dundee-hills",
+   "type": "region",
+   "name": "Dundee Hills",
+   "as": "The AVA its blocks sit in.",
+   "rel": "region"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "One of the valley's founding estates.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-sokol-blosser",
+   "kind": "encyclopaedia",
+   "title": "Sokol Blosser Winery",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=35905595",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1323759762",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  },
+  "address": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "organic-certified",
+   "label": "Certified organic",
+   "icon": "🍃",
+   "group": "certification",
+   "evidence": "a named certifier and, where published, a certificate number: CCOF, Oregon Tilth, USDA Organic, Ecocert, Agriculture Biologique, BioGro",
+   "resources": [
+    "r:ccof",
+    "r:usda-organic"
+   ],
+   "source": "s:wp-sokol-blosser",
+   "note": "certified by the Oregon Department of Agriculture since 2005; estate blocks USDA certified organic",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "dundee-hills",
+   "type": "region",
+   "name": "Dundee Hills",
+   "as": "Planting since 1971, two ridges over.",
+   "rel": "producer"
+  }
+ ]
+}

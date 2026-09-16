@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "id": "martinborough",
+ "type": "region",
+ "names": {
+  "name": "Martinborough"
+ },
+ "region": [
+  "martinborough",
+  "new-zealand"
+ ],
+ "facets": {
+  "country": "New Zealand",
+  "level": "gi",
+  "soil": "river gravel over clay"
+ },
+ "text": {
+  "what": "A gravel terrace at the south end of the North Island, in the rain shadow of the Tararua Range, with a town laid out as a Union Jack. Small, dry, windy, and planted almost entirely to pinot noir."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The reason the terrace was planted at all.",
+   "rel": "variety"
+  },
+  {
+   "to": "central-otago",
+   "as": "The country's other pinot argument, 900 km south.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "abel-clone",
+   "as": "Propagated here first, and named for the customs officer.",
+   "rel": "clone"
+  }
+ ],
+ "geo": {
+  "lat": -41.22,
+  "lon": 175.46,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-martinborough",
+  "s:wp-new-zealand-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "A gravel terrace at the south end of the North Island, in the rain shadow of the Tararua Range, with a town laid out as a Union Jack. Small, dry, windy, and planted almost entirely to pinot noir.",
+ "region_terms": [
+  {
+   "key": "martinborough",
+   "name": "Martinborough",
+   "country": "New Zealand",
+   "note": "Wairarapa gravels in the rain shadow of the Tararua Range"
+  },
+  {
+   "key": "new-zealand",
+   "name": "New Zealand",
+   "country": "New Zealand",
+   "note": "the country pinot noir made its second home"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The reason the terrace was planted at all.",
+   "rel": "variety"
+  },
+  {
+   "to": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "as": "The country's other pinot argument, 900 km south.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "abel-clone",
+   "type": "clone",
+   "name": "Abel clone",
+   "as": "Propagated here first, and named for the customs officer.",
+   "rel": "clone"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-martinborough",
+   "kind": "encyclopaedia",
+   "title": "Martinborough",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=979602",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373616656",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-new-zealand-wine",
+   "kind": "encyclopaedia",
+   "title": "New Zealand wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3974835",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375093713",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "abel-clone",
+   "type": "clone",
+   "name": "Abel clone",
+   "as": "Where it was first propagated in quantity.",
+   "rel": "region"
+  }
+ ]
+}

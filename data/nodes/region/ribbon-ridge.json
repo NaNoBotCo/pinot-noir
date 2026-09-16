@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "ribbon-ridge",
+ "type": "region",
+ "names": {
+  "name": "Ribbon Ridge"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "sub-ava",
+  "established": 2005,
+  "soil": "Willakenzie marine sediment"
+ },
+ "text": {
+  "what": "Three and a half square miles of uniform sedimentary soil rising out of Yamhill-Carlton — one of the smallest AVAs in the country, and one of the tidiest arguments for drawing a line around a single landform."
+ },
+ "kin": [
+  {
+   "to": "yamhill-carlton",
+   "as": "The larger AVA that surrounds it.",
+   "rel": "whole"
+  },
+  {
+   "to": "willamette-valley",
+   "as": "And the valley AVA around that.",
+   "rel": "whole"
+  }
+ ],
+ "geo": {
+  "lat": 45.35,
+  "lon": -123.1,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-ribbon-ridge-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 2005",
+   "year": 2005,
+   "source": "s:ecfr-27-9",
+   "note": "70 FR 31344, June 1, 2005"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

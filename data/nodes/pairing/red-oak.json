@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "id": "red-oak",
+ "type": "pairing",
+ "names": {
+  "name": "Red oak",
+  "aliases": [
+   "Coast live oak",
+   "Quercus agrifolia",
+   "Encina"
+  ]
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "course": "condiment",
+  "country": "United States"
+ },
+ "text": {
+  "what": "The wood the whole style rests on. In Santa Maria, red oak means coast live oak — Quercus agrifolia — which grows on the hills around the valley and burns down to hot, steady coals without throwing much smoke.",
+  "how": "Split, burned down to coals in a firebox or at the edge of the pit, then raked under a grate on a hand crank. The cook moves the meat up and down instead of moving the fire. Little smoke matters here: the valley is windy, and the cooking is hot and quick rather than long and low.",
+  "notes": "The local name turns out to be good botany. Coast live oak is a semi-evergreen oak of the California Floristic Province, growing from Mendocino south into northern Baja, and it sits in the red oak section of the genus — though unusually for that group its acorns ripen in seven or eight months rather than eighteen. Californio Spanish called the tree encina, which is why Encinitas and Encinal are on the map."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "The meat it cooks.",
+   "rel": "pairing"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "Why the wood is the part that cannot be exported.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The hills it grows on.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-quercus-agrifolia",
+  "s:wp-santa-maria-style-barbecue"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

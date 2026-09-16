@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "id": "fps",
+ "type": "org",
+ "names": {
+  "name": "Foundation Plant Services",
+  "aliases": [
+   "Foundation Plant Services, UC Davis",
+   "FPS"
+  ]
+ },
+ "region": [
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "kind": "nursery",
+  "status": "open"
+ },
+ "text": {
+  "what": "The UC Davis programme that holds, tests and distributes certified grapevine material in the United States. The numbers on American clones — UCD 4, UCD 2A — are its numbers.",
+  "how": "Imported vines go through quarantine and virus testing before release. That process is why certified material is slow and expensive, and why suitcase cuttings keep happening."
+ },
+ "kin": [
+  {
+   "to": "pommard-ucd4",
+   "as": "Whose number is an FPS number.",
+   "rel": "clone"
+  },
+  {
+   "to": "massale-selection",
+   "as": "The alternative, and its risks.",
+   "rel": "practice"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "as": "How the catalogue came to exist.",
+   "rel": "story"
+  }
+ ],
+ "geo": {
+  "lat": 38.54,
+  "lon": -121.75,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Davis",
+  "state": "CA",
+  "country": "US"
+ },
+ "links": [
+  {
+   "label": "Foundation Plant Services",
+   "url": "https://fps.ucdavis.edu/"
+  }
+ ],
+ "sources": [
+  "s:fps-grapes",
+  "s:wp-foundation-plant-services"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

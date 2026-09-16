@@ -1,0 +1,1792 @@
+{
+ "note": "Every source a record may cite. build.py merges data/sources/new-*.json in here and deletes the file. A Wikipedia source carries the revision the project read (permalink), because the page will change.",
+ "sources": [
+  {
+   "id": "s:this-project",
+   "kind": "web",
+   "title": "Pinot Country — this project's own reasoning",
+   "publisher": "Pinot Country",
+   "url": ""
+  },
+  {
+   "id": "s:osm",
+   "kind": "dataset",
+   "title": "OpenStreetMap",
+   "publisher": "OpenStreetMap contributors",
+   "url": "https://www.openstreetmap.org/",
+   "licence": "ODbL 1.0",
+   "note": "harvested through the Overpass API; see data/harvest/osm-places.json for the query and the date"
+  },
+  {
+   "id": "s:natural-earth",
+   "kind": "dataset",
+   "title": "Natural Earth",
+   "publisher": "Natural Earth",
+   "url": "https://www.naturalearthdata.com/",
+   "licence": "public domain",
+   "note": "country outlines, subdivisions and coastline behind every map here"
+  },
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  },
+  {
+   "id": "s:ecfr-27-4",
+   "kind": "regulation",
+   "title": "27 CFR part 4 — Labeling and Advertising of Wine",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-4",
+   "licence": "public domain",
+   "note": "what 'estate bottled', a varietal name and an appellation may mean on a US label"
+  },
+  {
+   "id": "s:ttb-ava",
+   "kind": "org",
+   "title": "American Viticultural Area (AVA)",
+   "publisher": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "url": "https://www.ttb.gov/wine/ava",
+   "licence": "public domain"
+  },
+  {
+   "id": "s:inao",
+   "kind": "org",
+   "title": "Institut national de l'origine et de la qualité",
+   "publisher": "INAO",
+   "url": "https://www.inao.gouv.fr/",
+   "note": "the body that defines and polices French appellations"
+  },
+  {
+   "id": "s:unesco-1425",
+   "kind": "org",
+   "title": "The Climats, terroirs of Burgundy — World Heritage List 1425",
+   "publisher": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1425/",
+   "note": "inscribed 2015"
+  },
+  {
+   "id": "s:usda-imps-100",
+   "kind": "document",
+   "title": "Institutional Meat Purchase Specifications, Series 100 — Fresh Beef",
+   "publisher": "US Department of Agriculture, Agricultural Marketing Service",
+   "url": "https://www.ams.usda.gov/grades-standards/imps",
+   "licence": "public domain",
+   "note": "the specification that gives the tri-tip its number"
+  },
+  {
+   "id": "s:fps-grapes",
+   "kind": "dataset",
+   "title": "National Grapevine Registry and the FPS public varieties list",
+   "publisher": "Foundation Plant Services, University of California, Davis",
+   "url": "https://fps.ucdavis.edu/",
+   "note": "which clone selection carries which number in the United States"
+  },
+  {
+   "id": "s:oxford-companion-wine-4",
+   "kind": "book",
+   "title": "The Oxford Companion to Wine",
+   "author": "Jancis Robinson (ed.)",
+   "publisher": "Oxford University Press",
+   "year": 2015,
+   "note": "fourth edition"
+  },
+  {
+   "id": "s:world-atlas-wine-8",
+   "kind": "book",
+   "title": "The World Atlas of Wine",
+   "author": "Hugh Johnson and Jancis Robinson",
+   "publisher": "Mitchell Beazley",
+   "year": 2019,
+   "note": "eighth edition"
+  },
+  {
+   "id": "s:wine-grapes-2012",
+   "kind": "book",
+   "title": "Wine Grapes: A Complete Guide to 1,368 Vine Varieties",
+   "author": "Jancis Robinson, Julia Harding and José Vouillamoz",
+   "publisher": "Allen Lane",
+   "year": 2012
+  },
+  {
+   "id": "s:morris-inside-burgundy",
+   "kind": "book",
+   "title": "Inside Burgundy: The Vineyards, the Wine and the People",
+   "author": "Jasper Morris",
+   "publisher": "Berry Bros. & Rudd Press",
+   "year": 2010
+  },
+  {
+   "id": "s:meadows-pearl",
+   "kind": "book",
+   "title": "The Pearl of the Côte: The Great Wines of Vosne-Romanée",
+   "author": "Allen Meadows",
+   "publisher": "Burghound Books",
+   "year": 2010
+  },
+  {
+   "id": "s:haeger-north-american",
+   "kind": "book",
+   "title": "North American Pinot Noir",
+   "author": "John Winthrop Haeger",
+   "publisher": "University of California Press",
+   "year": 2004
+  },
+  {
+   "id": "s:haeger-pacific",
+   "kind": "book",
+   "title": "Pacific Pinot Noir",
+   "author": "John Winthrop Haeger",
+   "publisher": "University of California Press",
+   "year": 2008
+  },
+  {
+   "id": "s:devilliers-heartbreak",
+   "kind": "book",
+   "title": "The Heartbreak Grape: A Journey in Search of the Perfect Pinot Noir",
+   "author": "Marq de Villiers",
+   "publisher": "HarperCollins",
+   "year": 1993
+  },
+  {
+   "id": "s:web-smv-bbq-association",
+   "kind": "web",
+   "title": "Santa Maria Style Barbeque Association",
+   "publisher": "Santa Maria Valley Chamber of Commerce",
+   "url": "https://www.santamaria.com/our-community/bbq-association/",
+   "accessed": "2026-09-16",
+   "note": "the association's own page: red oak native to the valley, beef rolled in salt, pepper and garlic, cooked on skewers over the coals; points at a certification programme for 'Santa Maria Style Barbeque Certified' locations"
+  },
+  {
+   "id": "s:web-smv-visit-bbq",
+   "kind": "web",
+   "title": "Santa Maria Valley — barbecue and the valley's restaurants",
+   "publisher": "Santa Maria Valley Visitor and Convention Bureau",
+   "url": "https://santamariavalley.com/",
+   "accessed": "2026-09-16",
+   "note": "the visitor bureau's site; its blog post on the barbecue trademark returned HTTP 403 to this project on 16 September 2026 and was not read"
+  },
+  {
+   "id": "s:sunset-2013-true",
+   "kind": "article",
+   "title": "This Unsung California Town Has the West's Best BBQ",
+   "author": "Margo True",
+   "publisher": "Sunset",
+   "year": 2013,
+   "note": "cited in the Wikipedia article's further reading; not read directly by this project"
+  },
+  {
+   "id": "s:wp-adelsheim-vineyard",
+   "kind": "encyclopaedia",
+   "title": "Adelsheim Vineyard",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=81057897",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1336662478",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ahr-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Ahr (wine region)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15010808",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1358145069",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-alsace-wine",
+   "kind": "encyclopaedia",
+   "title": "Alsace wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1083426",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1351653670",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-american-viticultural-area",
+   "kind": "encyclopaedia",
+   "title": "American Viticultural Area",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=448714",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370555561",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ampelography",
+   "kind": "encyclopaedia",
+   "title": "Ampelography",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1106293",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371070907",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-anderson-valley-ava",
+   "kind": "encyclopaedia",
+   "title": "Anderson Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13390838",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1369908409",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-andr-tchelistcheff",
+   "kind": "encyclopaedia",
+   "title": "André Tchelistcheff",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3607017",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1354489790",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-anthocyanin",
+   "kind": "encyclopaedia",
+   "title": "Anthocyanin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=18952492",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1369793348",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-appellation-dorigine-contr-l-e",
+   "kind": "encyclopaedia",
+   "title": "Appellation d'origine contrôlée",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1217686",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368808209",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-aptos-california",
+   "kind": "encyclopaedia",
+   "title": "Aptos, California",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=108170",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373987591",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-argentine-wine",
+   "kind": "encyclopaedia",
+   "title": "Argentine wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3440627",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1367165286",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-au-bon-climat",
+   "kind": "encyclopaedia",
+   "title": "Au Bon Climat",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=7416326",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1333503261",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-aubert-de-villaine",
+   "kind": "encyclopaedia",
+   "title": "Aubert de Villaine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3969626",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1305476611",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-australian-wine",
+   "kind": "encyclopaedia",
+   "title": "Australian wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3959588",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1343408200",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-austrian-wine",
+   "kind": "encyclopaedia",
+   "title": "Austrian wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=8318345",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1323163032",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-baden-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Baden (wine region)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=14989190",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1343190178",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-barbecue",
+   "kind": "encyclopaedia",
+   "title": "Barbecue",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=37135",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374372669",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-barrel",
+   "kind": "encyclopaedia",
+   "title": "Barrel",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=640764",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368251228",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bass-phillip",
+   "kind": "encyclopaedia",
+   "title": "Bass Phillip",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=32894188",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1306331974",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bean",
+   "kind": "encyclopaedia",
+   "title": "Bean",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=4487",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373686563",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-beaune",
+   "kind": "encyclopaedia",
+   "title": "Beaune",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=328807",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1353559243",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-beef-aging",
+   "kind": "encyclopaedia",
+   "title": "Beef aging",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=859227",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1345562803",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bien-nacido-vineyard",
+   "kind": "encyclopaedia",
+   "title": "Bien Nacido Vineyards",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6614595",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368046917",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-biodynamic-wine",
+   "kind": "encyclopaedia",
+   "title": "Biodynamic wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1044195",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371309300",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-blanc-de-noirs",
+   "kind": "encyclopaedia",
+   "title": "Champagne",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=53754",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375080208",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-brettanomyces",
+   "kind": "encyclopaedia",
+   "title": "Brettanomyces",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1044750",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1330177882",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-burgundy-wine",
+   "kind": "encyclopaedia",
+   "title": "Burgundy wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=715978",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1365731507",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-c-te-chalonnaise",
+   "kind": "encyclopaedia",
+   "title": "Côte Chalonnaise",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2897847",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1342122793",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-c-te-de-beaune",
+   "kind": "encyclopaedia",
+   "title": "Côte de Beaune",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2756908",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1367177988",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-c-te-de-nuits",
+   "kind": "encyclopaedia",
+   "title": "Côte de Nuits",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2755475",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373291337",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-california-wine",
+   "kind": "encyclopaedia",
+   "title": "California wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=14660227",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368273923",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-casablanca-valley",
+   "kind": "encyclopaedia",
+   "title": "Casablanca, Chile",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10407597",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1345733918",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-central-otago-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Central Otago wine region",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1468699",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363939055",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-chalone-ava",
+   "kind": "encyclopaedia",
+   "title": "Chalone AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=4619477",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1360711609",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-chambolle-musigny",
+   "kind": "encyclopaedia",
+   "title": "Chambolle-Musigny",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2273454",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1349309231",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-champagne",
+   "kind": "encyclopaedia",
+   "title": "Champagne",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=53754",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375080208",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-champagne-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Champagne wine region",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=53755",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371925991",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-chardonnay",
+   "kind": "encyclopaedia",
+   "title": "Chardonnay",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=37566",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375174126",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-chehalem-mountains-ava",
+   "kind": "encyclopaedia",
+   "title": "Chehalem Mountains AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15487897",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1361294978",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-chilean-wine",
+   "kind": "encyclopaedia",
+   "title": "Chilean wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=521306",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368380371",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-chumash",
+   "kind": "encyclopaedia",
+   "title": "Chumash",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=11415581",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1317782667",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-clos-de-vougeot",
+   "kind": "encyclopaedia",
+   "title": "Clos de Vougeot",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1967576",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1256308730",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cloudy-bay-vineyards",
+   "kind": "encyclopaedia",
+   "title": "Cloudy Bay Vineyards",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3980663",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363939439",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-coq-au-vin",
+   "kind": "encyclopaedia",
+   "title": "Coq au vin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=244551",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1352191402",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-corton-aoc",
+   "kind": "encyclopaedia",
+   "title": "Corton (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1972868",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1333880654",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-corton-charlemagne",
+   "kind": "encyclopaedia",
+   "title": "Corton-Charlemagne",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3423651",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1314932645",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cr-mant",
+   "kind": "encyclopaedia",
+   "title": "Sparkling wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=143177",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373590388",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cut-of-beef",
+   "kind": "encyclopaedia",
+   "title": "Cut of beef",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=5453492",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371263209",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-david-lett",
+   "kind": "encyclopaedia",
+   "title": "David Lett",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=5890815",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1356053194",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-decanter-wine",
+   "kind": "encyclopaedia",
+   "title": "Decanter (magazine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=9980983",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368558141",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-domaine-de-la-roman-e-conti",
+   "kind": "encyclopaedia",
+   "title": "Domaine de la Romanée-Conti",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=30873274",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1347537183",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-domaine-drouhin-oregon",
+   "kind": "encyclopaedia",
+   "title": "Maison Joseph Drouhin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6528081",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1312893554",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-domaine-leflaive",
+   "kind": "encyclopaedia",
+   "title": "Domaine Leflaive",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3710721",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1325549183",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-domaine-leroy",
+   "kind": "encyclopaedia",
+   "title": "Domaine Leroy",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=56625561",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1300818613",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-duck-as-food",
+   "kind": "encyclopaedia",
+   "title": "Duck as food",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2579000",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373965088",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-dundee-hills-ava",
+   "kind": "encyclopaedia",
+   "title": "Dundee Hills AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6485071",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355925572",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-edible-mushroom",
+   "kind": "encyclopaedia",
+   "title": "Edible mushroom",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=193975",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374773352",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-english-wine",
+   "kind": "encyclopaedia",
+   "title": "Wine from the United Kingdom",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6032951",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373453846",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-eola-amity-hills-ava",
+   "kind": "encyclopaedia",
+   "title": "Eola-Amity Hills AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15488487",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355925595",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-felton-road",
+   "kind": "encyclopaedia",
+   "title": "Bannockburn, New Zealand",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=28532222",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374981804",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fermentation-in-winemaking",
+   "kind": "encyclopaedia",
+   "title": "Fermentation in winemaking",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13824744",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1334072242",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-foundation-plant-services",
+   "kind": "encyclopaedia",
+   "title": "Agriculture in California",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=57071645",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373938455",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fr-hburgunder",
+   "kind": "encyclopaedia",
+   "title": "Pinot Noir Précoce",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=25123541",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371306597",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-gamay",
+   "kind": "encyclopaedia",
+   "title": "Gamay",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=555090",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1269650375",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-german-wine",
+   "kind": "encyclopaedia",
+   "title": "German wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1039202",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363074961",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-gevrey-chambertin",
+   "kind": "encyclopaedia",
+   "title": "Gevrey-Chambertin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2747537",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1351994781",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-grafting",
+   "kind": "encyclopaedia",
+   "title": "Grafting",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=14080493",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1367896147",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-grand-cru",
+   "kind": "encyclopaedia",
+   "title": "Grand cru",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1967586",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1298253085",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-grilling",
+   "kind": "encyclopaedia",
+   "title": "Grilling",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=52987",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371778347",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-guadalupe-california",
+   "kind": "encyclopaedia",
+   "title": "Guadalupe, California",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=108131",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374533359",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hanzell-vineyards",
+   "kind": "encyclopaedia",
+   "title": "Hanzell Vineyards",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=31227179",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1148167066",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-henri-jayer",
+   "kind": "encyclopaedia",
+   "title": "Henri Jayer",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=7135825",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1350392479",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hermanus",
+   "kind": "encyclopaedia",
+   "title": "Hermanus",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2920807",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371684991",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hospices-de-beaune",
+   "kind": "encyclopaedia",
+   "title": "Hospices de Beaune",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=42940493",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374147070",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jim-clendenen",
+   "kind": "encyclopaedia",
+   "title": "Jim Clendenen",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=7416474",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372278234",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-joseph-drouhin",
+   "kind": "encyclopaedia",
+   "title": "Maison Joseph Drouhin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6528081",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1312893554",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-judgment-of-paris-wine",
+   "kind": "encyclopaedia",
+   "title": "Judgment of Paris (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3127210",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1369361784",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jura-wine",
+   "kind": "encyclopaedia",
+   "title": "Jura wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2655795",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364484294",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-king-estate-winery",
+   "kind": "encyclopaedia",
+   "title": "King Estate Winery",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=21197872",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368284642",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-la-t-che-aoc",
+   "kind": "encyclopaedia",
+   "title": "La Tâche AOC",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=24833557",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1287613431",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lalou-bize-leroy",
+   "kind": "encyclopaedia",
+   "title": "Lalou Bize-Leroy",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=9588650",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363874379",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-le-musigny",
+   "kind": "encyclopaedia",
+   "title": "Musigny AOC",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13983508",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366444357",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lompoc-california",
+   "kind": "encyclopaedia",
+   "title": "Lompoc, California",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=108133",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1369644960",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-los-alamos-california",
+   "kind": "encyclopaedia",
+   "title": "Los Alamos, California",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=108134",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368701709",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-los-carneros-ava",
+   "kind": "encyclopaedia",
+   "title": "Los Carneros AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13609419",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372386670",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-maceration-wine",
+   "kind": "encyclopaedia",
+   "title": "Maceration (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1455948",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1302144966",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-maison-louis-jadot",
+   "kind": "encyclopaedia",
+   "title": "Maison Louis Jadot",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=7897895",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1327642944",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-malolactic-fermentation",
+   "kind": "encyclopaedia",
+   "title": "Malolactic fermentation",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1045027",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1262301785",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-marlborough-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Marlborough wine region",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=62196449",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363939282",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-martinborough",
+   "kind": "encyclopaedia",
+   "title": "Martinborough",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=979602",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373616656",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mcminnville-ava",
+   "kind": "encyclopaedia",
+   "title": "McMinnville AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6485077",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1361638564",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-michael-benedict",
+   "kind": "encyclopaedia",
+   "title": "Michael Les Benedict",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=5423060",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372781307",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-monopole-wine",
+   "kind": "encyclopaedia",
+   "title": "Monopole (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2338456",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1320835976",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mornington-peninsula",
+   "kind": "encyclopaedia",
+   "title": "Mornington Peninsula",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=492787",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368089781",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-n-gociant",
+   "kind": "encyclopaedia",
+   "title": "Winemaker",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=928516",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1352783684",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-natural-wine",
+   "kind": "encyclopaedia",
+   "title": "Natural wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10998525",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1367062038",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-new-zealand-wine",
+   "kind": "encyclopaedia",
+   "title": "New Zealand wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3974835",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375093713",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nuits-saint-georges",
+   "kind": "encyclopaedia",
+   "title": "Nuits-Saint-Georges",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2169398",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1365254970",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-oak-wine",
+   "kind": "encyclopaedia",
+   "title": "Oak (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=748887",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370961109",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-okanagan-valley-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Okanagan Valley (wine region)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=30299619",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1289712096",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-oregon-wine",
+   "kind": "encyclopaedia",
+   "title": "Oregon wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6426696",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373054628",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-organic-wine",
+   "kind": "encyclopaedia",
+   "title": "Organic wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10950343",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374345235",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-paul-masson",
+   "kind": "encyclopaedia",
+   "title": "Paul Masson",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1338911",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355864523",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pfalz-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Palatinate (wine region)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=9223433",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1301470254",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-phylloxera",
+   "kind": "encyclopaedia",
+   "title": "Phylloxera",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=223504",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373438254",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pinot-blanc",
+   "kind": "encyclopaedia",
+   "title": "Pinot blanc",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=265448",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364188369",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pinot-gris",
+   "kind": "encyclopaedia",
+   "title": "Pinot gris",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=344643",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375152512",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pinot-meunier",
+   "kind": "encyclopaedia",
+   "title": "Pinot Meunier",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=475108",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371307542",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pommard",
+   "kind": "encyclopaedia",
+   "title": "Pommard",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=5312109",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1358092989",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-premier-cru",
+   "kind": "encyclopaedia",
+   "title": "First Growth",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=831138",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1290217898",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-quercus-agrifolia",
+   "kind": "encyclopaedia",
+   "title": "Quercus agrifolia",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=523174",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374637938",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-rancho-tepusquet",
+   "kind": "encyclopaedia",
+   "title": "Rancho Tepusquet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=26442607",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1304255405",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ribbon-ridge-ava",
+   "kind": "encyclopaedia",
+   "title": "Ribbon Ridge AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=9570398",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1362218464",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-richebourg",
+   "kind": "encyclopaedia",
+   "title": "Richebourg",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=12608821",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1061184993",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-rippon",
+   "kind": "encyclopaedia",
+   "title": "Rippon",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15971242",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1015530625",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-roman-e-conti",
+   "kind": "encyclopaedia",
+   "title": "Romanée-Conti",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10181194",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372749840",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-rootstock",
+   "kind": "encyclopaedia",
+   "title": "Rootstock",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2613688",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363865071",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ros",
+   "kind": "encyclopaedia",
+   "title": "Rosé",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1039412",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374076830",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-russian-river-valley-ava",
+   "kind": "encyclopaedia",
+   "title": "Russian River Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13610140",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355926003",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-salmon-as-food",
+   "kind": "encyclopaedia",
+   "title": "Salmon as food",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=35566729",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1367989983",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-salsa-sauce",
+   "kind": "encyclopaedia",
+   "title": "Salsa (food)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=425104",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373777102",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sancerre-aoc",
+   "kind": "encyclopaedia",
+   "title": "Sancerre (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1606878",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374514443",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-santa-barbara-county-wine",
+   "kind": "encyclopaedia",
+   "title": "Santa Barbara County wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=75415297",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355926051",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-santa-cruz-mountains-ava",
+   "kind": "encyclopaedia",
+   "title": "Santa Cruz Mountains AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13510227",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372397285",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-santa-lucia-highlands-ava",
+   "kind": "encyclopaedia",
+   "title": "Santa Lucia Highlands AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15414637",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355926056",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-santa-maria-california",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria, California",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=108140",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370180710",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-santa-maria-style-barbecue",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria–style barbecue",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=22881131",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1328359472",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-santa-maria-valley",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10711580",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1360626562",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-santa-maria-valley-ava",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10711580",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1360626562",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sideways",
+   "kind": "encyclopaedia",
+   "title": "Sideways",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1144172",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370534473",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sokol-blosser",
+   "kind": "encyclopaedia",
+   "title": "Sokol Blosser Winery",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=35905595",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1323759762",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sonoma-coast-ava",
+   "kind": "encyclopaedia",
+   "title": "Sonoma Coast AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13610213",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355926109",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-south-african-wine",
+   "kind": "encyclopaedia",
+   "title": "South African wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=4111898",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372800950",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-south-tyrol-wine",
+   "kind": "encyclopaedia",
+   "title": "South Tyrol wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=31371069",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371465754",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sparkling-wine",
+   "kind": "encyclopaedia",
+   "title": "Sparkling wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=143177",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373590388",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sta-rita-hills-ava",
+   "kind": "encyclopaedia",
+   "title": "Sta. Rita Hills AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15415082",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370033962",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sulfur-dioxide",
+   "kind": "encyclopaedia",
+   "title": "Sulfur dioxide",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=50958",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373528260",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-switzerland-wine",
+   "kind": "encyclopaedia",
+   "title": "Swiss wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=8496915",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1352617216",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tannin",
+   "kind": "encyclopaedia",
+   "title": "Tannin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=61983",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374264114",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tasmanian-wine",
+   "kind": "encyclopaedia",
+   "title": "Tasmanian wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13566419",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1343408247",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-terroir",
+   "kind": "encyclopaedia",
+   "title": "Terroir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=896092",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364178782",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-the-eyrie-vineyards",
+   "kind": "encyclopaedia",
+   "title": "The Eyrie Vineyards",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3800003",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1340357536",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tri-tip",
+   "kind": "encyclopaedia",
+   "title": "Tri-tip",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2982651",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368736893",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-truffle",
+   "kind": "encyclopaedia",
+   "title": "Truffle",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=291692",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366536535",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-umami",
+   "kind": "encyclopaedia",
+   "title": "Umami",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=62462",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373211998",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-vintage",
+   "kind": "encyclopaedia",
+   "title": "Vintage",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1052470",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364749374",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-vitis-vinifera",
+   "kind": "encyclopaedia",
+   "title": "Vitis vinifera",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=413408",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370458146",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-volnay-aoc",
+   "kind": "encyclopaedia",
+   "title": "Volnay wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=17102651",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1316082908",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-vosne-roman-e",
+   "kind": "encyclopaedia",
+   "title": "Vosne-Romanée",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2361456",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368842589",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-walker-bay",
+   "kind": "encyclopaedia",
+   "title": "Walker Bay",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10973233",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366780574",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-willamette-valley-ava",
+   "kind": "encyclopaedia",
+   "title": "Willamette Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6470250",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1361730329",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wine-and-food-matching",
+   "kind": "encyclopaedia",
+   "title": "Wine and food pairing",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1045978",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1348171918",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wine-cellar",
+   "kind": "encyclopaedia",
+   "title": "Wine cellar",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=5624725",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374108044",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wine-fault",
+   "kind": "encyclopaedia",
+   "title": "Wine fault",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3031996",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366999655",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wine-glass",
+   "kind": "encyclopaedia",
+   "title": "Wine glass",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3675632",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1359702629",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wine-tasting",
+   "kind": "encyclopaedia",
+   "title": "Wine tasting",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=19719473",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374178166",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-winemaking",
+   "kind": "encyclopaedia",
+   "title": "Winemaking",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=373172",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373928422",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yamhill-carlton-ava",
+   "kind": "encyclopaedia",
+   "title": "Yamhill-Carlton AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6485102",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1361937775",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yarra-valley",
+   "kind": "encyclopaedia",
+   "title": "Yarra Valley",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=34386",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1344863701",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yeast-in-winemaking",
+   "kind": "encyclopaedia",
+   "title": "Yeast in winemaking",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=36029170",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1352990811",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ]
+}

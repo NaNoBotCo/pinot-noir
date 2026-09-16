@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "chambertin",
+ "type": "vineyard",
+ "names": {
+  "name": "Chambertin"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France"
+ },
+ "text": {
+  "what": "Gevrey's grand cru on the mid-slope, and the name the village bolted onto its own in 1847 — the first commune in Burgundy to do it, and the start of every double-barrelled name on the Côte."
+ },
+ "kin": [
+  {
+   "to": "cote-de-nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where the habit of appending the best vineyard to the village name began.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.22,
+  "lon": 4.96,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-gevrey-chambertin",
+  "s:wp-burgundy-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares_village",
+   "label": "Gevrey-Chambertin planted to pinot noir",
+   "value": 310,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-gevrey-chambertin",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Gevrey's grand cru on the mid-slope, and the name the village bolted onto its own in 1847 — the first commune in Burgundy to do it, and the start of every double-barrelled name on the Côte.",
+ "region_terms": [
+  {
+   "key": "cote-de-nuits",
+   "name": "Côte de Nuits",
+   "country": "France",
+   "note": "Marsannay south to Corton; most of the red grands crus sit on this strip"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where the habit of appending the best vineyard to the village name began.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-gevrey-chambertin",
+   "kind": "encyclopaedia",
+   "title": "Gevrey-Chambertin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2747537",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1351994781",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-burgundy-wine",
+   "kind": "encyclopaedia",
+   "title": "Burgundy wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=715978",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1365731507",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "Gevrey's grand cru, and the one Napoleon is said to have carried.",
+   "rel": "vineyard"
+  }
+ ]
+}

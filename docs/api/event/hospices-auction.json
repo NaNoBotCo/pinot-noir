@@ -1,0 +1,115 @@
+{
+ "schema": 1,
+ "id": "hospices-auction",
+ "type": "event",
+ "names": {
+  "name": "Hospices de Beaune auction"
+ },
+ "region": [
+  "cote-de-beaune",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "status": "seasonal",
+  "kind": "association"
+ },
+ "text": {
+  "what": "The third Sunday of November in Beaune: the hospital's barrels go under the hammer, buyers pay well over the market, and the trade reads the prices as a verdict on the vintage.",
+  "how": "Lots are barrels of new wine, sold by cuvée names that belong to the donors who gave the land. The buyer arranges the élevage and the bottling."
+ },
+ "kin": [
+  {
+   "to": "hospices-de-beaune",
+   "as": "Whose sale it is.",
+   "rel": "org"
+  },
+  {
+   "to": "burgundy",
+   "as": "The region that reads it as a weather report with prices.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.022,
+  "lon": 4.837,
+  "precision": "town"
+ },
+ "sources": [
+  "s:wp-hospices-de-beaune"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The third Sunday of November in Beaune: the hospital's barrels go under the hammer, buyers pay well over the market, and the trade reads the prices as a verdict on the vintage.",
+ "region_terms": [
+  {
+   "key": "cote-de-beaune",
+   "name": "Côte de Beaune",
+   "country": "France",
+   "note": "Corton south to Santenay; reds and the great whites share the hill"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "hospices-de-beaune",
+   "type": "org",
+   "name": "Hospices de Beaune",
+   "as": "Whose sale it is.",
+   "rel": "org"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The region that reads it as a weather report with prices.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-hospices-de-beaune",
+   "kind": "encyclopaedia",
+   "title": "Hospices de Beaune",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=42940493",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374147070",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "hospices-de-beaune",
+   "type": "org",
+   "name": "Hospices de Beaune",
+   "as": "Its November sale.",
+   "rel": "event"
+  }
+ ]
+}

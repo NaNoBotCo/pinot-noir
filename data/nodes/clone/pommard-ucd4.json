@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "id": "pommard-ucd4",
+ "type": "clone",
+ "names": {
+  "name": "Pommard, UCD 4",
+  "aliases": [
+   "UCD 4",
+   "Pommard clone",
+   "UCD4"
+  ]
+ },
+ "region": [
+  "oregon",
+  "california"
+ ],
+ "facets": {
+  "origin": "Burgundy field selection",
+  "country": "United States"
+ },
+ "text": {
+  "what": "The workhorse of American pinot noir before the Dijon numbers arrived, and still planted everywhere. Bigger berries, firmer structure, a darker wine than the Dijons give.",
+  "how": "Held and distributed through UC Davis, which is where the number comes from. Oregon built its early reputation on this and on Wädenswil."
+ },
+ "kin": [
+  {
+   "to": "wadenswil-ucd2a",
+   "as": "The other half of Oregon's old plantings.",
+   "rel": "kin"
+  },
+  {
+   "to": "dijon-115",
+   "as": "What arrived later and changed the arithmetic.",
+   "rel": "contrast"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "as": "Why a vine has a catalogue number at all.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:fps-grapes"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "id": "hospices-de-beaune",
+ "type": "org",
+ "names": {
+  "name": "Hospices de Beaune"
+ },
+ "region": [
+  "cote-de-beaune",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "kind": "association",
+  "established": 1443,
+  "status": "open"
+ },
+ "text": {
+  "what": "A charitable hospital founded in 1443 that has been given vineyard land for five and a half centuries and sells the wine at auction every November to pay for the medicine.",
+  "story": "Nicolas Rolin, chancellor to Philip the Good, and his wife Guigone de Salins built the Hôtel-Dieu with its tiled roof. Donors have left vines to it ever since, and the cuvées carry the donors' names."
+ },
+ "kin": [
+  {
+   "to": "hospices-auction",
+   "as": "Its November sale.",
+   "rel": "event"
+  },
+  {
+   "to": "corton",
+   "as": "Among the parcels it holds.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "cote-de-beaune",
+   "as": "Where nearly all its vines sit.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.022,
+  "lon": 4.837,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Beaune",
+  "state": "Côte-d'Or",
+  "country": "FR"
+ },
+ "links": [
+  {
+   "label": "Hospices de Beaune",
+   "url": "https://www.hospices-de-beaune.com/"
+  }
+ ],
+ "sources": [
+  "s:wp-hospices-de-beaune"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "id": "dine-out-santa-maria-style",
+ "type": "event",
+ "names": {
+  "name": "Dine Out Santa Maria Style"
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "status": "seasonal"
+ },
+ "text": {
+  "what": "A Chamber of Commerce restaurant fortnight built around the local barbecue — the valley's way of pointing visitors at the places that cook it."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-bbq-association",
+   "as": "The association behind it.",
+   "rel": "org"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "What is on every menu in it.",
+   "rel": "pairing"
+  }
+ ],
+ "geo": {
+  "lat": 34.953,
+  "lon": -120.436,
+  "precision": "town"
+ },
+ "address": {
+  "city": "Santa Maria",
+  "state": "CA",
+  "country": "US"
+ },
+ "sources": [
+  "s:web-smv-bbq-association",
+  "s:web-smv-visit-bbq"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

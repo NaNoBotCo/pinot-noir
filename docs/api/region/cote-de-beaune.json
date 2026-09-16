@@ -1,0 +1,184 @@
+{
+ "schema": 1,
+ "id": "cote-de-beaune",
+ "type": "region",
+ "names": {
+  "name": "Côte de Beaune"
+ },
+ "region": [
+  "cote-de-beaune",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "district"
+ },
+ "text": {
+  "what": "From Ladoix south to Maranges, where the hill turns and chardonnay takes the best of it. Corton is its only red grand cru; the reds that matter most sit in Pommard, Volnay and Beaune at premier cru."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "The southern half of the Côte d'Or.",
+   "rel": "whole"
+  },
+  {
+   "to": "corton",
+   "as": "The hill that holds the district's only red grand cru.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "chardonnay",
+   "as": "The grape that takes the white flank of the same slope.",
+   "rel": "variety"
+  },
+  {
+   "to": "hospices-de-beaune",
+   "as": "Whose vines sit mostly in these communes.",
+   "rel": "org"
+  }
+ ],
+ "geo": {
+  "lat": 46.98,
+  "lon": 4.78,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-c-te-de-beaune",
+  "s:wp-burgundy-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "red_grands_crus",
+   "label": "Red grand cru wines in the district",
+   "value": 1,
+   "unit": "the Cortons",
+   "year": null,
+   "source": "s:wp-c-te-de-beaune",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "From Ladoix south to Maranges, where the hill turns and chardonnay takes the best of it. Corton is its only red grand cru; the reds that matter most sit in Pommard, Volnay and Beaune at premier cru.",
+ "region_terms": [
+  {
+   "key": "cote-de-beaune",
+   "name": "Côte de Beaune",
+   "country": "France",
+   "note": "Corton south to Santenay; reds and the great whites share the hill"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The southern half of the Côte d'Or.",
+   "rel": "whole"
+  },
+  {
+   "to": "corton",
+   "type": "vineyard",
+   "name": "Corton",
+   "as": "The hill that holds the district's only red grand cru.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "chardonnay",
+   "type": "variety",
+   "name": "Chardonnay",
+   "as": "The grape that takes the white flank of the same slope.",
+   "rel": "variety"
+  },
+  {
+   "to": "hospices-de-beaune",
+   "type": "org",
+   "name": "Hospices de Beaune",
+   "as": "Whose vines sit mostly in these communes.",
+   "rel": "org"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-c-te-de-beaune",
+   "kind": "encyclopaedia",
+   "title": "Côte de Beaune",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2756908",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1367177988",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-burgundy-wine",
+   "kind": "encyclopaedia",
+   "title": "Burgundy wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=715978",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1365731507",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "chardonnay",
+   "type": "variety",
+   "name": "Chardonnay",
+   "as": "Where the family split the hill: whites on one flank, reds on the other.",
+   "rel": "region"
+  },
+  {
+   "from": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The southern half, where the whites take the hill.",
+   "rel": "part"
+  },
+  {
+   "from": "corton",
+   "type": "vineyard",
+   "name": "Corton",
+   "as": "The district whose only red grand cru this is.",
+   "rel": "whole"
+  },
+  {
+   "from": "louis-jadot",
+   "type": "producer",
+   "name": "Maison Louis Jadot",
+   "as": "Where it sits and where most of its vines are.",
+   "rel": "region"
+  },
+  {
+   "from": "hospices-de-beaune",
+   "type": "org",
+   "name": "Hospices de Beaune",
+   "as": "Where nearly all its vines sit.",
+   "rel": "region"
+  }
+ ]
+}

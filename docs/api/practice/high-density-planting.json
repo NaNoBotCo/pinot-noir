@@ -1,0 +1,123 @@
+{
+ "schema": 1,
+ "id": "high-density-planting",
+ "type": "practice",
+ "names": {
+  "name": "High-density planting"
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "kind": "planting"
+ },
+ "text": {
+  "what": "Nine to twelve thousand vines a hectare, rows a metre apart, each vine carrying a handful of bunches. Burgundy's grand cru rules set a floor of 9,000 vines per hectare and the New World mostly did not follow.",
+  "how": "More vines, more competition, smaller root systems each, less fruit per plant at the same yield per hectare. It also means narrow tractors, more labour and more money in the ground before the first harvest."
+ },
+ "kin": [
+  {
+   "to": "la-tache",
+   "as": "Where the 9,000-vine minimum is written into the appellation.",
+   "rel": "region"
+  },
+  {
+   "to": "bass-phillip",
+   "as": "Which planted at Burgundian density in Gippsland and waited twelve years to sell a bottle.",
+   "rel": "producer"
+  }
+ ],
+ "sources": [
+  "s:wp-la-t-che-aoc",
+  "s:wp-bass-phillip"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Nine to twelve thousand vines a hectare, rows a metre apart, each vine carrying a handful of bunches. Burgundy's grand cru rules set a floor of 9,000 vines per hectare and the New World mostly did not follow.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  },
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "la-tache",
+   "type": "vineyard",
+   "name": "La Tâche",
+   "as": "Where the 9,000-vine minimum is written into the appellation.",
+   "rel": "region"
+  },
+  {
+   "to": "bass-phillip",
+   "type": "producer",
+   "name": "Bass Phillip",
+   "as": "Which planted at Burgundian density in Gippsland and waited twelve years to sell a bottle.",
+   "rel": "producer"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-la-t-che-aoc",
+   "kind": "encyclopaedia",
+   "title": "La Tâche AOC",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=24833557",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1287613431",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bass-phillip",
+   "kind": "encyclopaedia",
+   "title": "Bass Phillip",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=32894188",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1306331974",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "bass-phillip",
+   "type": "producer",
+   "name": "Bass Phillip",
+   "as": "The decision the vineyard is built on.",
+   "rel": "practice"
+  },
+  {
+   "from": "green-harvest",
+   "type": "practice",
+   "name": "Green harvest",
+   "as": "The other way to make each vine carry less.",
+   "rel": "kin"
+  }
+ ]
+}

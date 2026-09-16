@@ -1,0 +1,116 @@
+{
+ "schema": 1,
+ "id": "willamette-valley",
+ "type": "region",
+ "names": {
+  "name": "Willamette Valley"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1983,
+  "soil": "volcanic Jory, marine sedimentary, windblown loess"
+ },
+ "text": {
+  "what": "Three and a half million acres of Oregon between the Coast Range and the Cascades, of which a thin band of hillside grows pinot noir. Eleven AVAs now sit inside it.",
+  "story": "David Lett planted pinot noir at Dundee in 1965 against the advice of everyone at Davis, who said Oregon was too cold and too wet. His 1975 Eyrie South Block Reserve placed tenth in a 1979 Paris tasting, Robert Drouhin re-ran the comparison in Beaune the following year, and the Burgundians started buying land. Adelsheim chaired the committee that petitioned for the AVA in 1983.",
+  "how": "Cool and wet, with rain that arrives near harvest and decides the vintage. Growers pick on the forecast as much as on sugar.",
+  "today": "Pinot noir covered 24,729 acres of Oregon in 2022 and brought the highest price per ton of any variety in the state."
+ },
+ "kin": [
+  {
+   "to": "dundee-hills",
+   "as": "The red Jory hills where Oregon pinot started.",
+   "rel": "part"
+  },
+  {
+   "to": "eola-amity-hills",
+   "as": "The gap that lets the Van Duzer wind through.",
+   "rel": "part"
+  },
+  {
+   "to": "yamhill-carlton",
+   "as": "Old marine sediment, and vines that ripen early.",
+   "rel": "part"
+  },
+  {
+   "to": "ribbon-ridge",
+   "as": "A single small ridge, its own AVA.",
+   "rel": "part"
+  },
+  {
+   "to": "david-lett",
+   "as": "Who planted the first pinot noir here and argued for the rest.",
+   "rel": "person"
+  },
+  {
+   "to": "eyrie-vineyards",
+   "as": "The winery that made the 1975 that changed the argument.",
+   "rel": "producer"
+  },
+  {
+   "to": "domaine-drouhin-oregon",
+   "as": "Burgundy buying in, four years after the tasting.",
+   "rel": "producer"
+  }
+ ],
+ "geo": {
+  "lat": 45.2,
+  "lon": -123.1,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-willamette-valley-ava",
+  "s:wp-oregon-wine",
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "AVA area",
+   "value": 3430000,
+   "unit": "acres",
+   "year": 1983,
+   "source": "s:wp-willamette-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "sub_avas",
+   "label": "AVAs inside it",
+   "value": 11,
+   "unit": "",
+   "year": null,
+   "source": "s:wp-willamette-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "acres_pinot",
+   "label": "Oregon pinot noir",
+   "value": 24729,
+   "unit": "acres",
+   "year": 2022,
+   "source": "s:wp-oregon-wine",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1983",
+   "year": 1983,
+   "source": "s:ecfr-27-9",
+   "note": "48 FR 54221, Dec. 1, 1983; boundary amended 81 FR 11112, Mar. 3, 2016"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

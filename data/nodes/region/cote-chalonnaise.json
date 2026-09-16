@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "cote-chalonnaise",
+ "type": "region",
+ "names": {
+  "name": "Côte Chalonnaise"
+ },
+ "region": [
+  "cote-chalonnaise",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "district"
+ },
+ "text": {
+  "what": "The same limestone, ten miles further south, at a third of the price. Bouzeron, Rully, Mercurey, Givry and Montagny — Mercurey and Givry do the red work."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "Burgundy's southern shoulder, outside the Côte d'Or.",
+   "rel": "whole"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "Grown here for drinking rather than for keeping.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 46.75,
+  "lon": 4.72,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-c-te-chalonnaise",
+  "s:wp-burgundy-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

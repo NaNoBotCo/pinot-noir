@@ -1,0 +1,130 @@
+{
+ "schema": 1,
+ "id": "felton-road",
+ "type": "producer",
+ "names": {
+  "name": "Felton Road"
+ },
+ "region": [
+  "central-otago",
+  "new-zealand"
+ ],
+ "facets": {
+  "country": "New Zealand",
+  "established": 1991
+ },
+ "text": {
+  "what": "Bannockburn, Central Otago — schist, old gold workings, and a cellar that farms organically and biodynamically and bottles its blocks separately."
+ },
+ "kin": [
+  {
+   "to": "central-otago",
+   "as": "The region it sits in and helped explain abroad.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "Nearly everything in the cellar.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": -45.05,
+  "lon": 169.18,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Bannockburn",
+  "state": "Otago",
+  "country": "NZ"
+ },
+ "sources": [
+  "s:wp-felton-road",
+  "s:wp-central-otago-wine-region"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Bannockburn, Central Otago — schist, old gold workings, and a cellar that farms organically and biodynamically and bottles its blocks separately.",
+ "region_terms": [
+  {
+   "key": "central-otago",
+   "name": "Central Otago",
+   "country": "New Zealand",
+   "note": "the southernmost wine region on earth, and continental with it"
+  },
+  {
+   "key": "new-zealand",
+   "name": "New Zealand",
+   "country": "New Zealand",
+   "note": "the country pinot noir made its second home"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "as": "The region it sits in and helped explain abroad.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Nearly everything in the cellar.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-felton-road",
+   "kind": "encyclopaedia",
+   "title": "Bannockburn, New Zealand",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=28532222",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374981804",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-central-otago-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Central Otago wine region",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1468699",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363939055",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "geo": {
+   "tier": "tradition"
+  },
+  "address": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "as": "Bannockburn, and the cellar that made the region legible abroad.",
+   "rel": "producer"
+  }
+ ]
+}

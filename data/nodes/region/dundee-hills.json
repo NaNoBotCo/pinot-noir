@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "id": "dundee-hills",
+ "type": "region",
+ "names": {
+  "name": "Dundee Hills"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "sub-ava",
+  "established": 2004,
+  "soil": "Jory — basalt-derived red clay loam"
+ },
+ "text": {
+  "what": "A single hill of red volcanic Jory soil north-west of Dundee, and the ground Oregon pinot noir started on in 1965."
+ },
+ "kin": [
+  {
+   "to": "willamette-valley",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole"
+  },
+  {
+   "to": "eyrie-vineyards",
+   "as": "Whose South Block vines are the oldest pinot here.",
+   "rel": "producer"
+  },
+  {
+   "to": "domaine-drouhin-oregon",
+   "as": "Built high on the same hill in 1987.",
+   "rel": "producer"
+  },
+  {
+   "to": "sokol-blosser",
+   "as": "Planting since 1971, two ridges over.",
+   "rel": "producer"
+  }
+ ],
+ "geo": {
+  "lat": 45.28,
+  "lon": -123.05,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-dundee-hills-ava",
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "AVA area",
+   "value": 6940,
+   "unit": "acres",
+   "year": 2004,
+   "source": "s:wp-dundee-hills-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "acres_planted",
+   "label": "Planted",
+   "value": 1300,
+   "unit": "acres",
+   "year": 2004,
+   "source": "s:wp-dundee-hills-ava",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 2004",
+   "year": 2004,
+   "source": "s:ecfr-27-9",
+   "note": "69 FR 69527, Nov. 30, 2004"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

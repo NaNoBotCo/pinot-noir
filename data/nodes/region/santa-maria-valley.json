@@ -1,0 +1,133 @@
+{
+ "schema": 1,
+ "id": "santa-maria-valley",
+ "type": "region",
+ "names": {
+  "name": "Santa Maria Valley"
+ },
+ "region": [
+  "santa-maria-valley",
+  "santa-barbara",
+  "central-coast",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1981,
+  "soil": "sandy loam to clay loam; alluvial floor, shaly slopes"
+ },
+ "text": {
+  "what": "A funnel opening west to the Pacific at 34.9°N — further south than anywhere sensible for pinot noir, and colder through the growing season than most of Oregon. The transverse ranges turn this valley east-west, the ocean walks straight in, and summer averages 75°F.",
+  "story": "Grapes grew here in the 1830s, under the Mexican land grants. Modern planting starts in 1964 with a hundred acres; by the mid-1970s there were over 2,000. The AVA came on 5 August 1981 — the country's third, California's second, and the first for either county. In 2010 the TTB pushed the southern line out to the watershed, adding 18,790 acres and nine vineyards.",
+  "how": "Morning fog takes hours to burn off and afternoon wind replaces it. Winkler Region I. Under 14 inches of rain in a normal year, so nearly everything is irrigated.",
+  "today": "Pinot noir and chardonnay are the appellation's two flagship varieties — and the same valley cooks the beef that made it famous, over oak cut off these hills."
+ },
+ "kin": [
+  {
+   "to": "bien-nacido",
+   "as": "The bench planting that sells this valley's fruit to half of California.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "Beef, red oak and pinot noir out of one valley — the long version.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "What the valley eats, and the argument about what to pour with it.",
+   "rel": "pairing"
+  },
+  {
+   "to": "sta-rita-hills",
+   "as": "The county's other pinot valley, half an hour south.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "au-bon-climat",
+   "as": "Jim Clendenen's winery, built inside Bien Nacido.",
+   "rel": "producer"
+  },
+  {
+   "to": "santa-maria-bbq-association",
+   "as": "The body that polices what the phrase on the menu means.",
+   "rel": "org"
+  }
+ ],
+ "geo": {
+  "lat": 34.93,
+  "lon": -120.25,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-santa-maria-valley-ava",
+  "s:ecfr-27-9",
+  "s:wp-santa-maria-valley"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "AVA area after the 2010 expansion",
+   "value": 116273,
+   "unit": "acres",
+   "year": 2010,
+   "source": "s:wp-santa-maria-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "acres_planted",
+   "label": "Cultivated vineyard",
+   "value": 7500,
+   "unit": "acres",
+   "year": null,
+   "source": "s:wp-santa-maria-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "summer_mean_f",
+   "label": "Average summer temperature",
+   "value": 75,
+   "unit": "°F",
+   "year": null,
+   "source": "s:wp-santa-maria-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "rainfall_in",
+   "label": "Annual rainfall in non-drought years",
+   "value": 14,
+   "unit": "inches",
+   "year": null,
+   "source": "s:wp-santa-maria-valley-ava",
+   "tier": "cited",
+   "note": "stated as less than"
+  },
+  {
+   "key": "latitude",
+   "label": "Latitude",
+   "value": 34.9,
+   "unit": "°N",
+   "year": null,
+   "source": "s:this-project",
+   "tier": "cited",
+   "note": "computed from this record's own coordinates"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1981",
+   "year": 1981,
+   "source": "s:ecfr-27-9",
+   "note": "46 FR 39812, Aug. 5, 1981; expanded 75 FR 81849, Dec. 29, 2010"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,128 @@
+{
+ "schema": 1,
+ "id": "aubert-de-villaine",
+ "type": "person",
+ "names": {
+  "name": "Aubert de Villaine",
+  "sort": "Villaine, Aubert de"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "role": "owner",
+  "country": "France"
+ },
+ "text": {
+  "what": "Co-director of the Domaine de la Romanée-Conti from 1974 to 2021, and the man who spent a decade carrying Burgundy's climats to UNESCO.",
+  "story": "He ran the domaine alongside Lalou Bize-Leroy until disagreements ended that arrangement in 1991, stepped back to an advisory role in 2022, and chaired the campaign that put the climats on the World Heritage List in 2015."
+ },
+ "kin": [
+  {
+   "to": "drc",
+   "as": "The domaine he ran for nearly fifty years.",
+   "rel": "made-by"
+  },
+  {
+   "to": "climat",
+   "as": "The unit he argued was heritage.",
+   "rel": "term"
+  },
+  {
+   "to": "lalou-bize-leroy",
+   "as": "Co-director until 1991.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-aubert-de-villaine",
+  "s:unesco-1425"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Co-director of the Domaine de la Romanée-Conti from 1974 to 2021, and the man who spent a decade carrying Burgundy's climats to UNESCO.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "drc",
+   "type": "producer",
+   "name": "Domaine de la Romanée-Conti",
+   "as": "The domaine he ran for nearly fifty years.",
+   "rel": "made-by"
+  },
+  {
+   "to": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "The unit he argued was heritage.",
+   "rel": "term"
+  },
+  {
+   "to": "lalou-bize-leroy",
+   "type": "person",
+   "name": "Lalou Bize-Leroy",
+   "as": "Co-director until 1991.",
+   "rel": "kin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-aubert-de-villaine",
+   "kind": "encyclopaedia",
+   "title": "Aubert de Villaine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3969626",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1305476611",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:unesco-1425",
+   "kind": "org",
+   "title": "The Climats, terroirs of Burgundy — World Heritage List 1425",
+   "publisher": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1425/",
+   "note": "inscribed 2015"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "drc",
+   "type": "producer",
+   "name": "Domaine de la Romanée-Conti",
+   "as": "Co-director, and the man who carried the Climats to UNESCO.",
+   "rel": "person"
+  },
+  {
+   "from": "lalou-bize-leroy",
+   "type": "person",
+   "name": "Lalou Bize-Leroy",
+   "as": "Her co-director there.",
+   "rel": "kin"
+  }
+ ]
+}

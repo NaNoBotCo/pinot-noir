@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "bass-phillip",
+ "type": "producer",
+ "names": {
+  "name": "Bass Phillip"
+ },
+ "region": [
+  "australia"
+ ],
+ "facets": {
+  "country": "Australia",
+  "established": 1979
+ },
+ "text": {
+  "what": "Phillip Jones planted at Leongatha in South Gippsland in 1979 and did not sell a bottle for twelve years. He planted at Burgundian density in a corner of Victoria nobody rated, and the wines became Australia's pinot benchmark."
+ },
+ "kin": [
+  {
+   "to": "high-density-planting",
+   "as": "The decision the vineyard is built on.",
+   "rel": "practice"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "What the cabernet was replaced with.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": -38.48,
+  "lon": 145.95,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Leongatha",
+  "state": "Victoria",
+  "country": "AU"
+ },
+ "sources": [
+  "s:wp-bass-phillip"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

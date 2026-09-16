@@ -1,0 +1,89 @@
+{
+ "schema": 1,
+ "id": "romanee-conti",
+ "type": "vineyard",
+ "names": {
+  "name": "Romanée-Conti"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "established": 1936,
+  "soil": "limestone, marl",
+  "status": "open"
+ },
+ "text": {
+  "what": "Under two hectares of Vosne-Romanée hillside, held by one owner, producing about 3,500 bottles a year. No other patch of ground in wine carries this much argument per square metre.",
+  "story": "Louis François de Bourbon, prince de Conti, bought it in 1760 through an agent and kept the wine for himself; the name stuck. It survived phylloxera on ungrafted vines until 1945, when the harvest fell to about 2.5 hl/ha and 600 bottles, and the vineyard was pulled and replanted."
+ },
+ "kin": [
+  {
+   "to": "drc",
+   "as": "Its sole owner, and the domaine named after it.",
+   "rel": "made-by"
+  },
+  {
+   "to": "la-tache",
+   "as": "The other monopole down the same slope.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "cote-de-nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "monopole",
+   "as": "One owner, one vineyard — the word for this arrangement.",
+   "rel": "term"
+  }
+ ],
+ "geo": {
+  "lat": 47.163,
+  "lon": 4.955,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-roman-e-conti",
+  "s:meadows-pearl"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "In production",
+   "value": 1.88,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-roman-e-conti",
+   "tier": "cited"
+  },
+  {
+   "key": "bottles",
+   "label": "Bottles produced",
+   "value": 3500,
+   "unit": "bottles",
+   "year": 2008,
+   "source": "s:wp-roman-e-conti",
+   "tier": "cited",
+   "note": "from 26 hl"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "monopole",
+   "source": "s:wp-roman-e-conti",
+   "tier": "cited",
+   "note": "held whole by the Domaine de la Romanée-Conti"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

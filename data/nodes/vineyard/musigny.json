@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "id": "musigny",
+ "type": "vineyard",
+ "names": {
+  "name": "Musigny"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "soil": "thin limestone over rock"
+ },
+ "text": {
+  "what": "Ten hectares above Chambolle, the one grand cru of the Côte de Nuits that also makes a white — about two thirds of a hectare of it."
+ },
+ "kin": [
+  {
+   "to": "cote-de-nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "chardonnay",
+   "as": "The exception planted here: Musigny blanc.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 47.19,
+  "lon": 4.96,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-le-musigny"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "In production",
+   "value": 10.32,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-le-musigny",
+   "tier": "cited"
+  },
+  {
+   "key": "hectares_white",
+   "label": "Planted to white",
+   "value": 0.66,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-le-musigny",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

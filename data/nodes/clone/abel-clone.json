@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "id": "abel-clone",
+ "type": "clone",
+ "names": {
+  "name": "Abel clone",
+  "aliases": [
+   "Ata Rangi clone",
+   "gumboot clone"
+  ]
+ },
+ "region": [
+  "new-zealand",
+  "martinborough",
+  "central-otago"
+ ],
+ "facets": {
+  "origin": "Burgundy field selection"
+ },
+ "text": {
+  "what": "New Zealand's most-told vine story: a cutting confiscated at Auckland airport in the 1970s, handed to a customs officer who happened to make wine, propagated, and now planted the length of the country.",
+  "story": "*Tradition holds —* the cutting came from the Domaine de la Romanée-Conti, in a traveller's boot, and Malcolm Abel took it home. The nickname 'gumboot' is the version of the story New Zealand prefers to tell. Its origin has never been documented publicly; its behaviour in the vineyard has."
+ },
+ "kin": [
+  {
+   "to": "martinborough",
+   "as": "Where it was first propagated in quantity.",
+   "rel": "region"
+  },
+  {
+   "to": "central-otago",
+   "as": "And where it now grows, 900 km further south.",
+   "rel": "region"
+  },
+  {
+   "to": "massale-selection",
+   "as": "The practice this story sits at the edge of.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:wp-new-zealand-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

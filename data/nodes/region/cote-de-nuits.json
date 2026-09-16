@@ -1,0 +1,84 @@
+{
+ "schema": 1,
+ "id": "cote-de-nuits",
+ "type": "region",
+ "names": {
+  "name": "Côte de Nuits"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "district",
+  "soil": "limestone, marl, scree"
+ },
+ "text": {
+  "what": "Fourteen communes between Dijon and Corgoloin holding 24 of Burgundy's 25 red grand cru appellations. Some of them are tiny — La Romanée covers less than a hectare.",
+  "how": "The good ground sits mid-slope, where the scree drains and the sun reaches. Flat land near the village makes village wine; the top of the hill goes cold and thin."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "The northern half of the Côte d'Or.",
+   "rel": "whole"
+  },
+  {
+   "to": "romanee-conti",
+   "as": "The 1.8-hectare monopole at the centre of the argument.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "clos-de-vougeot",
+   "as": "Fifty hectares, eighty owners, one grand cru name.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "chambertin",
+   "as": "Gevrey's grand cru, and the one Napoleon is said to have carried.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "musigny",
+   "as": "Chambolle's grand cru, where the wine goes lace-fine.",
+   "rel": "vineyard"
+  }
+ ],
+ "geo": {
+  "lat": 47.17,
+  "lon": 4.95,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-c-te-de-nuits",
+  "s:wp-burgundy-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "communes",
+   "label": "Communes",
+   "value": 14,
+   "unit": "",
+   "year": null,
+   "source": "s:wp-c-te-de-nuits",
+   "tier": "cited"
+  },
+  {
+   "key": "red_grands_crus",
+   "label": "Red grand cru appellations, of Burgundy's 25",
+   "value": 24,
+   "unit": "",
+   "year": null,
+   "source": "s:wp-burgundy-wine",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

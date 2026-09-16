@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "casablanca-valley",
+ "type": "region",
+ "names": {
+  "name": "Casablanca Valley"
+ },
+ "region": [
+  "casablanca",
+  "chile"
+ ],
+ "facets": {
+  "country": "Chile",
+  "level": "doc"
+ },
+ "text": {
+  "what": "Between Santiago and the port at Valparaíso, close enough to the Humboldt current for morning fog. Chile planted it in the 1980s to grow something other than cabernet."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown on the cool coastal side of the range.",
+   "rel": "variety"
+  },
+  {
+   "to": "anderson-valley",
+   "as": "The same trick with fog, a hemisphere away.",
+   "rel": "contrast"
+  }
+ ],
+ "geo": {
+  "lat": -33.32,
+  "lon": -71.4,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-casablanca-valley",
+  "s:wp-chilean-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

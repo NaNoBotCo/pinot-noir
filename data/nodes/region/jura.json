@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "id": "jura",
+ "type": "region",
+ "names": {
+  "name": "Jura"
+ },
+ "region": [
+  "jura"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "region"
+ },
+ "text": {
+  "what": "One of France's smallest regions — about 1,950 hectares — where pinot noir shares the cellar with poulsard and trousseau and sometimes ends up in the white blend.",
+  "how": "Continental and colder than Burgundy, especially in winter. Pinot noir is permitted in Arbois and Côtes du Jura, alone or blended."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "One of three reds allowed, and rarely the loudest.",
+   "rel": "variety"
+  },
+  {
+   "to": "burgundy",
+   "as": "Sixty miles west, and the comparison every Jura grower fields.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 46.9,
+  "lon": 5.65,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-jura-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Vineyard",
+   "value": 1950,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-jura-wine",
+   "tier": "cited"
+  },
+  {
+   "key": "wineries",
+   "label": "Wineries",
+   "value": 230,
+   "unit": "",
+   "year": null,
+   "source": "s:wp-jura-wine",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

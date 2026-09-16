@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "id": "andre-tchelistcheff",
+ "type": "person",
+ "names": {
+  "name": "André Tchelistcheff",
+  "sort": "Tchelistcheff, André"
+ },
+ "region": [
+  "california",
+  "carneros"
+ ],
+ "facets": {
+  "role": "winemaker",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Russian-born, Paris-trained, and the winemaker most often credited with teaching post-Prohibition California what a cellar is for. He is remembered for cabernet, and he also argued for cold ground — Carneros among it."
+ },
+ "kin": [
+  {
+   "to": "los-carneros",
+   "as": "The cold shoulder he pointed people toward.",
+   "rel": "region"
+  },
+  {
+   "to": "hanzell",
+   "as": "A contemporary experiment in importing Burgundian cellar practice.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-andr-tchelistcheff"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

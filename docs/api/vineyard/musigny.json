@@ -1,0 +1,130 @@
+{
+ "schema": 1,
+ "id": "musigny",
+ "type": "vineyard",
+ "names": {
+  "name": "Musigny"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "soil": "thin limestone over rock"
+ },
+ "text": {
+  "what": "Ten hectares above Chambolle, the one grand cru of the Côte de Nuits that also makes a white — about two thirds of a hectare of it."
+ },
+ "kin": [
+  {
+   "to": "cote-de-nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "chardonnay",
+   "as": "The exception planted here: Musigny blanc.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 47.19,
+  "lon": 4.96,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-le-musigny"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "In production",
+   "value": 10.32,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-le-musigny",
+   "tier": "cited"
+  },
+  {
+   "key": "hectares_white",
+   "label": "Planted to white",
+   "value": 0.66,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-le-musigny",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Ten hectares above Chambolle, the one grand cru of the Côte de Nuits that also makes a white — about two thirds of a hectare of it.",
+ "region_terms": [
+  {
+   "key": "cote-de-nuits",
+   "name": "Côte de Nuits",
+   "country": "France",
+   "note": "Marsannay south to Corton; most of the red grands crus sit on this strip"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "chardonnay",
+   "type": "variety",
+   "name": "Chardonnay",
+   "as": "The exception planted here: Musigny blanc.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-le-musigny",
+   "kind": "encyclopaedia",
+   "title": "Musigny AOC",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13983508",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366444357",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "Chambolle's grand cru, where the wine goes lace-fine.",
+   "rel": "vineyard"
+  }
+ ]
+}

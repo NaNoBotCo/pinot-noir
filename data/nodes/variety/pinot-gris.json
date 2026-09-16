@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "id": "pinot-gris",
+ "type": "variety",
+ "names": {
+  "name": "Pinot gris",
+  "aliases": [
+   "Pinot Grigio",
+   "Grauburgunder",
+   "Ruländer"
+  ]
+ },
+ "region": [
+  "alsace"
+ ],
+ "facets": {
+  "colour": "grey",
+  "country": "France"
+ },
+ "text": {
+  "what": "A colour sport of pinot: the berry loses most of its pigment and lands somewhere between grey, pink and bronze. Same vine, same bunch, different skin.",
+  "story": "A somatic mutation in the VvMYBA1 or VvMYBA2 genes — the switches that tell a grape to make colour. It can arise from pinot noir or from pinot blanc, and it can revert."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The black form, and the one this site is about.",
+   "rel": "origin"
+  },
+  {
+   "to": "pinot-blanc",
+   "as": "The next mutation along the same path, in either direction.",
+   "rel": "kin"
+  },
+  {
+   "to": "alsace",
+   "as": "Where it grows beside its black parent under the same appellation.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-gris",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

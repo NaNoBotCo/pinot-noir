@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "santa-lucia-highlands",
+ "type": "region",
+ "names": {
+  "name": "Santa Lucia Highlands"
+ },
+ "region": [
+  "santa-lucia-highlands",
+  "central-coast",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1992
+ },
+ "text": {
+  "what": "Terraces on the east face of the Santa Lucia range, above the Salinas Valley floor. The wind comes up the valley every afternoon hard enough to shape the canopy."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Planted on the benches above the fog line.",
+   "rel": "variety"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "Another Central Coast valley that runs the wrong way and gets away with it.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 36.45,
+  "lon": -121.4,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-santa-lucia-highlands-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1992",
+   "year": 1992,
+   "source": "s:ecfr-27-9",
+   "note": "57 FR 20764, May 15, 1992"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

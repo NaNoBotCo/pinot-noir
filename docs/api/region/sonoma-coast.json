@@ -1,0 +1,150 @@
+{
+ "schema": 1,
+ "id": "sonoma-coast",
+ "type": "region",
+ "names": {
+  "name": "Sonoma Coast"
+ },
+ "region": [
+  "sonoma-coast",
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1987
+ },
+ "text": {
+  "what": "An AVA big enough to be an argument: it runs from the Pacific bluffs inland across most of the county. The vines that gave it its name sit on the far western ridges, cold and steep, and growers there spent years carving out smaller names.",
+  "today": "Fort Ross-Seaview came out of it in 2011, West Sonoma Coast in 2022 — both drawn tighter and closer to the ocean."
+ },
+ "kin": [
+  {
+   "to": "russian-river-valley",
+   "as": "Its warmer inland neighbour.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "Grown at the edge of where it will ripen at all.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 38.5,
+  "lon": -123.1,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-sonoma-coast-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1987",
+   "year": 1987,
+   "source": "s:ecfr-27-9",
+   "note": "52 FR 22304, June 11, 1987"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "An AVA big enough to be an argument: it runs from the Pacific bluffs inland across most of the county.",
+ "region_terms": [
+  {
+   "key": "sonoma-coast",
+   "name": "Sonoma Coast",
+   "country": "United States",
+   "note": "a vast AVA and, at its western edge, vines within sight of the Pacific"
+  },
+  {
+   "key": "sonoma",
+   "name": "Sonoma County",
+   "country": "United States",
+   "note": "Russian River, the true coast, Carneros' western half"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "as": "Its warmer inland neighbour.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown at the edge of where it will ripen at all.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  },
+  {
+   "id": "s:wp-sonoma-coast-ava",
+   "kind": "encyclopaedia",
+   "title": "Sonoma Coast AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13610213",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355926109",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.today": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 1987",
+   "url": "",
+   "year": 1987,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "as": "The larger coastal AVA around it.",
+   "rel": "neighbour"
+  }
+ ]
+}

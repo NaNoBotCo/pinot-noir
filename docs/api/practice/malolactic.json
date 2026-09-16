@@ -1,0 +1,103 @@
+{
+ "schema": 1,
+ "id": "malolactic",
+ "type": "practice",
+ "names": {
+  "name": "Malolactic fermentation",
+  "aliases": [
+   "Malo",
+   "MLF",
+   "Secondary fermentation"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "ferment"
+ },
+ "text": {
+  "what": "A bacterial conversion, not a yeast one: lactic acid bacteria turn sharp malic acid into softer lactic acid and let off CO₂. Nearly every red pinot noir goes through it.",
+  "how": "Usually after the alcoholic ferment, often in barrel over the winter, and in cold cellars it can wait until spring warms the room. It lowers total acidity, raises pH and can leave a buttery note from diacetyl."
+ },
+ "kin": [
+  {
+   "to": "neutral-oak",
+   "as": "Where it usually happens: in barrel, over a cold winter.",
+   "rel": "kin"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "A high-acid grape, which is why the softening matters here.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-malolactic-fermentation"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A bacterial conversion, not a yeast one: lactic acid bacteria turn sharp malic acid into softer lactic acid and let off CO₂. Nearly every red pinot noir goes through it.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "neutral-oak",
+   "type": "practice",
+   "name": "Neutral oak",
+   "as": "Where it usually happens: in barrel, over a cold winter.",
+   "rel": "kin"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "A high-acid grape, which is why the softening matters here.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-malolactic-fermentation",
+   "kind": "encyclopaedia",
+   "title": "Malolactic fermentation",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1045027",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1262301785",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "neutral-oak",
+   "type": "practice",
+   "name": "Neutral oak",
+   "as": "What happens inside these barrels, over winter.",
+   "rel": "kin"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "schema": 1,
+ "id": "red-oak",
+ "type": "pairing",
+ "names": {
+  "name": "Red oak",
+  "aliases": [
+   "Coast live oak",
+   "Quercus agrifolia",
+   "Encina"
+  ]
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "course": "condiment",
+  "country": "United States"
+ },
+ "text": {
+  "what": "The wood the whole style rests on. In Santa Maria, red oak means coast live oak — Quercus agrifolia — which grows on the hills around the valley and burns down to hot, steady coals without throwing much smoke.",
+  "how": "Split, burned down to coals in a firebox or at the edge of the pit, then raked under a grate on a hand crank. The cook moves the meat up and down instead of moving the fire. Little smoke matters here: the valley is windy, and the cooking is hot and quick rather than long and low.",
+  "notes": "The local name turns out to be good botany. Coast live oak is a semi-evergreen oak of the California Floristic Province, growing from Mendocino south into northern Baja, and it sits in the red oak section of the genus — though unusually for that group its acorns ripen in seven or eight months rather than eighteen. Californio Spanish called the tree encina, which is why Encinitas and Encinal are on the map."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "The meat it cooks.",
+   "rel": "pairing"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "Why the wood is the part that cannot be exported.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The hills it grows on.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-quercus-agrifolia",
+  "s:wp-santa-maria-style-barbecue"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The wood the whole style rests on. In Santa Maria, red oak means coast live oak — Quercus agrifolia — which grows on the hills around the valley and burns down to hot, steady coals without throwing much smoke.",
+ "region_terms": [
+  {
+   "key": "santa-maria-valley",
+   "name": "Santa Maria Valley",
+   "country": "United States",
+   "note": "Bien Nacido, the bench, and the red-oak barbecue on the same ground"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The meat it cooks.",
+   "rel": "pairing"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "Why the wood is the part that cannot be exported.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The hills it grows on.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-quercus-agrifolia",
+   "kind": "encyclopaedia",
+   "title": "Quercus agrifolia",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=523174",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374637938",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-santa-maria-style-barbecue",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria–style barbecue",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=22881131",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1328359472",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The wood, which is not a red oak.",
+   "rel": "pairing"
+  },
+  {
+   "from": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The wood, and why it stays home.",
+   "rel": "pairing"
+  }
+ ]
+}

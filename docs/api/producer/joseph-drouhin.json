@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "joseph-drouhin",
+ "type": "producer",
+ "names": {
+  "name": "Maison Joseph Drouhin"
+ },
+ "region": [
+  "cote-de-beaune",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "established": 1880
+ },
+ "text": {
+  "what": "Beaune house founded in 1880, certified organic across its own vineyards from the 2009 vintage, and the family that took Burgundy's argument to Oregon in 1987."
+ },
+ "kin": [
+  {
+   "to": "domaine-drouhin-oregon",
+   "as": "The Dundee Hills estate this family built.",
+   "rel": "kin"
+  },
+  {
+   "to": "willamette-valley",
+   "as": "Where Robert Drouhin re-ran the 1979 tasting and then bought land.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.023,
+  "lon": 4.836,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Beaune",
+  "state": "Côte-d'Or",
+  "country": "FR"
+ },
+ "sources": [
+  "s:wp-joseph-drouhin"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "tags": [
+  {
+   "tag": "organic-certified",
+   "source": "s:wp-joseph-drouhin",
+   "tier": "cited",
+   "note": "all estate grapes from the 2009 vintage"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Beaune house founded in 1880, certified organic across its own vineyards from the 2009 vintage, and the family that took Burgundy's argument to Oregon in 1987.",
+ "region_terms": [
+  {
+   "key": "cote-de-beaune",
+   "name": "Côte de Beaune",
+   "country": "France",
+   "note": "Corton south to Santenay; reds and the great whites share the hill"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "domaine-drouhin-oregon",
+   "type": "producer",
+   "name": "Domaine Drouhin Oregon",
+   "as": "The Dundee Hills estate this family built.",
+   "rel": "kin"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "Where Robert Drouhin re-ran the 1979 tasting and then bought land.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-joseph-drouhin",
+   "kind": "encyclopaedia",
+   "title": "Maison Joseph Drouhin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6528081",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1312893554",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  },
+  "address": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "organic-certified",
+   "label": "Certified organic",
+   "icon": "🍃",
+   "group": "certification",
+   "evidence": "a named certifier and, where published, a certificate number: CCOF, Oregon Tilth, USDA Organic, Ecocert, Agriculture Biologique, BioGro",
+   "resources": [
+    "r:ccof",
+    "r:usda-organic"
+   ],
+   "source": "s:wp-joseph-drouhin",
+   "note": "all estate grapes from the 2009 vintage",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "domaine-drouhin-oregon",
+   "type": "producer",
+   "name": "Domaine Drouhin Oregon",
+   "as": "The Beaune house behind it.",
+   "rel": "kin"
+  },
+  {
+   "from": "negociant",
+   "type": "term",
+   "name": "Négociant",
+   "as": "And another.",
+   "rel": "producer"
+  }
+ ]
+}

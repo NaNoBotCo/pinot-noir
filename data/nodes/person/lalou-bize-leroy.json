@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "lalou-bize-leroy",
+ "type": "person",
+ "names": {
+  "name": "Lalou Bize-Leroy",
+  "sort": "Bize-Leroy, Lalou"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "role": "owner",
+  "country": "France"
+ },
+ "text": {
+  "what": "Took over her father's négociant house in 1955, co-managed the Domaine de la Romanée-Conti from 1974, and built Domaine Leroy and Domaine d'Auvenay into biodynamic estates with famously small crops."
+ },
+ "kin": [
+  {
+   "to": "domaine-leroy",
+   "as": "The domaine she assembled in 1988.",
+   "rel": "made-by"
+  },
+  {
+   "to": "drc",
+   "as": "Which she co-directed until 1991.",
+   "rel": "kin"
+  },
+  {
+   "to": "aubert-de-villaine",
+   "as": "Her co-director there.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-lalou-bize-leroy",
+  "s:wp-domaine-leroy"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

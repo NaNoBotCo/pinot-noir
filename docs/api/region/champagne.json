@@ -1,0 +1,178 @@
+{
+ "schema": 1,
+ "id": "champagne",
+ "type": "region",
+ "names": {
+  "name": "Champagne"
+ },
+ "region": [
+  "champagne"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "region",
+  "soil": "chalk"
+ },
+ "text": {
+  "what": "Chalk country 150 km north-east of Paris where pinot noir is pressed off its skins within hours and comes out white. More pinot noir grows here than anywhere else in France, and almost none of it is red.",
+  "how": "Five districts: Montagne de Reims, Vallée de la Marne, Côte des Blancs, Côte de Sézanne, the Aube. Pinot noir leads the Aube and does well on the Montagne; meunier holds the frost-prone Marne floors.",
+  "today": "Coteaux Champenois lets a grower bottle the red instead, which in a warm year is no longer a curiosity."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown for structure, not colour.",
+   "rel": "variety"
+  },
+  {
+   "to": "pinot-meunier",
+   "as": "Its frost insurance on the valley floor.",
+   "rel": "variety"
+  },
+  {
+   "to": "saignee",
+   "as": "The bleed that makes rosé, and the other way to use a black grape here.",
+   "rel": "practice"
+  }
+ ],
+ "geo": {
+  "lat": 49.05,
+  "lon": 4.0,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-champagne-wine-region",
+  "s:wp-champagne"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Vineyard",
+   "value": 33500,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-champagne-wine-region",
+   "tier": "cited"
+  },
+  {
+   "key": "villages",
+   "label": "Villages inside the boundary",
+   "value": 319,
+   "unit": "",
+   "year": 2008,
+   "source": "s:wp-champagne-wine-region",
+   "tier": "cited"
+  },
+  {
+   "key": "growers",
+   "label": "Growers selling grapes",
+   "value": 14000,
+   "unit": "",
+   "year": 2008,
+   "source": "s:wp-champagne-wine-region",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Chalk country 150 km north-east of Paris where pinot noir is pressed off its skins within hours and comes out white. More pinot noir grows here than anywhere else in France, and almost none of it is red.",
+ "region_terms": [
+  {
+   "key": "champagne",
+   "name": "Champagne",
+   "country": "France",
+   "note": "pinot noir by area is the region's largest planting, mostly pressed white"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown for structure, not colour.",
+   "rel": "variety"
+  },
+  {
+   "to": "pinot-meunier",
+   "type": "variety",
+   "name": "Pinot Meunier",
+   "as": "Its frost insurance on the valley floor.",
+   "rel": "variety"
+  },
+  {
+   "to": "saignee",
+   "type": "practice",
+   "name": "Saignée",
+   "as": "The bleed that makes rosé, and the other way to use a black grape here.",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-champagne-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Champagne wine region",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=53755",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371925991",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-champagne",
+   "kind": "encyclopaedia",
+   "title": "Champagne",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=53754",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375080208",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "text.today": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "pinot-meunier",
+   "type": "variety",
+   "name": "Pinot Meunier",
+   "as": "Where it earns its keep: the valley floors that frost.",
+   "rel": "region"
+  },
+  {
+   "from": "tasmania",
+   "type": "region",
+   "name": "Tasmania",
+   "as": "The model the sparkling program copies, at 42°S.",
+   "rel": "contrast"
+  },
+  {
+   "from": "saignee",
+   "type": "practice",
+   "name": "Saignée",
+   "as": "Where rosé is more often made by blending red wine in instead.",
+   "rel": "contrast"
+  }
+ ]
+}

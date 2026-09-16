@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "jim-clendenen",
+ "type": "person",
+ "names": {
+  "name": "Jim Clendenen",
+  "sort": "Clendenen, Jim"
+ },
+ "region": [
+  "santa-maria-valley",
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "role": "winemaker",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Founded Au Bon Climat in 1982 and spent forty years making Burgundian varieties on the Central Coast — big hair, big arguments, and a refusal to chase ripeness when everyone else did.",
+  "story": "Born in Akron in 1953, died in 2021. Santa Barbara County called him the godfather of its wine trade, and he pushed the county's pinot noir and chardonnay into export markets that had not previously looked south of Monterey."
+ },
+ "kin": [
+  {
+   "to": "au-bon-climat",
+   "as": "The winery he built and ran.",
+   "rel": "made-by"
+  },
+  {
+   "to": "bien-nacido",
+   "as": "Where it lives.",
+   "rel": "grown-at"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The valley he argued for.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-jim-clendenen",
+  "s:wp-au-bon-climat"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "id": "sokol-blosser",
+ "type": "producer",
+ "names": {
+  "name": "Sokol Blosser"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1971
+ },
+ "text": {
+  "what": "Bill Blosser and Susan Sokol Blosser planted five acres of pinot noir into a former prune orchard in 1971 and made their first vintage in 1977. The estate has been certified organic since 2005."
+ },
+ "kin": [
+  {
+   "to": "dundee-hills",
+   "as": "The AVA its blocks sit in.",
+   "rel": "region"
+  },
+  {
+   "to": "willamette-valley",
+   "as": "One of the valley's founding estates.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 45.27,
+  "lon": -123.07,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Dayton",
+  "state": "OR",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-sokol-blosser"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "Estate vineyard",
+   "value": 89,
+   "unit": "acres",
+   "year": null,
+   "source": "s:wp-sokol-blosser",
+   "tier": "cited"
+  },
+  {
+   "key": "solar_kw",
+   "label": "Photovoltaic array",
+   "value": 24,
+   "unit": "kW",
+   "year": 2006,
+   "source": "s:wp-sokol-blosser",
+   "tier": "cited",
+   "note": "about a quarter of the winery's electricity"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "organic-certified",
+   "source": "s:wp-sokol-blosser",
+   "tier": "cited",
+   "note": "certified by the Oregon Department of Agriculture since 2005; estate blocks USDA certified organic"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

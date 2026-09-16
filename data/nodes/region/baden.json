@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "id": "baden",
+ "type": "region",
+ "names": {
+  "name": "Baden"
+ },
+ "region": [
+  "baden",
+  "germany"
+ ],
+ "facets": {
+  "country": "Germany",
+  "level": "region",
+  "soil": "loess, limestone, volcanic"
+ },
+ "text": {
+  "what": "Germany's warmest vineyards, in the Rhine rift between the Black Forest and the Vosges, facing Alsace across the river. Pinot in its three colours covers most of it.",
+  "how": "Spätburgunder alone took 36.8% of Baden's vineyards in 2008 — 5,855 hectares — with grauburgunder and weissburgunder adding another fifth. The Kaiserstuhl, an old volcano on the valley floor, ripens the fullest of it."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Spätburgunder: more than a third of the region's vines.",
+   "rel": "variety"
+  },
+  {
+   "to": "alsace",
+   "as": "Same rift valley, other bank, similar size.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "pinot-gris",
+   "as": "Grauburgunder, the second Burgundian here.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 48.1,
+  "lon": 7.85,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-baden-wine-region",
+  "s:wp-german-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Vineyard",
+   "value": 15906,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-baden-wine-region",
+   "tier": "cited"
+  },
+  {
+   "key": "hectares_pinot",
+   "label": "Spätburgunder",
+   "value": 5855,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-baden-wine-region",
+   "tier": "cited",
+   "note": "36.8% of the region's vines"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

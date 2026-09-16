@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "id": "green-harvest",
+ "type": "practice",
+ "names": {
+  "name": "Green harvest",
+  "aliases": [
+   "Vendange verte",
+   "Crop thinning"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "Cutting unripe bunches onto the ground in summer so the vine ripens fewer. Yield control with secateurs, after the vine has already set more fruit than the grower wants.",
+  "how": "Pinot crops generously if allowed to; appellation rules cap yield, and growers who want concentration cut below the cap. Done too late, the remaining berries just get bigger."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "Where the yield caps are written into the appellation.",
+   "rel": "region"
+  },
+  {
+   "to": "high-density-planting",
+   "as": "The other way to make each vine carry less.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:oxford-companion-wine-4"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

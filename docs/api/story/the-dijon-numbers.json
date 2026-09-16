@@ -1,0 +1,235 @@
+{
+ "schema": 1,
+ "id": "the-dijon-numbers",
+ "type": "story",
+ "names": {
+  "name": "The numbers on the vine"
+ },
+ "region": [
+  "burgundy",
+  "oregon",
+  "world"
+ ],
+ "facets": {
+  "kind": "essay"
+ },
+ "text": {
+  "what": "A grower ordering pinot noir today picks numbers out of a catalogue: 115, 667, 777, or Pommard, or Wädenswil. Each one is a single mother vine, tested clean of virus and copied. That is a twentieth-century invention, and it changed what a vineyard can be."
+ },
+ "kin": [
+  {
+   "to": "dijon-115",
+   "as": "The number planted most.",
+   "rel": "clone"
+  },
+  {
+   "to": "massale-selection",
+   "as": "The older way, still practised.",
+   "rel": "practice"
+  },
+  {
+   "to": "fps",
+   "as": "Which holds and tests the American material.",
+   "rel": "org"
+  },
+  {
+   "to": "raymond-bernard",
+   "as": "Who ran the Dijon programme.",
+   "rel": "person"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "A variety that mutates enough to make all this necessary.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:fps-grapes",
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  },
+  "fields": {
+   "sections[3].text": {
+    "tier": "tradition",
+    "note": "trade folklore, recorded as folklore"
+   }
+  }
+ },
+ "sections": [
+  {
+   "h": "Why a vine needs a number",
+   "text": "Pinot noir mutates readily — there are hundreds of clones in vineyards and collections — and it carries virus. Leafroll and fanleaf will quietly cost a grower ripeness for thirty years. Clonal selection answers both: pick one vine that performs, test it clean, propagate it, give it a number, and every plant from that line behaves roughly the same."
+  },
+  {
+   "h": "What Dijon did",
+   "text": "France's national programme selected and certified pinot noir clones through the university and research station at Dijon, and the numbers — 113, 114, 115, 667, 777, 828 and others — reached the New World from the 1980s. *Tradition holds —* Raymond Bernard directed the work and helped get the first material to Oregon. Before that, American plantings ran mostly on Pommard (UCD 4) and Wädenswil (UCD 1A and 2A) out of UC Davis, and Oregon made its early reputation on exactly those two."
+  },
+  {
+   "h": "What it cost",
+   "text": "Uniformity. A block of one clone ripens together, which is convenient, and tastes like one thing, which is not always what you want. Growers hedge by planting several numbers in strips and blending them back, or by taking cuttings from an old block instead — massal selection, which keeps the variation and the virus together.\n\nCalifornia also learned what happens when nobody checks: high-cropping upright selections sold as 'Gamay Beaujolais' were pinot noir under another name, and a generation of plantings suffered for it."
+  },
+  {
+   "h": "The suitcase",
+   "text": "Certified material is slow. Quarantine and virus indexing take years, and growers in a hurry have always found other routes. The California trade repeats that the Calera selection came home with Josh Jensen from Burgundy; New Zealand tells the Abel story as folklore. Neither is documented, both are planted widely, and the nurseries that sell certified vines will tell you exactly what that costs everybody else."
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "A grower ordering pinot noir today picks numbers out of a catalogue: 115, 667, 777, or Pommard, or Wädenswil. Each one is a single mother vine, tested clean of virus and copied.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  },
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "The number planted most.",
+   "rel": "clone"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "The older way, still practised.",
+   "rel": "practice"
+  },
+  {
+   "to": "fps",
+   "type": "org",
+   "name": "Foundation Plant Services",
+   "as": "Which holds and tests the American material.",
+   "rel": "org"
+  },
+  {
+   "to": "raymond-bernard",
+   "type": "person",
+   "name": "Raymond Bernard",
+   "as": "Who ran the Dijon programme.",
+   "rel": "person"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "A variety that mutates enough to make all this necessary.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:fps-grapes",
+   "kind": "dataset",
+   "title": "National Grapevine Registry and the FPS public varieties list",
+   "publisher": "Foundation Plant Services, University of California, Davis",
+   "url": "https://fps.ucdavis.edu/",
+   "note": "which clone selection carries which number in the United States"
+  },
+  {
+   "id": "s:haeger-north-american",
+   "kind": "book",
+   "title": "North American Pinot Noir",
+   "author": "John Winthrop Haeger",
+   "publisher": "University of California Press",
+   "year": 2004
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "How Burgundy came to sell its vines by catalogue.",
+   "rel": "story"
+  },
+  {
+   "from": "dijon-777",
+   "type": "clone",
+   "name": "Dijon 777",
+   "as": "The programme behind the number.",
+   "rel": "story"
+  },
+  {
+   "from": "pinot-droit",
+   "type": "clone",
+   "name": "Pinot Droit",
+   "as": "What replaced it, and why growers changed their minds.",
+   "rel": "story"
+  },
+  {
+   "from": "pommard-ucd4",
+   "type": "clone",
+   "name": "Pommard, UCD 4",
+   "as": "Why a vine has a catalogue number at all.",
+   "rel": "story"
+  },
+  {
+   "from": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "The alternative, and how it won the nursery trade.",
+   "rel": "story"
+  },
+  {
+   "from": "raymond-bernard",
+   "type": "person",
+   "name": "Raymond Bernard",
+   "as": "The whole story.",
+   "rel": "story"
+  },
+  {
+   "from": "fps",
+   "type": "org",
+   "name": "Foundation Plant Services",
+   "as": "How the catalogue came to exist.",
+   "rel": "story"
+  },
+  {
+   "from": "how-pinot-travelled",
+   "type": "story",
+   "name": "How pinot left the hill",
+   "as": "What made it portable at scale.",
+   "rel": "story"
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "schema": 1,
+ "id": "eyrie-vineyards",
+ "type": "producer",
+ "names": {
+  "name": "The Eyrie Vineyards"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1965
+ },
+ "text": {
+  "what": "David and Diana Lett planted the Willamette Valley's first pinot noir in 1965 and made their first vintage in 1970. They also made the first American pinot gris.",
+  "story": "Lett went to Oregon against the advice of his professors at Davis, who held that the state was too cold and too wet for vinifera. The 1975 South Block Reserve placed tenth in a Paris tasting in 1979 and second, by fractions, in Robert Drouhin's rematch in Beaune the year after."
+ },
+ "kin": [
+  {
+   "to": "david-lett",
+   "as": "Who planted it.",
+   "rel": "made-by"
+  },
+  {
+   "to": "dundee-hills",
+   "as": "The hill his first block sits on.",
+   "rel": "region"
+  },
+  {
+   "to": "willamette-valley",
+   "as": "The valley he argued into existence as a wine region.",
+   "rel": "region"
+  },
+  {
+   "to": "how-pinot-travelled",
+   "as": "One leg of the journey, told at length.",
+   "rel": "story"
+  }
+ ],
+ "geo": {
+  "lat": 45.21,
+  "lon": -123.2,
+  "precision": "street"
+ },
+ "address": {
+  "city": "McMinnville",
+  "state": "OR",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-the-eyrie-vineyards",
+  "s:wp-david-lett",
+  "s:wp-oregon-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "David and Diana Lett planted the Willamette Valley's first pinot noir in 1965 and made their first vintage in 1970. They also made the first American pinot gris.",
+ "region_terms": [
+  {
+   "key": "willamette",
+   "name": "Willamette Valley",
+   "country": "United States",
+   "note": "a hundred miles of valley floor and volcanic hills south of Portland"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "david-lett",
+   "type": "person",
+   "name": "David Lett",
+   "as": "Who planted it.",
+   "rel": "made-by"
+  },
+  {
+   "to": "dundee-hills",
+   "type": "region",
+   "name": "Dundee Hills",
+   "as": "The hill his first block sits on.",
+   "rel": "region"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley he argued into existence as a wine region.",
+   "rel": "region"
+  },
+  {
+   "to": "how-pinot-travelled",
+   "type": "story",
+   "name": "How pinot left the hill",
+   "as": "One leg of the journey, told at length.",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-the-eyrie-vineyards",
+   "kind": "encyclopaedia",
+   "title": "The Eyrie Vineyards",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3800003",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1340357536",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-david-lett",
+   "kind": "encyclopaedia",
+   "title": "David Lett",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=5890815",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1356053194",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-oregon-wine",
+   "kind": "encyclopaedia",
+   "title": "Oregon wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6426696",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373054628",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  },
+  "address": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "dundee-hills",
+   "type": "region",
+   "name": "Dundee Hills",
+   "as": "Whose South Block vines are the oldest pinot here.",
+   "rel": "producer"
+  },
+  {
+   "from": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The winery that made the 1975 that changed the argument.",
+   "rel": "producer"
+  },
+  {
+   "from": "domaine-drouhin-oregon",
+   "type": "producer",
+   "name": "Domaine Drouhin Oregon",
+   "as": "Whose 1975 pulled the family across the Atlantic.",
+   "rel": "origin"
+  },
+  {
+   "from": "david-lett",
+   "type": "person",
+   "name": "David Lett",
+   "as": "The winery he founded.",
+   "rel": "made-by"
+  }
+ ]
+}

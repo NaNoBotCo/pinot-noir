@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "id": "lieu-dit",
+ "type": "term",
+ "names": {
+  "name": "Lieu-dit"
+ },
+ "etymology": {
+  "root": "French lieu (place) + dit (said, called) — 'the place they call'",
+  "tier": "tradition"
+ },
+ "region": [
+  "burgundy",
+  "alsace"
+ ],
+ "facets": {
+  "letter": "L",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "A named place on the cadastral map — the official French term for a piece of ground people call something. Every climat is a lieu-dit; not every lieu-dit carries a cru rank."
+ },
+ "kin": [
+  {
+   "to": "climat",
+   "as": "Burgundy's own word for the ranked version.",
+   "rel": "kin"
+  },
+  {
+   "to": "monopole",
+   "as": "What a lieu-dit is called when one owner holds it all.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-burgundy-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "A named place on the cadastral map — the official French term for a piece of ground people call something. Every climat is a lieu-dit; not every lieu-dit carries a cru rank.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  },
+  {
+   "key": "alsace",
+   "name": "Alsace",
+   "country": "France",
+   "note": "the one red grape the appellation allows"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "Burgundy's own word for the ranked version.",
+   "rel": "kin"
+  },
+  {
+   "to": "monopole",
+   "type": "term",
+   "name": "Monopole",
+   "as": "What a lieu-dit is called when one owner holds it all.",
+   "rel": "kin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-burgundy-wine",
+   "kind": "encyclopaedia",
+   "title": "Burgundy wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=715978",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1365731507",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "etymology": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "The wider French term a climat is a particular case of.",
+   "rel": "kin"
+  }
+ ]
+}

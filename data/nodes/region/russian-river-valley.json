@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "id": "russian-river-valley",
+ "type": "region",
+ "names": {
+  "name": "Russian River Valley"
+ },
+ "region": [
+  "russian-river",
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1983,
+  "soil": "Goldridge sandy loam"
+ },
+ "text": {
+  "what": "Fog runs up the river gap from the Pacific most summer nights and sits until mid-morning. Sonoma planted pinot noir into that fog and the plantings tripled in a decade.",
+  "story": "Pinot here went from about 4,000 acres to more than 12,000 by 2003, and the 1999 boundary revision was argued on where the fog actually reaches rather than on county lines."
+ },
+ "kin": [
+  {
+   "to": "sonoma-coast",
+   "as": "The larger coastal AVA around it.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "williams-selyem",
+   "as": "The winery that made vineyard-designated Russian River pinot the thing to chase.",
+   "rel": "producer"
+  },
+  {
+   "to": "merry-edwards",
+   "as": "Who made wine here and put her name on a clone selection.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 38.48,
+  "lon": -122.87,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-russian-river-valley-ava",
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres_pinot",
+   "label": "Pinot noir planted",
+   "value": 12000,
+   "unit": "acres",
+   "year": 2003,
+   "source": "s:wp-russian-river-valley-ava",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1983",
+   "year": 1983,
+   "source": "s:ecfr-27-9",
+   "note": "48 FR 48813, Oct. 21, 1983"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

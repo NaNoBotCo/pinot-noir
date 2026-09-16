@@ -1,0 +1,23 @@
+# Pinot Country — https://nanobotco.github.io/pinot-noir/
+# Everything here is meant to be read by machines as well as people.
+
+User-agent: *
+Allow: /
+
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Corpus: https://nanobotco.github.io/pinot-noir/llms.txt
+Full-text: https://nanobotco.github.io/pinot-noir/llms-full.txt
+Records: https://nanobotco.github.io/pinot-noir/api/nodes.json
+Cellars: https://nanobotco.github.io/pinot-noir/api/cellars.json
+Kin edges: https://nanobotco.github.io/pinot-noir/api/kin.json
+Scope and gaps: https://nanobotco.github.io/pinot-noir/api/coverage.json
+Schema: https://nanobotco.github.io/pinot-noir/schema/node.schema.json
+Tabular: https://nanobotco.github.io/pinot-noir/nodes.csv · https://nanobotco.github.io/pinot-noir/nodes.jsonl
+
+Licence: records CC BY 4.0. Cellar points OpenStreetMap, ODbL 1.0 (share-alike).
+Pictures carry their own licence, stated per file in the record and beside the image.
+Attribution: Pinot Country, https://nanobotco.github.io/pinot-noir/
+
+Every field carries a provenance tier: cited, harvested, tradition, inference, field.
+A tag on a cellar names its evidence. A missing tag means unread, not absent.

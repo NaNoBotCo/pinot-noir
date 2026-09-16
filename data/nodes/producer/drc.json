@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "id": "drc",
+ "type": "producer",
+ "names": {
+  "name": "Domaine de la Romanée-Conti",
+  "aliases": [
+   "DRC",
+   "Domaine de la Romanee-Conti"
+  ]
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "status": "unknown"
+ },
+ "text": {
+  "what": "The Vosne-Romanée domaine that owns Romanée-Conti and La Tâche outright and holds pieces of Richebourg, Échezeaux, Grands Échezeaux, Romanée-Saint-Vivant and Montrachet. Sold in mixed cases, allocated by relationship, and resold at multiples nobody at the domaine sets.",
+  "story": "The Abbey of Saint-Vivant in Vosne held 1.8 hectares here from 1232. The prince de Conti bought the parcel in 1760; the Revolution sold it on; the Villaine and Leroy families have run the domaine through the twentieth century. Five hectares in La Tâche and Grands Échezeaux went biodynamic first, and the practice spread from there."
+ },
+ "kin": [
+  {
+   "to": "romanee-conti",
+   "as": "Its monopole, and its name.",
+   "rel": "owns"
+  },
+  {
+   "to": "la-tache",
+   "as": "Its other monopole.",
+   "rel": "owns"
+  },
+  {
+   "to": "aubert-de-villaine",
+   "as": "Co-director, and the man who carried the Climats to UNESCO.",
+   "rel": "person"
+  },
+  {
+   "to": "burgundy",
+   "as": "The region whose reputation this address both makes and distorts.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.162,
+  "lon": 4.951,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Vosne-Romanée",
+  "state": "Côte-d'Or",
+  "country": "FR"
+ },
+ "sources": [
+  "s:wp-domaine-de-la-roman-e-conti",
+  "s:meadows-pearl"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "tags": [
+  {
+   "tag": "no-visits",
+   "source": "s:wp-domaine-de-la-roman-e-conti",
+   "tier": "cited",
+   "note": "no tasting room; the domaine does not receive the public"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

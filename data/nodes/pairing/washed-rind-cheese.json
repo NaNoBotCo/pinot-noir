@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "id": "washed-rind-cheese",
+ "type": "pairing",
+ "names": {
+  "name": "Washed-rind cheese"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "course": "cheese",
+  "country": "France"
+ },
+ "text": {
+  "what": "Époisses, Soumaintrain, Langres — Burgundy's own cheeses, washed in brine and marc until they smell like a farmyard and taste milder than they smell. The classic local match, and a difficult one: the same wash that makes the rind pungent can flatten a delicate bottle."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "Whose cheese board this is.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "Poured with it locally, and argued about everywhere else.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-wine-and-food-matching"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "updated": "2026-09-16"
+}

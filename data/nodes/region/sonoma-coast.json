@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "id": "sonoma-coast",
+ "type": "region",
+ "names": {
+  "name": "Sonoma Coast"
+ },
+ "region": [
+  "sonoma-coast",
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1987
+ },
+ "text": {
+  "what": "An AVA big enough to be an argument: it runs from the Pacific bluffs inland across most of the county. The vines that gave it its name sit on the far western ridges, cold and steep, and growers there spent years carving out smaller names.",
+  "today": "Fort Ross-Seaview came out of it in 2011, West Sonoma Coast in 2022 — both drawn tighter and closer to the ocean."
+ },
+ "kin": [
+  {
+   "to": "russian-river-valley",
+   "as": "Its warmer inland neighbour.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "Grown at the edge of where it will ripen at all.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 38.5,
+  "lon": -123.1,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-sonoma-coast-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1987",
+   "year": 1987,
+   "source": "s:ecfr-27-9",
+   "note": "52 FR 22304, June 11, 1987"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

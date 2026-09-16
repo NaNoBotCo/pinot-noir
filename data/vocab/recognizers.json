@@ -1,0 +1,65 @@
+{
+ "note": "Who recognizes a region, a site or a cellar. A recognition is counted once per recognizer. The count records attention paid; it is not this project's ranking.",
+ "entries": [
+  {
+   "key": "unesco",
+   "label": "UNESCO World Heritage",
+   "what": "inscription on the World Heritage List",
+   "url": "https://whc.unesco.org/"
+  },
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "an American Viticultural Area established in 27 CFR part 9",
+   "url": "https://www.ttb.gov/wine/ava"
+  },
+  {
+   "key": "inao",
+   "label": "Institut national de l'origine et de la qualité",
+   "what": "an appellation, a cru, a classification",
+   "url": "https://www.inao.gouv.fr/"
+  },
+  {
+   "key": "nrhp",
+   "label": "National Register of Historic Places",
+   "what": "a listed building or district",
+   "url": "https://www.nps.gov/subjects/nationalregister/"
+  },
+  {
+   "key": "oxford-companion",
+   "label": "The Oxford Companion to Wine",
+   "what": "an entry of its own",
+   "url": ""
+  },
+  {
+   "key": "world-atlas",
+   "label": "The World Atlas of Wine",
+   "what": "a mapped region",
+   "url": ""
+  },
+  {
+   "key": "decanter",
+   "label": "Decanter",
+   "what": "an award or a named list",
+   "url": "https://www.decanter.com/"
+  },
+  {
+   "key": "judgment-of-paris",
+   "label": "The 1976 Paris tasting",
+   "what": "a wine poured in the comparison",
+   "url": ""
+  },
+  {
+   "key": "ipnc",
+   "label": "International Pinot Noir Celebration",
+   "what": "an invited producer",
+   "url": "https://www.ipnc.org/"
+  },
+  {
+   "key": "hospices",
+   "label": "Hospices de Beaune",
+   "what": "a cuvée sold at the auction",
+   "url": "https://www.hospices-de-beaune.com/"
+  }
+ ]
+}

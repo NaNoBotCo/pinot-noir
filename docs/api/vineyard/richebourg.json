@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "richebourg",
+ "type": "vineyard",
+ "names": {
+  "name": "Richebourg"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France"
+ },
+ "text": {
+  "what": "Vosne-Romanée grand cru north of Romanée-Conti, on deeper soil, giving the broadest wine of that group of neighbours."
+ },
+ "kin": [
+  {
+   "to": "romanee-conti",
+   "as": "Its neighbour up the slope.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "domaine-leroy",
+   "as": "One of the holders whose name sells the parcel.",
+   "rel": "made-by"
+  },
+  {
+   "to": "henri-jayer",
+   "as": "Who farmed here and taught half the Côte how he did it.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 47.165,
+  "lon": 4.957,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-richebourg",
+  "s:meadows-pearl"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Vosne-Romanée grand cru north of Romanée-Conti, on deeper soil, giving the broadest wine of that group of neighbours.",
+ "region_terms": [
+  {
+   "key": "cote-de-nuits",
+   "name": "Côte de Nuits",
+   "country": "France",
+   "note": "Marsannay south to Corton; most of the red grands crus sit on this strip"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "romanee-conti",
+   "type": "vineyard",
+   "name": "Romanée-Conti",
+   "as": "Its neighbour up the slope.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "domaine-leroy",
+   "type": "producer",
+   "name": "Domaine Leroy",
+   "as": "One of the holders whose name sells the parcel.",
+   "rel": "made-by"
+  },
+  {
+   "to": "henri-jayer",
+   "type": "person",
+   "name": "Henri Jayer",
+   "as": "Who farmed here and taught half the Côte how he did it.",
+   "rel": "person"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-richebourg",
+   "kind": "encyclopaedia",
+   "title": "Richebourg",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=12608821",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1061184993",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:meadows-pearl",
+   "kind": "book",
+   "title": "The Pearl of the Côte: The Great Wines of Vosne-Romanée",
+   "author": "Allen Meadows",
+   "publisher": "Burghound Books",
+   "year": 2010
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "geo": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "domaine-leroy",
+   "type": "producer",
+   "name": "Domaine Leroy",
+   "as": "One of the grand cru parcels it holds.",
+   "rel": "owns"
+  },
+  {
+   "from": "henri-jayer",
+   "type": "person",
+   "name": "Henri Jayer",
+   "as": "One of the parcels his name is attached to.",
+   "rel": "vineyard"
+  }
+ ]
+}

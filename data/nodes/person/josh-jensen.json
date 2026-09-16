@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "id": "josh-jensen",
+ "type": "person",
+ "names": {
+  "name": "Josh Jensen",
+  "sort": "Jensen, Josh"
+ },
+ "region": [
+  "california"
+ ],
+ "facets": {
+  "role": "owner",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Worked harvests at the Domaine de la Romanée-Conti and Dujac, came home convinced the ground mattered more than the recipe, and hunted California for limestone until he found an old lime kiln on Mount Harlan."
+ },
+ "kin": [
+  {
+   "to": "calera",
+   "as": "What he built on the limestone.",
+   "rel": "made-by"
+  },
+  {
+   "to": "calera-selection",
+   "as": "The cuttings that travelled with him.",
+   "rel": "clone"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where he learned the argument.",
+   "rel": "origin"
+  }
+ ],
+ "sources": [
+  "s:devilliers-heartbreak",
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

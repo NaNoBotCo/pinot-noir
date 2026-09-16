@@ -1,0 +1,116 @@
+{
+ "schema": 1,
+ "id": "burt-williams",
+ "type": "person",
+ "names": {
+  "name": "Burt Williams",
+  "sort": "Williams, Burt"
+ },
+ "region": [
+  "russian-river",
+  "anderson-valley",
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "role": "winemaker",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Made Williams Selyem's wine in a Forestville garage, put growers' vineyard names on the front label when nobody else bothered, then sold up and planted his own vines in Anderson Valley."
+ },
+ "kin": [
+  {
+   "to": "williams-selyem",
+   "as": "The winery he founded with Ed Selyem.",
+   "rel": "made-by"
+  },
+  {
+   "to": "russian-river-valley",
+   "as": "The AVA his labels advertised.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Made Williams Selyem's wine in a Forestville garage, put growers' vineyard names on the front label when nobody else bothered, then sold up and planted his own vines in Anderson Valley.",
+ "region_terms": [
+  {
+   "key": "russian-river",
+   "name": "Russian River Valley",
+   "country": "United States",
+   "note": "fog up the river valley, and the AVA that taught California what pinot could do"
+  },
+  {
+   "key": "anderson-valley",
+   "name": "Anderson Valley",
+   "country": "United States",
+   "note": "Mendocino, the Navarro River, fog through the redwood gap"
+  },
+  {
+   "key": "sonoma",
+   "name": "Sonoma County",
+   "country": "United States",
+   "note": "Russian River, the true coast, Carneros' western half"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "williams-selyem",
+   "type": "producer",
+   "name": "Williams Selyem",
+   "as": "The winery he founded with Ed Selyem.",
+   "rel": "made-by"
+  },
+  {
+   "to": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "as": "The AVA his labels advertised.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:haeger-north-american",
+   "kind": "book",
+   "title": "North American Pinot Noir",
+   "author": "John Winthrop Haeger",
+   "publisher": "University of California Press",
+   "year": 2004
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "williams-selyem",
+   "type": "producer",
+   "name": "Williams Selyem",
+   "as": "Who made the wine, then went north and planted his own.",
+   "rel": "made-by"
+  }
+ ]
+}

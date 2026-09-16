@@ -1,0 +1,261 @@
+{
+ "schema": 1,
+ "id": "bien-nacido",
+ "type": "vineyard",
+ "names": {
+  "name": "Bien Nacido",
+  "aliases": [
+   "Bien Nacido Vineyards",
+   "Rancho Tepusquet"
+  ]
+ },
+ "region": [
+  "santa-maria-valley",
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1969,
+  "soil": "sand, chalk and marine loam"
+ },
+ "text": {
+  "what": "Eight hundred acres on the Santa Maria bench, planted in 1969 and farmed row by row for whoever buys the rows. Over 250 acres of it is pinot noir, and the vineyard's name appears on more labels than most wineries manage.",
+  "story": "Tomás Olivera took the Rancho Tepusquet grant from Governor Alvarado in 1837; Chumash had fished Tepusquet Creek long before that. Juan Pacífico Ontiveros built the adobe in 1857 and farmed grain, stock and wine grapes. The Millers bought in 1969, reunited two parcels of the grant and planted vines.",
+  "how": "Blocks are sold by area rather than by the ton, so a winemaker who wants to crop hard is not arguing with a grower paid by weight. Some customers have bought the same rows for over twenty years and print the block on the label.",
+  "today": "Also one of California's larger sources of certified budwood — a good deal of the state's chardonnay started as cuttings from here."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-valley",
+   "as": "The AVA it helped define.",
+   "rel": "region"
+  },
+  {
+   "to": "au-bon-climat",
+   "as": "Jim Clendenen's winery, on the property.",
+   "rel": "made-by"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "The same ranch land that fed the vaquero barbecues.",
+   "rel": "story"
+  },
+  {
+   "to": "massale-selection",
+   "as": "What a budwood block is for.",
+   "rel": "practice"
+  }
+ ],
+ "geo": {
+  "lat": 34.92,
+  "lon": -120.25,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-bien-nacido-vineyard",
+  "s:wp-rancho-tepusquet",
+  "s:wp-santa-maria-valley-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres_planted",
+   "label": "Planted",
+   "value": 800,
+   "unit": "acres",
+   "year": null,
+   "source": "s:wp-bien-nacido-vineyard",
+   "tier": "cited",
+   "note": "stated as over 800"
+  },
+  {
+   "key": "acres_pinot",
+   "label": "Pinot noir",
+   "value": 250,
+   "unit": "acres",
+   "year": null,
+   "source": "s:wp-bien-nacido-vineyard",
+   "tier": "cited",
+   "note": "stated as over 250"
+  },
+  {
+   "key": "rainfall_in",
+   "label": "Annual rainfall",
+   "value": 13,
+   "unit": "inches",
+   "year": null,
+   "source": "s:wp-bien-nacido-vineyard",
+   "tier": "cited",
+   "note": "stated as 12 to 14"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "family-owned",
+   "source": "s:wp-bien-nacido-vineyard",
+   "tier": "cited",
+   "note": "the Miller family, a branch of the Broome family, since 1969"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Eight hundred acres on the Santa Maria bench, planted in 1969 and farmed row by row for whoever buys the rows. Over 250 acres of it is pinot noir, and the vineyard's name appears on more labels than most wineries manage.",
+ "region_terms": [
+  {
+   "key": "santa-maria-valley",
+   "name": "Santa Maria Valley",
+   "country": "United States",
+   "note": "Bien Nacido, the bench, and the red-oak barbecue on the same ground"
+  },
+  {
+   "key": "santa-barbara",
+   "name": "Santa Barbara County",
+   "country": "United States",
+   "note": "the transverse ranges turn the valleys east-west and let the ocean in"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The AVA it helped define.",
+   "rel": "region"
+  },
+  {
+   "to": "au-bon-climat",
+   "type": "producer",
+   "name": "Au Bon Climat",
+   "as": "Jim Clendenen's winery, on the property.",
+   "rel": "made-by"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The same ranch land that fed the vaquero barbecues.",
+   "rel": "story"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "What a budwood block is for.",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-bien-nacido-vineyard",
+   "kind": "encyclopaedia",
+   "title": "Bien Nacido Vineyards",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6614595",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368046917",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-rancho-tepusquet",
+   "kind": "encyclopaedia",
+   "title": "Rancho Tepusquet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=26442607",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1304255405",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-santa-maria-valley-ava",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10711580",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1360626562",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "text.today": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "family-owned",
+   "label": "Family-held",
+   "icon": "👪",
+   "group": "ownership",
+   "evidence": "the cellar's own account naming the family and the generation, or a press profile",
+   "resources": [],
+   "source": "s:wp-bien-nacido-vineyard",
+   "note": "the Miller family, a branch of the Broome family, since 1969",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The bench planting that sells this valley's fruit to half of California.",
+   "rel": "vineyard"
+  },
+  {
+   "from": "au-bon-climat",
+   "type": "producer",
+   "name": "Au Bon Climat",
+   "as": "The vineyard it lives inside and buys from.",
+   "rel": "grown-at"
+  },
+  {
+   "from": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "Where certified budwood gets grown at scale instead.",
+   "rel": "vineyard"
+  },
+  {
+   "from": "jim-clendenen",
+   "type": "person",
+   "name": "Jim Clendenen",
+   "as": "Where it lives.",
+   "rel": "grown-at"
+  },
+  {
+   "from": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The vineyard planted on the old Tepusquet grant.",
+   "rel": "vineyard"
+  }
+ ]
+}

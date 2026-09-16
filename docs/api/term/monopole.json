@@ -1,0 +1,122 @@
+{
+ "schema": 1,
+ "id": "monopole",
+ "type": "term",
+ "names": {
+  "name": "Monopole"
+ },
+ "etymology": {
+  "root": "French monopole, from Greek monos (single) + pōlein (to sell)",
+  "tier": "cited",
+  "source": "s:wp-monopole-wine"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "letter": "M",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "A named vineyard held whole by one owner. Rare in Burgundy, where inheritance splits everything, and printed on the label whenever it is true."
+ },
+ "kin": [
+  {
+   "to": "romanee-conti",
+   "as": "1.8 hectares, one owner.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "la-tache",
+   "as": "Five hectares, the same owner.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "clos-de-vougeot",
+   "as": "The opposite case: one name, eighty owners.",
+   "rel": "contrast"
+  }
+ ],
+ "sources": [
+  "s:wp-monopole-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A named vineyard held whole by one owner. Rare in Burgundy, where inheritance splits everything, and printed on the label whenever it is true.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "romanee-conti",
+   "type": "vineyard",
+   "name": "Romanée-Conti",
+   "as": "1.8 hectares, one owner.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "la-tache",
+   "type": "vineyard",
+   "name": "La Tâche",
+   "as": "Five hectares, the same owner.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "clos-de-vougeot",
+   "type": "vineyard",
+   "name": "Clos de Vougeot",
+   "as": "The opposite case: one name, eighty owners.",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-monopole-wine",
+   "kind": "encyclopaedia",
+   "title": "Monopole (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2338456",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1320835976",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "etymology": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "romanee-conti",
+   "type": "vineyard",
+   "name": "Romanée-Conti",
+   "as": "One owner, one vineyard — the word for this arrangement.",
+   "rel": "term"
+  },
+  {
+   "from": "lieu-dit",
+   "type": "term",
+   "name": "Lieu-dit",
+   "as": "What a lieu-dit is called when one owner holds it all.",
+   "rel": "kin"
+  }
+ ]
+}

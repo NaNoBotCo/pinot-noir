@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "id": "dijon-667",
+ "type": "clone",
+ "names": {
+  "name": "Dijon 667",
+  "aliases": [
+   "667",
+   "ENTAV-INRA 667"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "origin": "Dijon"
+ },
+ "text": {
+  "what": "The third of the trio that travelled: mid-weight, spicy, and useful for filling the gap between 115's perfume and 777's colour."
+ },
+ "kin": [
+  {
+   "to": "dijon-115",
+   "as": "Planted with it, almost always.",
+   "rel": "kin"
+  },
+  {
+   "to": "dijon-777",
+   "as": "And with this one.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:fps-grapes"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

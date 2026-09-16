@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "id": "neutral-oak",
+ "type": "practice",
+ "names": {
+  "name": "Neutral oak",
+  "aliases": [
+   "Old barrels",
+   "Used barriques"
+  ]
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "kind": "ageing"
+ },
+ "text": {
+  "what": "A barrel that has already given up its flavour — third use, fourth, older. It still lets oxygen through the staves and still shapes texture; it just stops tasting of the forest.",
+  "how": "New oak gives vanillin, toast and tannin, and pinot noir has little weight to hide any of it. Cellars set a percentage of new wood per wine and often drop it for the lighter vineyards."
+ },
+ "kin": [
+  {
+   "to": "malolactic",
+   "as": "What happens inside these barrels, over winter.",
+   "rel": "kin"
+  },
+  {
+   "to": "hanzell",
+   "as": "Which imported French barrels to California and started the argument there.",
+   "rel": "producer"
+  }
+ ],
+ "sources": [
+  "s:wp-oak-wine",
+  "s:wp-barrel"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

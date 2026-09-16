@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "id": "burt-williams",
+ "type": "person",
+ "names": {
+  "name": "Burt Williams",
+  "sort": "Williams, Burt"
+ },
+ "region": [
+  "russian-river",
+  "anderson-valley",
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "role": "winemaker",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Made Williams Selyem's wine in a Forestville garage, put growers' vineyard names on the front label when nobody else bothered, then sold up and planted his own vines in Anderson Valley."
+ },
+ "kin": [
+  {
+   "to": "williams-selyem",
+   "as": "The winery he founded with Ed Selyem.",
+   "rel": "made-by"
+  },
+  {
+   "to": "russian-river-valley",
+   "as": "The AVA his labels advertised.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

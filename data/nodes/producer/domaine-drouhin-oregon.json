@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "id": "domaine-drouhin-oregon",
+ "type": "producer",
+ "names": {
+  "name": "Domaine Drouhin Oregon"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1987
+ },
+ "text": {
+  "what": "Burgundy's answer to the 1979 tasting: the Drouhin family bought land in the Dundee Hills in 1987 and built a gravity-flow winery into the slope, with Véronique Drouhin making the wine."
+ },
+ "kin": [
+  {
+   "to": "joseph-drouhin",
+   "as": "The Beaune house behind it.",
+   "rel": "kin"
+  },
+  {
+   "to": "dundee-hills",
+   "as": "The hill it sits high on.",
+   "rel": "region"
+  },
+  {
+   "to": "eyrie-vineyards",
+   "as": "Whose 1975 pulled the family across the Atlantic.",
+   "rel": "origin"
+  }
+ ],
+ "geo": {
+  "lat": 45.28,
+  "lon": -123.09,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Dayton",
+  "state": "OR",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-oregon-wine",
+  "s:wp-joseph-drouhin"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

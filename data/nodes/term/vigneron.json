@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "id": "vigneron",
+ "type": "term",
+ "names": {
+  "name": "Vigneron"
+ },
+ "etymology": {
+  "root": "French vigneron, from vigne (vine), from Latin vinea",
+  "tier": "tradition"
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "letter": "V",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "A grower who makes the wine. Not a winemaker who buys fruit and not a farmer who sells it — the word insists on both halves of the job."
+ },
+ "kin": [
+  {
+   "to": "negociant",
+   "as": "The other half of the Burgundian trade.",
+   "rel": "contrast"
+  }
+ ],
+ "sources": [
+  "s:oxford-companion-wine-4"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

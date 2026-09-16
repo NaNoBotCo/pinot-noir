@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "id": "world-of-pinot-noir",
+ "type": "event",
+ "names": {
+  "name": "World of Pinot Noir"
+ },
+ "region": [
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "status": "seasonal"
+ },
+ "text": {
+  "what": "A March weekend on the Santa Barbara coast where producers from Burgundy, Oregon, California and the southern hemisphere pour side by side — held at the ocean end of the county that grows the stuff."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-valley",
+   "as": "Half an hour north, and well represented.",
+   "rel": "region"
+  },
+  {
+   "to": "sta-rita-hills",
+   "as": "And the other local AVA.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 34.43,
+  "lon": -119.87,
+  "precision": "town"
+ },
+ "address": {
+  "city": "Santa Barbara",
+  "state": "CA",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-santa-barbara-county-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

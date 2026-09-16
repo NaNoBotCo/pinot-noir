@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "id": "vendange-entiere",
+ "type": "term",
+ "names": {
+  "name": "Vendange entière"
+ },
+ "etymology": {
+  "root": "French vendange (grape harvest, from Latin vindemia) + entière (whole)",
+  "tier": "tradition"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "letter": "V",
+  "kind": "ferment"
+ },
+ "text": {
+  "what": "Whole harvest: the bunches go in as they came off the vine, stems and all."
+ },
+ "kin": [
+  {
+   "to": "whole-cluster",
+   "as": "The practice itself.",
+   "rel": "practice"
+  },
+  {
+   "to": "pinot-meunier",
+   "as": "A variety often treated this way in Champagne.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-maceration-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

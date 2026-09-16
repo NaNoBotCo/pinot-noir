@@ -1,0 +1,58 @@
+Brettanomyces is a non-spore forming genus of yeast in the family Pichiaceae, and is often colloquially referred to as "Brett". The genus name Dekkera is used interchangeably with Brettanomyces, as it describes the teleomorph or spore forming form of the yeast, but is considered deprecated under the one fungus, one name change. The cellular morphology of the yeast can vary from ovoid to long "sausage" shaped cells. The yeast is acidogenic, and when grown on glucose rich media under aerobic conditions, produces large amounts of acetic acid. Brettanomyces is important to both the brewing and wine industries due to the sensory compounds it produces.
+In the wild, Brettanomyces lives on the skins of fruit.
+
+
+History
+In 1889, Seyffert of the Kalinkin Brewery in St. Petersburg, Russia was the first to isolate a "Torula" from English beer which produced the typical "English" taste in lager beer, and in 1899 JW Tullo at Guinness described two types of "secondary yeast" in Irish stout. However N. Hjelte Claussen at the Carlsberg brewery was the first to publish a description in 1904, following a 1903 patent (UK patent GB190328184) that was the first patented microorganism in history.
+
+
+Etymology
+The term Brettanomyces comes from the Greek for "British fungus". İt is a compound of Ancient Greek Βρεττανός (Brettanós) : British and μύκης (múkēs) : fungus.
+
+
+Wine
+
+When Brettanomyces grows in wine it produces several compounds that can alter the palate and bouquet. At low levels some winemakers agree that the presence of these compounds has a positive effect on wine, contributing to complexity, and giving an aged character to some young red wines. Many wines even rely on Brettanomyces to give their distinctive character, such as Château Musar. However, when the levels of the sensory compounds greatly exceed the sensory threshold, their perception is almost always negative. The sensory threshold can differ between individuals, and some find the compounds more unattractive than others.   While it can be desirable at lower levels, there is no guarantee that high levels will not be produced.  As Brettanomyces can potentially spoil a wine it is generally seen as a wine spoilage yeast, and its presence in wine as a wine fault.
+Wines that have been contaminated with Brettanomyces taints are often referred to as "Bretty", "metallic", or as having "Brett character".  Brettanomyces taint in wine is also sometimes incorrectly identified as cork taint.
+
+
+Sensory compounds
+The compounds responsible contributing certain sensory characters to wine are;
+
+4-ethylphenol: Band-aids, barnyard, horse stable, antiseptic
+4-ethylguaiacol: Bacon, spice, cloves, smoky
+isovaleric acid: Sweaty saddle, cheese, rancidity
+These compounds can impart completely different sensory properties to a wine when they are present in different ratios.
+
+
+Origins in the winery
+Brettanomyces is most associated with barrel aged red wines, but has also been found in Chardonnay and Sauvignon blanc. In some cases the yeast has caused contamination in sparkling wines produced by the méthode champenoise when en tirage. It is thought Brettanomyces can be introduced to a winery by insect vectors such as fruit flies, or by purchasing Brett-contaminated wine barrels. The ability to metabolise the disaccharide cellobiose, along with the irregular surface of a barrel interior, provide ideal conditions for Brettanomyces growth. Once the yeast is in a winery it is hard to eradicate and is spread readily by unsanitised equipment.
+
+
+Control measures
+The growth of Brettanomyces is best controlled by the addition of sulfur dioxide, to which the yeast is particularly sensitive. The addition of other sterilising compounds such as dimethyl dicarbonate often has a similar effect. Alternatively the wine can be bottled after sterile filtration, which physically removes the yeast.  Wines that are vinified to low residual sugar levels, such as <1.0g/L, are also less likely to be spoiled as the main growth substrate has been limited. However growth has been reported at levels below this and it is assumed that the yeast can use other substrates.
+
+
+Beer
+In most beer styles Brettanomyces is typically viewed as a contaminant and the characteristics it imparts are considered unwelcome "off-flavours". However, in certain styles, particularly certain traditional Belgian ales, it is appreciated and encouraged. Gueuze and other lambic beers owe their unique flavour profiles to Brettanomyces, as do wild yeast saison or farmhouse styles; and it is also found in Oud Bruin and Flanders red ale.
+In Orval Brettanomyces is added before the final bottle fermentation.
+Several American craft breweries intentionally use Brettanomyces in their beers. This use began with a renewed interest in Belgian style ales and later formed new styles altogether (Brewers Association, 2007 Great American Beer Festival Style Guidelines, section 13a, 16). Some breweries use 100% Brettanomyces for the fermentation of some of their beers, and omit Saccharomyces from the recipe. Some American brewers that use Brettanomyces may also include lactic acid producing bacteria such as Lactobacillus and Pediococcus in order to provide sourness to the beer.
+While Brett is sometimes pitched into the fermenter, aging in wood barrels previously inoculated with Brettanomyces is another method used to impart the complexity contributed by these strains of yeast.
+
+
+See also
+
+4-ethylguaiacol
+4-ethylphenol
+Brettanomyces bruxellensis
+Lambic
+Wine fault
+
+
+References
+
+Footnotes
+
+
+External links
+Brettanomyces at Milk the Funk Wiki

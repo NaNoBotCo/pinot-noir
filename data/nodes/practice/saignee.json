@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "id": "saignee",
+ "type": "practice",
+ "names": {
+  "name": "Saignée"
+ },
+ "region": [
+  "world",
+  "champagne"
+ ],
+ "facets": {
+  "kind": "press"
+ },
+ "text": {
+  "what": "Bleeding juice off a red fermenter early, to raise the skin-to-juice ratio in what stays behind. The juice that comes out is sold as rosé.",
+  "how": "Runs the other way round from making rosé on purpose: here the pink wine is a by-product of concentrating the red, and it tastes like one unless the fruit was picked with it in mind."
+ },
+ "kin": [
+  {
+   "to": "saignee-term",
+   "as": "The word, from saigner, to bleed.",
+   "rel": "term"
+  },
+  {
+   "to": "champagne",
+   "as": "Where rosé is more often made by blending red wine in instead.",
+   "rel": "contrast"
+  }
+ ],
+ "sources": [
+  "s:wp-ros",
+  "s:oxford-companion-wine-4"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "id": "terroir",
+ "type": "term",
+ "names": {
+  "name": "Terroir"
+ },
+ "etymology": {
+  "root": "French terroir, from Latin territorium; older French sense 'soil, ground'",
+  "tier": "cited",
+  "source": "s:wp-terroir"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "letter": "T",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "The claim that a wine tastes of where it grew — soil, slope, aspect, weather, and the habits of the people farming it. In France it is also a legal argument, because appellations are drawn on it."
+ },
+ "kin": [
+  {
+   "to": "climat",
+   "as": "The unit Burgundy uses to make the claim specific.",
+   "rel": "kin"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "The variety most often held up as the transmitter, whether or not it is.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-terroir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

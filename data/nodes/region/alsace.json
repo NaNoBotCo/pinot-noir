@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "id": "alsace",
+ "type": "region",
+ "names": {
+  "name": "Alsace"
+ },
+ "region": [
+  "alsace"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "region"
+ },
+ "text": {
+  "what": "A dry strip in the rain shadow of the Vosges where nearly everything is white — except pinot noir, the one red grape the appellation allows.",
+  "today": "What used to be pale and often rosé now gets destemmed, barrel-aged and sold as red, and the 2022 rules brought thirteen grand cru sites into play for it. *Tradition holds —* the older bottles were lighter because nobody expected otherwise."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The only red the appellation permits.",
+   "rel": "variety"
+  },
+  {
+   "to": "pinot-gris",
+   "as": "Its grey sibling, grown on the same slopes.",
+   "rel": "variety"
+  },
+  {
+   "to": "baden",
+   "as": "Across the Rhine, the same climate under another flag.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 48.2,
+  "lon": 7.35,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-alsace-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "tradition"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

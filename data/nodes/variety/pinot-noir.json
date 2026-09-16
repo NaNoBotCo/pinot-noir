@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "id": "pinot-noir",
+ "type": "variety",
+ "names": {
+  "name": "Pinot noir",
+  "aliases": [
+   "Pinot Noir",
+   "Spätburgunder",
+   "Blauburgunder",
+   "Pinot nero",
+   "Blauer Burgunder"
+  ],
+  "said": "PEE-noh NWAHR"
+ },
+ "etymology": {
+  "root": "French pin (pine) + noir (black) — the bunch is shaped like a pinecone",
+  "note": "the cluster is small and conico-cylindrical",
+  "tier": "cited",
+  "source": "s:wp-pinot-noir"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "colour": "black",
+  "country": "France"
+ },
+ "text": {
+  "what": "A black grape from north-eastern France that ripens early, carries thin skin over tight pinecone-shaped bunches, and mutates more readily than almost any vine in cultivation. It gives pale wine with low tannin and high acid, and it rewards cold ground, which is why growers chase it toward the poles, the fog and the hills.",
+  "story": "Pinot sits one or two generations from wild Vitis sylvestris, which makes it about as old as cultivated vines get. Crossed with the peasants' workhorse Gouais blanc somewhere in medieval north-eastern France, it fathered chardonnay, gamay, aligoté, auxerrois, melon and eleven more — half the vineyards of France descend from that one mismatch between the nobility's plot and the commoner's. *Tradition holds —* the dukes of Burgundy did the rest of the marketing.",
+  "how": "Thin skins and little phenolic material give pale, medium-bodied, low-tannin wine. The same skins split and rot in a wet September. It buds early into frost, ripens early into heat, and its tight bunches trap moisture — every fault it has comes from the same anatomy that makes the wine taste the way it does.",
+  "today": "Grown on every continent that can chill it: Burgundy and Champagne, Germany's Ahr and Baden, Oregon, California's fog corridors, Central Otago, Tasmania, Patagonia, the Cape."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "Home ground, and the reference every other pinot region gets measured against.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-meunier",
+   "as": "A chimera of this vine — hairy leaves, earlier ripening, and a third of Champagne.",
+   "rel": "mutation"
+  },
+  {
+   "to": "pinot-gris",
+   "as": "The same vine with the colour genes switched off partway.",
+   "rel": "mutation"
+  },
+  {
+   "to": "chardonnay",
+   "as": "Its child, by Gouais blanc; the two share the same hillsides and the same cellars.",
+   "rel": "offspring"
+  },
+  {
+   "to": "thin-skin",
+   "as": "Every difficulty this grape hands a grower, in one place.",
+   "rel": "story"
+  },
+  {
+   "to": "dijon-115",
+   "as": "One of the numbered selections that let a grower buy this vine by catalogue.",
+   "rel": "clone"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:wine-grapes-2012",
+  "s:oxford-companion-wine-4"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-pinot-noir"
+   },
+   "text.today": {
+    "tier": "tradition"
+   }
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

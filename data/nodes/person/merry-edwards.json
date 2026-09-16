@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "id": "merry-edwards",
+ "type": "person",
+ "names": {
+  "name": "Merry Edwards",
+  "sort": "Edwards, Merry"
+ },
+ "region": [
+  "russian-river",
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "role": "winemaker",
+  "country": "United States"
+ },
+ "text": {
+  "what": "One of California's first women to run a winery cellar, at Mount Eden in 1974, then at Matanzas Creek, then under her own name in the Russian River — where she also selected a pinot noir now propagated as her own."
+ },
+ "kin": [
+  {
+   "to": "russian-river-valley",
+   "as": "Where her own vineyards sit.",
+   "rel": "region"
+  },
+  {
+   "to": "massale-selection",
+   "as": "How the selection bearing her name moves.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,41 @@
+Ampelography (ἄμπελος [ampelos], 'vine' + γράφος [graphos], 'writing') is the field of botany concerned with the identification and classification of grapevines, Vitis spp. Traditionally this has been done by comparing the shape and colour of the vine leaves and grape berries; more recently the study of vines has been revolutionised by DNA fingerprinting.
+
+
+Early history
+The grape vine is an extremely variable species and some varieties, such as Pinot, mutate particularly frequently. At the same time, the wine and table grape industries have been important since ancient times, so large sums of money can depend on the correct identification of different varieties and clones of grapevines.
+The science of ampelography began seriously in the 19th century, when it became important to understand more about the different species of vine, as they had very different resistance to diseases and pests such as phylloxera.
+Many vine identification books were published at this time, one of which is Victor Rendu's Ampélographie française of 1857, featuring hand-colored lithographs by Eugene Grobon.
+
+
+Pierre Galet
+Until the Second World War, ampelography had been an art. Then Pierre Galet of the École nationale supérieure agronomique de Montpellier made a systematic assembly of criteria for the identification of vines. The Galet system was based on the shape and contours of the leaves, the characteristics of growing shoots, shoot tips, petioles, the sex of the flowers, the shape of the grape clusters and the colour, size and pips of the grapes themselves. The grapes are less affected by environmental factors than the leaves and the shoots, but are obviously not around for as long. He even included grape flavour as a criterion, but this is rather subjective.
+Galet then published the definitive book, Ampélographie pratique, in 1952, featuring 9,600 types of vine. Ampélographie pratique was translated into English by Lucie Morton, published in 1979 and updated in 2000.
+
+
+Illustrated Historical Universal Ampelography
+In 2012, Italian publisher L'Artistica Editrice published Illustrated Historical Universal Ampelography, a three volume set which contains the most important books edited in France and Italy between 1800 and 1900: the Ampélographie of Pierre Viala and Victor Vermorel, the grapes section of Pomona Italiana by Count Giorgio Gallesio and the Ampelografia Italiana of the Italian Ministry of Agriculture. The book collects 551 color plates of grapes from all over the world, with texts in Italian and English, which describe the morphological and agricultural characteristics of each vine variety, as well as their synonyms and historical curiosities.
+
+
+DNA
+Carole Meredith at the University of California, Davis, pioneered the use of genetic fingerprinting for vine identification. Famous successes with the technique include proving the identity of Zinfandel, Primitivo, and Crljenak Kaštelanski. Soon afterwards, Calò et al. (2008), using the same method, demonstrated the genetic identity of Montenegrin Kratošija with Zinfandel. Likewise, the technique allowed the identification of relatives of Sangiovese, such as Ciliegiolo and Calabrese Montenuovo. These studies are providing valuable information about processes of trade and migration.
+DNA fingerprinting uses segments of DNA that do not affect the look or taste of the grapes. More recent work has identified the genes responsible for the differences between grape varieties, such as the VvMYBA1 and VvMYBA2 genes that control grape colour, or the VvGAI1 gene that is mutated in some cells of Pinot Meunier compared to Pinot noir.
+
+
+References
+
+
+Further reading
+The original Galet Ampélographie Pratique is the definitive book, either in French or in English translation, but has long been out of print and does not include any DNA evidence.
+
+Everhart, S.E. 2010. Upper canopy collection and identification of grapevines (Vitis) from selected forests in the southeastern United States. Castanea 75: 141-149.
+Galet, Pierre (1952) Précis d’Ampélographie Pratique
+Galet, Pierre trans. Lucie Morton (1979) A Practical Ampelography: Grapevine Identification Cornell University Press (English translation)
+Galet, Pierre ed. Pierre Roller (2000) Dictionnaire encyclopédique des cépages Hachette ISBN 2-01-236331-8 is an updated version
+Galet, Pierre (2002) Grape Varieties: A Study of Wine, Hachette Wine Library (Cassell), ISBN 0-304-36409-6 is a decent summary in English.
+Jancis Robinson's Guide to Wine Grapes (OUP, ISBN 0-19-860098-4) is a cut-down version of her earlier Vines, Grapes & Wines: The Wine Drinker's Guide to Grape Varieties
+Kerridge, George & Antcliff, Allan (1999) Wine Grape Varieties CSIRO Publishing, ISBN 0-643-05982-2 is a good book from Australia aimed at growers
+Rendu, Victor (1857) Ampélographie française Paris
+Schneider, Anna; Mainardi, Giusi; Raimondi, Stefano; ed. (2012) Illustrated Historical Universal Ampelography, L'Artistica Editrice, Savigliano.
+
+
+External links

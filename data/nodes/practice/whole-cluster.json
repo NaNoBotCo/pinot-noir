@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "id": "whole-cluster",
+ "type": "practice",
+ "names": {
+  "name": "Whole cluster",
+  "aliases": [
+   "Whole-bunch",
+   "Vendange entière",
+   "Stem inclusion"
+  ]
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "kind": "ferment"
+ },
+ "text": {
+  "what": "Putting bunches into the fermenter with their stems still attached, instead of pulling the berries off first. Stems bring water, potassium, tannin and a green-stalk smell that turns spicy when it works and stalky when it doesn't.",
+  "how": "Stems raise pH by absorbing acid, cool the ferment by taking up heat, and build a lattice that lets a cap breathe. Growers pick a percentage — 30%, 50%, all of it — and argue about it forever. Ripe lignified stems help; green ones taste like the pruning pile."
+ },
+ "kin": [
+  {
+   "to": "vendange-entiere",
+   "as": "The French word, and its root.",
+   "rel": "term"
+  },
+  {
+   "to": "pigeage",
+   "as": "The other half of the same fermentation decision.",
+   "rel": "kin"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "A variety thin enough in tannin to notice what the stems add.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-maceration-wine",
+  "s:oxford-companion-wine-4"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

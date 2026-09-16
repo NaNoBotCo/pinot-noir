@@ -1,0 +1,172 @@
+{
+ "schema": 1,
+ "id": "santa-maria-bbq-association",
+ "type": "org",
+ "names": {
+  "name": "Santa Maria Style Barbeque Association"
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "kind": "association",
+  "status": "open"
+ },
+ "text": {
+  "what": "The body at the Santa Maria Valley Chamber of Commerce that defines the local barbecue and certifies places serving it: beef rolled in salt, pepper and garlic, cooked on skewers over coals of red oak native to the valley.",
+  "today": "Its page points readers to 'Santa Maria Style Barbeque Certified' locations and invites places to get certified; the criteria themselves were not published on the page this project read on 16 September 2026."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "The dish it defines.",
+   "rel": "pairing"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "The long version, with the competing claims.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The valley whose name is on the menu.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 34.953,
+  "lon": -120.436,
+  "precision": "town"
+ },
+ "address": {
+  "city": "Santa Maria",
+  "state": "CA",
+  "country": "US"
+ },
+ "links": [
+  {
+   "label": "Santa Maria Style Barbeque Association",
+   "url": "https://www.santamaria.com/our-community/bbq-association/"
+  }
+ ],
+ "sources": [
+  "s:web-smv-bbq-association",
+  "s:wp-santa-maria-style-barbecue"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "The body at the Santa Maria Valley Chamber of Commerce that defines the local barbecue and certifies places serving it: beef rolled in salt, pepper and garlic, cooked on skewers over coals of red oak native to the…",
+ "region_terms": [
+  {
+   "key": "santa-maria-valley",
+   "name": "Santa Maria Valley",
+   "country": "United States",
+   "note": "Bien Nacido, the bench, and the red-oak barbecue on the same ground"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The dish it defines.",
+   "rel": "pairing"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The long version, with the competing claims.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The valley whose name is on the menu.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-smv-bbq-association",
+   "kind": "web",
+   "title": "Santa Maria Style Barbeque Association",
+   "publisher": "Santa Maria Valley Chamber of Commerce",
+   "url": "https://www.santamaria.com/our-community/bbq-association/",
+   "accessed": "2026-09-16",
+   "note": "the association's own page: red oak native to the valley, beef rolled in salt, pepper and garlic, cooked on skewers over the coals; points at a certification programme for 'Santa Maria Style Barbeque Certified' locations"
+  },
+  {
+   "id": "s:wp-santa-maria-style-barbecue",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria–style barbecue",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=22881131",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1328359472",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.today": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  },
+  "address": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The body that polices what the phrase on the menu means.",
+   "rel": "org"
+  },
+  {
+   "from": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "Which defines the phrase on the menu.",
+   "rel": "org"
+  },
+  {
+   "from": "dine-out-santa-maria-style",
+   "type": "event",
+   "name": "Dine Out Santa Maria Style",
+   "as": "The association behind it.",
+   "rel": "org"
+  },
+  {
+   "from": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "Which defines the words on the menu.",
+   "rel": "org"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "id": "martinborough",
+ "type": "region",
+ "names": {
+  "name": "Martinborough"
+ },
+ "region": [
+  "martinborough",
+  "new-zealand"
+ ],
+ "facets": {
+  "country": "New Zealand",
+  "level": "gi",
+  "soil": "river gravel over clay"
+ },
+ "text": {
+  "what": "A gravel terrace at the south end of the North Island, in the rain shadow of the Tararua Range, with a town laid out as a Union Jack. Small, dry, windy, and planted almost entirely to pinot noir."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The reason the terrace was planted at all.",
+   "rel": "variety"
+  },
+  {
+   "to": "central-otago",
+   "as": "The country's other pinot argument, 900 km south.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "abel-clone",
+   "as": "Propagated here first, and named for the customs officer.",
+   "rel": "clone"
+  }
+ ],
+ "geo": {
+  "lat": -41.22,
+  "lon": 175.46,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-martinborough",
+  "s:wp-new-zealand-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

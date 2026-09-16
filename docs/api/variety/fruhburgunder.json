@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "fruhburgunder",
+ "type": "variety",
+ "names": {
+  "name": "Frühburgunder",
+  "aliases": [
+   "Pinot noir précoce",
+   "Early Burgundy",
+   "Blauer Frühburgunder"
+  ]
+ },
+ "etymology": {
+  "root": "German früh (early) + Burgunder (Burgundian)",
+  "tier": "cited",
+  "source": "s:wp-fr-hburgunder"
+ },
+ "region": [
+  "ahr",
+  "germany"
+ ],
+ "facets": {
+  "colour": "black",
+  "country": "Germany"
+ },
+ "text": {
+  "what": "An early-ripening pinot that comes in two to three weeks ahead of the rest. Germany kept it alive in the Ahr and on the Nahe when growers elsewhere pulled it out for cropping too lightly.",
+  "how": "Small bunches, small berries, low yield, and a harvest date that beats autumn rain — useful where the season runs short."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The same family, running four to six weeks ahead of the latest clones.",
+   "rel": "kin"
+  },
+  {
+   "to": "ahr",
+   "as": "The slate valley that kept it planted.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-fr-hburgunder",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "An early-ripening pinot that comes in two to three weeks ahead of the rest. Germany kept it alive in the Ahr and on the Nahe when growers elsewhere pulled it out for cropping too lightly.",
+ "region_terms": [
+  {
+   "key": "ahr",
+   "name": "Ahr",
+   "country": "Germany",
+   "note": "a narrow slate valley north of the Mosel that grows almost nothing else"
+  },
+  {
+   "key": "germany",
+   "name": "Germany",
+   "country": "Germany",
+   "note": "spätburgunder; the third-largest pinot noir planting on earth"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The same family, running four to six weeks ahead of the latest clones.",
+   "rel": "kin"
+  },
+  {
+   "to": "ahr",
+   "type": "region",
+   "name": "Ahr",
+   "as": "The slate valley that kept it planted.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-fr-hburgunder",
+   "kind": "encyclopaedia",
+   "title": "Pinot Noir Précoce",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=25123541",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371306597",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "etymology": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "ahr",
+   "type": "region",
+   "name": "Ahr",
+   "as": "The early-ripening cousin the valley kept.",
+   "rel": "variety"
+  },
+  {
+   "from": "spatburgunder",
+   "type": "term",
+   "name": "Spätburgunder",
+   "as": "The early one the name is set against.",
+   "rel": "contrast"
+  }
+ ]
+}

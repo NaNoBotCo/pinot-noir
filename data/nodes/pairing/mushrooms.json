@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "id": "mushrooms",
+ "type": "pairing",
+ "names": {
+  "name": "Mushrooms"
+ },
+ "region": [
+  "burgundy",
+  "oregon",
+  "world"
+ ],
+ "facets": {
+  "course": "fungus",
+  "country": "France"
+ },
+ "text": {
+  "what": "The flavour bridge: older pinot noir picks up a forest-floor smell, and a plate of fungi meets it head on. Glutamates in the mushroom read as savoury, which is the same register a mature bottle moves into."
+ },
+ "kin": [
+  {
+   "to": "duck",
+   "as": "Its usual companion on the plate.",
+   "rel": "pairing"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "The wine whose aged character it mirrors.",
+   "rel": "variety"
+  },
+  {
+   "to": "truffle-pairing",
+   "as": "The expensive end of the same idea.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-edible-mushroom",
+  "s:wp-umami"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "id": "sta-rita-hills",
+ "type": "region",
+ "names": {
+  "name": "Sta. Rita Hills",
+  "aliases": [
+   "Santa Rita Hills"
+  ]
+ },
+ "region": [
+  "sta-rita-hills",
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "sub-ava",
+  "established": 2001,
+  "soil": "diatomaceous shale, sandy loam"
+ },
+ "text": {
+  "what": "A wind tunnel between Buellton and Lompoc where the Santa Ynez Valley opens west to the ocean. Fog in the morning, thirty-knot afternoons, and some of the slowest ripening in California.",
+  "story": "Petitioned by growers inside the Santa Ynez Valley AVA who wanted their own name, and established as Santa Rita Hills in 2001. Chile's Viña Santa Rita objected; the TTB shortened it to Sta. Rita Hills in 2005, and the label now carries an abbreviation nobody says out loud."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-valley",
+   "as": "The county's other pinot valley, half an hour north.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "sanford-and-benedict",
+   "as": "The 1971 planting that proved the ground.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "richard-sanford",
+   "as": "Who read the weather maps and picked this gap.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 34.63,
+  "lon": -120.4,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-sta-rita-hills-ava",
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "AVA area at designation",
+   "value": 30720,
+   "unit": "acres",
+   "year": 2001,
+   "source": "s:wp-sta-rita-hills-ava",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 2001",
+   "year": 2001,
+   "source": "s:ecfr-27-9",
+   "note": "66 FR 29479, May 31, 2001; renamed 70 FR 72713, Dec. 7, 2005"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

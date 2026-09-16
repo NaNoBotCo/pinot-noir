@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "id": "neutral-oak",
+ "type": "practice",
+ "names": {
+  "name": "Neutral oak",
+  "aliases": [
+   "Old barrels",
+   "Used barriques"
+  ]
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "kind": "ageing"
+ },
+ "text": {
+  "what": "A barrel that has already given up its flavour — third use, fourth, older. It still lets oxygen through the staves and still shapes texture; it just stops tasting of the forest.",
+  "how": "New oak gives vanillin, toast and tannin, and pinot noir has little weight to hide any of it. Cellars set a percentage of new wood per wine and often drop it for the lighter vineyards."
+ },
+ "kin": [
+  {
+   "to": "malolactic",
+   "as": "What happens inside these barrels, over winter.",
+   "rel": "kin"
+  },
+  {
+   "to": "hanzell",
+   "as": "Which imported French barrels to California and started the argument there.",
+   "rel": "producer"
+  }
+ ],
+ "sources": [
+  "s:wp-oak-wine",
+  "s:wp-barrel"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "A barrel that has already given up its flavour — third use, fourth, older. It still lets oxygen through the staves and still shapes texture; it just stops tasting of the forest.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  },
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "malolactic",
+   "type": "practice",
+   "name": "Malolactic fermentation",
+   "as": "What happens inside these barrels, over winter.",
+   "rel": "kin"
+  },
+  {
+   "to": "hanzell",
+   "type": "producer",
+   "name": "Hanzell Vineyards",
+   "as": "Which imported French barrels to California and started the argument there.",
+   "rel": "producer"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-oak-wine",
+   "kind": "encyclopaedia",
+   "title": "Oak (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=748887",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370961109",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-barrel",
+   "kind": "encyclopaedia",
+   "title": "Barrel",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=640764",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368251228",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "hanzell",
+   "type": "producer",
+   "name": "Hanzell Vineyards",
+   "as": "The barrel question he answered by importing the barrels.",
+   "rel": "practice"
+  },
+  {
+   "from": "malolactic",
+   "type": "practice",
+   "name": "Malolactic fermentation",
+   "as": "Where it usually happens: in barrel, over a cold winter.",
+   "rel": "kin"
+  },
+  {
+   "from": "wine-fault-brett",
+   "type": "term",
+   "name": "Brett",
+   "as": "Where it lives, if it lives anywhere.",
+   "rel": "kin"
+  }
+ ]
+}

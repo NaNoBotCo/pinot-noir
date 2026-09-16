@@ -1,0 +1,116 @@
+PINOT COUNTRY — WRITING A RECORD
+================================
+
+One JSON file per node, in data/nodes/<type>/<id>.json. The schema is
+schema/node.schema.json. Copy a record close to what you are writing and change every
+field. Run  python3 tools/validate.py  until it passes.
+
+TYPES
+  variety   the vine and its mutations      region    an appellation, AVA, valley, commune
+  vineyard  a named site or cru             producer  a domaine, winery, tasting room
+  clone     a numbered or named selection   practice  what happens in vineyard or cellar
+  pairing   what gets eaten beside it       person    grower, winemaker, scientist, writer
+  org       an appellation body, a nursery  event     an auction, a celebration
+  term      a word, with its root           art       labels, posters, photographs
+  story     a long read, in sections
+
+FIELDS THAT CARRY THE WEIGHT
+  names.name     what the trade calls it. names.said = how it is said aloud.
+  text.what      one plain paragraph. Present tense. What it is.
+  text.story     narrative, told as narrative. Scenes, dates, names. Mark each stretch:
+                   plain prose          = cited in this record's sources
+                   *Tradition holds —*  general knowledge of the trade, hedged
+                   *Inference —*        this project's own reasoning
+  text.how       how it is grown, pressed, aged, served. text.today = now, dated.
+  kin[]          what another node IS to this one, said from here. One sentence a reader
+                 standing on this page wants — not "see also" but the fact that joins
+                 them ("the 1.8-hectare monopole at the centre of the argument"). The
+                 other record answers in its own words, and the site prints both.
+  etymology      required on type=term, welcome anywhere a name has a root.
+                 first_attested = a date with a source behind it, else blank.
+  facets         open keys per type, see data/vocab/facets.json: country, level, soil,
+                 established, kind, course, role, status, origin, letter, colour.
+  sources[]      ids from data/sources/sources.json ONLY. Add new ones to
+                 data/sources/new-<name>.json in the same shape; build.py merges them.
+                 Wikipedia: s:wp-<slug>, and the registry keeps the revision permalink.
+  provenance     default tier + per-field overrides. Tiers: cited, harvested, tradition,
+                 inference, field. A date, a hectare count, a founding year, a price:
+                 cite it or hedge it.
+  geo / address  coordinates and precision. address.country takes ISO 3166-1 alpha-2.
+  images[]       leave empty. Put candidate Commons titles in x_commons_files, then run
+                 tools/harvest_commons.py --harvest <id> --apply.
+  confidence     high / medium / low. needs_verification: true when a fact stays unchecked.
+
+MEASURES — numbers somebody else published
+  measures[] {key, label, value, unit, year, source, url, tier, note}. Planted area,
+  elevation, a harvest date, a bottle count. EVERY row names its own source. Nothing in
+  this array is estimated, averaged or inferred; if the number is not published, the row
+  is not written. The /numbers/ page and the cards read straight from here.
+
+TAGS — claims a reader might choose by
+  tags[] {tag, source, tier?, note?, since?, url?}. Keys in data/vocab/tags.json, and
+  EVERY tag names its evidence. Ownership, welcome and certification tags come only from
+  the owner's own words, a press profile naming them, a certifier, or a public register —
+  never from a name, a photograph or a hunch. The validator refuses tier tradition or
+  inference on a tag. No evidence, no tag; a missing tag says nothing about the cellar.
+
+HOURS — three states, never two
+  hours{open[], closed[], text, sold_out, seasonal, source, url, tier, checked}.
+  A day in `open` is open. A day in `closed` is closed. A day in NEITHER is not known,
+  and is drawn dashed and excluded from the filters. Guessing a closure is worse than a
+  blank, because a reader drives on it. The validator refuses a day in both lists.
+
+RECOGNITIONS — attention paid, not our ranking
+  recognitions[] {by, what, year, source, url}. Recognizers in data/vocab/recognizers.json:
+  an appellation established by INAO, an AVA established in 27 CFR part 9, a UNESCO
+  listing. The count drives what the front page shows; it is never a verdict.
+
+RECIPES
+  recipes[] — public domain or CC BY-SA copied in full with attribution; anything else
+  license: "ingredients-only", and then text must be empty. A list of ingredients is a
+  fact. Somebody's method is not.
+
+THE VOICE
+  Active verbs. Fewer adjectives. Say the finding, do not name the chart. Describe;
+  never adjudicate. The banned list in tools/validate.py includes the fleet's fluff
+  words and this subject's adjudicating vocabulary — authentic, purist, world-class,
+  iconic, must-visit, overrated, wine snob. If somebody said it, quote them and name
+  them; otherwise it does not go in.
+
+THE CAST — what is written, and the obvious gaps
+  variety   pinot-noir pinot-meunier pinot-gris pinot-blanc fruhburgunder chardonnay gamay
+  region    burgundy cote-de-nuits cote-de-beaune cote-chalonnaise champagne alsace
+            sancerre jura ahr baden willamette-valley dundee-hills eola-amity-hills
+            yamhill-carlton ribbon-ridge russian-river-valley sonoma-coast anderson-valley
+            los-carneros santa-lucia-highlands santa-cruz-mountains sta-rita-hills
+            santa-maria-valley finger-lakes central-otago martinborough marlborough
+            mornington-peninsula yarra-valley tasmania casablanca-valley hemel-en-aarde
+            okanagan-valley alto-adige
+  vineyard  romanee-conti la-tache clos-de-vougeot musigny chambertin richebourg corton
+            bien-nacido sanford-and-benedict
+  producer  drc domaine-leroy louis-jadot joseph-drouhin eyrie-vineyards
+            domaine-drouhin-oregon sokol-blosser adelsheim calera williams-selyem
+            au-bon-climat hanzell felton-road bass-phillip rippon
+  clone     pommard-ucd4 wadenswil-ucd2a dijon-115 dijon-667 dijon-777 mount-eden
+            calera-selection swan-selection abel-clone pinot-droit
+  practice  whole-cluster cold-soak pigeage native-yeast malolactic neutral-oak saignee
+            massale-selection green-harvest high-density-planting hand-harvest
+  pairing   santa-maria-tri-tip red-oak pinquito-beans santa-maria-salsa duck salmon
+            mushrooms truffle-pairing coq-au-vin washed-rind-cheese
+  person    aubert-de-villaine lalou-bize-leroy henri-jayer raymond-bernard david-lett
+            josh-jensen jim-clendenen richard-sanford merry-edwards burt-williams
+            andre-tchelistcheff martin-ray paul-masson-person bob-schutz
+  org       inao ttb hospices-de-beaune bivb fps santa-maria-bbq-association
+            santa-barbara-vintners oregon-wine-board
+  event     hospices-auction ipnc world-of-pinot-noir saint-vincent-tournante
+            dine-out-santa-maria-style
+  term      climat lieu-dit monopole negociant terroir cru vendange-entiere saignee-term
+            pigeage-term ava spatburgunder brix vigneron wine-fault-brett
+  story     tri-tip-over-red-oak how-pinot-travelled the-dijon-numbers thin-skin
+            the-sideways-effect free-to-use
+
+  NOT WRITTEN YET, and each one is a real gap: most Burgundy communes and nearly all of
+  its 1,247 climats · the Mâconnais and Beaujolais · Chile and Argentina beyond one
+  region each · England, Switzerland, Austria, Romania, Moldova · sparkling pinot
+  outside Champagne · vintages, which this project deliberately does not rank · art
+  records, because no picture has been harvested for one yet.

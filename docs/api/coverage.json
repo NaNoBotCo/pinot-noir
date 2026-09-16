@@ -1,0 +1,82 @@
+{
+ "built": "2026-09-16",
+ "scope": "Pinot noir: the ground it grows on, the vines people planted, the cellars that press it, the words the trade uses, and what gets eaten beside it. Burgundy first, because everything else answers to it, then Oregon, California, Germany, New Zealand and the rest.",
+ "records": {
+  "variety": 7,
+  "region": 34,
+  "vineyard": 9,
+  "producer": 15,
+  "clone": 10,
+  "practice": 11,
+  "pairing": 10,
+  "person": 14,
+  "org": 8,
+  "event": 5,
+  "term": 14,
+  "art": 0,
+  "story": 6
+ },
+ "how_records_are_made": "Hand-written JSON, one per node, each field carrying a provenance tier (cited / harvested / tradition / inference / field). Cited fields name a source in sources.json. Tradition fields are general knowledge of the tradition and are hedged in the text.",
+ "cellars": {
+  "curated": 24,
+  "harvested_from_osm": 3034,
+  "osm_fetched_at": "2026-09-16T20:20:04",
+  "reading_an_absence": "A cellar missing here is missing from OpenStreetMap on the fetch date, or sits outside the boxes queried, or has not been written up. None of that is a claim that it does not exist.",
+  "osm_query": "[out:json][timeout:180];(nwr[\"craft\"=\"winery\"]({s},{w},{n},{e});nwr[\"tourism\"=\"wine_cellar\"]({s},{w},{n},{e});nwr[\"shop\"=\"wine\"]({s},{w},{n},{e});nwr[\"amenity\"=\"winery\"]({s},{w},{n},{e}););out center tags;"
+ },
+ "hours": {
+  "cellars_with_any_day_known": 945,
+  "open_sunday": 511,
+  "closed_sunday": 434,
+  "sunday_unknown": 2110,
+  "reading_an_absence": "A day is 'unknown' unless a source said so. Unknown is never rendered as closed."
+ },
+ "images": {
+  "count": 0,
+  "licences_accepted": [
+   "CC0",
+   "Public domain",
+   "CC BY",
+   "CC BY-SA",
+   "FAL"
+  ]
+ },
+ "tags": {
+  "tasting-room": 0,
+  "by-appointment": 0,
+  "no-visits": 1,
+  "estate-grown": 0,
+  "organic-certified": 2,
+  "biodynamic-certified": 1,
+  "sustainability-certified": 0,
+  "dry-farmed": 0,
+  "own-rooted": 0,
+  "monopole": 2,
+  "family-owned": 1,
+  "woman-winemaker": 0,
+  "woman-owned": 0,
+  "black-owned": 0,
+  "latino-owned": 0,
+  "lgbtq-owned": 0,
+  "closed": 0
+ },
+ "tags_note": "A tag names its evidence (the owner's words, a press profile, a public directory or list). No evidence, no tag; absence of a tag says nothing about a place.",
+ "recognitions": 16,
+ "recipes": 4,
+ "sources": 182,
+ "not_yet": [
+  "field observations — no record carries the field tier yet",
+  "vintage-by-vintage notes",
+  "prices, which move and which this project does not track",
+  "planted area for most single vineyards",
+  "most of Burgundy's 1,247 climats",
+  "photographs for most records"
+ ],
+ "tiers": {
+  "cited": "Cited — a named source, linked",
+  "harvested": "Harvested — fetched from an open dataset, with its licence",
+  "tradition": "Tradition — general knowledge of the tradition, hedged",
+  "inference": "Inference — this project's own reasoning from the above",
+  "field": "Field — someone stood there"
+ }
+}

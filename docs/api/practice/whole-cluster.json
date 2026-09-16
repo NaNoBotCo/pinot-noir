@@ -1,0 +1,160 @@
+{
+ "schema": 1,
+ "id": "whole-cluster",
+ "type": "practice",
+ "names": {
+  "name": "Whole cluster",
+  "aliases": [
+   "Whole-bunch",
+   "Vendange entière",
+   "Stem inclusion"
+  ]
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "kind": "ferment"
+ },
+ "text": {
+  "what": "Putting bunches into the fermenter with their stems still attached, instead of pulling the berries off first. Stems bring water, potassium, tannin and a green-stalk smell that turns spicy when it works and stalky when it doesn't.",
+  "how": "Stems raise pH by absorbing acid, cool the ferment by taking up heat, and build a lattice that lets a cap breathe. Growers pick a percentage — 30%, 50%, all of it — and argue about it forever. Ripe lignified stems help; green ones taste like the pruning pile."
+ },
+ "kin": [
+  {
+   "to": "vendange-entiere",
+   "as": "The French word, and its root.",
+   "rel": "term"
+  },
+  {
+   "to": "pigeage",
+   "as": "The other half of the same fermentation decision.",
+   "rel": "kin"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "A variety thin enough in tannin to notice what the stems add.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-maceration-wine",
+  "s:oxford-companion-wine-4"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Putting bunches into the fermenter with their stems still attached, instead of pulling the berries off first.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  },
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "vendange-entiere",
+   "type": "term",
+   "name": "Vendange entière",
+   "as": "The French word, and its root.",
+   "rel": "term"
+  },
+  {
+   "to": "pigeage",
+   "type": "practice",
+   "name": "Punching down",
+   "as": "The other half of the same fermentation decision.",
+   "rel": "kin"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "A variety thin enough in tannin to notice what the stems add.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-maceration-wine",
+   "kind": "encyclopaedia",
+   "title": "Maceration (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1455948",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1302144966",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:oxford-companion-wine-4",
+   "kind": "book",
+   "title": "The Oxford Companion to Wine",
+   "author": "Jancis Robinson (ed.)",
+   "publisher": "Oxford University Press",
+   "year": 2015,
+   "note": "fourth edition"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "text.how": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "cold-soak",
+   "type": "practice",
+   "name": "Cold soak",
+   "as": "A decision taken at the same moment, on the same fruit.",
+   "rel": "kin"
+  },
+  {
+   "from": "hand-harvest",
+   "type": "practice",
+   "name": "Hand harvest",
+   "as": "The decision hand-picking keeps open.",
+   "rel": "kin"
+  },
+  {
+   "from": "pigeage",
+   "type": "practice",
+   "name": "Punching down",
+   "as": "What a foot meets when the stems stay in.",
+   "rel": "kin"
+  },
+  {
+   "from": "vendange-entiere",
+   "type": "term",
+   "name": "Vendange entière",
+   "as": "The practice itself.",
+   "rel": "practice"
+  },
+  {
+   "from": "thin-skin",
+   "type": "story",
+   "name": "What thin skin costs",
+   "as": "Another, in the fermenter.",
+   "rel": "practice"
+  }
+ ]
+}

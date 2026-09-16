@@ -1,0 +1,221 @@
+{
+ "schema": 1,
+ "id": "romanee-conti",
+ "type": "vineyard",
+ "names": {
+  "name": "Romanée-Conti"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "established": 1936,
+  "soil": "limestone, marl",
+  "status": "open"
+ },
+ "text": {
+  "what": "Under two hectares of Vosne-Romanée hillside, held by one owner, producing about 3,500 bottles a year. No other patch of ground in wine carries this much argument per square metre.",
+  "story": "Louis François de Bourbon, prince de Conti, bought it in 1760 through an agent and kept the wine for himself; the name stuck. It survived phylloxera on ungrafted vines until 1945, when the harvest fell to about 2.5 hl/ha and 600 bottles, and the vineyard was pulled and replanted."
+ },
+ "kin": [
+  {
+   "to": "drc",
+   "as": "Its sole owner, and the domaine named after it.",
+   "rel": "made-by"
+  },
+  {
+   "to": "la-tache",
+   "as": "The other monopole down the same slope.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "cote-de-nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "monopole",
+   "as": "One owner, one vineyard — the word for this arrangement.",
+   "rel": "term"
+  }
+ ],
+ "geo": {
+  "lat": 47.163,
+  "lon": 4.955,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-roman-e-conti",
+  "s:meadows-pearl"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "In production",
+   "value": 1.88,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-roman-e-conti",
+   "tier": "cited"
+  },
+  {
+   "key": "bottles",
+   "label": "Bottles produced",
+   "value": 3500,
+   "unit": "bottles",
+   "year": 2008,
+   "source": "s:wp-roman-e-conti",
+   "tier": "cited",
+   "note": "from 26 hl"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "monopole",
+   "source": "s:wp-roman-e-conti",
+   "tier": "cited",
+   "note": "held whole by the Domaine de la Romanée-Conti"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Under two hectares of Vosne-Romanée hillside, held by one owner, producing about 3,500 bottles a year. No other patch of ground in wine carries this much argument per square metre.",
+ "region_terms": [
+  {
+   "key": "cote-de-nuits",
+   "name": "Côte de Nuits",
+   "country": "France",
+   "note": "Marsannay south to Corton; most of the red grands crus sit on this strip"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "drc",
+   "type": "producer",
+   "name": "Domaine de la Romanée-Conti",
+   "as": "Its sole owner, and the domaine named after it.",
+   "rel": "made-by"
+  },
+  {
+   "to": "la-tache",
+   "type": "vineyard",
+   "name": "La Tâche",
+   "as": "The other monopole down the same slope.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "monopole",
+   "type": "term",
+   "name": "Monopole",
+   "as": "One owner, one vineyard — the word for this arrangement.",
+   "rel": "term"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-roman-e-conti",
+   "kind": "encyclopaedia",
+   "title": "Romanée-Conti",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10181194",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372749840",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:meadows-pearl",
+   "kind": "book",
+   "title": "The Pearl of the Côte: The Great Wines of Vosne-Romanée",
+   "author": "Allen Meadows",
+   "publisher": "Burghound Books",
+   "year": 2010
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "monopole",
+   "label": "Monopole",
+   "icon": "🔑",
+   "group": "holding",
+   "evidence": "one owner holds the whole named site; the appellation body or the owner says so",
+   "resources": [
+    "r:inao"
+   ],
+   "source": "s:wp-roman-e-conti",
+   "note": "held whole by the Domaine de la Romanée-Conti",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "The 1.8-hectare monopole at the centre of the argument.",
+   "rel": "vineyard"
+  },
+  {
+   "from": "la-tache",
+   "type": "vineyard",
+   "name": "La Tâche",
+   "as": "Its neighbour, and the more famous half of the same domaine.",
+   "rel": "neighbour"
+  },
+  {
+   "from": "richebourg",
+   "type": "vineyard",
+   "name": "Richebourg",
+   "as": "Its neighbour up the slope.",
+   "rel": "neighbour"
+  },
+  {
+   "from": "drc",
+   "type": "producer",
+   "name": "Domaine de la Romanée-Conti",
+   "as": "Its monopole, and its name.",
+   "rel": "owns"
+  },
+  {
+   "from": "monopole",
+   "type": "term",
+   "name": "Monopole",
+   "as": "1.8 hectares, one owner.",
+   "rel": "vineyard"
+  }
+ ]
+}

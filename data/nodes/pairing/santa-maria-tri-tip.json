@@ -1,0 +1,141 @@
+{
+ "schema": 1,
+ "id": "santa-maria-tri-tip",
+ "type": "pairing",
+ "names": {
+  "name": "Santa Maria tri-tip",
+  "aliases": [
+   "Tri-tip",
+   "Santa Maria steak",
+   "Triangle tip",
+   "Newport steak"
+  ]
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "course": "main",
+  "country": "United States"
+ },
+ "text": {
+  "what": "A triangular two-to-five-pound piece of bottom sirloin, rolled in salt, pepper and garlic, grilled over red oak coals to medium-rare and sliced across the grain. In its home valley it arrives with pinquito beans, salsa, green salad and buttered French bread grilled on the same fire.",
+  "story": "The barbecue is older than the cut. Californio ranchers fed their vaqueros each spring from oak-coal pits, and the Santa Maria Club ran a stag barbecue for up to 700 people a month from 1931. Top sirloin was the meat. In the late 1950s a market manager in Santa Maria put a triangular piece that usually went to the grinder on a rotisserie instead, and by the 1960s the town had a cut of its own.",
+  "how": "Grill directly over red oak, fat side up, turning once; pull at 130–135 °F and let it rest before slicing. The grain changes direction inside the muscle, so the knife has to change with it. Central California butchers leave the fat cap on; butchers elsewhere trim it.",
+  "today": "Sold country-wide now, and still the default thing to cook at a Santa Maria Valley fundraiser, rodeo or school benefit."
+ },
+ "kin": [
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "The long version: the ranch, the oak, the competing claims, and the wine question.",
+   "rel": "story"
+  },
+  {
+   "to": "red-oak",
+   "as": "The wood, which is not a red oak.",
+   "rel": "pairing"
+  },
+  {
+   "to": "pinquito-beans",
+   "as": "What comes beside it.",
+   "rel": "pairing"
+  },
+  {
+   "to": "santa-maria-salsa",
+   "as": "And what goes on it.",
+   "rel": "pairing"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The valley that also grows pinot noir on the same hills.",
+   "rel": "region"
+  },
+  {
+   "to": "bob-schutz",
+   "as": "The market manager the town credits.",
+   "rel": "person"
+  },
+  {
+   "to": "santa-maria-bbq-association",
+   "as": "Which defines the phrase on the menu.",
+   "rel": "org"
+  }
+ ],
+ "geo": {
+  "lat": 34.953,
+  "lon": -120.436,
+  "precision": "town"
+ },
+ "sources": [
+  "s:wp-santa-maria-style-barbecue",
+  "s:wp-tri-tip",
+  "s:usda-imps-100",
+  "s:web-smv-bbq-association",
+  "s:wp-cut-of-beef"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "imps",
+   "label": "IMPS / NAMP specification",
+   "value": "185C",
+   "unit": "",
+   "year": null,
+   "source": "s:usda-imps-100",
+   "tier": "cited",
+   "note": "bottom sirloin butt, tri-tip"
+  },
+  {
+   "key": "weight_lb",
+   "label": "Untrimmed weight",
+   "value": 5,
+   "unit": "lb",
+   "year": null,
+   "source": "s:wp-tri-tip",
+   "tier": "cited"
+  },
+  {
+   "key": "pull_temp_f",
+   "label": "Internal temperature for medium-rare",
+   "value": "130–135",
+   "unit": "°F",
+   "year": null,
+   "source": "s:wp-tri-tip",
+   "tier": "cited"
+  }
+ ],
+ "recipes": [
+  {
+   "title": "Santa Maria seasoning",
+   "source": "s:wp-santa-maria-style-barbecue",
+   "license": "ingredients-only",
+   "ingredients": [
+    "salt",
+    "black pepper",
+    "garlic salt"
+   ],
+   "note": "the seasoning as the tradition describes it — three things, rolled on before the meat goes over the coals"
+  },
+  {
+   "title": "The traditional plate",
+   "source": "s:wp-santa-maria-style-barbecue",
+   "license": "ingredients-only",
+   "ingredients": [
+    "tri-tip or top block sirloin",
+    "red oak coals",
+    "pinquito beans",
+    "fresh salsa",
+    "tossed green salad",
+    "French bread dipped in melted butter and grilled"
+   ],
+   "note": "the accompaniments named in the tradition; linguiça appears on many local menus alongside the beef"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,174 @@
+{
+ "schema": 1,
+ "id": "dijon-115",
+ "type": "clone",
+ "names": {
+  "name": "Dijon 115",
+  "aliases": [
+   "115",
+   "ENTAV-INRA 115"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "origin": "Dijon"
+ },
+ "text": {
+  "what": "Small berries, small bunches, early ripening, aromatic. The most planted of the Dijon selections in the New World and the one growers reach for when a site needs perfume."
+ },
+ "kin": [
+  {
+   "to": "dijon-777",
+   "as": "Its darker, denser stablemate.",
+   "rel": "kin"
+  },
+  {
+   "to": "dijon-667",
+   "as": "The third of the common trio.",
+   "rel": "kin"
+  },
+  {
+   "to": "raymond-bernard",
+   "as": "Who ran the selection programme the number comes from.",
+   "rel": "person"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "as": "How Burgundy came to sell its vines by catalogue.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:fps-grapes"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Small berries, small bunches, early ripening, aromatic. The most planted of the Dijon selections in the New World and the one growers reach for when a site needs perfume.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "dijon-777",
+   "type": "clone",
+   "name": "Dijon 777",
+   "as": "Its darker, denser stablemate.",
+   "rel": "kin"
+  },
+  {
+   "to": "dijon-667",
+   "type": "clone",
+   "name": "Dijon 667",
+   "as": "The third of the common trio.",
+   "rel": "kin"
+  },
+  {
+   "to": "raymond-bernard",
+   "type": "person",
+   "name": "Raymond Bernard",
+   "as": "Who ran the selection programme the number comes from.",
+   "rel": "person"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "How Burgundy came to sell its vines by catalogue.",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:fps-grapes",
+   "kind": "dataset",
+   "title": "National Grapevine Registry and the FPS public varieties list",
+   "publisher": "Foundation Plant Services, University of California, Davis",
+   "url": "https://fps.ucdavis.edu/",
+   "note": "which clone selection carries which number in the United States"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "One of the numbered selections that let a grower buy this vine by catalogue.",
+   "rel": "clone"
+  },
+  {
+   "from": "adelsheim",
+   "type": "producer",
+   "name": "Adelsheim Vineyard",
+   "as": "One of the Dijon selections Oregon imported through that work.",
+   "rel": "clone"
+  },
+  {
+   "from": "dijon-667",
+   "type": "clone",
+   "name": "Dijon 667",
+   "as": "Planted with it, almost always.",
+   "rel": "kin"
+  },
+  {
+   "from": "dijon-777",
+   "type": "clone",
+   "name": "Dijon 777",
+   "as": "The aromatic one, usually planted alongside.",
+   "rel": "kin"
+  },
+  {
+   "from": "pommard-ucd4",
+   "type": "clone",
+   "name": "Pommard, UCD 4",
+   "as": "What arrived later and changed the arithmetic.",
+   "rel": "contrast"
+  },
+  {
+   "from": "raymond-bernard",
+   "type": "person",
+   "name": "Raymond Bernard",
+   "as": "The selection most planted from that programme.",
+   "rel": "clone"
+  },
+  {
+   "from": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "The number planted most.",
+   "rel": "clone"
+  }
+ ]
+}

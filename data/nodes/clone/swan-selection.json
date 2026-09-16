@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "id": "swan-selection",
+ "type": "clone",
+ "names": {
+  "name": "Swan selection",
+  "aliases": [
+   "Joseph Swan selection"
+  ]
+ },
+ "region": [
+  "russian-river",
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "origin": "California"
+ },
+ "text": {
+  "what": "A Russian River field selection off Joseph Swan's vineyard, planted through Sonoma for its small berries and its dark, savoury wine."
+ },
+ "kin": [
+  {
+   "to": "russian-river-valley",
+   "as": "Where it comes from and mostly stays.",
+   "rel": "region"
+  },
+  {
+   "to": "massale-selection",
+   "as": "How it spread.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "id": "richebourg",
+ "type": "vineyard",
+ "names": {
+  "name": "Richebourg"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France"
+ },
+ "text": {
+  "what": "Vosne-Romanée grand cru north of Romanée-Conti, on deeper soil, giving the broadest wine of that group of neighbours."
+ },
+ "kin": [
+  {
+   "to": "romanee-conti",
+   "as": "Its neighbour up the slope.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "domaine-leroy",
+   "as": "One of the holders whose name sells the parcel.",
+   "rel": "made-by"
+  },
+  {
+   "to": "henri-jayer",
+   "as": "Who farmed here and taught half the Côte how he did it.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 47.165,
+  "lon": 4.957,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-richebourg",
+  "s:meadows-pearl"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

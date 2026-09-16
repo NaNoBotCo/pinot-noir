@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "dine-out-santa-maria-style",
+ "type": "event",
+ "names": {
+  "name": "Dine Out Santa Maria Style"
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "status": "seasonal"
+ },
+ "text": {
+  "what": "A Chamber of Commerce restaurant fortnight built around the local barbecue — the valley's way of pointing visitors at the places that cook it."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-bbq-association",
+   "as": "The association behind it.",
+   "rel": "org"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "What is on every menu in it.",
+   "rel": "pairing"
+  }
+ ],
+ "geo": {
+  "lat": 34.953,
+  "lon": -120.436,
+  "precision": "town"
+ },
+ "address": {
+  "city": "Santa Maria",
+  "state": "CA",
+  "country": "US"
+ },
+ "sources": [
+  "s:web-smv-bbq-association",
+  "s:web-smv-visit-bbq"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A Chamber of Commerce restaurant fortnight built around the local barbecue — the valley's way of pointing visitors at the places that cook it.",
+ "region_terms": [
+  {
+   "key": "santa-maria-valley",
+   "name": "Santa Maria Valley",
+   "country": "United States",
+   "note": "Bien Nacido, the bench, and the red-oak barbecue on the same ground"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "santa-maria-bbq-association",
+   "type": "org",
+   "name": "Santa Maria Style Barbeque Association",
+   "as": "The association behind it.",
+   "rel": "org"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "What is on every menu in it.",
+   "rel": "pairing"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-smv-bbq-association",
+   "kind": "web",
+   "title": "Santa Maria Style Barbeque Association",
+   "publisher": "Santa Maria Valley Chamber of Commerce",
+   "url": "https://www.santamaria.com/our-community/bbq-association/",
+   "accessed": "2026-09-16",
+   "note": "the association's own page: red oak native to the valley, beef rolled in salt, pepper and garlic, cooked on skewers over the coals; points at a certification programme for 'Santa Maria Style Barbeque Certified' locations"
+  },
+  {
+   "id": "s:web-smv-visit-bbq",
+   "kind": "web",
+   "title": "Santa Maria Valley — barbecue and the valley's restaurants",
+   "publisher": "Santa Maria Valley Visitor and Convention Bureau",
+   "url": "https://santamariavalley.com/",
+   "accessed": "2026-09-16",
+   "note": "the visitor bureau's site; its blog post on the barbecue trademark returned HTTP 403 to this project on 16 September 2026 and was not read"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  },
+  "address": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

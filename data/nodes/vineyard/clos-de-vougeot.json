@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "id": "clos-de-vougeot",
+ "type": "vineyard",
+ "names": {
+  "name": "Clos de Vougeot"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "soil": "limestone at the top, clay at the bottom"
+ },
+ "text": {
+  "what": "Fifty hectares behind a wall the Cistercians of Cîteaux built, and more than eighty owners inside it. One name on every label, and a slope that runs from grand cru ground at the top to heavy clay by the road.",
+  "story": "Bought or gifted to the monks between the twelfth and early fourteenth centuries, farmed as one block for six hundred years, then broken up after the Revolution and split again at every inheritance. The wall is the appellation; the ground inside it is not one thing."
+ },
+ "kin": [
+  {
+   "to": "cote-de-nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "climat",
+   "as": "The unit this vineyard is usually held up to explain — and to complicate.",
+   "rel": "term"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where dividing land by inheritance became the system.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.176,
+  "lon": 4.955,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-clos-de-vougeot"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Appellation area",
+   "value": 50.6,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-clos-de-vougeot",
+   "tier": "cited"
+  },
+  {
+   "key": "hectares_producing",
+   "label": "In production",
+   "value": 47.3,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-clos-de-vougeot",
+   "tier": "cited"
+  },
+  {
+   "key": "owners",
+   "label": "Owners",
+   "value": 80,
+   "unit": "",
+   "year": 2000,
+   "source": "s:wp-clos-de-vougeot",
+   "tier": "cited",
+   "note": "stated as more than 80 in the early 2000s"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

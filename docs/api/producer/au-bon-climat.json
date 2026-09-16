@@ -1,0 +1,174 @@
+{
+ "schema": 1,
+ "id": "au-bon-climat",
+ "type": "producer",
+ "names": {
+  "name": "Au Bon Climat"
+ },
+ "region": [
+  "santa-maria-valley",
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1982
+ },
+ "text": {
+  "what": "Founded in 1982 by Jim Clendenen and Adam Tolmach, and housed inside Bien Nacido since. Clendenen ran it alone from 1990 and made Santa Barbara pinot noir something people ordered by name."
+ },
+ "kin": [
+  {
+   "to": "jim-clendenen",
+   "as": "Who ran it for four decades.",
+   "rel": "made-by"
+  },
+  {
+   "to": "bien-nacido",
+   "as": "The vineyard it lives inside and buys from.",
+   "rel": "grown-at"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The valley it argued for.",
+   "rel": "region"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "Beef and pinot out of one valley — the long version.",
+   "rel": "story"
+  }
+ ],
+ "geo": {
+  "lat": 34.92,
+  "lon": -120.26,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Santa Maria",
+  "state": "CA",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-au-bon-climat",
+  "s:wp-jim-clendenen"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Founded in 1982 by Jim Clendenen and Adam Tolmach, and housed inside Bien Nacido since. Clendenen ran it alone from 1990 and made Santa Barbara pinot noir something people ordered by name.",
+ "region_terms": [
+  {
+   "key": "santa-maria-valley",
+   "name": "Santa Maria Valley",
+   "country": "United States",
+   "note": "Bien Nacido, the bench, and the red-oak barbecue on the same ground"
+  },
+  {
+   "key": "santa-barbara",
+   "name": "Santa Barbara County",
+   "country": "United States",
+   "note": "the transverse ranges turn the valleys east-west and let the ocean in"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "jim-clendenen",
+   "type": "person",
+   "name": "Jim Clendenen",
+   "as": "Who ran it for four decades.",
+   "rel": "made-by"
+  },
+  {
+   "to": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "The vineyard it lives inside and buys from.",
+   "rel": "grown-at"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The valley it argued for.",
+   "rel": "region"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "Beef and pinot out of one valley — the long version.",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-au-bon-climat",
+   "kind": "encyclopaedia",
+   "title": "Au Bon Climat",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=7416326",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1333503261",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jim-clendenen",
+   "kind": "encyclopaedia",
+   "title": "Jim Clendenen",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=7416474",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372278234",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  },
+  "address": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "Jim Clendenen's winery, built inside Bien Nacido.",
+   "rel": "producer"
+  },
+  {
+   "from": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "Jim Clendenen's winery, on the property.",
+   "rel": "made-by"
+  },
+  {
+   "from": "jim-clendenen",
+   "type": "person",
+   "name": "Jim Clendenen",
+   "as": "The winery he built and ran.",
+   "rel": "made-by"
+  }
+ ]
+}

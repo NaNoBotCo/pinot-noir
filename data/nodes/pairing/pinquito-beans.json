@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "id": "pinquito-beans",
+ "type": "pairing",
+ "names": {
+  "name": "Pinquito beans",
+  "aliases": [
+   "Pinquitos"
+  ]
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "course": "side",
+  "country": "United States"
+ },
+ "text": {
+  "what": "A small pink bean grown in the Santa Maria Valley and almost nowhere else, cooked with bacon or ham, garlic, chilli and a little tomato, and served in a bowl beside the beef.",
+  "story": "Considered indigenous to this valley; a cross between a pink bean and a small white one. Betteravia Farms began growing them commercially in 1972, and a handful of local brands still supply the barbecue trade."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "The plate it belongs to.",
+   "rel": "pairing"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The only ground that grows them at scale.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-santa-maria-style-barbecue"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recipes": [
+  {
+   "title": "Pinquito beans, as the tradition describes them",
+   "source": "s:wp-santa-maria-style-barbecue",
+   "license": "ingredients-only",
+   "ingredients": [
+    "pinquito beans",
+    "bacon or ham",
+    "garlic",
+    "chilli",
+    "tomato"
+   ],
+   "note": "ingredients only: the seasoning varies house to house and no free-to-use recipe was found for the method"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

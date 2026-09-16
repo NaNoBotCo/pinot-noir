@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "id": "gamay",
+ "type": "variety",
+ "names": {
+  "name": "Gamay",
+  "aliases": [
+   "Gamay noir à jus blanc"
+  ]
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "colour": "black",
+  "country": "France"
+ },
+ "text": {
+  "what": "Pinot's other well-known child, banished from the Côte d'Or by ducal edict and sent south to granite, where it built Beaujolais.",
+  "story": "*Tradition holds —* Philippe le Hardi ordered gamay out of the good slopes in 1395 and pinot noir back in. Whatever the duke's reasons, the split held: pinot took the limestone, gamay took the granite south of Mâcon."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Same parentage story, opposite fate on the same hill.",
+   "rel": "kin"
+  },
+  {
+   "to": "burgundy",
+   "as": "The region that expelled it from the Côte d'Or and still grows it further south.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-gamay",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

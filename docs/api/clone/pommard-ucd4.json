@@ -1,0 +1,139 @@
+{
+ "schema": 1,
+ "id": "pommard-ucd4",
+ "type": "clone",
+ "names": {
+  "name": "Pommard, UCD 4",
+  "aliases": [
+   "UCD 4",
+   "Pommard clone",
+   "UCD4"
+  ]
+ },
+ "region": [
+  "oregon",
+  "california"
+ ],
+ "facets": {
+  "origin": "Burgundy field selection",
+  "country": "United States"
+ },
+ "text": {
+  "what": "The workhorse of American pinot noir before the Dijon numbers arrived, and still planted everywhere. Bigger berries, firmer structure, a darker wine than the Dijons give.",
+  "how": "Held and distributed through UC Davis, which is where the number comes from. Oregon built its early reputation on this and on Wädenswil."
+ },
+ "kin": [
+  {
+   "to": "wadenswil-ucd2a",
+   "as": "The other half of Oregon's old plantings.",
+   "rel": "kin"
+  },
+  {
+   "to": "dijon-115",
+   "as": "What arrived later and changed the arithmetic.",
+   "rel": "contrast"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "as": "Why a vine has a catalogue number at all.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:fps-grapes"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "The workhorse of American pinot noir before the Dijon numbers arrived, and still planted everywhere. Bigger berries, firmer structure, a darker wine than the Dijons give.",
+ "region_terms": [
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "wadenswil-ucd2a",
+   "type": "clone",
+   "name": "Wädenswil, UCD 2A",
+   "as": "The other half of Oregon's old plantings.",
+   "rel": "kin"
+  },
+  {
+   "to": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "What arrived later and changed the arithmetic.",
+   "rel": "contrast"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "Why a vine has a catalogue number at all.",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:fps-grapes",
+   "kind": "dataset",
+   "title": "National Grapevine Registry and the FPS public varieties list",
+   "publisher": "Foundation Plant Services, University of California, Davis",
+   "url": "https://fps.ucdavis.edu/",
+   "note": "which clone selection carries which number in the United States"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "wadenswil-ucd2a",
+   "type": "clone",
+   "name": "Wädenswil, UCD 2A",
+   "as": "Its planting partner in old Oregon blocks.",
+   "rel": "kin"
+  },
+  {
+   "from": "fps",
+   "type": "org",
+   "name": "Foundation Plant Services",
+   "as": "Whose number is an FPS number.",
+   "rel": "clone"
+  }
+ ]
+}

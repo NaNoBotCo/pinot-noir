@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "id": "hanzell",
+ "type": "producer",
+ "names": {
+  "name": "Hanzell Vineyards"
+ },
+ "region": [
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1953
+ },
+ "text": {
+  "what": "James Zellerbach planted two acres of pinot noir and four of chardonnay above Sonoma in 1953, then built a cellar copying Burgundy's methods — French oak, temperature control, inert gas. California winemaking followed him."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Among the earliest serious American plantings after Prohibition.",
+   "rel": "variety"
+  },
+  {
+   "to": "neutral-oak",
+   "as": "The barrel question he answered by importing the barrels.",
+   "rel": "practice"
+  }
+ ],
+ "geo": {
+  "lat": 38.32,
+  "lon": -122.44,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Sonoma",
+  "state": "CA",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-hanzell-vineyards"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres_pinot",
+   "label": "Pinot noir first planted",
+   "value": 2,
+   "unit": "acres",
+   "year": 1953,
+   "source": "s:wp-hanzell-vineyards",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

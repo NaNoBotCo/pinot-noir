@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "jim-clendenen",
+ "type": "person",
+ "names": {
+  "name": "Jim Clendenen",
+  "sort": "Clendenen, Jim"
+ },
+ "region": [
+  "santa-maria-valley",
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "role": "winemaker",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Founded Au Bon Climat in 1982 and spent forty years making Burgundian varieties on the Central Coast — big hair, big arguments, and a refusal to chase ripeness when everyone else did.",
+  "story": "Born in Akron in 1953, died in 2021. Santa Barbara County called him the godfather of its wine trade, and he pushed the county's pinot noir and chardonnay into export markets that had not previously looked south of Monterey."
+ },
+ "kin": [
+  {
+   "to": "au-bon-climat",
+   "as": "The winery he built and ran.",
+   "rel": "made-by"
+  },
+  {
+   "to": "bien-nacido",
+   "as": "Where it lives.",
+   "rel": "grown-at"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The valley he argued for.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-jim-clendenen",
+  "s:wp-au-bon-climat"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Founded Au Bon Climat in 1982 and spent forty years making Burgundian varieties on the Central Coast — big hair, big arguments, and a refusal to chase ripeness when everyone else did.",
+ "region_terms": [
+  {
+   "key": "santa-maria-valley",
+   "name": "Santa Maria Valley",
+   "country": "United States",
+   "note": "Bien Nacido, the bench, and the red-oak barbecue on the same ground"
+  },
+  {
+   "key": "santa-barbara",
+   "name": "Santa Barbara County",
+   "country": "United States",
+   "note": "the transverse ranges turn the valleys east-west and let the ocean in"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "au-bon-climat",
+   "type": "producer",
+   "name": "Au Bon Climat",
+   "as": "The winery he built and ran.",
+   "rel": "made-by"
+  },
+  {
+   "to": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "Where it lives.",
+   "rel": "grown-at"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The valley he argued for.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-jim-clendenen",
+   "kind": "encyclopaedia",
+   "title": "Jim Clendenen",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=7416474",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372278234",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-au-bon-climat",
+   "kind": "encyclopaedia",
+   "title": "Au Bon Climat",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=7416326",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1333503261",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "au-bon-climat",
+   "type": "producer",
+   "name": "Au Bon Climat",
+   "as": "Who ran it for four decades.",
+   "rel": "made-by"
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "schema": 1,
+ "id": "casablanca-valley",
+ "type": "region",
+ "names": {
+  "name": "Casablanca Valley"
+ },
+ "region": [
+  "casablanca",
+  "chile"
+ ],
+ "facets": {
+  "country": "Chile",
+  "level": "doc"
+ },
+ "text": {
+  "what": "Between Santiago and the port at Valparaíso, close enough to the Humboldt current for morning fog. Chile planted it in the 1980s to grow something other than cabernet."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown on the cool coastal side of the range.",
+   "rel": "variety"
+  },
+  {
+   "to": "anderson-valley",
+   "as": "The same trick with fog, a hemisphere away.",
+   "rel": "contrast"
+  }
+ ],
+ "geo": {
+  "lat": -33.32,
+  "lon": -71.4,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-casablanca-valley",
+  "s:wp-chilean-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Between Santiago and the port at Valparaíso, close enough to the Humboldt current for morning fog. Chile planted it in the 1980s to grow something other than cabernet.",
+ "region_terms": [
+  {
+   "key": "casablanca",
+   "name": "Casablanca Valley",
+   "country": "Chile",
+   "note": "morning fog between Santiago and the sea"
+  },
+  {
+   "key": "chile",
+   "name": "Chile",
+   "country": "Chile",
+   "note": "coastal valleys where the Humboldt current reaches inland"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown on the cool coastal side of the range.",
+   "rel": "variety"
+  },
+  {
+   "to": "anderson-valley",
+   "type": "region",
+   "name": "Anderson Valley",
+   "as": "The same trick with fog, a hemisphere away.",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-casablanca-valley",
+   "kind": "encyclopaedia",
+   "title": "Casablanca, Chile",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10407597",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1345733918",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-chilean-wine",
+   "kind": "encyclopaedia",
+   "title": "Chilean wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=521306",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368380371",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

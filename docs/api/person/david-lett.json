@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "david-lett",
+ "type": "person",
+ "names": {
+  "name": "David Lett",
+  "sort": "Lett, David"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "role": "grower",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Left UC Davis in 1964 with a degree and a plan to grow pinot noir outside Burgundy, and in 1965 planted it in the Willamette Valley — against the advice of every professor he had.",
+  "story": "His 1975 Eyrie South Block Reserve placed tenth in a 1979 Paris tasting of pinot noir. Robert Drouhin ran the comparison again in Beaune in 1980, where it came second by a fraction to one of his own wines, and Burgundy took Oregon seriously from then on."
+ },
+ "kin": [
+  {
+   "to": "eyrie-vineyards",
+   "as": "The winery he founded.",
+   "rel": "made-by"
+  },
+  {
+   "to": "willamette-valley",
+   "as": "The valley he bet on.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-gris",
+   "as": "And the first American planting of it.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-david-lett",
+  "s:wp-the-eyrie-vineyards",
+  "s:wp-oregon-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Left UC Davis in 1964 with a degree and a plan to grow pinot noir outside Burgundy, and in 1965 planted it in the Willamette Valley — against the advice of every professor he had.",
+ "region_terms": [
+  {
+   "key": "willamette",
+   "name": "Willamette Valley",
+   "country": "United States",
+   "note": "a hundred miles of valley floor and volcanic hills south of Portland"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "eyrie-vineyards",
+   "type": "producer",
+   "name": "The Eyrie Vineyards",
+   "as": "The winery he founded.",
+   "rel": "made-by"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley he bet on.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "as": "And the first American planting of it.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-david-lett",
+   "kind": "encyclopaedia",
+   "title": "David Lett",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=5890815",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1356053194",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-the-eyrie-vineyards",
+   "kind": "encyclopaedia",
+   "title": "The Eyrie Vineyards",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3800003",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1340357536",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-oregon-wine",
+   "kind": "encyclopaedia",
+   "title": "Oregon wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6426696",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373054628",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "Who planted the first pinot noir here and argued for the rest.",
+   "rel": "person"
+  },
+  {
+   "from": "eyrie-vineyards",
+   "type": "producer",
+   "name": "The Eyrie Vineyards",
+   "as": "Who planted it.",
+   "rel": "made-by"
+  },
+  {
+   "from": "how-pinot-travelled",
+   "type": "story",
+   "name": "How pinot left the hill",
+   "as": "Who took it to Oregon against advice.",
+   "rel": "person"
+  }
+ ]
+}

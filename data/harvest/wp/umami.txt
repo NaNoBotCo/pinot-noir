@@ -1,0 +1,87 @@
+Umami ( from Japanese: うま味, pronounced [ɯmami]), or savoriness, is one of the five basic tastes. It is characteristic of broths and cooked meats.
+People taste umami through taste receptors that typically respond to glutamates and  nucleotides, which are widely present in meat broths and fermented products. Glutamates are commonly added to some foods in the form of monosodium glutamate (MSG), and nucleotides are commonly added in the form of disodium guanylate,  inosine monophosphate (IMP) or guanosine monophosphate (GMP). Since umami has its own receptors rather than arising out of a combination of the traditionally recognized taste receptors, scientists now consider umami to be a distinct taste.
+Food, beverages, or condiments that have a strong umami flavor include meats, shellfish, fish (including fish sauce and preserved fish such as Maldives fish, katsuobushi, sardines, and anchovies), dashi, tomatoes, mushrooms, hydrolyzed vegetable protein, meat extract (Bouillon cubes), yeast extract (beer, Marmite, Vegemite), kimchi, cheeses (Parmesan, Asiago cheese, or blue cheese), as well as sauces such as A1 sauce, Worcestershire sauce, and soy sauce.
+In 1908, Kikunae Ikeda of the University of Tokyo scientifically identified umami as a distinct taste attributed to glutamic acid. As a result, in 1909, Ikeda and Saburōsuke Suzuki founded Ajinomoto Co., Inc. which introduced the world's first umami seasoning: monosodium glutamate (MSG), marketed in Japan under the name "Ajinomoto." MSG subsequently spread worldwide as a seasoning capable of enhancing umami in a wide variety of dishes.
+In 2000, researchers at the University of Miami identified the presence of umami receptors on the tongue, and in 2006, Ajinomoto's research laboratories found similar receptors in the stomach.
+
+
+Etymology
+A loanword from Japanese, umami can be translated as "pleasant savory taste". The original word has various orthographies: うまみ, うま味, 旨味, meaning "deliciousness". However, in its original sense, it is normally used in its adjectival form umai (うまい, 旨い).
+The arrangement of glyphs うま味 for umami was proposed in 1908 by Kikunae Ikeda to refer to the particular savory component he was researching. While the written forms are often used interchangeably, in the 1980s Japanese researchers suggested that うま味 should be used for the flavor while 旨味 is the more general sense of tasty.
+
+
+Background
+Scientists have debated whether umami was a basic taste since Kikunae Ikeda first proposed its existence in 1908. In 1985, the term umami was recognized as the scientific term to describe the taste of glutamates and nucleotides at the first Umami International Symposium in Hawaii. Umami represents the taste of the amino acid L-glutamate and 5'-ribonucleotides such as "inosinate and guanylate". (guanosine monophosphate, GMP, and inosine monophosphate, IMP). It can be described as a pleasant "brothy" or "meaty" taste with a long-lasting, mouthwatering, and coating sensation over the tongue. Umami enhances the palatability of a wide variety of foods.
+Studies in genetically engineered mice in which individual TAS1R genes have been deleted indicate that the TAS1R1/TAS1R3 complex is solely responsible for umami taste, whereas TAS1R2/TAS1R3 is solely responsible for sweet taste. As expected, a genetic knockout of TAS1R1 selectively abolishes umami taste, a knockout of TAS1R2 specifically abolishes sweet taste, while a knockout of TAS1R3  eliminates both sweet and umami taste. 
+Specialized taste bud cells detect the chemical species perceived as umami by humans. Glutamate in acid form (glutamic acid) imparts little umami taste, whereas the salts of glutamic acid, known as glutamates, give the characteristic umami taste due to their ionized state. GMP and IMP amplify the taste intensity of glutamate. Adding salt to the free acids also enhances the umami taste. It is disputed whether umami is truly an independent taste because standalone glutamate without table salt ions (Na+) is perceived as sour; sweet and umami tastes share a taste receptor subunit, with salty taste blockers reducing discrimination between monosodium glutamate and sucrose; and some people cannot distinguish umami from a salty taste.
+Monosodium L-aspartate has an umami taste about a quarter as intense as MSG, whereas ibotenic acid and tricholomic acid (likely as their salts or with salt) are claimed to be many times more intense. Peptides can also generate an umami taste, with 52 of them being known to do so as of 2017 (although 20 of them are contested).
+
+
+Discovery
+
+Glutamate has a long history in cooking. Fermented fish sauces (garum), which are rich in glutamate, were used widely in ancient Rome, fermented barley sauces (murri) rich in glutamate were used in medieval Byzantine and Arab cuisine, and fermented fish sauces and soy sauces have histories going back to the third century in China. Cheese varieties are rich in glutamate and umami flavor. In the late 1800s, chef Auguste Escoffier, who opened restaurants in Paris and London, created meals that combined umami with salty, sour, sweet, and bitter tastes. However, he did not know the chemical source of this unique quality. 
+Umami was first scientifically identified in 1908 by Kikunae Ikeda, a professor of the Tokyo Imperial University. He found that glutamate was responsible for the palatability of the broth from kombu seaweed. He noticed that the taste of kombu dashi was distinct from sweet, sour, bitter, and salty and named it umami.
+Shintaro Kodama, a disciple of Ikeda, discovered in 1913 that dried bonito flakes (a type of tuna) contained another umami substance. This was the ribonucleotide IMP. In 1957, Akira Kuninaka realized that the ribonucleotide GMP present in shiitake mushrooms also conferred the umami taste. One of Kuninaka's most important discoveries was the synergistic effect between ribonucleotides and glutamate. When foods rich in glutamate are combined with ingredients that have ribonucleotides, the resulting taste intensity is higher than would be expected from merely adding the intensity of the individual ingredients.
+This synergy of umami may help explain various classical food pairings: the Japanese make dashi with kombu seaweed and dried bonito flakes; the Chinese add Chinese leek and Chinese cabbage to chicken soup, as do Scots in the similar Scottish dish of cock-a-leekie soup; and Italians grate the Parmigiano-Reggiano cheese on a variety of different dishes.
+
+
+Properties
+Umami has a mild but lasting aftertaste associated with salivation and a sensation of furriness on the tongue, stimulating the throat, the roof and the back of the mouth. By itself, umami is not palatable, but it makes a great variety of foods pleasant, especially in the presence of a matching aroma. Like other basic tastes, umami is pleasant only within a relatively narrow concentration range.
+The optimum umami taste also depends on the amount of salt, and at the same time, low-salt foods can maintain a satisfactory taste with the appropriate amount of umami. One study showed that ratings of pleasantness, taste intensity, and ideal saltiness of low-salt soups were greater when the soup contained umami, whereas low-salt soups without umami were less pleasant. Another study demonstrated that using fish sauce as a source of umami could reduce the need for salt by 10–25% to flavor such foods as chicken broth, tomato sauce, or coconut curry while maintaining overall taste intensity.
+Some population groups, such as the elderly, may benefit from umami taste because their taste and smell sensitivity may be impaired by age and medication. The loss of taste and smell can contribute to poor nutrition, increasing their risk of disease. Some evidence exists to show umami not only stimulates appetite, but also may contribute to satiety.
+
+
+Foods rich in umami components
+
+Many foods are rich in the amino acids and nucleotides imparting umami. Naturally occurring glutamate can be found in meats and vegetables. Inosine (IMP) comes primarily from meats and guanosine (GMP) from vegetables. Mushrooms, especially dried shiitake, are rich sources of umami flavor from guanylate. Smoked or fermented fish are high in inosinate, and shellfish in adenylate. Protein in food is tasteless, however processes such as fermentation, curing, or heat treatment release glutamate and other amino acids. 
+Generally, umami taste is common to foods that contain high levels of L-glutamate, IMP and GMP, most notably in fish, shellfish, cured meats, meat extracts, mushrooms, vegetables (e.g., ripe tomatoes, Chinese cabbage, spinach, celery, etc.), green tea, hydrolyzed vegetable protein, and fermented and aged products involving bacterial or yeast cultures, such as cheeses, shrimp pastes, fish sauce, soy sauce, natto, nutritional yeast, and yeast extracts such as Vegemite and Marmite.
+Studies have shown that the amino acids in breast milk are often the first encounter humans have with umami. Glutamic acid makes up half of the free amino acids in breast milk.
+
+
+Taste receptors
+
+Most taste buds on the tongue and other regions of the mouth can detect umami taste, irrespective of their location. (The tongue map in which different tastes are distributed in different regions of the tongue is a common misconception.) Biochemical studies have identified the taste receptors responsible for the sense of umami as modified forms of mGluR4, mGluR1, and taste receptor type 1 (TAS1R1 + TAS1R3), all of which have been found in all regions of the tongue bearing taste buds. These receptors are also found in some regions of the duodenum. A 2009 review corroborated the acceptance of these receptors, stating, "Recent molecular biological studies have now identified strong candidates for umami receptors, including the heterodimer TAS1R1/TAS1R3, and truncated type 1 and 4 metabotropic glutamate receptors missing most of the N-terminal extracellular domain (taste-mGluR4 and truncated-mGluR1) and brain-mGluR4." Receptors mGluR1 and mGluR4 are specific to glutamate whereas TAS1R1 and TAS1R3 are responsible for the synergism already described by Akira Kuninaka in 1957. However, as of this date, the specific role of each type of receptor in taste bud cells remained unclear. All three receptors work together to produce the taste sensation.
+
+
+Downstream signaling
+
+
+TAS1R1 + TAS1R3
+The TAS1R1 + TAS1R3 receptor is a G-protein-coupled receptor, much like the sweet and bitter receptors. It uses the same downstream signaling molecules, including G proteins beta-gamma, PLCB2 and IP3, to ultimately cause a release of calcium (Ca2+) from intracellular stores. Calcium activates a so-called transient-receptor-potential cation channel TRPM5 that leads to membrane depolarization and the consequent release of ATP across a channel of CALHM1 and CALHM3.
+The ATP released by the "Type II" cell is detected by P2X receptors on nearby afferent gustatory nerve fibers and P2Y receptors on adjacent taste cells. P2X appears to be indispensable for the transduction of umami, so this is probably the main route for umami signals. "Type III" cells, which directly connect to the nerve synapses, also respond to the released ATP by releasing neurotransmitters. One of these neurotransmitters, serotonin, regulates the release of ATP by the type II cells.
+
+
+mGluR1 and mGluR4
+Signal from these two receptors are conveyed in a manner independent of TRPM5. Single umami-sensitive fibres in mice are mostly either "sucrose-best" or "glutamate-best". Within each type there are two subtypes: one shows synergistic activation between monopotassium glutamate and inosine monophosphate, the other does not. The TAS1R1/3 + TRPM5 route uses the "sucrose-best" fibers with synergy, while mGluR1 and mGluR4 use both of the "glutamate-best" subtypes.
+
+
+Beyond the tongue
+The gut has its own umami taste receptors. The ATP taste signals are conveyed to the brain, probably through afferent branches of the vagus nerve or the afferent sensory nerves in the mouth. The brain uses this information to regulate behaviors and preferences in mice. This is an example of the gut–brain axis.
+
+
+In other animals
+Cats have mutations in Tas1r1 and Tas1r3 that cause their receptor to not perceive glutamate and aspartate as umami. However, their receptor responds to nucleotide, and some L-amino acids enhance the response to nucleotides. Cats probably perceive tuna as very umami due to it being rich in inosine monophosphate and L-histine.
+The Tas1r1-Tas1r3 receptor of mice is activated by a wide range of free L-amino acids, but not acidic ones such as glutamate.
+The lineage of aquatic mammals including dolphins and sea lions have no functional Tas1r1, and neither do giant pandas. They cannot generate a functional Tas1r1-Tas1r3 receptor as a result.
+
+
+Consumers and safety
+Umami is used as a flavor by food manufacturers trying to improve the taste of low sodium offerings. Incorporating umami into foods can reduce the reliance on salt, as umami enhances the perception of saltiness without diminishing overall flavor. Umami may account for the long-term formulation and popularity of ketchup. 
+The United States Food and Drug Administration has designated the umami enhancer monosodium glutamate (MSG) as a safe ingredient. While some people identify themselves as sensitive to MSG, a study commissioned by the FDA was only able to identify transient, mild symptoms in a few of the subjects, and only when the MSG was consumed in unrealistically large quantities. There is also no apparent difference in sensitivity to umami when comparing Japanese and Americans.
+
+
+Background of other taste categories
+The five basic tastes (saltiness, sweetness, bitterness, sourness, and savoriness) are detected by specialized taste receptors on the tongue and palate epithelium. The number of taste categories in humans remains under research, with a sixth taste possibly including spicy or pungent.
+
+
+See also
+
+
+References
+
+
+Further reading
+
+
+External links
+Umami Information Center, Tokyo, 2016

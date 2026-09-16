@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "id": "salmon",
+ "type": "pairing",
+ "names": {
+  "name": "Salmon"
+ },
+ "region": [
+  "oregon",
+  "willamette"
+ ],
+ "facets": {
+  "course": "fish",
+  "country": "United States"
+ },
+ "text": {
+  "what": "A fish oily enough to take a red wine, and in Oregon the pairing is local logic rather than theory — the fish and the pinot come from the same watershed.",
+  "how": "Grilled over alder, or roasted. The oil in the flesh and the char off the fire both find something to do with a light red."
+ },
+ "kin": [
+  {
+   "to": "ipnc",
+   "as": "Where a valley full of growers eats it every summer.",
+   "rel": "event"
+  },
+  {
+   "to": "willamette-valley",
+   "as": "The valley that grows the wine beside the river.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "The red that gets poured with fish without an argument.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-salmon-as-food",
+  "s:wp-wine-and-food-matching"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,153 @@
+{
+ "schema": 1,
+ "id": "ava",
+ "type": "term",
+ "names": {
+  "name": "AVA",
+  "aliases": [
+   "American Viticultural Area"
+  ]
+ },
+ "etymology": {
+  "root": "English initialism; the regulation calls it a 'viticultural area'",
+  "tier": "cited",
+  "source": "s:ecfr-27-9"
+ },
+ "region": [
+  "california",
+  "oregon"
+ ],
+ "facets": {
+  "letter": "A",
+  "kind": "appellation"
+ },
+ "text": {
+  "what": "American Viticultural Area: a boundary drawn around ground with a name, established by federal rule in 27 CFR part 9. It says where the grapes grew and nothing at all about how good they were.",
+  "how": "Anybody may petition. The petition has to show the name is in use, the boundary is justified and the growing conditions are distinguishable. There is no yield cap, no variety list and no quality tier — which is the whole difference from an AOC."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-valley",
+   "as": "Established 1981: the country's third.",
+   "rel": "region"
+  },
+  {
+   "to": "ttb",
+   "as": "The bureau that rules on the petitions.",
+   "rel": "org"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where the same idea comes with rules about what you may plant and how much you may pick.",
+   "rel": "contrast"
+  }
+ ],
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-american-viticultural-area"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "American Viticultural Area: a boundary drawn around ground with a name, established by federal rule in 27 CFR part 9. It says where the grapes grew and nothing at all about how good they were.",
+ "region_terms": [
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "Established 1981: the country's third.",
+   "rel": "region"
+  },
+  {
+   "to": "ttb",
+   "type": "org",
+   "name": "TTB",
+   "as": "The bureau that rules on the petitions.",
+   "rel": "org"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where the same idea comes with rules about what you may plant and how much you may pick.",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  },
+  {
+   "id": "s:wp-american-viticultural-area",
+   "kind": "encyclopaedia",
+   "title": "American Viticultural Area",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=448714",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370555561",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "etymology": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "inao",
+   "type": "org",
+   "name": "INAO",
+   "as": "The American equivalent, which regulates far less.",
+   "rel": "contrast"
+  },
+  {
+   "from": "ttb",
+   "type": "org",
+   "name": "TTB",
+   "as": "The instrument it administers.",
+   "rel": "term"
+  },
+  {
+   "from": "free-to-use",
+   "type": "story",
+   "name": "Where this comes from",
+   "as": "The regulation behind every American boundary here.",
+   "rel": "term"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "id": "au-bon-climat",
+ "type": "producer",
+ "names": {
+  "name": "Au Bon Climat"
+ },
+ "region": [
+  "santa-maria-valley",
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1982
+ },
+ "text": {
+  "what": "Founded in 1982 by Jim Clendenen and Adam Tolmach, and housed inside Bien Nacido since. Clendenen ran it alone from 1990 and made Santa Barbara pinot noir something people ordered by name."
+ },
+ "kin": [
+  {
+   "to": "jim-clendenen",
+   "as": "Who ran it for four decades.",
+   "rel": "made-by"
+  },
+  {
+   "to": "bien-nacido",
+   "as": "The vineyard it lives inside and buys from.",
+   "rel": "grown-at"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The valley it argued for.",
+   "rel": "region"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "Beef and pinot out of one valley — the long version.",
+   "rel": "story"
+  }
+ ],
+ "geo": {
+  "lat": 34.92,
+  "lon": -120.26,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Santa Maria",
+  "state": "CA",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-au-bon-climat",
+  "s:wp-jim-clendenen"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

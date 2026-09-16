@@ -1,0 +1,122 @@
+{
+ "schema": 1,
+ "id": "spatburgunder",
+ "type": "term",
+ "names": {
+  "name": "Spätburgunder",
+  "aliases": [
+   "Blauburgunder",
+   "Blauer Spätburgunder"
+  ]
+ },
+ "etymology": {
+  "root": "German spät (late) + Burgunder (Burgundian)",
+  "tier": "cited",
+  "source": "s:wp-german-wine"
+ },
+ "region": [
+  "germany"
+ ],
+ "facets": {
+  "letter": "S",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "German for pinot noir, and a name that carries an argument: 'late Burgundian', against the früh — early — one that ripens weeks sooner."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The same vine.",
+   "rel": "variety"
+  },
+  {
+   "to": "fruhburgunder",
+   "as": "The early one the name is set against.",
+   "rel": "contrast"
+  },
+  {
+   "to": "baden",
+   "as": "Where most of it grows.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-german-wine",
+  "s:wp-baden-wine-region"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "German for pinot noir, and a name that carries an argument: 'late Burgundian', against the früh — early — one that ripens weeks sooner.",
+ "region_terms": [
+  {
+   "key": "germany",
+   "name": "Germany",
+   "country": "Germany",
+   "note": "spätburgunder; the third-largest pinot noir planting on earth"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The same vine.",
+   "rel": "variety"
+  },
+  {
+   "to": "fruhburgunder",
+   "type": "variety",
+   "name": "Frühburgunder",
+   "as": "The early one the name is set against.",
+   "rel": "contrast"
+  },
+  {
+   "to": "baden",
+   "type": "region",
+   "name": "Baden",
+   "as": "Where most of it grows.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-german-wine",
+   "kind": "encyclopaedia",
+   "title": "German wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1039202",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363074961",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-baden-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Baden (wine region)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=14989190",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1343190178",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "etymology": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

@@ -1,0 +1,15 @@
+/* PINOT COUNTRY */
+
+Built by NaN — https://wichaa.net
+143 records · 182 sources · 0 pictures
+
+/* THANKS */
+OpenStreetMap contributors, for every cellar point.
+Natural Earth, for outlines nobody has to pay for.
+The eCFR, for putting every American appellation in public-domain text.
+The growers who kept planting a difficult grape in cold places while the trade
+told them to plant something easier.
+
+/* SITE */
+Stdlib Python, no dependencies, no build step, no tracking, no accounts.
+Standards: HTML, JSON-LD, llms.txt, Atom, OpenSearch, ODbL, CC BY.

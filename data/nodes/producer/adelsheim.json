@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "id": "adelsheim",
+ "type": "producer",
+ "names": {
+  "name": "Adelsheim Vineyard"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1971
+ },
+ "text": {
+  "what": "David and Ginny Adelsheim bought 19 acres outside Newberg in 1971. He then spent decades on the committee work — the AVA petitions, the clone imports, the arguments about what Oregon should be allowed to call itself."
+ },
+ "kin": [
+  {
+   "to": "willamette-valley",
+   "as": "Whose 1983 AVA petition he chaired.",
+   "rel": "region"
+  },
+  {
+   "to": "dijon-115",
+   "as": "One of the Dijon selections Oregon imported through that work.",
+   "rel": "clone"
+  }
+ ],
+ "geo": {
+  "lat": 45.32,
+  "lon": -122.99,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Newberg",
+  "state": "OR",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-adelsheim-vineyard",
+  "s:wp-willamette-valley-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "Estate vineyards",
+   "value": 200,
+   "unit": "acres",
+   "year": 2013,
+   "source": "s:wp-adelsheim-vineyard",
+   "tier": "cited",
+   "note": "across 11 vineyards, mostly in the Chehalem Mountains AVA"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "id": "ipnc",
+ "type": "event",
+ "names": {
+  "name": "International Pinot Noir Celebration"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "status": "seasonal"
+ },
+ "text": {
+  "what": "Three days at Linfield College in McMinnville every summer since 1987: growers from everywhere pinot noir is grown, pouring beside each other under tents, with salmon grilled over alder on the Saturday."
+ },
+ "kin": [
+  {
+   "to": "willamette-valley",
+   "as": "The valley that hosts it.",
+   "rel": "region"
+  },
+  {
+   "to": "salmon",
+   "as": "What gets cooked at the Saturday dinner.",
+   "rel": "pairing"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "The single subject.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 45.21,
+  "lon": -123.19,
+  "precision": "town"
+ },
+ "address": {
+  "city": "McMinnville",
+  "state": "OR",
+  "country": "US"
+ },
+ "links": [
+  {
+   "label": "IPNC",
+   "url": "https://www.ipnc.org/"
+  }
+ ],
+ "sources": [
+  "s:wp-oregon-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "id": "bivb",
+ "type": "org",
+ "names": {
+  "name": "BIVB",
+  "aliases": [
+   "Bureau Interprofessionnel des Vins de Bourgogne"
+  ]
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "kind": "association",
+  "status": "open"
+ },
+ "text": {
+  "what": "Burgundy's trade body: the growers, the négociants and the appellation statistics, in one office in Beaune."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "Whose numbers it publishes.",
+   "rel": "region"
+  },
+  {
+   "to": "negociant",
+   "as": "One half of the trade it represents.",
+   "rel": "term"
+  }
+ ],
+ "geo": {
+  "lat": 47.024,
+  "lon": 4.84,
+  "precision": "town"
+ },
+ "sources": [
+  "s:wp-burgundy-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Burgundy's trade body: the growers, the négociants and the appellation statistics, in one office in Beaune.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Whose numbers it publishes.",
+   "rel": "region"
+  },
+  {
+   "to": "negociant",
+   "type": "term",
+   "name": "Négociant",
+   "as": "One half of the trade it represents.",
+   "rel": "term"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-burgundy-wine",
+   "kind": "encyclopaedia",
+   "title": "Burgundy wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=715978",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1365731507",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "geo": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "id": "hemel-en-aarde",
+ "type": "region",
+ "names": {
+  "name": "Hemel-en-Aarde",
+  "aliases": [
+   "Hemel-en-Aarde Valley",
+   "Heaven and Earth"
+  ]
+ },
+ "region": [
+  "hemel-en-aarde",
+  "south-africa"
+ ],
+ "facets": {
+  "country": "South Africa",
+  "level": "doc",
+  "soil": "clay over Bokkeveld shale"
+ },
+ "text": {
+  "what": "A valley behind Hermanus, running inland from Walker Bay, with clay over decomposed shale and cold air off the Atlantic. South Africa's pinot address."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Planted here from the 1970s, on clay that holds water through a dry summer.",
+   "rel": "variety"
+  },
+  {
+   "to": "burgundy",
+   "as": "The comparison every grower in the valley invites and then complicates.",
+   "rel": "contrast"
+  }
+ ],
+ "geo": {
+  "lat": -34.38,
+  "lon": 19.28,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-walker-bay",
+  "s:wp-south-african-wine",
+  "s:wp-hermanus"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

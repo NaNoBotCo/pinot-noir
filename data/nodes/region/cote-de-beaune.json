@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "id": "cote-de-beaune",
+ "type": "region",
+ "names": {
+  "name": "Côte de Beaune"
+ },
+ "region": [
+  "cote-de-beaune",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "district"
+ },
+ "text": {
+  "what": "From Ladoix south to Maranges, where the hill turns and chardonnay takes the best of it. Corton is its only red grand cru; the reds that matter most sit in Pommard, Volnay and Beaune at premier cru."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "The southern half of the Côte d'Or.",
+   "rel": "whole"
+  },
+  {
+   "to": "corton",
+   "as": "The hill that holds the district's only red grand cru.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "chardonnay",
+   "as": "The grape that takes the white flank of the same slope.",
+   "rel": "variety"
+  },
+  {
+   "to": "hospices-de-beaune",
+   "as": "Whose vines sit mostly in these communes.",
+   "rel": "org"
+  }
+ ],
+ "geo": {
+  "lat": 46.98,
+  "lon": 4.78,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-c-te-de-beaune",
+  "s:wp-burgundy-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "red_grands_crus",
+   "label": "Red grand cru wines in the district",
+   "value": 1,
+   "unit": "the Cortons",
+   "year": null,
+   "source": "s:wp-c-te-de-beaune",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

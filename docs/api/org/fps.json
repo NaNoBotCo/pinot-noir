@@ -1,0 +1,147 @@
+{
+ "schema": 1,
+ "id": "fps",
+ "type": "org",
+ "names": {
+  "name": "Foundation Plant Services",
+  "aliases": [
+   "Foundation Plant Services, UC Davis",
+   "FPS"
+  ]
+ },
+ "region": [
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "kind": "nursery",
+  "status": "open"
+ },
+ "text": {
+  "what": "The UC Davis programme that holds, tests and distributes certified grapevine material in the United States. The numbers on American clones — UCD 4, UCD 2A — are its numbers.",
+  "how": "Imported vines go through quarantine and virus testing before release. That process is why certified material is slow and expensive, and why suitcase cuttings keep happening."
+ },
+ "kin": [
+  {
+   "to": "pommard-ucd4",
+   "as": "Whose number is an FPS number.",
+   "rel": "clone"
+  },
+  {
+   "to": "massale-selection",
+   "as": "The alternative, and its risks.",
+   "rel": "practice"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "as": "How the catalogue came to exist.",
+   "rel": "story"
+  }
+ ],
+ "geo": {
+  "lat": 38.54,
+  "lon": -121.75,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Davis",
+  "state": "CA",
+  "country": "US"
+ },
+ "links": [
+  {
+   "label": "Foundation Plant Services",
+   "url": "https://fps.ucdavis.edu/"
+  }
+ ],
+ "sources": [
+  "s:fps-grapes",
+  "s:wp-foundation-plant-services"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The UC Davis programme that holds, tests and distributes certified grapevine material in the United States. The numbers on American clones — UCD 4, UCD 2A — are its numbers.",
+ "region_terms": [
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pommard-ucd4",
+   "type": "clone",
+   "name": "Pommard, UCD 4",
+   "as": "Whose number is an FPS number.",
+   "rel": "clone"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "The alternative, and its risks.",
+   "rel": "practice"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "How the catalogue came to exist.",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:fps-grapes",
+   "kind": "dataset",
+   "title": "National Grapevine Registry and the FPS public varieties list",
+   "publisher": "Foundation Plant Services, University of California, Davis",
+   "url": "https://fps.ucdavis.edu/",
+   "note": "which clone selection carries which number in the United States"
+  },
+  {
+   "id": "s:wp-foundation-plant-services",
+   "kind": "encyclopaedia",
+   "title": "Agriculture in California",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=57071645",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373938455",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  },
+  "address": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "Which holds and tests the American material.",
+   "rel": "org"
+  }
+ ]
+}

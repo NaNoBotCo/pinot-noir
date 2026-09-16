@@ -1,0 +1,209 @@
+{
+ "schema": 1,
+ "id": "russian-river-valley",
+ "type": "region",
+ "names": {
+  "name": "Russian River Valley"
+ },
+ "region": [
+  "russian-river",
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1983,
+  "soil": "Goldridge sandy loam"
+ },
+ "text": {
+  "what": "Fog runs up the river gap from the Pacific most summer nights and sits until mid-morning. Sonoma planted pinot noir into that fog and the plantings tripled in a decade.",
+  "story": "Pinot here went from about 4,000 acres to more than 12,000 by 2003, and the 1999 boundary revision was argued on where the fog actually reaches rather than on county lines."
+ },
+ "kin": [
+  {
+   "to": "sonoma-coast",
+   "as": "The larger coastal AVA around it.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "williams-selyem",
+   "as": "The winery that made vineyard-designated Russian River pinot the thing to chase.",
+   "rel": "producer"
+  },
+  {
+   "to": "merry-edwards",
+   "as": "Who made wine here and put her name on a clone selection.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 38.48,
+  "lon": -122.87,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-russian-river-valley-ava",
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres_pinot",
+   "label": "Pinot noir planted",
+   "value": 12000,
+   "unit": "acres",
+   "year": 2003,
+   "source": "s:wp-russian-river-valley-ava",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1983",
+   "year": 1983,
+   "source": "s:ecfr-27-9",
+   "note": "48 FR 48813, Oct. 21, 1983"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Fog runs up the river gap from the Pacific most summer nights and sits until mid-morning. Sonoma planted pinot noir into that fog and the plantings tripled in a decade.",
+ "region_terms": [
+  {
+   "key": "russian-river",
+   "name": "Russian River Valley",
+   "country": "United States",
+   "note": "fog up the river valley, and the AVA that taught California what pinot could do"
+  },
+  {
+   "key": "sonoma",
+   "name": "Sonoma County",
+   "country": "United States",
+   "note": "Russian River, the true coast, Carneros' western half"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "sonoma-coast",
+   "type": "region",
+   "name": "Sonoma Coast",
+   "as": "The larger coastal AVA around it.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "williams-selyem",
+   "type": "producer",
+   "name": "Williams Selyem",
+   "as": "The winery that made vineyard-designated Russian River pinot the thing to chase.",
+   "rel": "producer"
+  },
+  {
+   "to": "merry-edwards",
+   "type": "person",
+   "name": "Merry Edwards",
+   "as": "Who made wine here and put her name on a clone selection.",
+   "rel": "person"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-russian-river-valley-ava",
+   "kind": "encyclopaedia",
+   "title": "Russian River Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13610140",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355926003",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 1983",
+   "url": "",
+   "year": 1983,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "anderson-valley",
+   "type": "region",
+   "name": "Anderson Valley",
+   "as": "The other California fog corridor, an hour south.",
+   "rel": "neighbour"
+  },
+  {
+   "from": "sonoma-coast",
+   "type": "region",
+   "name": "Sonoma Coast",
+   "as": "Its warmer inland neighbour.",
+   "rel": "neighbour"
+  },
+  {
+   "from": "williams-selyem",
+   "type": "producer",
+   "name": "Williams Selyem",
+   "as": "The AVA whose reputation it built.",
+   "rel": "region"
+  },
+  {
+   "from": "swan-selection",
+   "type": "clone",
+   "name": "Swan selection",
+   "as": "Where it comes from and mostly stays.",
+   "rel": "region"
+  },
+  {
+   "from": "burt-williams",
+   "type": "person",
+   "name": "Burt Williams",
+   "as": "The AVA his labels advertised.",
+   "rel": "region"
+  },
+  {
+   "from": "merry-edwards",
+   "type": "person",
+   "name": "Merry Edwards",
+   "as": "Where her own vineyards sit.",
+   "rel": "region"
+  }
+ ]
+}

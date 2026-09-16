@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "ipnc",
+ "type": "event",
+ "names": {
+  "name": "International Pinot Noir Celebration"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "status": "seasonal"
+ },
+ "text": {
+  "what": "Three days at Linfield College in McMinnville every summer since 1987: growers from everywhere pinot noir is grown, pouring beside each other under tents, with salmon grilled over alder on the Saturday."
+ },
+ "kin": [
+  {
+   "to": "willamette-valley",
+   "as": "The valley that hosts it.",
+   "rel": "region"
+  },
+  {
+   "to": "salmon",
+   "as": "What gets cooked at the Saturday dinner.",
+   "rel": "pairing"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "The single subject.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 45.21,
+  "lon": -123.19,
+  "precision": "town"
+ },
+ "address": {
+  "city": "McMinnville",
+  "state": "OR",
+  "country": "US"
+ },
+ "links": [
+  {
+   "label": "IPNC",
+   "url": "https://www.ipnc.org/"
+  }
+ ],
+ "sources": [
+  "s:wp-oregon-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Three days at Linfield College in McMinnville every summer since 1987: growers from everywhere pinot noir is grown, pouring beside each other under tents, with salmon grilled over alder on the Saturday.",
+ "region_terms": [
+  {
+   "key": "willamette",
+   "name": "Willamette Valley",
+   "country": "United States",
+   "note": "a hundred miles of valley floor and volcanic hills south of Portland"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley that hosts it.",
+   "rel": "region"
+  },
+  {
+   "to": "salmon",
+   "type": "pairing",
+   "name": "Salmon",
+   "as": "What gets cooked at the Saturday dinner.",
+   "rel": "pairing"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The single subject.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-oregon-wine",
+   "kind": "encyclopaedia",
+   "title": "Oregon wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=6426696",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373054628",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "geo": {
+   "tier": "tradition"
+  },
+  "address": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "salmon",
+   "type": "pairing",
+   "name": "Salmon",
+   "as": "Where a valley full of growers eats it every summer.",
+   "rel": "event"
+  }
+ ]
+}

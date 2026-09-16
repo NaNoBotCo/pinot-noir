@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "martin-ray",
+ "type": "person",
+ "names": {
+  "name": "Martin Ray",
+  "sort": "Ray, Martin"
+ },
+ "region": [
+  "santa-cruz-mountains",
+  "california"
+ ],
+ "facets": {
+  "role": "owner",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Bought Paul Masson's mountain winery in 1936, sold it during the war, and spent the rest of his life above Saratoga making pinot noir and chardonnay when California was planting neither.",
+  "story": "*Tradition holds —* Ray insisted on varietal bottlings with nothing blended in, at a time when 'burgundy' on a California label meant whatever was in the tank. The vineyard he planted is the source of the Mount Eden selection."
+ },
+ "kin": [
+  {
+   "to": "mount-eden",
+   "as": "The selection that came off his vines.",
+   "rel": "clone"
+  },
+  {
+   "to": "santa-cruz-mountains",
+   "as": "The ridge he farmed.",
+   "rel": "region"
+  },
+  {
+   "to": "paul-masson-person",
+   "as": "Whose winery he bought.",
+   "rel": "origin"
+  }
+ ],
+ "sources": [
+  "s:haeger-north-american",
+  "s:wp-paul-masson"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

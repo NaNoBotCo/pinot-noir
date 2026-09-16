@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "id": "louis-jadot",
+ "type": "producer",
+ "names": {
+  "name": "Maison Louis Jadot"
+ },
+ "region": [
+  "cote-de-beaune",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "established": 1859
+ },
+ "text": {
+  "what": "A Beaune négociant founded in 1859, farming and buying across 270 hectares of Burgundy including Beaujolais crus, and bottling nothing that is not an appellation wine."
+ },
+ "kin": [
+  {
+   "to": "negociant",
+   "as": "What this house does, and the word for it.",
+   "rel": "term"
+  },
+  {
+   "to": "cote-de-beaune",
+   "as": "Where it sits and where most of its vines are.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.026,
+  "lon": 4.84,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Beaune",
+  "state": "Côte-d'Or",
+  "country": "FR"
+ },
+ "sources": [
+  "s:wp-maison-louis-jadot"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Vineyards controlled",
+   "value": 270,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-maison-louis-jadot",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

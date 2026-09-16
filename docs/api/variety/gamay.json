@@ -1,0 +1,106 @@
+{
+ "schema": 1,
+ "id": "gamay",
+ "type": "variety",
+ "names": {
+  "name": "Gamay",
+  "aliases": [
+   "Gamay noir à jus blanc"
+  ]
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "colour": "black",
+  "country": "France"
+ },
+ "text": {
+  "what": "Pinot's other well-known child, banished from the Côte d'Or by ducal edict and sent south to granite, where it built Beaujolais.",
+  "story": "*Tradition holds —* Philippe le Hardi ordered gamay out of the good slopes in 1395 and pinot noir back in. Whatever the duke's reasons, the split held: pinot took the limestone, gamay took the granite south of Mâcon."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Same parentage story, opposite fate on the same hill.",
+   "rel": "kin"
+  },
+  {
+   "to": "burgundy",
+   "as": "The region that expelled it from the Côte d'Or and still grows it further south.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-gamay",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Pinot's other well-known child, banished from the Côte d'Or by ducal edict and sent south to granite, where it built Beaujolais.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Same parentage story, opposite fate on the same hill.",
+   "rel": "kin"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The region that expelled it from the Côte d'Or and still grows it further south.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-gamay",
+   "kind": "encyclopaedia",
+   "title": "Gamay",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=555090",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1269650375",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "text.story": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

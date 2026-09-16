@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "saint-vincent-tournante",
+ "type": "event",
+ "names": {
+  "name": "Saint-Vincent Tournante"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "status": "seasonal"
+ },
+ "text": {
+  "what": "Burgundy's growers' festival, held in a different village each January — the confréries process, the village decorates its streets with paper flowers, and the cellars open.",
+  "story": "Saint Vincent is the growers' patron. The 'tournante' part is the rotation: the honour moves village to village, and the village that holds it spends a year preparing."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "Whose villages take turns.",
+   "rel": "region"
+  },
+  {
+   "to": "vigneron",
+   "as": "Whose feast it is.",
+   "rel": "term"
+  }
+ ],
+ "geo": {
+  "lat": 47.1,
+  "lon": 4.9,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-burgundy-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

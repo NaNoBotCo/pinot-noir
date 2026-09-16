@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "paul-masson-person",
+ "type": "person",
+ "names": {
+  "name": "Paul Masson",
+  "sort": "Masson, Paul"
+ },
+ "region": [
+  "santa-cruz-mountains",
+  "california"
+ ],
+ "facets": {
+  "role": "owner",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Born in a wine village outside Beaune in 1859, arrived in California in 1878, and built a sparkling-wine business in the Santa Cruz Mountains on vines he brought from Burgundy."
+ },
+ "kin": [
+  {
+   "to": "martin-ray",
+   "as": "Who bought his mountain winery in 1936.",
+   "rel": "descendant"
+  },
+  {
+   "to": "mount-eden",
+   "as": "The selection the trade traces back through him.",
+   "rel": "clone"
+  },
+  {
+   "to": "santa-cruz-mountains",
+   "as": "Where he planted.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-paul-masson"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

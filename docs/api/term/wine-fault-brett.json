@@ -1,0 +1,117 @@
+{
+ "schema": 1,
+ "id": "wine-fault-brett",
+ "type": "term",
+ "names": {
+  "name": "Brett",
+  "aliases": [
+   "Brettanomyces"
+  ]
+ },
+ "etymology": {
+  "root": "Latinised Greek: Brettano- (British) + -myces (fungus) — named in a Carlsberg lab from British beer",
+  "tier": "cited",
+  "source": "s:wp-brettanomyces"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "letter": "B",
+  "kind": "cellar"
+ },
+ "text": {
+  "what": "Brettanomyces, a yeast that lives in old barrels and makes phenols people describe as barnyard, plaster or clove. Some drinkers read a little of it as complexity, laboratories read it as spoilage, and pinot noir shows it early because there is so little else in the way."
+ },
+ "kin": [
+  {
+   "to": "native-yeast",
+   "as": "Whose risk this is.",
+   "rel": "kin"
+  },
+  {
+   "to": "neutral-oak",
+   "as": "Where it lives, if it lives anywhere.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-brettanomyces",
+  "s:wp-wine-fault"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Brettanomyces, a yeast that lives in old barrels and makes phenols people describe as barnyard, plaster or clove.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "native-yeast",
+   "type": "practice",
+   "name": "Native yeast",
+   "as": "Whose risk this is.",
+   "rel": "kin"
+  },
+  {
+   "to": "neutral-oak",
+   "type": "practice",
+   "name": "Neutral oak",
+   "as": "Where it lives, if it lives anywhere.",
+   "rel": "kin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-brettanomyces",
+   "kind": "encyclopaedia",
+   "title": "Brettanomyces",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1044750",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1330177882",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wine-fault",
+   "kind": "encyclopaedia",
+   "title": "Wine fault",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3031996",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366999655",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "etymology": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "native-yeast",
+   "type": "practice",
+   "name": "Native yeast",
+   "as": "The organism that gets blamed when this goes wrong.",
+   "rel": "contrast"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "id": "wadenswil-ucd2a",
+ "type": "clone",
+ "names": {
+  "name": "Wädenswil, UCD 2A",
+  "aliases": [
+   "UCD 2A",
+   "Wadensvil",
+   "Wädenswil"
+  ]
+ },
+ "region": [
+  "oregon"
+ ],
+ "facets": {
+  "origin": "Swiss"
+ },
+ "text": {
+  "what": "A Swiss research-station selection that reached Oregon early and stayed. Lighter in colour, higher in aromatics, and often blended against Pommard to fill the middle.",
+  "how": "Named for the Swiss federal research station at Wädenswil on Lake Zurich, and distributed in America through UC Davis as UCD 1A and 2A."
+ },
+ "kin": [
+  {
+   "to": "pommard-ucd4",
+   "as": "Its planting partner in old Oregon blocks.",
+   "rel": "kin"
+  },
+  {
+   "to": "willamette-valley",
+   "as": "Where the pairing did the early work.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:fps-grapes"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

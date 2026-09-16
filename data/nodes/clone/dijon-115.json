@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "dijon-115",
+ "type": "clone",
+ "names": {
+  "name": "Dijon 115",
+  "aliases": [
+   "115",
+   "ENTAV-INRA 115"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "origin": "Dijon"
+ },
+ "text": {
+  "what": "Small berries, small bunches, early ripening, aromatic. The most planted of the Dijon selections in the New World and the one growers reach for when a site needs perfume."
+ },
+ "kin": [
+  {
+   "to": "dijon-777",
+   "as": "Its darker, denser stablemate.",
+   "rel": "kin"
+  },
+  {
+   "to": "dijon-667",
+   "as": "The third of the common trio.",
+   "rel": "kin"
+  },
+  {
+   "to": "raymond-bernard",
+   "as": "Who ran the selection programme the number comes from.",
+   "rel": "person"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "as": "How Burgundy came to sell its vines by catalogue.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:fps-grapes"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

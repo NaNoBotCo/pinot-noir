@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "id": "lieu-dit",
+ "type": "term",
+ "names": {
+  "name": "Lieu-dit"
+ },
+ "etymology": {
+  "root": "French lieu (place) + dit (said, called) — 'the place they call'",
+  "tier": "tradition"
+ },
+ "region": [
+  "burgundy",
+  "alsace"
+ ],
+ "facets": {
+  "letter": "L",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "A named place on the cadastral map — the official French term for a piece of ground people call something. Every climat is a lieu-dit; not every lieu-dit carries a cru rank."
+ },
+ "kin": [
+  {
+   "to": "climat",
+   "as": "Burgundy's own word for the ranked version.",
+   "rel": "kin"
+  },
+  {
+   "to": "monopole",
+   "as": "What a lieu-dit is called when one owner holds it all.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-burgundy-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

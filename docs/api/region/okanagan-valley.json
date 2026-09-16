@@ -1,0 +1,90 @@
+{
+ "schema": 1,
+ "id": "okanagan-valley",
+ "type": "region",
+ "names": {
+  "name": "Okanagan Valley"
+ },
+ "region": [
+  "okanagan",
+  "canada"
+ ],
+ "facets": {
+  "country": "Canada",
+  "level": "gi"
+ },
+ "text": {
+  "what": "A long lake moderating a northern desert in British Columbia. Hot days, cold nights, a short season, and pinot noir on the cooler northern end."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown at the lake's cool end.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 49.8,
+  "lon": -119.6,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-okanagan-valley-wine-region"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "A long lake moderating a northern desert in British Columbia. Hot days, cold nights, a short season, and pinot noir on the cooler northern end.",
+ "region_terms": [
+  {
+   "key": "okanagan",
+   "name": "Okanagan Valley",
+   "country": "Canada",
+   "note": "a long lake moderating a northern desert"
+  },
+  {
+   "key": "canada",
+   "name": "Canada",
+   "country": "Canada",
+   "note": "Okanagan, Niagara, Prince Edward County"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown at the lake's cool end.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-okanagan-valley-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Okanagan Valley (wine region)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=30299619",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1289712096",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

@@ -1,0 +1,379 @@
+{
+ "schema": 1,
+ "id": "santa-maria-valley",
+ "type": "region",
+ "names": {
+  "name": "Santa Maria Valley"
+ },
+ "region": [
+  "santa-maria-valley",
+  "santa-barbara",
+  "central-coast",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1981,
+  "soil": "sandy loam to clay loam; alluvial floor, shaly slopes"
+ },
+ "text": {
+  "what": "A funnel opening west to the Pacific at 34.9°N — further south than anywhere sensible for pinot noir, and colder through the growing season than most of Oregon. The transverse ranges turn this valley east-west, the ocean walks straight in, and summer averages 75°F.",
+  "story": "Grapes grew here in the 1830s, under the Mexican land grants. Modern planting starts in 1964 with a hundred acres; by the mid-1970s there were over 2,000. The AVA came on 5 August 1981 — the country's third, California's second, and the first for either county. In 2010 the TTB pushed the southern line out to the watershed, adding 18,790 acres and nine vineyards.",
+  "how": "Morning fog takes hours to burn off and afternoon wind replaces it. Winkler Region I. Under 14 inches of rain in a normal year, so nearly everything is irrigated.",
+  "today": "Pinot noir and chardonnay are the appellation's two flagship varieties — and the same valley cooks the beef that made it famous, over oak cut off these hills."
+ },
+ "kin": [
+  {
+   "to": "bien-nacido",
+   "as": "The bench planting that sells this valley's fruit to half of California.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "Beef, red oak and pinot noir out of one valley — the long version.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "What the valley eats, and the argument about what to pour with it.",
+   "rel": "pairing"
+  },
+  {
+   "to": "sta-rita-hills",
+   "as": "The county's other pinot valley, half an hour south.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "au-bon-climat",
+   "as": "Jim Clendenen's winery, built inside Bien Nacido.",
+   "rel": "producer"
+  },
+  {
+   "to": "santa-maria-bbq-association",
+   "as": "The body that polices what the phrase on the menu means.",
+   "rel": "org"
+  }
+ ],
+ "geo": {
+  "lat": 34.93,
+  "lon": -120.25,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-santa-maria-valley-ava",
+  "s:ecfr-27-9",
+  "s:wp-santa-maria-valley"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "AVA area after the 2010 expansion",
+   "value": 116273,
+   "unit": "acres",
+   "year": 2010,
+   "source": "s:wp-santa-maria-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "acres_planted",
+   "label": "Cultivated vineyard",
+   "value": 7500,
+   "unit": "acres",
+   "year": null,
+   "source": "s:wp-santa-maria-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "summer_mean_f",
+   "label": "Average summer temperature",
+   "value": 75,
+   "unit": "°F",
+   "year": null,
+   "source": "s:wp-santa-maria-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "rainfall_in",
+   "label": "Annual rainfall in non-drought years",
+   "value": 14,
+   "unit": "inches",
+   "year": null,
+   "source": "s:wp-santa-maria-valley-ava",
+   "tier": "cited",
+   "note": "stated as less than"
+  },
+  {
+   "key": "latitude",
+   "label": "Latitude",
+   "value": 34.9,
+   "unit": "°N",
+   "year": null,
+   "source": "s:this-project",
+   "tier": "cited",
+   "note": "computed from this record's own coordinates"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1981",
+   "year": 1981,
+   "source": "s:ecfr-27-9",
+   "note": "46 FR 39812, Aug. 5, 1981; expanded 75 FR 81849, Dec. 29, 2010"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A funnel opening west to the Pacific at 34.9°N — further south than anywhere sensible for pinot noir, and colder through the growing season than most of Oregon.",
+ "region_terms": [
+  {
+   "key": "santa-maria-valley",
+   "name": "Santa Maria Valley",
+   "country": "United States",
+   "note": "Bien Nacido, the bench, and the red-oak barbecue on the same ground"
+  },
+  {
+   "key": "santa-barbara",
+   "name": "Santa Barbara County",
+   "country": "United States",
+   "note": "the transverse ranges turn the valleys east-west and let the ocean in"
+  },
+  {
+   "key": "central-coast",
+   "name": "Central Coast",
+   "country": "United States",
+   "note": "Monterey down to Santa Barbara, an AVA large enough to hold several climates"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "The bench planting that sells this valley's fruit to half of California.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "Beef, red oak and pinot noir out of one valley — the long version.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "What the valley eats, and the argument about what to pour with it.",
+   "rel": "pairing"
+  },
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "The county's other pinot valley, half an hour south.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "au-bon-climat",
+   "type": "producer",
+   "name": "Au Bon Climat",
+   "as": "Jim Clendenen's winery, built inside Bien Nacido.",
+   "rel": "producer"
+  },
+  {
+   "to": "santa-maria-bbq-association",
+   "type": "org",
+   "name": "Santa Maria Style Barbeque Association",
+   "as": "The body that polices what the phrase on the menu means.",
+   "rel": "org"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-santa-maria-valley-ava",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10711580",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1360626562",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  },
+  {
+   "id": "s:wp-santa-maria-valley",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=10711580",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1360626562",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "text.today": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 1981",
+   "url": "",
+   "year": 1981,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "santa-lucia-highlands",
+   "type": "region",
+   "name": "Santa Lucia Highlands",
+   "as": "Another Central Coast valley that runs the wrong way and gets away with it.",
+   "rel": "neighbour"
+  },
+  {
+   "from": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "The county's other pinot valley, half an hour north.",
+   "rel": "neighbour"
+  },
+  {
+   "from": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "The AVA it helped define.",
+   "rel": "region"
+  },
+  {
+   "from": "au-bon-climat",
+   "type": "producer",
+   "name": "Au Bon Climat",
+   "as": "The valley it argued for.",
+   "rel": "region"
+  },
+  {
+   "from": "pinquito-beans",
+   "type": "pairing",
+   "name": "Pinquito beans",
+   "as": "The only ground that grows them at scale.",
+   "rel": "region"
+  },
+  {
+   "from": "red-oak",
+   "type": "pairing",
+   "name": "Red oak",
+   "as": "The hills it grows on.",
+   "rel": "region"
+  },
+  {
+   "from": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The valley that also grows pinot noir on the same hills.",
+   "rel": "region"
+  },
+  {
+   "from": "bob-schutz",
+   "type": "person",
+   "name": "Bob Schutz",
+   "as": "His town, and the valley it made famous.",
+   "rel": "region"
+  },
+  {
+   "from": "jim-clendenen",
+   "type": "person",
+   "name": "Jim Clendenen",
+   "as": "The valley he argued for.",
+   "rel": "region"
+  },
+  {
+   "from": "santa-barbara-vintners",
+   "type": "org",
+   "name": "Santa Barbara Vintners",
+   "as": "One of the AVAs it represents.",
+   "rel": "region"
+  },
+  {
+   "from": "santa-maria-bbq-association",
+   "type": "org",
+   "name": "Santa Maria Style Barbeque Association",
+   "as": "The valley whose name is on the menu.",
+   "rel": "region"
+  },
+  {
+   "from": "ttb",
+   "type": "org",
+   "name": "TTB",
+   "as": "Established under its predecessor bureau in 1981.",
+   "rel": "region"
+  },
+  {
+   "from": "world-of-pinot-noir",
+   "type": "event",
+   "name": "World of Pinot Noir",
+   "as": "Half an hour north, and well represented.",
+   "rel": "region"
+  },
+  {
+   "from": "ava",
+   "type": "term",
+   "name": "AVA",
+   "as": "Established 1981: the country's third.",
+   "rel": "region"
+  },
+  {
+   "from": "the-sideways-effect",
+   "type": "story",
+   "name": "One film, measured",
+   "as": "Half an hour north of the film's route, and a beneficiary.",
+   "rel": "region"
+  },
+  {
+   "from": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The AVA on the same ground.",
+   "rel": "region"
+  }
+ ]
+}

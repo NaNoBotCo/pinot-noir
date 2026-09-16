@@ -1,0 +1,153 @@
+{
+ "schema": 1,
+ "id": "pinot-meunier",
+ "type": "variety",
+ "names": {
+  "name": "Pinot Meunier",
+  "aliases": [
+   "Meunier",
+   "Schwarzriesling",
+   "Müllerrebe"
+  ]
+ },
+ "etymology": {
+  "root": "French meunier, miller — from the floury white hairs on the leaves",
+  "tier": "cited",
+  "source": "s:wp-pinot-meunier"
+ },
+ "region": [
+  "champagne"
+ ],
+ "facets": {
+  "colour": "black",
+  "country": "France"
+ },
+ "text": {
+  "what": "Pinot noir with white down on its shoot tips and leaves — meunier means miller, and the vine looks dusted with flour. It buds later, ripens earlier and survives a frosty Champagne spring that kills its parent.",
+  "how": "Genetically it is a chimera: two tissue layers, each carrying its own mutation, neither identical to pinot noir. Propagate it from the wrong layer and you get something else.",
+  "today": "Champagne plants it heavily in the frost-prone Marne valley, and a handful of growers now bottle it alone."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The vine it mutated from, and cannot be a parent of.",
+   "rel": "origin"
+  },
+  {
+   "to": "champagne",
+   "as": "Where it earns its keep: the valley floors that frost.",
+   "rel": "region"
+  },
+  {
+   "to": "vendange-entiere",
+   "as": "A press-house decision that treats it the same as its parent.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-meunier",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Pinot noir with white down on its shoot tips and leaves — meunier means miller, and the vine looks dusted with flour. It buds later, ripens earlier and survives a frosty Champagne spring that kills its parent.",
+ "region_terms": [
+  {
+   "key": "champagne",
+   "name": "Champagne",
+   "country": "France",
+   "note": "pinot noir by area is the region's largest planting, mostly pressed white"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The vine it mutated from, and cannot be a parent of.",
+   "rel": "origin"
+  },
+  {
+   "to": "champagne",
+   "type": "region",
+   "name": "Champagne",
+   "as": "Where it earns its keep: the valley floors that frost.",
+   "rel": "region"
+  },
+  {
+   "to": "vendange-entiere",
+   "type": "term",
+   "name": "Vendange entière",
+   "as": "A press-house decision that treats it the same as its parent.",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-pinot-meunier",
+   "kind": "encyclopaedia",
+   "title": "Pinot Meunier",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=475108",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371307542",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "text.today": {
+   "tier": "cited"
+  },
+  "etymology": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "A chimera of this vine — hairy leaves, earlier ripening, and a third of Champagne.",
+   "rel": "mutation"
+  },
+  {
+   "from": "champagne",
+   "type": "region",
+   "name": "Champagne",
+   "as": "Its frost insurance on the valley floor.",
+   "rel": "variety"
+  },
+  {
+   "from": "vendange-entiere",
+   "type": "term",
+   "name": "Vendange entière",
+   "as": "A variety often treated this way in Champagne.",
+   "rel": "variety"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "id": "eyrie-vineyards",
+ "type": "producer",
+ "names": {
+  "name": "The Eyrie Vineyards"
+ },
+ "region": [
+  "willamette",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1965
+ },
+ "text": {
+  "what": "David and Diana Lett planted the Willamette Valley's first pinot noir in 1965 and made their first vintage in 1970. They also made the first American pinot gris.",
+  "story": "Lett went to Oregon against the advice of his professors at Davis, who held that the state was too cold and too wet for vinifera. The 1975 South Block Reserve placed tenth in a Paris tasting in 1979 and second, by fractions, in Robert Drouhin's rematch in Beaune the year after."
+ },
+ "kin": [
+  {
+   "to": "david-lett",
+   "as": "Who planted it.",
+   "rel": "made-by"
+  },
+  {
+   "to": "dundee-hills",
+   "as": "The hill his first block sits on.",
+   "rel": "region"
+  },
+  {
+   "to": "willamette-valley",
+   "as": "The valley he argued into existence as a wine region.",
+   "rel": "region"
+  },
+  {
+   "to": "how-pinot-travelled",
+   "as": "One leg of the journey, told at length.",
+   "rel": "story"
+  }
+ ],
+ "geo": {
+  "lat": 45.21,
+  "lon": -123.2,
+  "precision": "street"
+ },
+ "address": {
+  "city": "McMinnville",
+  "state": "OR",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-the-eyrie-vineyards",
+  "s:wp-david-lett",
+  "s:wp-oregon-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

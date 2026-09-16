@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "id": "pinot-droit",
+ "type": "clone",
+ "names": {
+  "name": "Pinot Droit",
+  "aliases": [
+   "Gamay Beaujolais (Californian misnomer)"
+  ]
+ },
+ "region": [
+  "california",
+  "burgundy"
+ ],
+ "facets": {
+  "origin": "Burgundy field selection"
+ },
+ "text": {
+  "what": "Upright-growing, high-cropping selections that suited a grower paid by weight. California sold a series of them under the misnomer 'Gamay Beaujolais', and Burgundy planted them in ground where nobody was looking.",
+  "how": "Productive in warm flowering conditions and broad-shouldered in the glass. Growers who wanted a lighter, decumbent vine call those 'pinot fin' or 'pinot tordu' instead."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The same variety, selected for a different habit.",
+   "rel": "variety"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "as": "What replaced it, and why growers changed their minds.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

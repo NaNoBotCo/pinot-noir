@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "id": "native-yeast",
+ "type": "practice",
+ "names": {
+  "name": "Native yeast",
+  "aliases": [
+   "Wild ferment",
+   "Spontaneous fermentation",
+   "Indigenous yeast"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "ferment"
+ },
+ "text": {
+  "what": "Letting whatever came in on the fruit and lives in the cellar start the ferment, instead of pitching a selected strain from a packet.",
+  "how": "The early work is done by non-Saccharomyces species that die off as alcohol rises; Saccharomyces cerevisiae finishes. The risk is a stuck ferment or a population you did not want; the argument for it is the character those first days leave behind."
+ },
+ "kin": [
+  {
+   "to": "cold-soak",
+   "as": "What ends a cold soak, if nobody intervenes.",
+   "rel": "kin"
+  },
+  {
+   "to": "wine-fault-brett",
+   "as": "The organism that gets blamed when this goes wrong.",
+   "rel": "contrast"
+  }
+ ],
+ "sources": [
+  "s:wp-yeast-in-winemaking"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

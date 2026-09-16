@@ -1,0 +1,163 @@
+{
+ "note": "Tag keys a cellar or vineyard record may carry. Each tag names a source. Ownership and welcome tags are never inferred from a name, a photograph or a hunch. A certification tag names the certifier. Tier cited = a named page; harvested = a public register or dataset fetched by a tool; field = someone stood there.",
+ "entries": [
+  {
+   "key": "tasting-room",
+   "label": "Tasting room",
+   "icon": "🍷",
+   "group": "visit",
+   "evidence": "the cellar's own visit page, a published appellation visitor list, or an OpenStreetMap node tagged craft=winery with opening hours",
+   "resources": [
+    "r:osm"
+   ]
+  },
+  {
+   "key": "by-appointment",
+   "label": "By appointment",
+   "icon": "📅",
+   "group": "visit",
+   "evidence": "the cellar's own words on its visit page",
+   "resources": []
+  },
+  {
+   "key": "no-visits",
+   "label": "No visitors",
+   "icon": "🚪",
+   "group": "visit",
+   "evidence": "the cellar says so, or a published list records it as closed to the public",
+   "resources": []
+  },
+  {
+   "key": "estate-grown",
+   "label": "Estate fruit",
+   "icon": "🌱",
+   "group": "farming",
+   "evidence": "the cellar's own statement, or a label term with a legal definition behind it (US: estate bottled, 27 CFR 4.26)",
+   "resources": [
+    "r:ecfr-4-26"
+   ]
+  },
+  {
+   "key": "organic-certified",
+   "label": "Certified organic",
+   "icon": "🍃",
+   "group": "certification",
+   "evidence": "a named certifier and, where published, a certificate number: CCOF, Oregon Tilth, USDA Organic, Ecocert, Agriculture Biologique, BioGro",
+   "resources": [
+    "r:ccof",
+    "r:usda-organic"
+   ]
+  },
+  {
+   "key": "biodynamic-certified",
+   "label": "Certified biodynamic",
+   "icon": "🌙",
+   "group": "certification",
+   "evidence": "Demeter or Biodyvin certification, named",
+   "resources": [
+    "r:demeter"
+   ]
+  },
+  {
+   "key": "sustainability-certified",
+   "label": "Sustainability certified",
+   "icon": "♻️",
+   "group": "certification",
+   "evidence": "a named scheme: LIVE, Salmon-Safe, SIP, Napa Green, Sustainable Winegrowing NZ, Certified California Sustainable",
+   "resources": [
+    "r:live",
+    "r:swnz"
+   ]
+  },
+  {
+   "key": "dry-farmed",
+   "label": "Dry-farmed",
+   "icon": "☀️",
+   "group": "farming",
+   "evidence": "the grower's own statement or a press profile that reports it as practice, not aspiration",
+   "resources": []
+  },
+  {
+   "key": "own-rooted",
+   "label": "Own-rooted",
+   "icon": "🪵",
+   "group": "farming",
+   "evidence": "the grower or a published vineyard survey saying the vines are ungrafted",
+   "resources": []
+  },
+  {
+   "key": "monopole",
+   "label": "Monopole",
+   "icon": "🔑",
+   "group": "holding",
+   "evidence": "one owner holds the whole named site; the appellation body or the owner says so",
+   "resources": [
+    "r:inao"
+   ]
+  },
+  {
+   "key": "family-owned",
+   "label": "Family-held",
+   "icon": "👪",
+   "group": "ownership",
+   "evidence": "the cellar's own account naming the family and the generation, or a press profile",
+   "resources": []
+  },
+  {
+   "key": "woman-winemaker",
+   "label": "Woman winemaker",
+   "icon": "♀",
+   "group": "ownership",
+   "evidence": "the cellar names her in the role, or a press profile does",
+   "resources": []
+  },
+  {
+   "key": "woman-owned",
+   "label": "Woman-owned",
+   "icon": "♀",
+   "group": "ownership",
+   "evidence": "the owner's own statement, a press profile naming the owner, or a women-owned business certification",
+   "resources": [
+    "r:wbenc"
+   ]
+  },
+  {
+   "key": "black-owned",
+   "label": "Black-owned",
+   "icon": "✊🏾",
+   "group": "ownership",
+   "evidence": "the owner's own statement, a press profile naming the owner, or a published directory of Black-owned wineries",
+   "resources": [
+    "r:aaava"
+   ]
+  },
+  {
+   "key": "latino-owned",
+   "label": "Latino-owned",
+   "icon": "🌎",
+   "group": "ownership",
+   "evidence": "the owner's own statement, a press profile naming the owner, or a published directory",
+   "resources": [
+    "r:mexican-american-vintners"
+   ]
+  },
+  {
+   "key": "lgbtq-owned",
+   "label": "LGBTQ+ owned",
+   "icon": "🏳️‍🌈",
+   "group": "welcome",
+   "evidence": "the business's own statement, a directory or press list whose framing says the businesses in it are LGBTQ-owned; never inferred",
+   "resources": [
+    "r:nglcc"
+   ]
+  },
+  {
+   "key": "closed",
+   "label": "Closed",
+   "icon": "⛔",
+   "group": "status",
+   "evidence": "a dated notice, a news report, or the cellar's own announcement",
+   "resources": []
+  }
+ ]
+}

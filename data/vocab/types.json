@@ -1,0 +1,109 @@
+{
+ "note": "The thirteen node types and how the directory groups each one. Order here is the order on the front page.",
+ "entries": [
+  {
+   "key": "variety",
+   "name": "The vine",
+   "one": "variety",
+   "path": "variety",
+   "blurb": "Pinot noir and the family it mutates into: meunier, gris, blanc, précoce.",
+   "group_by": "facets.colour"
+  },
+  {
+   "key": "region",
+   "name": "Regions",
+   "one": "region",
+   "path": "region",
+   "blurb": "Appellations, AVAs, valleys and communes — the ground pinot noir answers to.",
+   "group_by": "facets.country"
+  },
+  {
+   "key": "vineyard",
+   "name": "Vineyards",
+   "one": "vineyard",
+   "path": "vineyard",
+   "blurb": "Named sites: grands crus, climats, benchland blocks, a hillside somebody fenced.",
+   "group_by": "facets.country"
+  },
+  {
+   "key": "producer",
+   "name": "Cellars",
+   "one": "cellar",
+   "path": "producer",
+   "blurb": "Domaines, wineries and tasting rooms — who presses the fruit, and who lets you in.",
+   "group_by": "facets.country"
+  },
+  {
+   "key": "clone",
+   "name": "Clones",
+   "one": "clone",
+   "path": "clone",
+   "blurb": "Dijon numbers, suitcase cuttings, field selections. The vine is a copy of a copy.",
+   "group_by": "facets.origin"
+  },
+  {
+   "key": "practice",
+   "name": "Vineyard and cellar",
+   "one": "practice",
+   "path": "practice",
+   "blurb": "Whole cluster, cold soak, punch-down, neutral oak, the decisions that show up in the glass.",
+   "group_by": "facets.kind"
+  },
+  {
+   "key": "pairing",
+   "name": "At the table",
+   "one": "pairing",
+   "path": "pairing",
+   "blurb": "Tri-tip over red oak, duck, salmon, mushrooms, a hard cheese and a cold cellar.",
+   "group_by": "facets.course"
+  },
+  {
+   "key": "person",
+   "name": "People",
+   "one": "person",
+   "path": "person",
+   "blurb": "Growers, winemakers, nurserymen, scientists, the writers who argued about it.",
+   "group_by": "facets.role"
+  },
+  {
+   "key": "org",
+   "name": "Organizations",
+   "one": "organization",
+   "path": "org",
+   "blurb": "Appellation bodies, growers' associations, nurseries, archives.",
+   "group_by": "facets.country"
+  },
+  {
+   "key": "event",
+   "name": "Events",
+   "one": "event",
+   "path": "event",
+   "blurb": "Auctions, celebrations, barrel tastings, the weekend a valley opens its doors.",
+   "group_by": "facets.country"
+  },
+  {
+   "key": "term",
+   "name": "Words",
+   "one": "word",
+   "path": "word",
+   "blurb": "Climat, lieu-dit, saignée, brix — each one with its root.",
+   "group_by": "facets.letter"
+  },
+  {
+   "key": "art",
+   "name": "Art",
+   "one": "piece",
+   "path": "art",
+   "blurb": "Labels, posters, harvest photographs, the pictures the trade prints of itself.",
+   "group_by": "facets.kind"
+  },
+  {
+   "key": "story",
+   "name": "Stories",
+   "one": "story",
+   "path": "story",
+   "blurb": "Long reads: how the grape travelled, what a vintage did, what goes on the grill.",
+   "group_by": "facets.kind"
+  }
+ ]
+}

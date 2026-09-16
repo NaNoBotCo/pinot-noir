@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "id": "mount-eden",
+ "type": "clone",
+ "names": {
+  "name": "Mount Eden selection",
+  "aliases": [
+   "Mt. Eden clone",
+   "Martin Ray selection"
+  ]
+ },
+ "region": [
+  "santa-cruz-mountains",
+  "california"
+ ],
+ "facets": {
+  "origin": "California"
+ },
+ "text": {
+  "what": "A California field selection traced back to Martin Ray's plantings in the Santa Cruz Mountains, and through him, by the usual account, to Paul Masson's cuttings from Burgundy. Tiny clusters, tiny crop.",
+  "story": "*Tradition holds —* Masson brought vines from Burgundy to the Santa Cruz Mountains in the 1890s and Ray carried the line forward. The chain is repeated in the trade far more often than it is documented."
+ },
+ "kin": [
+  {
+   "to": "martin-ray",
+   "as": "Whose vineyard the cuttings came from.",
+   "rel": "origin"
+  },
+  {
+   "to": "santa-cruz-mountains",
+   "as": "The ridge it comes off.",
+   "rel": "region"
+  },
+  {
+   "to": "massale-selection",
+   "as": "How a selection like this moves: cuttings, not catalogues.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:haeger-north-american",
+  "s:wp-paul-masson"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

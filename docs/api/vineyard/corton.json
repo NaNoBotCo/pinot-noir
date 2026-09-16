@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "corton",
+ "type": "vineyard",
+ "names": {
+  "name": "Corton"
+ },
+ "region": [
+  "cote-de-beaune",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France"
+ },
+ "text": {
+  "what": "The hill above Aloxe, and Burgundy's largest grand cru: 95 hectares in production, nearly all of it red, and the only red grand cru on the Côte de Beaune."
+ },
+ "kin": [
+  {
+   "to": "cote-de-beaune",
+   "as": "The district whose only red grand cru this is.",
+   "rel": "whole"
+  },
+  {
+   "to": "hospices-de-beaune",
+   "as": "Whose auction lots include Corton parcels given by donors.",
+   "rel": "org"
+  }
+ ],
+ "geo": {
+  "lat": 47.07,
+  "lon": 4.86,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-corton-aoc"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "In production",
+   "value": 94.78,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-corton-aoc",
+   "tier": "cited"
+  },
+  {
+   "key": "hectolitres",
+   "label": "Wine made",
+   "value": 2984,
+   "unit": "hl",
+   "year": 2008,
+   "source": "s:wp-corton-aoc",
+   "tier": "cited",
+   "note": "2,822 hl red, 162 hl white"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The hill above Aloxe, and Burgundy's largest grand cru: 95 hectares in production, nearly all of it red, and the only red grand cru on the Côte de Beaune.",
+ "region_terms": [
+  {
+   "key": "cote-de-beaune",
+   "name": "Côte de Beaune",
+   "country": "France",
+   "note": "Corton south to Santenay; reds and the great whites share the hill"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "cote-de-beaune",
+   "type": "region",
+   "name": "Côte de Beaune",
+   "as": "The district whose only red grand cru this is.",
+   "rel": "whole"
+  },
+  {
+   "to": "hospices-de-beaune",
+   "type": "org",
+   "name": "Hospices de Beaune",
+   "as": "Whose auction lots include Corton parcels given by donors.",
+   "rel": "org"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-corton-aoc",
+   "kind": "encyclopaedia",
+   "title": "Corton (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1972868",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1333880654",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "cote-de-beaune",
+   "type": "region",
+   "name": "Côte de Beaune",
+   "as": "The hill that holds the district's only red grand cru.",
+   "rel": "vineyard"
+  },
+  {
+   "from": "hospices-de-beaune",
+   "type": "org",
+   "name": "Hospices de Beaune",
+   "as": "Among the parcels it holds.",
+   "rel": "vineyard"
+  }
+ ]
+}

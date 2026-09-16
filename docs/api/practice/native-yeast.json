@@ -1,0 +1,117 @@
+{
+ "schema": 1,
+ "id": "native-yeast",
+ "type": "practice",
+ "names": {
+  "name": "Native yeast",
+  "aliases": [
+   "Wild ferment",
+   "Spontaneous fermentation",
+   "Indigenous yeast"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "ferment"
+ },
+ "text": {
+  "what": "Letting whatever came in on the fruit and lives in the cellar start the ferment, instead of pitching a selected strain from a packet.",
+  "how": "The early work is done by non-Saccharomyces species that die off as alcohol rises; Saccharomyces cerevisiae finishes. The risk is a stuck ferment or a population you did not want; the argument for it is the character those first days leave behind."
+ },
+ "kin": [
+  {
+   "to": "cold-soak",
+   "as": "What ends a cold soak, if nobody intervenes.",
+   "rel": "kin"
+  },
+  {
+   "to": "wine-fault-brett",
+   "as": "The organism that gets blamed when this goes wrong.",
+   "rel": "contrast"
+  }
+ ],
+ "sources": [
+  "s:wp-yeast-in-winemaking"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Letting whatever came in on the fruit and lives in the cellar start the ferment, instead of pitching a selected strain from a packet.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "cold-soak",
+   "type": "practice",
+   "name": "Cold soak",
+   "as": "What ends a cold soak, if nobody intervenes.",
+   "rel": "kin"
+  },
+  {
+   "to": "wine-fault-brett",
+   "type": "term",
+   "name": "Brett",
+   "as": "The organism that gets blamed when this goes wrong.",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-yeast-in-winemaking",
+   "kind": "encyclopaedia",
+   "title": "Yeast in winemaking",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=36029170",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1352990811",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "domaine-leroy",
+   "type": "producer",
+   "name": "Domaine Leroy",
+   "as": "Part of the cellar method that follows from farming this way.",
+   "rel": "practice"
+  },
+  {
+   "from": "cold-soak",
+   "type": "practice",
+   "name": "Cold soak",
+   "as": "Cold soak lasts until something starts the ferment — which is where this comes in.",
+   "rel": "kin"
+  },
+  {
+   "from": "wine-fault-brett",
+   "type": "term",
+   "name": "Brett",
+   "as": "Whose risk this is.",
+   "rel": "kin"
+  }
+ ]
+}

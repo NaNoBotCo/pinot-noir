@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "ttb",
+ "type": "org",
+ "names": {
+  "name": "TTB",
+  "aliases": [
+   "Alcohol and Tobacco Tax and Trade Bureau"
+  ]
+ },
+ "region": [
+  "california",
+  "oregon"
+ ],
+ "facets": {
+  "country": "United States",
+  "kind": "appellation",
+  "status": "open"
+ },
+ "text": {
+  "what": "The US Alcohol and Tobacco Tax and Trade Bureau: it rules on AVA petitions, writes them into 27 CFR part 9, and approves every label that goes on a bottle.",
+  "how": "An AVA petition has to show the name is already used for the place, propose a boundary, and show the growing conditions differ from the ground around it. Nothing in the rule speaks to quality."
+ },
+ "kin": [
+  {
+   "to": "ava",
+   "as": "The instrument it administers.",
+   "rel": "term"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "Established under its predecessor bureau in 1981.",
+   "rel": "region"
+  },
+  {
+   "to": "sta-rita-hills",
+   "as": "And renamed by the TTB in 2005 after a trademark objection.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 38.9,
+  "lon": -77.03,
+  "precision": "town"
+ },
+ "links": [
+  {
+   "label": "TTB — AVAs",
+   "url": "https://www.ttb.gov/wine/ava"
+  },
+  {
+   "label": "27 CFR part 9",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9"
+  }
+ ],
+ "sources": [
+  "s:ttb-ava",
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The US Alcohol and Tobacco Tax and Trade Bureau: it rules on AVA petitions, writes them into 27 CFR part 9, and approves every label that goes on a bottle.",
+ "region_terms": [
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "ava",
+   "type": "term",
+   "name": "AVA",
+   "as": "The instrument it administers.",
+   "rel": "term"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "Established under its predecessor bureau in 1981.",
+   "rel": "region"
+  },
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "And renamed by the TTB in 2005 after a trademark objection.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:ttb-ava",
+   "kind": "org",
+   "title": "American Viticultural Area (AVA)",
+   "publisher": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "url": "https://www.ttb.gov/wine/ava",
+   "licence": "public domain"
+  },
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "ava",
+   "type": "term",
+   "name": "AVA",
+   "as": "The bureau that rules on the petitions.",
+   "rel": "org"
+  },
+  {
+   "from": "free-to-use",
+   "type": "story",
+   "name": "Where this comes from",
+   "as": "Which publishes it.",
+   "rel": "org"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "id": "bob-schutz",
+ "type": "person",
+ "names": {
+  "name": "Bob Schutz",
+  "sort": "Schutz, Bob"
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "role": "butcher",
+  "country": "United States"
+ },
+ "text": {
+  "what": "A Santa Maria market manager who, in the late 1950s, took a triangular piece of bottom sirloin that was going into the hamburger grinder, seasoned it and put it on a rotisserie. The cut he sold as tri-tip is now the whole town's dish.",
+  "story": "The account comes from Larry Viegas, a butcher who worked with him at a Santa Maria Safeway: an excess of hamburger meat, a piece nobody wanted, salt, pepper and garlic salt, forty-five minutes to an hour on the spit. Other people claim the cut elsewhere — an Army butcher in southern California during the war, an Oakland butcher, a New York restaurateur — and the tri-tip record lays those out side by side."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "The dish that followed.",
+   "rel": "pairing"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "Every claim to the cut, in order.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "His town, and the valley it made famous.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-tri-tip",
+  "s:wp-santa-maria-style-barbecue"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

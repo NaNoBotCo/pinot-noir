@@ -1,0 +1,142 @@
+{
+ "schema": 1,
+ "id": "calera",
+ "type": "producer",
+ "names": {
+  "name": "Calera"
+ },
+ "region": [
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1975
+ },
+ "text": {
+  "what": "Josh Jensen went looking for limestone in California because Burgundy grows on it, found a lime kiln site high on Mount Harlan in San Benito County, and planted pinot noir at 2,200 feet in 1975.",
+  "story": "Jensen worked harvests at the Domaine de la Romanée-Conti and at Dujac, came home with an idea about soil, and spent a year with geological survey maps before buying. Marq de Villiers wrote a book about the place in 1993."
+ },
+ "kin": [
+  {
+   "to": "josh-jensen",
+   "as": "Who chose the limestone and planted it.",
+   "rel": "made-by"
+  },
+  {
+   "to": "calera-selection",
+   "as": "The cuttings that came home with him, and what growers now call them.",
+   "rel": "clone"
+  },
+  {
+   "to": "burgundy",
+   "as": "The comparison he was explicitly chasing.",
+   "rel": "origin"
+  }
+ ],
+ "geo": {
+  "lat": 36.66,
+  "lon": -121.13,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Hollister",
+  "state": "CA",
+  "country": "US"
+ },
+ "sources": [
+  "s:devilliers-heartbreak",
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Josh Jensen went looking for limestone in California because Burgundy grows on it, found a lime kiln site high on Mount Harlan in San Benito County, and planted pinot noir at 2,200 feet in 1975.",
+ "region_terms": [
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "josh-jensen",
+   "type": "person",
+   "name": "Josh Jensen",
+   "as": "Who chose the limestone and planted it.",
+   "rel": "made-by"
+  },
+  {
+   "to": "calera-selection",
+   "type": "clone",
+   "name": "Calera selection",
+   "as": "The cuttings that came home with him, and what growers now call them.",
+   "rel": "clone"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The comparison he was explicitly chasing.",
+   "rel": "origin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:devilliers-heartbreak",
+   "kind": "book",
+   "title": "The Heartbreak Grape: A Journey in Search of the Perfect Pinot Noir",
+   "author": "Marq de Villiers",
+   "publisher": "HarperCollins",
+   "year": 1993
+  },
+  {
+   "id": "s:haeger-north-american",
+   "kind": "book",
+   "title": "North American Pinot Noir",
+   "author": "John Winthrop Haeger",
+   "publisher": "University of California Press",
+   "year": 2004
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "text.story": {
+   "tier": "tradition"
+  },
+  "geo": {
+   "tier": "tradition"
+  },
+  "address": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "calera-selection",
+   "type": "clone",
+   "name": "Calera selection",
+   "as": "The vineyard it is named for.",
+   "rel": "grown-at"
+  },
+  {
+   "from": "josh-jensen",
+   "type": "person",
+   "name": "Josh Jensen",
+   "as": "What he built on the limestone.",
+   "rel": "made-by"
+  }
+ ]
+}

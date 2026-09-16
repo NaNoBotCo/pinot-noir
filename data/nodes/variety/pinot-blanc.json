@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "pinot-blanc",
+ "type": "variety",
+ "names": {
+  "name": "Pinot blanc",
+  "aliases": [
+   "Weissburgunder",
+   "Pinot bianco",
+   "Klevner"
+  ]
+ },
+ "region": [
+  "alsace"
+ ],
+ "facets": {
+  "colour": "white",
+  "country": "France"
+ },
+ "text": {
+  "what": "The white end of the family. A further mutation that can come from pinot gris or pinot noir and can go back the other way, which is why nurserymen watch their mother vines.",
+  "story": "Henri Gouges found a white-berried shoot in his Nuits-Saint-Georges vineyard and propagated it; the wine is sold as Nuits-Saint-Georges blanc. *Inference —* nothing published suggests it is more than a selected mutation of the pinot noir already growing there."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The parent form; the mutation runs both ways.",
+   "rel": "origin"
+  },
+  {
+   "to": "pinot-gris",
+   "as": "Its neighbour on the colour ladder.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-blanc",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

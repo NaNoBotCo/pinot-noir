@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "id": "duck",
+ "type": "pairing",
+ "names": {
+  "name": "Duck"
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "course": "bird",
+  "country": "France"
+ },
+ "text": {
+  "what": "The pairing pinot noir gets asked about most: dark meat, a thick fat cap, and enough savoury weight to meet a wine with little tannin.",
+  "how": "Roasted whole, seared as breast, or salted and cooked in its own fat as confit. Fat carries flavour and coats the tongue; a high-acid red cuts through it in a way a low-acid one does not."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The wine most often poured with it.",
+   "rel": "variety"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where the pairing is a house rule.",
+   "rel": "region"
+  },
+  {
+   "to": "mushrooms",
+   "as": "The other half of most plates it arrives on.",
+   "rel": "pairing"
+  }
+ ],
+ "sources": [
+  "s:wp-duck-as-food",
+  "s:wp-wine-and-food-matching"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "marlborough",
+ "type": "region",
+ "names": {
+  "name": "Marlborough"
+ },
+ "region": [
+  "marlborough",
+  "new-zealand"
+ ],
+ "facets": {
+  "country": "New Zealand",
+  "level": "gi"
+ },
+ "text": {
+  "what": "New Zealand's largest region by a distance, known abroad for sauvignon blanc and holding the country's biggest pinot noir planting almost as a side effect — still wine on the clay of the Southern Valleys, sparkling base on the Wairau gravels."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Planted at scale here, and rarely the headline.",
+   "rel": "variety"
+  },
+  {
+   "to": "central-otago",
+   "as": "The region that gets the pinot attention.",
+   "rel": "contrast"
+  }
+ ],
+ "geo": {
+  "lat": -41.52,
+  "lon": 173.85,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-marlborough-wine-region",
+  "s:wp-new-zealand-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

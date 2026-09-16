@@ -1,0 +1,127 @@
+{
+ "schema": 1,
+ "id": "richard-sanford",
+ "type": "person",
+ "names": {
+  "name": "Richard Sanford",
+  "sort": "Sanford, Richard"
+ },
+ "region": [
+  "sta-rita-hills",
+  "santa-barbara",
+  "california"
+ ],
+ "facets": {
+  "role": "grower",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Read weather data instead of real-estate listings, worked out that the Santa Ynez Valley runs east-west and lets the ocean in, and planted pinot noir at Sanford & Benedict in 1971."
+ },
+ "kin": [
+  {
+   "to": "sanford-and-benedict",
+   "as": "The vineyard he planted with Michael Benedict.",
+   "rel": "made-by"
+  },
+  {
+   "to": "sta-rita-hills",
+   "as": "The AVA drawn around that ground in 2001.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:haeger-north-american",
+  "s:wp-sta-rita-hills-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Read weather data instead of real-estate listings, worked out that the Santa Ynez Valley runs east-west and lets the ocean in, and planted pinot noir at Sanford & Benedict in 1971.",
+ "region_terms": [
+  {
+   "key": "sta-rita-hills",
+   "name": "Sta. Rita Hills",
+   "country": "United States",
+   "note": "a wind tunnel between Buellton and Lompoc"
+  },
+  {
+   "key": "santa-barbara",
+   "name": "Santa Barbara County",
+   "country": "United States",
+   "note": "the transverse ranges turn the valleys east-west and let the ocean in"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "sanford-and-benedict",
+   "type": "vineyard",
+   "name": "Sanford & Benedict",
+   "as": "The vineyard he planted with Michael Benedict.",
+   "rel": "made-by"
+  },
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "The AVA drawn around that ground in 2001.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:haeger-north-american",
+   "kind": "book",
+   "title": "North American Pinot Noir",
+   "author": "John Winthrop Haeger",
+   "publisher": "University of California Press",
+   "year": 2004
+  },
+  {
+   "id": "s:wp-sta-rita-hills-ava",
+   "kind": "encyclopaedia",
+   "title": "Sta. Rita Hills AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15415082",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370033962",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "Who read the weather maps and picked this gap.",
+   "rel": "person"
+  },
+  {
+   "from": "sanford-and-benedict",
+   "type": "vineyard",
+   "name": "Sanford & Benedict",
+   "as": "Who chose the site.",
+   "rel": "person"
+  }
+ ]
+}

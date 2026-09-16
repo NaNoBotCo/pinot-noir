@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "id": "finger-lakes",
+ "type": "region",
+ "names": {
+  "name": "Finger Lakes"
+ },
+ "region": [
+  "finger-lakes",
+  "new-york"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1982
+ },
+ "text": {
+  "what": "Deep glacial lakes in upstate New York holding off the winter. Riesling country, with pinot noir on the better-drained slopes and in the sparkling base."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown where the lake keeps the vine from freezing out.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 42.7,
+  "lon": -76.9,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1982",
+   "year": 1982,
+   "source": "s:ecfr-27-9",
+   "note": "47 FR 38518, Sept. 1, 1982"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

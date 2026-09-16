@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "id": "wadenswil-ucd2a",
+ "type": "clone",
+ "names": {
+  "name": "Wädenswil, UCD 2A",
+  "aliases": [
+   "UCD 2A",
+   "Wadensvil",
+   "Wädenswil"
+  ]
+ },
+ "region": [
+  "oregon"
+ ],
+ "facets": {
+  "origin": "Swiss"
+ },
+ "text": {
+  "what": "A Swiss research-station selection that reached Oregon early and stayed. Lighter in colour, higher in aromatics, and often blended against Pommard to fill the middle.",
+  "how": "Named for the Swiss federal research station at Wädenswil on Lake Zurich, and distributed in America through UC Davis as UCD 1A and 2A."
+ },
+ "kin": [
+  {
+   "to": "pommard-ucd4",
+   "as": "Its planting partner in old Oregon blocks.",
+   "rel": "kin"
+  },
+  {
+   "to": "willamette-valley",
+   "as": "Where the pairing did the early work.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:fps-grapes"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "A Swiss research-station selection that reached Oregon early and stayed. Lighter in colour, higher in aromatics, and often blended against Pommard to fill the middle.",
+ "region_terms": [
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pommard-ucd4",
+   "type": "clone",
+   "name": "Pommard, UCD 4",
+   "as": "Its planting partner in old Oregon blocks.",
+   "rel": "kin"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "Where the pairing did the early work.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:fps-grapes",
+   "kind": "dataset",
+   "title": "National Grapevine Registry and the FPS public varieties list",
+   "publisher": "Foundation Plant Services, University of California, Davis",
+   "url": "https://fps.ucdavis.edu/",
+   "note": "which clone selection carries which number in the United States"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "pommard-ucd4",
+   "type": "clone",
+   "name": "Pommard, UCD 4",
+   "as": "The other half of Oregon's old plantings.",
+   "rel": "kin"
+  }
+ ]
+}

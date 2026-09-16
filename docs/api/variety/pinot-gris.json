@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "pinot-gris",
+ "type": "variety",
+ "names": {
+  "name": "Pinot gris",
+  "aliases": [
+   "Pinot Grigio",
+   "Grauburgunder",
+   "Ruländer"
+  ]
+ },
+ "region": [
+  "alsace"
+ ],
+ "facets": {
+  "colour": "grey",
+  "country": "France"
+ },
+ "text": {
+  "what": "A colour sport of pinot: the berry loses most of its pigment and lands somewhere between grey, pink and bronze. Same vine, same bunch, different skin.",
+  "story": "A somatic mutation in the VvMYBA1 or VvMYBA2 genes — the switches that tell a grape to make colour. It can arise from pinot noir or from pinot blanc, and it can revert."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The black form, and the one this site is about.",
+   "rel": "origin"
+  },
+  {
+   "to": "pinot-blanc",
+   "as": "The next mutation along the same path, in either direction.",
+   "rel": "kin"
+  },
+  {
+   "to": "alsace",
+   "as": "Where it grows beside its black parent under the same appellation.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-gris",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A colour sport of pinot: the berry loses most of its pigment and lands somewhere between grey, pink and bronze. Same vine, same bunch, different skin.",
+ "region_terms": [
+  {
+   "key": "alsace",
+   "name": "Alsace",
+   "country": "France",
+   "note": "the one red grape the appellation allows"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The black form, and the one this site is about.",
+   "rel": "origin"
+  },
+  {
+   "to": "pinot-blanc",
+   "type": "variety",
+   "name": "Pinot blanc",
+   "as": "The next mutation along the same path, in either direction.",
+   "rel": "kin"
+  },
+  {
+   "to": "alsace",
+   "type": "region",
+   "name": "Alsace",
+   "as": "Where it grows beside its black parent under the same appellation.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-pinot-gris",
+   "kind": "encyclopaedia",
+   "title": "Pinot gris",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=344643",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375152512",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "pinot-blanc",
+   "type": "variety",
+   "name": "Pinot blanc",
+   "as": "Its neighbour on the colour ladder.",
+   "rel": "kin"
+  },
+  {
+   "from": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The same vine with the colour genes switched off partway.",
+   "rel": "mutation"
+  },
+  {
+   "from": "alsace",
+   "type": "region",
+   "name": "Alsace",
+   "as": "Its grey sibling, grown on the same slopes.",
+   "rel": "variety"
+  },
+  {
+   "from": "baden",
+   "type": "region",
+   "name": "Baden",
+   "as": "Grauburgunder, the second Burgundian here.",
+   "rel": "variety"
+  },
+  {
+   "from": "david-lett",
+   "type": "person",
+   "name": "David Lett",
+   "as": "And the first American planting of it.",
+   "rel": "variety"
+  }
+ ]
+}

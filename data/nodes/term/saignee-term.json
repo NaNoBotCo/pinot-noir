@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "id": "saignee-term",
+ "type": "term",
+ "names": {
+  "name": "Saignée"
+ },
+ "etymology": {
+  "root": "French saignée, a bleeding, from saigner, to bleed, from Latin sanguinare",
+  "tier": "tradition"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "letter": "S",
+  "kind": "press"
+ },
+ "text": {
+  "what": "The bleed. Juice drawn off a red fermenter to concentrate what stays, and sold as rosé."
+ },
+ "kin": [
+  {
+   "to": "saignee",
+   "as": "The practice, at length.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:wp-ros"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,193 @@
+{
+ "schema": 1,
+ "id": "massale-selection",
+ "type": "practice",
+ "names": {
+  "name": "Massal selection",
+  "aliases": [
+   "Sélection massale",
+   "Massale"
+  ]
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "kind": "planting"
+ },
+ "text": {
+  "what": "Taking cuttings from many vines in a block you already trust, instead of ordering one numbered clone from a nursery. You keep the block's variation, and whatever virus it carries.",
+  "how": "A grower walks the old block at harvest, marks the vines that ripen well and crop lightly, and grafts from them. The pay-off is diversity inside one vineyard; the risk is leafroll and fanleaf, which is precisely what clonal certification was invented to stop."
+ },
+ "kin": [
+  {
+   "to": "the-dijon-numbers",
+   "as": "The alternative, and how it won the nursery trade.",
+   "rel": "story"
+  },
+  {
+   "to": "mount-eden",
+   "as": "A selection that travelled this way.",
+   "rel": "clone"
+  },
+  {
+   "to": "abel-clone",
+   "as": "And one whose travel was less orthodox.",
+   "rel": "clone"
+  },
+  {
+   "to": "bien-nacido",
+   "as": "Where certified budwood gets grown at scale instead.",
+   "rel": "vineyard"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:wp-ampelography"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Taking cuttings from many vines in a block you already trust, instead of ordering one numbered clone from a nursery. You keep the block's variation, and whatever virus it carries.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  },
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "The alternative, and how it won the nursery trade.",
+   "rel": "story"
+  },
+  {
+   "to": "mount-eden",
+   "type": "clone",
+   "name": "Mount Eden selection",
+   "as": "A selection that travelled this way.",
+   "rel": "clone"
+  },
+  {
+   "to": "abel-clone",
+   "type": "clone",
+   "name": "Abel clone",
+   "as": "And one whose travel was less orthodox.",
+   "rel": "clone"
+  },
+  {
+   "to": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "Where certified budwood gets grown at scale instead.",
+   "rel": "vineyard"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ampelography",
+   "kind": "encyclopaedia",
+   "title": "Ampelography",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1106293",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371070907",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "text.how": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "What a budwood block is for.",
+   "rel": "practice"
+  },
+  {
+   "from": "abel-clone",
+   "type": "clone",
+   "name": "Abel clone",
+   "as": "The practice this story sits at the edge of.",
+   "rel": "practice"
+  },
+  {
+   "from": "calera-selection",
+   "type": "clone",
+   "name": "Calera selection",
+   "as": "The practice, and its grey areas.",
+   "rel": "practice"
+  },
+  {
+   "from": "mount-eden",
+   "type": "clone",
+   "name": "Mount Eden selection",
+   "as": "How a selection like this moves: cuttings, not catalogues.",
+   "rel": "practice"
+  },
+  {
+   "from": "swan-selection",
+   "type": "clone",
+   "name": "Swan selection",
+   "as": "How it spread.",
+   "rel": "practice"
+  },
+  {
+   "from": "merry-edwards",
+   "type": "person",
+   "name": "Merry Edwards",
+   "as": "How the selection bearing her name moves.",
+   "rel": "practice"
+  },
+  {
+   "from": "fps",
+   "type": "org",
+   "name": "Foundation Plant Services",
+   "as": "The alternative, and its risks.",
+   "rel": "practice"
+  },
+  {
+   "from": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "The older way, still practised.",
+   "rel": "practice"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "id": "joseph-drouhin",
+ "type": "producer",
+ "names": {
+  "name": "Maison Joseph Drouhin"
+ },
+ "region": [
+  "cote-de-beaune",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "established": 1880
+ },
+ "text": {
+  "what": "Beaune house founded in 1880, certified organic across its own vineyards from the 2009 vintage, and the family that took Burgundy's argument to Oregon in 1987."
+ },
+ "kin": [
+  {
+   "to": "domaine-drouhin-oregon",
+   "as": "The Dundee Hills estate this family built.",
+   "rel": "kin"
+  },
+  {
+   "to": "willamette-valley",
+   "as": "Where Robert Drouhin re-ran the 1979 tasting and then bought land.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.023,
+  "lon": 4.836,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Beaune",
+  "state": "Côte-d'Or",
+  "country": "FR"
+ },
+ "sources": [
+  "s:wp-joseph-drouhin"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "tags": [
+  {
+   "tag": "organic-certified",
+   "source": "s:wp-joseph-drouhin",
+   "tier": "cited",
+   "note": "all estate grapes from the 2009 vintage"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

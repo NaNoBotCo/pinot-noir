@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "id": "saignee",
+ "type": "practice",
+ "names": {
+  "name": "Saignée"
+ },
+ "region": [
+  "world",
+  "champagne"
+ ],
+ "facets": {
+  "kind": "press"
+ },
+ "text": {
+  "what": "Bleeding juice off a red fermenter early, to raise the skin-to-juice ratio in what stays behind. The juice that comes out is sold as rosé.",
+  "how": "Runs the other way round from making rosé on purpose: here the pink wine is a by-product of concentrating the red, and it tastes like one unless the fruit was picked with it in mind."
+ },
+ "kin": [
+  {
+   "to": "saignee-term",
+   "as": "The word, from saigner, to bleed.",
+   "rel": "term"
+  },
+  {
+   "to": "champagne",
+   "as": "Where rosé is more often made by blending red wine in instead.",
+   "rel": "contrast"
+  }
+ ],
+ "sources": [
+  "s:wp-ros",
+  "s:oxford-companion-wine-4"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Bleeding juice off a red fermenter early, to raise the skin-to-juice ratio in what stays behind. The juice that comes out is sold as rosé.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  },
+  {
+   "key": "champagne",
+   "name": "Champagne",
+   "country": "France",
+   "note": "pinot noir by area is the region's largest planting, mostly pressed white"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "saignee-term",
+   "type": "term",
+   "name": "Saignée",
+   "as": "The word, from saigner, to bleed.",
+   "rel": "term"
+  },
+  {
+   "to": "champagne",
+   "type": "region",
+   "name": "Champagne",
+   "as": "Where rosé is more often made by blending red wine in instead.",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-ros",
+   "kind": "encyclopaedia",
+   "title": "Rosé",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1039412",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374076830",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:oxford-companion-wine-4",
+   "kind": "book",
+   "title": "The Oxford Companion to Wine",
+   "author": "Jancis Robinson (ed.)",
+   "publisher": "Oxford University Press",
+   "year": 2015,
+   "note": "fourth edition"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "text.how": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "champagne",
+   "type": "region",
+   "name": "Champagne",
+   "as": "The bleed that makes rosé, and the other way to use a black grape here.",
+   "rel": "practice"
+  },
+  {
+   "from": "pigeage",
+   "type": "practice",
+   "name": "Punching down",
+   "as": "The other lever for concentration, pulled before fermentation.",
+   "rel": "contrast"
+  },
+  {
+   "from": "saignee-term",
+   "type": "term",
+   "name": "Saignée",
+   "as": "The practice, at length.",
+   "rel": "practice"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "oregon-wine-board",
+ "type": "org",
+ "names": {
+  "name": "Oregon Wine Board"
+ },
+ "region": [
+  "oregon",
+  "willamette"
+ ],
+ "facets": {
+  "country": "United States",
+  "kind": "association",
+  "status": "open"
+ },
+ "text": {
+  "what": "The state commission that funds Oregon's viticulture research and publishes the harvest statistics this site quotes."
+ },
+ "kin": [
+  {
+   "to": "willamette-valley",
+   "as": "The region most of its numbers describe.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 45.52,
+  "lon": -122.68,
+  "precision": "town"
+ },
+ "address": {
+  "city": "Portland",
+  "state": "OR",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-oregon-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

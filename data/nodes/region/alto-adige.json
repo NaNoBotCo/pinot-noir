@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "id": "alto-adige",
+ "type": "region",
+ "names": {
+  "name": "Alto Adige",
+  "aliases": [
+   "Südtirol",
+   "South Tyrol"
+  ]
+ },
+ "region": [
+  "alto-adige"
+ ],
+ "facets": {
+  "country": "Italy",
+  "level": "doc"
+ },
+ "text": {
+  "what": "German-speaking Italy, on terraces above Bolzano. Blauburgunder here is pinot nero on the label and Blauburgunder in the village, and it climbs as high as the frost allows."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Called pinot nero and blauburgunder in the same village.",
+   "rel": "variety"
+  },
+  {
+   "to": "baden",
+   "as": "The other Alpine pinot, north of the ridge.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 46.5,
+  "lon": 11.35,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-south-tyrol-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

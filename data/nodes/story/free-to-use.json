@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "id": "free-to-use",
+ "type": "story",
+ "names": {
+  "name": "Where this comes from"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "resources"
+ },
+ "text": {
+  "what": "Every fact on this site points at something you can open yourself. This page lists what those things are, what each one costs to use, and where the gaps sit."
+ },
+ "kin": [
+  {
+   "to": "ava",
+   "as": "The regulation behind every American boundary here.",
+   "rel": "term"
+  },
+  {
+   "to": "ttb",
+   "as": "Which publishes it.",
+   "rel": "org"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "A page that says plainly what it could not settle.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:ecfr-27-9",
+  "s:natural-earth",
+  "s:osm",
+  "s:oxford-companion-wine-4"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "sections": [
+  {
+   "h": "The public record",
+   "text": "27 CFR part 9 lists every American Viticultural Area, its boundary and the Federal Register notice that made it. It is a work of the United States government and free of copyright. This project harvested the whole part from the eCFR — 289 sections, 284 of them carrying a Federal Register year — and every AVA date on this site comes from there rather than from a repetition of it."
+  },
+  {
+   "h": "The map",
+   "text": "Country outlines, subdivisions and coastline come from Natural Earth, public domain. Cellar and tasting-room points come from OpenStreetMap under ODbL, harvested through Overpass inside named boxes — which is why the map is dense in Baden and empty in places that certainly have wineries. An empty box means nobody has tagged them, not that nobody is there."
+  },
+  {
+   "h": "The encyclopaedia",
+   "text": "Wikipedia articles are used as a corpus and cited by revision, so a citation points at the text this project actually read. They are CC BY-SA. Where a claim rests only on a Wikipedia article, the record says so; where it rests on general knowledge of the subject, the provenance tier says tradition and the sentence is hedged."
+  },
+  {
+   "h": "What is not free",
+   "text": "The books in the source list — the Oxford Companion, the World Atlas, Wine Grapes, Jasper Morris on Burgundy, Haeger on North American pinot noir — are in copyright and are cited, never quoted at length. Recipes are only reproduced where the licence allows it; otherwise this site lists ingredients, which are facts, and leaves the method to whoever wrote it."
+  },
+  {
+   "h": "The gaps, named",
+   "text": "No record carries a field observation yet. Planted area is missing for most single vineyards. Hours are missing for most cellars, and a missing day is shown as unknown rather than guessed. OpenStreetMap returned no winery at all inside the Anderson Valley box on 16 September 2026, which says something about tagging and nothing about Anderson Valley."
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

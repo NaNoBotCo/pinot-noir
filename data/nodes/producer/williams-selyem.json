@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "id": "williams-selyem",
+ "type": "producer",
+ "names": {
+  "name": "Williams Selyem"
+ },
+ "region": [
+  "russian-river",
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1981
+ },
+ "text": {
+  "what": "Burt Williams and Ed Selyem started in a Forestville garage in the early 1980s, bought fruit from Russian River growers and put the vineyard's name on the label. The mailing list became the model half of California copied."
+ },
+ "kin": [
+  {
+   "to": "russian-river-valley",
+   "as": "The AVA whose reputation it built.",
+   "rel": "region"
+  },
+  {
+   "to": "burt-williams",
+   "as": "Who made the wine, then went north and planted his own.",
+   "rel": "made-by"
+  }
+ ],
+ "geo": {
+  "lat": 38.48,
+  "lon": -122.9,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Healdsburg",
+  "state": "CA",
+  "country": "US"
+ },
+ "sources": [
+  "s:haeger-north-american",
+  "s:wp-russian-river-valley-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

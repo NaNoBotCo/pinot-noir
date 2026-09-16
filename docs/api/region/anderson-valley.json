@@ -1,0 +1,172 @@
+{
+ "schema": 1,
+ "id": "anderson-valley",
+ "type": "region",
+ "names": {
+  "name": "Anderson Valley"
+ },
+ "region": [
+  "anderson-valley",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1983
+ },
+ "text": {
+  "what": "Mendocino's fog gap: a narrow valley along the Navarro River, open to the ocean at one end, redwoods at both edges. Sparkling houses came for the acid and stayed for the pinot.",
+  "story": "The 1983 petition counted 47 acres of pinot noir. By 2025 the AVA farmed about 2,457 acres across roughly 100 vineyards, and the wineries buying from them mostly sit outside the valley."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The variety that took the valley over.",
+   "rel": "variety"
+  },
+  {
+   "to": "russian-river-valley",
+   "as": "The other California fog corridor, an hour south.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 39.0,
+  "lon": -123.4,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-anderson-valley-ava",
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres",
+   "label": "AVA area",
+   "value": 57600,
+   "unit": "acres",
+   "year": null,
+   "source": "s:wp-anderson-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "acres_planted",
+   "label": "Planted",
+   "value": 2457,
+   "unit": "acres",
+   "year": 2025,
+   "source": "s:wp-anderson-valley-ava",
+   "tier": "cited"
+  },
+  {
+   "key": "acres_pinot_1983",
+   "label": "Pinot noir at the petition",
+   "value": 47,
+   "unit": "acres",
+   "year": 1983,
+   "source": "s:wp-anderson-valley-ava",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1983",
+   "year": 1983,
+   "source": "s:ecfr-27-9",
+   "note": "48 FR 37370, Aug. 18, 1983"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Mendocino's fog gap: a narrow valley along the Navarro River, open to the ocean at one end, redwoods at both edges. Sparkling houses came for the acid and stayed for the pinot.",
+ "region_terms": [
+  {
+   "key": "anderson-valley",
+   "name": "Anderson Valley",
+   "country": "United States",
+   "note": "Mendocino, the Navarro River, fog through the redwood gap"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The variety that took the valley over.",
+   "rel": "variety"
+  },
+  {
+   "to": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "as": "The other California fog corridor, an hour south.",
+   "rel": "neighbour"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-anderson-valley-ava",
+   "kind": "encyclopaedia",
+   "title": "Anderson Valley AVA",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13390838",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1369908409",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 1983",
+   "url": "",
+   "year": 1983,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": [
+  {
+   "from": "casablanca-valley",
+   "type": "region",
+   "name": "Casablanca Valley",
+   "as": "The same trick with fog, a hemisphere away.",
+   "rel": "contrast"
+  }
+ ]
+}

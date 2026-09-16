@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "yarra-valley",
+ "type": "region",
+ "names": {
+  "name": "Yarra Valley"
+ },
+ "region": [
+  "yarra",
+  "australia"
+ ],
+ "facets": {
+  "country": "Australia",
+  "level": "gi"
+ },
+ "text": {
+  "what": "Hills north-east of Melbourne, planted in the 1830s, pulled out by the 1920s, replanted from the 1960s. Cool sites high in the valley grow pinot noir for still wine and for sparkling."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Replanted here first among Australia's cool regions.",
+   "rel": "variety"
+  },
+  {
+   "to": "mornington-peninsula",
+   "as": "The maritime alternative, an hour and a half away.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": -37.65,
+  "lon": 145.45,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-yarra-valley",
+  "s:wp-australian-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

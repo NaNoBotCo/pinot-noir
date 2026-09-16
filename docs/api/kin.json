@@ -1,0 +1,3093 @@
+{
+ "built": "2026-09-16",
+ "edges": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Its parent, and the vine planted on the next row.",
+   "rel": "origin",
+   "from": "chardonnay"
+  },
+  {
+   "to": "cote-de-beaune",
+   "type": "region",
+   "name": "Côte de Beaune",
+   "as": "Where the family split the hill: whites on one flank, reds on the other.",
+   "rel": "region",
+   "from": "chardonnay"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The same family, running four to six weeks ahead of the latest clones.",
+   "rel": "kin",
+   "from": "fruhburgunder"
+  },
+  {
+   "to": "ahr",
+   "type": "region",
+   "name": "Ahr",
+   "as": "The slate valley that kept it planted.",
+   "rel": "region",
+   "from": "fruhburgunder"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Same parentage story, opposite fate on the same hill.",
+   "rel": "kin",
+   "from": "gamay"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The region that expelled it from the Côte d'Or and still grows it further south.",
+   "rel": "region",
+   "from": "gamay"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The parent form; the mutation runs both ways.",
+   "rel": "origin",
+   "from": "pinot-blanc"
+  },
+  {
+   "to": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "as": "Its neighbour on the colour ladder.",
+   "rel": "kin",
+   "from": "pinot-blanc"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The black form, and the one this site is about.",
+   "rel": "origin",
+   "from": "pinot-gris"
+  },
+  {
+   "to": "pinot-blanc",
+   "type": "variety",
+   "name": "Pinot blanc",
+   "as": "The next mutation along the same path, in either direction.",
+   "rel": "kin",
+   "from": "pinot-gris"
+  },
+  {
+   "to": "alsace",
+   "type": "region",
+   "name": "Alsace",
+   "as": "Where it grows beside its black parent under the same appellation.",
+   "rel": "region",
+   "from": "pinot-gris"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The vine it mutated from, and cannot be a parent of.",
+   "rel": "origin",
+   "from": "pinot-meunier"
+  },
+  {
+   "to": "champagne",
+   "type": "region",
+   "name": "Champagne",
+   "as": "Where it earns its keep: the valley floors that frost.",
+   "rel": "region",
+   "from": "pinot-meunier"
+  },
+  {
+   "to": "vendange-entiere",
+   "type": "term",
+   "name": "Vendange entière",
+   "as": "A press-house decision that treats it the same as its parent.",
+   "rel": "practice",
+   "from": "pinot-meunier"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Home ground, and the reference every other pinot region gets measured against.",
+   "rel": "region",
+   "from": "pinot-noir"
+  },
+  {
+   "to": "pinot-meunier",
+   "type": "variety",
+   "name": "Pinot Meunier",
+   "as": "A chimera of this vine — hairy leaves, earlier ripening, and a third of Champagne.",
+   "rel": "mutation",
+   "from": "pinot-noir"
+  },
+  {
+   "to": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "as": "The same vine with the colour genes switched off partway.",
+   "rel": "mutation",
+   "from": "pinot-noir"
+  },
+  {
+   "to": "chardonnay",
+   "type": "variety",
+   "name": "Chardonnay",
+   "as": "Its child, by Gouais blanc; the two share the same hillsides and the same cellars.",
+   "rel": "offspring",
+   "from": "pinot-noir"
+  },
+  {
+   "to": "thin-skin",
+   "type": "story",
+   "name": "What thin skin costs",
+   "as": "Every difficulty this grape hands a grower, in one place.",
+   "rel": "story",
+   "from": "pinot-noir"
+  },
+  {
+   "to": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "One of the numbered selections that let a grower buy this vine by catalogue.",
+   "rel": "clone",
+   "from": "pinot-noir"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Called spätburgunder here, and grown in a higher share than anywhere else in Germany.",
+   "rel": "variety",
+   "from": "ahr"
+  },
+  {
+   "to": "fruhburgunder",
+   "type": "variety",
+   "name": "Frühburgunder",
+   "as": "The early-ripening cousin the valley kept.",
+   "rel": "variety",
+   "from": "ahr"
+  },
+  {
+   "to": "baden",
+   "type": "region",
+   "name": "Baden",
+   "as": "The other German pinot region, warmer and far larger.",
+   "rel": "neighbour",
+   "from": "ahr"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The only red the appellation permits.",
+   "rel": "variety",
+   "from": "alsace"
+  },
+  {
+   "to": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "as": "Its grey sibling, grown on the same slopes.",
+   "rel": "variety",
+   "from": "alsace"
+  },
+  {
+   "to": "baden",
+   "type": "region",
+   "name": "Baden",
+   "as": "Across the Rhine, the same climate under another flag.",
+   "rel": "neighbour",
+   "from": "alsace"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Called pinot nero and blauburgunder in the same village.",
+   "rel": "variety",
+   "from": "alto-adige"
+  },
+  {
+   "to": "baden",
+   "type": "region",
+   "name": "Baden",
+   "as": "The other Alpine pinot, north of the ridge.",
+   "rel": "neighbour",
+   "from": "alto-adige"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The variety that took the valley over.",
+   "rel": "variety",
+   "from": "anderson-valley"
+  },
+  {
+   "to": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "as": "The other California fog corridor, an hour south.",
+   "rel": "neighbour",
+   "from": "anderson-valley"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Spätburgunder: more than a third of the region's vines.",
+   "rel": "variety",
+   "from": "baden"
+  },
+  {
+   "to": "alsace",
+   "type": "region",
+   "name": "Alsace",
+   "as": "Same rift valley, other bank, similar size.",
+   "rel": "neighbour",
+   "from": "baden"
+  },
+  {
+   "to": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "as": "Grauburgunder, the second Burgundian here.",
+   "rel": "variety",
+   "from": "baden"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The grape this hill selected, and the one it exported.",
+   "rel": "variety",
+   "from": "burgundy"
+  },
+  {
+   "to": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "The northern half, holding nearly every red grand cru.",
+   "rel": "part",
+   "from": "burgundy"
+  },
+  {
+   "to": "cote-de-beaune",
+   "type": "region",
+   "name": "Côte de Beaune",
+   "as": "The southern half, where the whites take the hill.",
+   "rel": "part",
+   "from": "burgundy"
+  },
+  {
+   "to": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "The word for a named parcel, and the unit the whole system counts in.",
+   "rel": "term",
+   "from": "burgundy"
+  },
+  {
+   "to": "hospices-de-beaune",
+   "type": "org",
+   "name": "Hospices de Beaune",
+   "as": "The charity whose November auction sets the tone for the vintage.",
+   "rel": "org",
+   "from": "burgundy"
+  },
+  {
+   "to": "how-pinot-travelled",
+   "type": "story",
+   "name": "How pinot left the hill",
+   "as": "How cuttings and arguments from this hill reached Oregon, Otago and the Cape.",
+   "rel": "story",
+   "from": "burgundy"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown on the cool coastal side of the range.",
+   "rel": "variety",
+   "from": "casablanca-valley"
+  },
+  {
+   "to": "anderson-valley",
+   "type": "region",
+   "name": "Anderson Valley",
+   "as": "The same trick with fog, a hemisphere away.",
+   "rel": "contrast",
+   "from": "casablanca-valley"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "More than four fifths of everything planted here.",
+   "rel": "variety",
+   "from": "central-otago"
+  },
+  {
+   "to": "felton-road",
+   "type": "producer",
+   "name": "Felton Road",
+   "as": "Bannockburn, and the cellar that made the region legible abroad.",
+   "rel": "producer",
+   "from": "central-otago"
+  },
+  {
+   "to": "rippon",
+   "type": "producer",
+   "name": "Rippon",
+   "as": "Lake Wanaka, and one of the most photographed vineyards anywhere.",
+   "rel": "producer",
+   "from": "central-otago"
+  },
+  {
+   "to": "abel-clone",
+   "type": "clone",
+   "name": "Abel clone",
+   "as": "The cutting that walked through customs and changed New Zealand pinot.",
+   "rel": "clone",
+   "from": "central-otago"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown for structure, not colour.",
+   "rel": "variety",
+   "from": "champagne"
+  },
+  {
+   "to": "pinot-meunier",
+   "type": "variety",
+   "name": "Pinot Meunier",
+   "as": "Its frost insurance on the valley floor.",
+   "rel": "variety",
+   "from": "champagne"
+  },
+  {
+   "to": "saignee",
+   "type": "practice",
+   "name": "Saignée",
+   "as": "The bleed that makes rosé, and the other way to use a black grape here.",
+   "rel": "practice",
+   "from": "champagne"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Burgundy's southern shoulder, outside the Côte d'Or.",
+   "rel": "whole",
+   "from": "cote-chalonnaise"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown here for drinking rather than for keeping.",
+   "rel": "variety",
+   "from": "cote-chalonnaise"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The southern half of the Côte d'Or.",
+   "rel": "whole",
+   "from": "cote-de-beaune"
+  },
+  {
+   "to": "corton",
+   "type": "vineyard",
+   "name": "Corton",
+   "as": "The hill that holds the district's only red grand cru.",
+   "rel": "vineyard",
+   "from": "cote-de-beaune"
+  },
+  {
+   "to": "chardonnay",
+   "type": "variety",
+   "name": "Chardonnay",
+   "as": "The grape that takes the white flank of the same slope.",
+   "rel": "variety",
+   "from": "cote-de-beaune"
+  },
+  {
+   "to": "hospices-de-beaune",
+   "type": "org",
+   "name": "Hospices de Beaune",
+   "as": "Whose vines sit mostly in these communes.",
+   "rel": "org",
+   "from": "cote-de-beaune"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The northern half of the Côte d'Or.",
+   "rel": "whole",
+   "from": "cote-de-nuits"
+  },
+  {
+   "to": "romanee-conti",
+   "type": "vineyard",
+   "name": "Romanée-Conti",
+   "as": "The 1.8-hectare monopole at the centre of the argument.",
+   "rel": "vineyard",
+   "from": "cote-de-nuits"
+  },
+  {
+   "to": "clos-de-vougeot",
+   "type": "vineyard",
+   "name": "Clos de Vougeot",
+   "as": "Fifty hectares, eighty owners, one grand cru name.",
+   "rel": "vineyard",
+   "from": "cote-de-nuits"
+  },
+  {
+   "to": "chambertin",
+   "type": "vineyard",
+   "name": "Chambertin",
+   "as": "Gevrey's grand cru, and the one Napoleon is said to have carried.",
+   "rel": "vineyard",
+   "from": "cote-de-nuits"
+  },
+  {
+   "to": "musigny",
+   "type": "vineyard",
+   "name": "Musigny",
+   "as": "Chambolle's grand cru, where the wine goes lace-fine.",
+   "rel": "vineyard",
+   "from": "cote-de-nuits"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole",
+   "from": "dundee-hills"
+  },
+  {
+   "to": "eyrie-vineyards",
+   "type": "producer",
+   "name": "The Eyrie Vineyards",
+   "as": "Whose South Block vines are the oldest pinot here.",
+   "rel": "producer",
+   "from": "dundee-hills"
+  },
+  {
+   "to": "domaine-drouhin-oregon",
+   "type": "producer",
+   "name": "Domaine Drouhin Oregon",
+   "as": "Built high on the same hill in 1987.",
+   "rel": "producer",
+   "from": "dundee-hills"
+  },
+  {
+   "to": "sokol-blosser",
+   "type": "producer",
+   "name": "Sokol Blosser",
+   "as": "Planting since 1971, two ridges over.",
+   "rel": "producer",
+   "from": "dundee-hills"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole",
+   "from": "eola-amity-hills"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown small-berried here, because the wind stops the vine mid-afternoon.",
+   "rel": "variety",
+   "from": "eola-amity-hills"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown where the lake keeps the vine from freezing out.",
+   "rel": "variety",
+   "from": "finger-lakes"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Planted here from the 1970s, on clay that holds water through a dry summer.",
+   "rel": "variety",
+   "from": "hemel-en-aarde"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The comparison every grower in the valley invites and then complicates.",
+   "rel": "contrast",
+   "from": "hemel-en-aarde"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "One of three reds allowed, and rarely the loudest.",
+   "rel": "variety",
+   "from": "jura"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Sixty miles west, and the comparison every Jura grower fields.",
+   "rel": "neighbour",
+   "from": "jura"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown for still wine and for sparkling base, often on the same ranch.",
+   "rel": "variety",
+   "from": "los-carneros"
+  },
+  {
+   "to": "andre-tchelistcheff",
+   "type": "person",
+   "name": "André Tchelistcheff",
+   "as": "Who argued for this ground when Napa wanted cabernet.",
+   "rel": "person",
+   "from": "los-carneros"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Planted at scale here, and rarely the headline.",
+   "rel": "variety",
+   "from": "marlborough"
+  },
+  {
+   "to": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "as": "The region that gets the pinot attention.",
+   "rel": "contrast",
+   "from": "marlborough"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The reason the terrace was planted at all.",
+   "rel": "variety",
+   "from": "martinborough"
+  },
+  {
+   "to": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "as": "The country's other pinot argument, 900 km south.",
+   "rel": "neighbour",
+   "from": "martinborough"
+  },
+  {
+   "to": "abel-clone",
+   "type": "clone",
+   "name": "Abel clone",
+   "as": "Propagated here first, and named for the customs officer.",
+   "rel": "clone",
+   "from": "martinborough"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown cool and picked early, beside chardonnay.",
+   "rel": "variety",
+   "from": "mornington-peninsula"
+  },
+  {
+   "to": "yarra-valley",
+   "type": "region",
+   "name": "Yarra Valley",
+   "as": "Victoria's other pinot region, inland and in the hills.",
+   "rel": "neighbour",
+   "from": "mornington-peninsula"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown at the lake's cool end.",
+   "rel": "variety",
+   "from": "okanagan-valley"
+  },
+  {
+   "to": "yamhill-carlton",
+   "type": "region",
+   "name": "Yamhill-Carlton",
+   "as": "The larger AVA that surrounds it.",
+   "rel": "whole",
+   "from": "ribbon-ridge"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "And the valley AVA around that.",
+   "rel": "whole",
+   "from": "ribbon-ridge"
+  },
+  {
+   "to": "sonoma-coast",
+   "type": "region",
+   "name": "Sonoma Coast",
+   "as": "The larger coastal AVA around it.",
+   "rel": "neighbour",
+   "from": "russian-river-valley"
+  },
+  {
+   "to": "williams-selyem",
+   "type": "producer",
+   "name": "Williams Selyem",
+   "as": "The winery that made vineyard-designated Russian River pinot the thing to chase.",
+   "rel": "producer",
+   "from": "russian-river-valley"
+  },
+  {
+   "to": "merry-edwards",
+   "type": "person",
+   "name": "Merry Edwards",
+   "as": "Who made wine here and put her name on a clone selection.",
+   "rel": "person",
+   "from": "russian-river-valley"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown light, and often drunk chilled.",
+   "rel": "variety",
+   "from": "sancerre"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The duchy this ground once answered to.",
+   "rel": "origin",
+   "from": "sancerre"
+  },
+  {
+   "to": "martin-ray",
+   "type": "person",
+   "name": "Martin Ray",
+   "as": "Who kept pinot noir alive on this ridge through the 1940s and 1950s.",
+   "rel": "person",
+   "from": "santa-cruz-mountains"
+  },
+  {
+   "to": "mount-eden",
+   "type": "clone",
+   "name": "Mount Eden selection",
+   "as": "The selection that came off his vineyard and travelled.",
+   "rel": "clone",
+   "from": "santa-cruz-mountains"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Planted on the benches above the fog line.",
+   "rel": "variety",
+   "from": "santa-lucia-highlands"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "Another Central Coast valley that runs the wrong way and gets away with it.",
+   "rel": "neighbour",
+   "from": "santa-lucia-highlands"
+  },
+  {
+   "to": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "The bench planting that sells this valley's fruit to half of California.",
+   "rel": "vineyard",
+   "from": "santa-maria-valley"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "Beef, red oak and pinot noir out of one valley — the long version.",
+   "rel": "story",
+   "from": "santa-maria-valley"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "What the valley eats, and the argument about what to pour with it.",
+   "rel": "pairing",
+   "from": "santa-maria-valley"
+  },
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "The county's other pinot valley, half an hour south.",
+   "rel": "neighbour",
+   "from": "santa-maria-valley"
+  },
+  {
+   "to": "au-bon-climat",
+   "type": "producer",
+   "name": "Au Bon Climat",
+   "as": "Jim Clendenen's winery, built inside Bien Nacido.",
+   "rel": "producer",
+   "from": "santa-maria-valley"
+  },
+  {
+   "to": "santa-maria-bbq-association",
+   "type": "org",
+   "name": "Santa Maria Style Barbeque Association",
+   "as": "The body that polices what the phrase on the menu means.",
+   "rel": "org",
+   "from": "santa-maria-valley"
+  },
+  {
+   "to": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "as": "Its warmer inland neighbour.",
+   "rel": "neighbour",
+   "from": "sonoma-coast"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown at the edge of where it will ripen at all.",
+   "rel": "variety",
+   "from": "sonoma-coast"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The county's other pinot valley, half an hour north.",
+   "rel": "neighbour",
+   "from": "sta-rita-hills"
+  },
+  {
+   "to": "sanford-and-benedict",
+   "type": "vineyard",
+   "name": "Sanford & Benedict",
+   "as": "The 1971 planting that proved the ground.",
+   "rel": "vineyard",
+   "from": "sta-rita-hills"
+  },
+  {
+   "to": "richard-sanford",
+   "type": "person",
+   "name": "Richard Sanford",
+   "as": "Who read the weather maps and picked this gap.",
+   "rel": "person",
+   "from": "sta-rita-hills"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown for bubbles first, red second.",
+   "rel": "variety",
+   "from": "tasmania"
+  },
+  {
+   "to": "champagne",
+   "type": "region",
+   "name": "Champagne",
+   "as": "The model the sparkling program copies, at 42°S.",
+   "rel": "contrast",
+   "from": "tasmania"
+  },
+  {
+   "to": "dundee-hills",
+   "type": "region",
+   "name": "Dundee Hills",
+   "as": "The red Jory hills where Oregon pinot started.",
+   "rel": "part",
+   "from": "willamette-valley"
+  },
+  {
+   "to": "eola-amity-hills",
+   "type": "region",
+   "name": "Eola-Amity Hills",
+   "as": "The gap that lets the Van Duzer wind through.",
+   "rel": "part",
+   "from": "willamette-valley"
+  },
+  {
+   "to": "yamhill-carlton",
+   "type": "region",
+   "name": "Yamhill-Carlton",
+   "as": "Old marine sediment, and vines that ripen early.",
+   "rel": "part",
+   "from": "willamette-valley"
+  },
+  {
+   "to": "ribbon-ridge",
+   "type": "region",
+   "name": "Ribbon Ridge",
+   "as": "A single small ridge, its own AVA.",
+   "rel": "part",
+   "from": "willamette-valley"
+  },
+  {
+   "to": "david-lett",
+   "type": "person",
+   "name": "David Lett",
+   "as": "Who planted the first pinot noir here and argued for the rest.",
+   "rel": "person",
+   "from": "willamette-valley"
+  },
+  {
+   "to": "eyrie-vineyards",
+   "type": "producer",
+   "name": "The Eyrie Vineyards",
+   "as": "The winery that made the 1975 that changed the argument.",
+   "rel": "producer",
+   "from": "willamette-valley"
+  },
+  {
+   "to": "domaine-drouhin-oregon",
+   "type": "producer",
+   "name": "Domaine Drouhin Oregon",
+   "as": "Burgundy buying in, four years after the tasting.",
+   "rel": "producer",
+   "from": "willamette-valley"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley AVA this sits inside.",
+   "rel": "whole",
+   "from": "yamhill-carlton"
+  },
+  {
+   "to": "ribbon-ridge",
+   "type": "region",
+   "name": "Ribbon Ridge",
+   "as": "The small ridge in the middle of the horseshoe, with its own name.",
+   "rel": "neighbour",
+   "from": "yamhill-carlton"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Replanted here first among Australia's cool regions.",
+   "rel": "variety",
+   "from": "yarra-valley"
+  },
+  {
+   "to": "mornington-peninsula",
+   "type": "region",
+   "name": "Mornington Peninsula",
+   "as": "The maritime alternative, an hour and a half away.",
+   "rel": "neighbour",
+   "from": "yarra-valley"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The AVA it helped define.",
+   "rel": "region",
+   "from": "bien-nacido"
+  },
+  {
+   "to": "au-bon-climat",
+   "type": "producer",
+   "name": "Au Bon Climat",
+   "as": "Jim Clendenen's winery, on the property.",
+   "rel": "made-by",
+   "from": "bien-nacido"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The same ranch land that fed the vaquero barbecues.",
+   "rel": "story",
+   "from": "bien-nacido"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "What a budwood block is for.",
+   "rel": "practice",
+   "from": "bien-nacido"
+  },
+  {
+   "to": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "The district it sits in.",
+   "rel": "whole",
+   "from": "chambertin"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where the habit of appending the best vineyard to the village name began.",
+   "rel": "region",
+   "from": "chambertin"
+  },
+  {
+   "to": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "The district it sits in.",
+   "rel": "whole",
+   "from": "clos-de-vougeot"
+  },
+  {
+   "to": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "The unit this vineyard is usually held up to explain — and to complicate.",
+   "rel": "term",
+   "from": "clos-de-vougeot"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where dividing land by inheritance became the system.",
+   "rel": "region",
+   "from": "clos-de-vougeot"
+  },
+  {
+   "to": "cote-de-beaune",
+   "type": "region",
+   "name": "Côte de Beaune",
+   "as": "The district whose only red grand cru this is.",
+   "rel": "whole",
+   "from": "corton"
+  },
+  {
+   "to": "hospices-de-beaune",
+   "type": "org",
+   "name": "Hospices de Beaune",
+   "as": "Whose auction lots include Corton parcels given by donors.",
+   "rel": "org",
+   "from": "corton"
+  },
+  {
+   "to": "drc",
+   "type": "producer",
+   "name": "Domaine de la Romanée-Conti",
+   "as": "Its sole owner.",
+   "rel": "made-by",
+   "from": "la-tache"
+  },
+  {
+   "to": "romanee-conti",
+   "type": "vineyard",
+   "name": "Romanée-Conti",
+   "as": "Its neighbour, and the more famous half of the same domaine.",
+   "rel": "neighbour",
+   "from": "la-tache"
+  },
+  {
+   "to": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "The district it sits in.",
+   "rel": "whole",
+   "from": "musigny"
+  },
+  {
+   "to": "chardonnay",
+   "type": "variety",
+   "name": "Chardonnay",
+   "as": "The exception planted here: Musigny blanc.",
+   "rel": "variety",
+   "from": "musigny"
+  },
+  {
+   "to": "romanee-conti",
+   "type": "vineyard",
+   "name": "Romanée-Conti",
+   "as": "Its neighbour up the slope.",
+   "rel": "neighbour",
+   "from": "richebourg"
+  },
+  {
+   "to": "domaine-leroy",
+   "type": "producer",
+   "name": "Domaine Leroy",
+   "as": "One of the holders whose name sells the parcel.",
+   "rel": "made-by",
+   "from": "richebourg"
+  },
+  {
+   "to": "henri-jayer",
+   "type": "person",
+   "name": "Henri Jayer",
+   "as": "Who farmed here and taught half the Côte how he did it.",
+   "rel": "person",
+   "from": "richebourg"
+  },
+  {
+   "to": "drc",
+   "type": "producer",
+   "name": "Domaine de la Romanée-Conti",
+   "as": "Its sole owner, and the domaine named after it.",
+   "rel": "made-by",
+   "from": "romanee-conti"
+  },
+  {
+   "to": "la-tache",
+   "type": "vineyard",
+   "name": "La Tâche",
+   "as": "The other monopole down the same slope.",
+   "rel": "neighbour",
+   "from": "romanee-conti"
+  },
+  {
+   "to": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "The district it sits in.",
+   "rel": "whole",
+   "from": "romanee-conti"
+  },
+  {
+   "to": "monopole",
+   "type": "term",
+   "name": "Monopole",
+   "as": "One owner, one vineyard — the word for this arrangement.",
+   "rel": "term",
+   "from": "romanee-conti"
+  },
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "The AVA drawn around this ground thirty years later.",
+   "rel": "region",
+   "from": "sanford-and-benedict"
+  },
+  {
+   "to": "richard-sanford",
+   "type": "person",
+   "name": "Richard Sanford",
+   "as": "Who chose the site.",
+   "rel": "person",
+   "from": "sanford-and-benedict"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "Whose 1983 AVA petition he chaired.",
+   "rel": "region",
+   "from": "adelsheim"
+  },
+  {
+   "to": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "One of the Dijon selections Oregon imported through that work.",
+   "rel": "clone",
+   "from": "adelsheim"
+  },
+  {
+   "to": "jim-clendenen",
+   "type": "person",
+   "name": "Jim Clendenen",
+   "as": "Who ran it for four decades.",
+   "rel": "made-by",
+   "from": "au-bon-climat"
+  },
+  {
+   "to": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "The vineyard it lives inside and buys from.",
+   "rel": "grown-at",
+   "from": "au-bon-climat"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The valley it argued for.",
+   "rel": "region",
+   "from": "au-bon-climat"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "Beef and pinot out of one valley — the long version.",
+   "rel": "story",
+   "from": "au-bon-climat"
+  },
+  {
+   "to": "high-density-planting",
+   "type": "practice",
+   "name": "High-density planting",
+   "as": "The decision the vineyard is built on.",
+   "rel": "practice",
+   "from": "bass-phillip"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "What the cabernet was replaced with.",
+   "rel": "variety",
+   "from": "bass-phillip"
+  },
+  {
+   "to": "josh-jensen",
+   "type": "person",
+   "name": "Josh Jensen",
+   "as": "Who chose the limestone and planted it.",
+   "rel": "made-by",
+   "from": "calera"
+  },
+  {
+   "to": "calera-selection",
+   "type": "clone",
+   "name": "Calera selection",
+   "as": "The cuttings that came home with him, and what growers now call them.",
+   "rel": "clone",
+   "from": "calera"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The comparison he was explicitly chasing.",
+   "rel": "origin",
+   "from": "calera"
+  },
+  {
+   "to": "joseph-drouhin",
+   "type": "producer",
+   "name": "Maison Joseph Drouhin",
+   "as": "The Beaune house behind it.",
+   "rel": "kin",
+   "from": "domaine-drouhin-oregon"
+  },
+  {
+   "to": "dundee-hills",
+   "type": "region",
+   "name": "Dundee Hills",
+   "as": "The hill it sits high on.",
+   "rel": "region",
+   "from": "domaine-drouhin-oregon"
+  },
+  {
+   "to": "eyrie-vineyards",
+   "type": "producer",
+   "name": "The Eyrie Vineyards",
+   "as": "Whose 1975 pulled the family across the Atlantic.",
+   "rel": "origin",
+   "from": "domaine-drouhin-oregon"
+  },
+  {
+   "to": "lalou-bize-leroy",
+   "type": "person",
+   "name": "Lalou Bize-Leroy",
+   "as": "Who built it and farms it.",
+   "rel": "made-by",
+   "from": "domaine-leroy"
+  },
+  {
+   "to": "richebourg",
+   "type": "vineyard",
+   "name": "Richebourg",
+   "as": "One of the grand cru parcels it holds.",
+   "rel": "owns",
+   "from": "domaine-leroy"
+  },
+  {
+   "to": "native-yeast",
+   "type": "practice",
+   "name": "Native yeast",
+   "as": "Part of the cellar method that follows from farming this way.",
+   "rel": "practice",
+   "from": "domaine-leroy"
+  },
+  {
+   "to": "romanee-conti",
+   "type": "vineyard",
+   "name": "Romanée-Conti",
+   "as": "Its monopole, and its name.",
+   "rel": "owns",
+   "from": "drc"
+  },
+  {
+   "to": "la-tache",
+   "type": "vineyard",
+   "name": "La Tâche",
+   "as": "Its other monopole.",
+   "rel": "owns",
+   "from": "drc"
+  },
+  {
+   "to": "aubert-de-villaine",
+   "type": "person",
+   "name": "Aubert de Villaine",
+   "as": "Co-director, and the man who carried the Climats to UNESCO.",
+   "rel": "person",
+   "from": "drc"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The region whose reputation this address both makes and distorts.",
+   "rel": "region",
+   "from": "drc"
+  },
+  {
+   "to": "david-lett",
+   "type": "person",
+   "name": "David Lett",
+   "as": "Who planted it.",
+   "rel": "made-by",
+   "from": "eyrie-vineyards"
+  },
+  {
+   "to": "dundee-hills",
+   "type": "region",
+   "name": "Dundee Hills",
+   "as": "The hill his first block sits on.",
+   "rel": "region",
+   "from": "eyrie-vineyards"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley he argued into existence as a wine region.",
+   "rel": "region",
+   "from": "eyrie-vineyards"
+  },
+  {
+   "to": "how-pinot-travelled",
+   "type": "story",
+   "name": "How pinot left the hill",
+   "as": "One leg of the journey, told at length.",
+   "rel": "story",
+   "from": "eyrie-vineyards"
+  },
+  {
+   "to": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "as": "The region it sits in and helped explain abroad.",
+   "rel": "region",
+   "from": "felton-road"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Nearly everything in the cellar.",
+   "rel": "variety",
+   "from": "felton-road"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Among the earliest serious American plantings after Prohibition.",
+   "rel": "variety",
+   "from": "hanzell"
+  },
+  {
+   "to": "neutral-oak",
+   "type": "practice",
+   "name": "Neutral oak",
+   "as": "The barrel question he answered by importing the barrels.",
+   "rel": "practice",
+   "from": "hanzell"
+  },
+  {
+   "to": "domaine-drouhin-oregon",
+   "type": "producer",
+   "name": "Domaine Drouhin Oregon",
+   "as": "The Dundee Hills estate this family built.",
+   "rel": "kin",
+   "from": "joseph-drouhin"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "Where Robert Drouhin re-ran the 1979 tasting and then bought land.",
+   "rel": "region",
+   "from": "joseph-drouhin"
+  },
+  {
+   "to": "negociant",
+   "type": "term",
+   "name": "Négociant",
+   "as": "What this house does, and the word for it.",
+   "rel": "term",
+   "from": "louis-jadot"
+  },
+  {
+   "to": "cote-de-beaune",
+   "type": "region",
+   "name": "Côte de Beaune",
+   "as": "Where it sits and where most of its vines are.",
+   "rel": "region",
+   "from": "louis-jadot"
+  },
+  {
+   "to": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "as": "Its region, at the cooler northern end.",
+   "rel": "region",
+   "from": "rippon"
+  },
+  {
+   "to": "dundee-hills",
+   "type": "region",
+   "name": "Dundee Hills",
+   "as": "The AVA its blocks sit in.",
+   "rel": "region",
+   "from": "sokol-blosser"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "One of the valley's founding estates.",
+   "rel": "region",
+   "from": "sokol-blosser"
+  },
+  {
+   "to": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "as": "The AVA whose reputation it built.",
+   "rel": "region",
+   "from": "williams-selyem"
+  },
+  {
+   "to": "burt-williams",
+   "type": "person",
+   "name": "Burt Williams",
+   "as": "Who made the wine, then went north and planted his own.",
+   "rel": "made-by",
+   "from": "williams-selyem"
+  },
+  {
+   "to": "martinborough",
+   "type": "region",
+   "name": "Martinborough",
+   "as": "Where it was first propagated in quantity.",
+   "rel": "region",
+   "from": "abel-clone"
+  },
+  {
+   "to": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "as": "And where it now grows, 900 km further south.",
+   "rel": "region",
+   "from": "abel-clone"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "The practice this story sits at the edge of.",
+   "rel": "practice",
+   "from": "abel-clone"
+  },
+  {
+   "to": "calera",
+   "type": "producer",
+   "name": "Calera",
+   "as": "The vineyard it is named for.",
+   "rel": "grown-at",
+   "from": "calera-selection"
+  },
+  {
+   "to": "josh-jensen",
+   "type": "person",
+   "name": "Josh Jensen",
+   "as": "Who carried it, by the usual account.",
+   "rel": "person",
+   "from": "calera-selection"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "The practice, and its grey areas.",
+   "rel": "practice",
+   "from": "calera-selection"
+  },
+  {
+   "to": "dijon-777",
+   "type": "clone",
+   "name": "Dijon 777",
+   "as": "Its darker, denser stablemate.",
+   "rel": "kin",
+   "from": "dijon-115"
+  },
+  {
+   "to": "dijon-667",
+   "type": "clone",
+   "name": "Dijon 667",
+   "as": "The third of the common trio.",
+   "rel": "kin",
+   "from": "dijon-115"
+  },
+  {
+   "to": "raymond-bernard",
+   "type": "person",
+   "name": "Raymond Bernard",
+   "as": "Who ran the selection programme the number comes from.",
+   "rel": "person",
+   "from": "dijon-115"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "How Burgundy came to sell its vines by catalogue.",
+   "rel": "story",
+   "from": "dijon-115"
+  },
+  {
+   "to": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "Planted with it, almost always.",
+   "rel": "kin",
+   "from": "dijon-667"
+  },
+  {
+   "to": "dijon-777",
+   "type": "clone",
+   "name": "Dijon 777",
+   "as": "And with this one.",
+   "rel": "kin",
+   "from": "dijon-667"
+  },
+  {
+   "to": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "The aromatic one, usually planted alongside.",
+   "rel": "kin",
+   "from": "dijon-777"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "The programme behind the number.",
+   "rel": "story",
+   "from": "dijon-777"
+  },
+  {
+   "to": "martin-ray",
+   "type": "person",
+   "name": "Martin Ray",
+   "as": "Whose vineyard the cuttings came from.",
+   "rel": "origin",
+   "from": "mount-eden"
+  },
+  {
+   "to": "santa-cruz-mountains",
+   "type": "region",
+   "name": "Santa Cruz Mountains",
+   "as": "The ridge it comes off.",
+   "rel": "region",
+   "from": "mount-eden"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "How a selection like this moves: cuttings, not catalogues.",
+   "rel": "practice",
+   "from": "mount-eden"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The same variety, selected for a different habit.",
+   "rel": "variety",
+   "from": "pinot-droit"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "What replaced it, and why growers changed their minds.",
+   "rel": "story",
+   "from": "pinot-droit"
+  },
+  {
+   "to": "wadenswil-ucd2a",
+   "type": "clone",
+   "name": "Wädenswil, UCD 2A",
+   "as": "The other half of Oregon's old plantings.",
+   "rel": "kin",
+   "from": "pommard-ucd4"
+  },
+  {
+   "to": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "What arrived later and changed the arithmetic.",
+   "rel": "contrast",
+   "from": "pommard-ucd4"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "Why a vine has a catalogue number at all.",
+   "rel": "story",
+   "from": "pommard-ucd4"
+  },
+  {
+   "to": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "as": "Where it comes from and mostly stays.",
+   "rel": "region",
+   "from": "swan-selection"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "How it spread.",
+   "rel": "practice",
+   "from": "swan-selection"
+  },
+  {
+   "to": "pommard-ucd4",
+   "type": "clone",
+   "name": "Pommard, UCD 4",
+   "as": "Its planting partner in old Oregon blocks.",
+   "rel": "kin",
+   "from": "wadenswil-ucd2a"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "Where the pairing did the early work.",
+   "rel": "region",
+   "from": "wadenswil-ucd2a"
+  },
+  {
+   "to": "whole-cluster",
+   "type": "practice",
+   "name": "Whole cluster",
+   "as": "A decision taken at the same moment, on the same fruit.",
+   "rel": "kin",
+   "from": "cold-soak"
+  },
+  {
+   "to": "native-yeast",
+   "type": "practice",
+   "name": "Native yeast",
+   "as": "Cold soak lasts until something starts the ferment — which is where this comes in.",
+   "rel": "kin",
+   "from": "cold-soak"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where the yield caps are written into the appellation.",
+   "rel": "region",
+   "from": "green-harvest"
+  },
+  {
+   "to": "high-density-planting",
+   "type": "practice",
+   "name": "High-density planting",
+   "as": "The other way to make each vine carry less.",
+   "rel": "kin",
+   "from": "green-harvest"
+  },
+  {
+   "to": "whole-cluster",
+   "type": "practice",
+   "name": "Whole cluster",
+   "as": "The decision hand-picking keeps open.",
+   "rel": "kin",
+   "from": "hand-harvest"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where the slope makes the choice for you.",
+   "rel": "region",
+   "from": "hand-harvest"
+  },
+  {
+   "to": "la-tache",
+   "type": "vineyard",
+   "name": "La Tâche",
+   "as": "Where the 9,000-vine minimum is written into the appellation.",
+   "rel": "region",
+   "from": "high-density-planting"
+  },
+  {
+   "to": "bass-phillip",
+   "type": "producer",
+   "name": "Bass Phillip",
+   "as": "Which planted at Burgundian density in Gippsland and waited twelve years to sell a bottle.",
+   "rel": "producer",
+   "from": "high-density-planting"
+  },
+  {
+   "to": "neutral-oak",
+   "type": "practice",
+   "name": "Neutral oak",
+   "as": "Where it usually happens: in barrel, over a cold winter.",
+   "rel": "kin",
+   "from": "malolactic"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "A high-acid grape, which is why the softening matters here.",
+   "rel": "variety",
+   "from": "malolactic"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "The alternative, and how it won the nursery trade.",
+   "rel": "story",
+   "from": "massale-selection"
+  },
+  {
+   "to": "mount-eden",
+   "type": "clone",
+   "name": "Mount Eden selection",
+   "as": "A selection that travelled this way.",
+   "rel": "clone",
+   "from": "massale-selection"
+  },
+  {
+   "to": "abel-clone",
+   "type": "clone",
+   "name": "Abel clone",
+   "as": "And one whose travel was less orthodox.",
+   "rel": "clone",
+   "from": "massale-selection"
+  },
+  {
+   "to": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "Where certified budwood gets grown at scale instead.",
+   "rel": "vineyard",
+   "from": "massale-selection"
+  },
+  {
+   "to": "cold-soak",
+   "type": "practice",
+   "name": "Cold soak",
+   "as": "What ends a cold soak, if nobody intervenes.",
+   "rel": "kin",
+   "from": "native-yeast"
+  },
+  {
+   "to": "wine-fault-brett",
+   "type": "term",
+   "name": "Brett",
+   "as": "The organism that gets blamed when this goes wrong.",
+   "rel": "contrast",
+   "from": "native-yeast"
+  },
+  {
+   "to": "malolactic",
+   "type": "practice",
+   "name": "Malolactic fermentation",
+   "as": "What happens inside these barrels, over winter.",
+   "rel": "kin",
+   "from": "neutral-oak"
+  },
+  {
+   "to": "hanzell",
+   "type": "producer",
+   "name": "Hanzell Vineyards",
+   "as": "Which imported French barrels to California and started the argument there.",
+   "rel": "producer",
+   "from": "neutral-oak"
+  },
+  {
+   "to": "whole-cluster",
+   "type": "practice",
+   "name": "Whole cluster",
+   "as": "What a foot meets when the stems stay in.",
+   "rel": "kin",
+   "from": "pigeage"
+  },
+  {
+   "to": "saignee",
+   "type": "practice",
+   "name": "Saignée",
+   "as": "The other lever for concentration, pulled before fermentation.",
+   "rel": "contrast",
+   "from": "pigeage"
+  },
+  {
+   "to": "pigeage-term",
+   "type": "term",
+   "name": "Pigeage",
+   "as": "The word itself.",
+   "rel": "term",
+   "from": "pigeage"
+  },
+  {
+   "to": "saignee-term",
+   "type": "term",
+   "name": "Saignée",
+   "as": "The word, from saigner, to bleed.",
+   "rel": "term",
+   "from": "saignee"
+  },
+  {
+   "to": "champagne",
+   "type": "region",
+   "name": "Champagne",
+   "as": "Where rosé is more often made by blending red wine in instead.",
+   "rel": "contrast",
+   "from": "saignee"
+  },
+  {
+   "to": "vendange-entiere",
+   "type": "term",
+   "name": "Vendange entière",
+   "as": "The French word, and its root.",
+   "rel": "term",
+   "from": "whole-cluster"
+  },
+  {
+   "to": "pigeage",
+   "type": "practice",
+   "name": "Punching down",
+   "as": "The other half of the same fermentation decision.",
+   "rel": "kin",
+   "from": "whole-cluster"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "A variety thin enough in tannin to notice what the stems add.",
+   "rel": "variety",
+   "from": "whole-cluster"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The wine in the pot and in the glass.",
+   "rel": "variety",
+   "from": "coq-au-vin"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where the version with a named wine comes from.",
+   "rel": "region",
+   "from": "coq-au-vin"
+  },
+  {
+   "to": "mushrooms",
+   "type": "pairing",
+   "name": "Mushrooms",
+   "as": "In the pot from the start.",
+   "rel": "pairing",
+   "from": "coq-au-vin"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The wine most often poured with it.",
+   "rel": "variety",
+   "from": "duck"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where the pairing is a house rule.",
+   "rel": "region",
+   "from": "duck"
+  },
+  {
+   "to": "mushrooms",
+   "type": "pairing",
+   "name": "Mushrooms",
+   "as": "The other half of most plates it arrives on.",
+   "rel": "pairing",
+   "from": "duck"
+  },
+  {
+   "to": "duck",
+   "type": "pairing",
+   "name": "Duck",
+   "as": "Its usual companion on the plate.",
+   "rel": "pairing",
+   "from": "mushrooms"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The wine whose aged character it mirrors.",
+   "rel": "variety",
+   "from": "mushrooms"
+  },
+  {
+   "to": "truffle-pairing",
+   "type": "pairing",
+   "name": "Truffle",
+   "as": "The expensive end of the same idea.",
+   "rel": "kin",
+   "from": "mushrooms"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The plate it belongs to.",
+   "rel": "pairing",
+   "from": "pinquito-beans"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The only ground that grows them at scale.",
+   "rel": "region",
+   "from": "pinquito-beans"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The meat it cooks.",
+   "rel": "pairing",
+   "from": "red-oak"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "Why the wood is the part that cannot be exported.",
+   "rel": "story",
+   "from": "red-oak"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The hills it grows on.",
+   "rel": "region",
+   "from": "red-oak"
+  },
+  {
+   "to": "ipnc",
+   "type": "event",
+   "name": "International Pinot Noir Celebration",
+   "as": "Where a valley full of growers eats it every summer.",
+   "rel": "event",
+   "from": "salmon"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley that grows the wine beside the river.",
+   "rel": "region",
+   "from": "salmon"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The red that gets poured with fish without an argument.",
+   "rel": "variety",
+   "from": "salmon"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "What it goes on.",
+   "rel": "pairing",
+   "from": "santa-maria-salsa"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "Where the acid question meets the wine question.",
+   "rel": "story",
+   "from": "santa-maria-salsa"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The long version: the ranch, the oak, the competing claims, and the wine question.",
+   "rel": "story",
+   "from": "santa-maria-tri-tip"
+  },
+  {
+   "to": "red-oak",
+   "type": "pairing",
+   "name": "Red oak",
+   "as": "The wood, which is not a red oak.",
+   "rel": "pairing",
+   "from": "santa-maria-tri-tip"
+  },
+  {
+   "to": "pinquito-beans",
+   "type": "pairing",
+   "name": "Pinquito beans",
+   "as": "What comes beside it.",
+   "rel": "pairing",
+   "from": "santa-maria-tri-tip"
+  },
+  {
+   "to": "santa-maria-salsa",
+   "type": "pairing",
+   "name": "Santa Maria salsa",
+   "as": "And what goes on it.",
+   "rel": "pairing",
+   "from": "santa-maria-tri-tip"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The valley that also grows pinot noir on the same hills.",
+   "rel": "region",
+   "from": "santa-maria-tri-tip"
+  },
+  {
+   "to": "bob-schutz",
+   "type": "person",
+   "name": "Bob Schutz",
+   "as": "The market manager the town credits.",
+   "rel": "person",
+   "from": "santa-maria-tri-tip"
+  },
+  {
+   "to": "santa-maria-bbq-association",
+   "type": "org",
+   "name": "Santa Maria Style Barbeque Association",
+   "as": "Which defines the phrase on the menu.",
+   "rel": "org",
+   "from": "santa-maria-tri-tip"
+  },
+  {
+   "to": "mushrooms",
+   "type": "pairing",
+   "name": "Mushrooms",
+   "as": "The everyday version of the same pairing.",
+   "rel": "kin",
+   "from": "truffle-pairing"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where both come from.",
+   "rel": "region",
+   "from": "truffle-pairing"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Whose cheese board this is.",
+   "rel": "region",
+   "from": "washed-rind-cheese"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Poured with it locally, and argued about everywhere else.",
+   "rel": "variety",
+   "from": "washed-rind-cheese"
+  },
+  {
+   "to": "los-carneros",
+   "type": "region",
+   "name": "Los Carneros",
+   "as": "The cold shoulder he pointed people toward.",
+   "rel": "region",
+   "from": "andre-tchelistcheff"
+  },
+  {
+   "to": "hanzell",
+   "type": "producer",
+   "name": "Hanzell Vineyards",
+   "as": "A contemporary experiment in importing Burgundian cellar practice.",
+   "rel": "kin",
+   "from": "andre-tchelistcheff"
+  },
+  {
+   "to": "drc",
+   "type": "producer",
+   "name": "Domaine de la Romanée-Conti",
+   "as": "The domaine he ran for nearly fifty years.",
+   "rel": "made-by",
+   "from": "aubert-de-villaine"
+  },
+  {
+   "to": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "The unit he argued was heritage.",
+   "rel": "term",
+   "from": "aubert-de-villaine"
+  },
+  {
+   "to": "lalou-bize-leroy",
+   "type": "person",
+   "name": "Lalou Bize-Leroy",
+   "as": "Co-director until 1991.",
+   "rel": "kin",
+   "from": "aubert-de-villaine"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The dish that followed.",
+   "rel": "pairing",
+   "from": "bob-schutz"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "Every claim to the cut, in order.",
+   "rel": "story",
+   "from": "bob-schutz"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "His town, and the valley it made famous.",
+   "rel": "region",
+   "from": "bob-schutz"
+  },
+  {
+   "to": "williams-selyem",
+   "type": "producer",
+   "name": "Williams Selyem",
+   "as": "The winery he founded with Ed Selyem.",
+   "rel": "made-by",
+   "from": "burt-williams"
+  },
+  {
+   "to": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "as": "The AVA his labels advertised.",
+   "rel": "region",
+   "from": "burt-williams"
+  },
+  {
+   "to": "eyrie-vineyards",
+   "type": "producer",
+   "name": "The Eyrie Vineyards",
+   "as": "The winery he founded.",
+   "rel": "made-by",
+   "from": "david-lett"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley he bet on.",
+   "rel": "region",
+   "from": "david-lett"
+  },
+  {
+   "to": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "as": "And the first American planting of it.",
+   "rel": "variety",
+   "from": "david-lett"
+  },
+  {
+   "to": "richebourg",
+   "type": "vineyard",
+   "name": "Richebourg",
+   "as": "One of the parcels his name is attached to.",
+   "rel": "vineyard",
+   "from": "henri-jayer"
+  },
+  {
+   "to": "cold-soak",
+   "type": "practice",
+   "name": "Cold soak",
+   "as": "A practice his cellar made standard on the Côte.",
+   "rel": "practice",
+   "from": "henri-jayer"
+  },
+  {
+   "to": "cote-de-nuits",
+   "type": "region",
+   "name": "Côte de Nuits",
+   "as": "Where he worked all his life.",
+   "rel": "region",
+   "from": "henri-jayer"
+  },
+  {
+   "to": "au-bon-climat",
+   "type": "producer",
+   "name": "Au Bon Climat",
+   "as": "The winery he built and ran.",
+   "rel": "made-by",
+   "from": "jim-clendenen"
+  },
+  {
+   "to": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "Where it lives.",
+   "rel": "grown-at",
+   "from": "jim-clendenen"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The valley he argued for.",
+   "rel": "region",
+   "from": "jim-clendenen"
+  },
+  {
+   "to": "calera",
+   "type": "producer",
+   "name": "Calera",
+   "as": "What he built on the limestone.",
+   "rel": "made-by",
+   "from": "josh-jensen"
+  },
+  {
+   "to": "calera-selection",
+   "type": "clone",
+   "name": "Calera selection",
+   "as": "The cuttings that travelled with him.",
+   "rel": "clone",
+   "from": "josh-jensen"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where he learned the argument.",
+   "rel": "origin",
+   "from": "josh-jensen"
+  },
+  {
+   "to": "domaine-leroy",
+   "type": "producer",
+   "name": "Domaine Leroy",
+   "as": "The domaine she assembled in 1988.",
+   "rel": "made-by",
+   "from": "lalou-bize-leroy"
+  },
+  {
+   "to": "drc",
+   "type": "producer",
+   "name": "Domaine de la Romanée-Conti",
+   "as": "Which she co-directed until 1991.",
+   "rel": "kin",
+   "from": "lalou-bize-leroy"
+  },
+  {
+   "to": "aubert-de-villaine",
+   "type": "person",
+   "name": "Aubert de Villaine",
+   "as": "Her co-director there.",
+   "rel": "kin",
+   "from": "lalou-bize-leroy"
+  },
+  {
+   "to": "mount-eden",
+   "type": "clone",
+   "name": "Mount Eden selection",
+   "as": "The selection that came off his vines.",
+   "rel": "clone",
+   "from": "martin-ray"
+  },
+  {
+   "to": "santa-cruz-mountains",
+   "type": "region",
+   "name": "Santa Cruz Mountains",
+   "as": "The ridge he farmed.",
+   "rel": "region",
+   "from": "martin-ray"
+  },
+  {
+   "to": "paul-masson-person",
+   "type": "person",
+   "name": "Paul Masson",
+   "as": "Whose winery he bought.",
+   "rel": "origin",
+   "from": "martin-ray"
+  },
+  {
+   "to": "russian-river-valley",
+   "type": "region",
+   "name": "Russian River Valley",
+   "as": "Where her own vineyards sit.",
+   "rel": "region",
+   "from": "merry-edwards"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "How the selection bearing her name moves.",
+   "rel": "practice",
+   "from": "merry-edwards"
+  },
+  {
+   "to": "martin-ray",
+   "type": "person",
+   "name": "Martin Ray",
+   "as": "Who bought his mountain winery in 1936.",
+   "rel": "descendant",
+   "from": "paul-masson-person"
+  },
+  {
+   "to": "mount-eden",
+   "type": "clone",
+   "name": "Mount Eden selection",
+   "as": "The selection the trade traces back through him.",
+   "rel": "clone",
+   "from": "paul-masson-person"
+  },
+  {
+   "to": "santa-cruz-mountains",
+   "type": "region",
+   "name": "Santa Cruz Mountains",
+   "as": "Where he planted.",
+   "rel": "region",
+   "from": "paul-masson-person"
+  },
+  {
+   "to": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "The selection most planted from that programme.",
+   "rel": "clone",
+   "from": "raymond-bernard"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "The whole story.",
+   "rel": "story",
+   "from": "raymond-bernard"
+  },
+  {
+   "to": "adelsheim",
+   "type": "producer",
+   "name": "Adelsheim Vineyard",
+   "as": "Who worked the Oregon end of the import.",
+   "rel": "person",
+   "from": "raymond-bernard"
+  },
+  {
+   "to": "sanford-and-benedict",
+   "type": "vineyard",
+   "name": "Sanford & Benedict",
+   "as": "The vineyard he planted with Michael Benedict.",
+   "rel": "made-by",
+   "from": "richard-sanford"
+  },
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "The AVA drawn around that ground in 2001.",
+   "rel": "region",
+   "from": "richard-sanford"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Whose numbers it publishes.",
+   "rel": "region",
+   "from": "bivb"
+  },
+  {
+   "to": "negociant",
+   "type": "term",
+   "name": "Négociant",
+   "as": "One half of the trade it represents.",
+   "rel": "term",
+   "from": "bivb"
+  },
+  {
+   "to": "pommard-ucd4",
+   "type": "clone",
+   "name": "Pommard, UCD 4",
+   "as": "Whose number is an FPS number.",
+   "rel": "clone",
+   "from": "fps"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "The alternative, and its risks.",
+   "rel": "practice",
+   "from": "fps"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "How the catalogue came to exist.",
+   "rel": "story",
+   "from": "fps"
+  },
+  {
+   "to": "hospices-auction",
+   "type": "event",
+   "name": "Hospices de Beaune auction",
+   "as": "Its November sale.",
+   "rel": "event",
+   "from": "hospices-de-beaune"
+  },
+  {
+   "to": "corton",
+   "type": "vineyard",
+   "name": "Corton",
+   "as": "Among the parcels it holds.",
+   "rel": "vineyard",
+   "from": "hospices-de-beaune"
+  },
+  {
+   "to": "cote-de-beaune",
+   "type": "region",
+   "name": "Côte de Beaune",
+   "as": "Where nearly all its vines sit.",
+   "rel": "region",
+   "from": "hospices-de-beaune"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Whose four ranks it administers.",
+   "rel": "region",
+   "from": "inao"
+  },
+  {
+   "to": "ava",
+   "type": "term",
+   "name": "AVA",
+   "as": "The American equivalent, which regulates far less.",
+   "rel": "contrast",
+   "from": "inao"
+  },
+  {
+   "to": "cru",
+   "type": "term",
+   "name": "Cru",
+   "as": "The rank it grants and withholds.",
+   "rel": "term",
+   "from": "inao"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The region most of its numbers describe.",
+   "rel": "region",
+   "from": "oregon-wine-board"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "One of the AVAs it represents.",
+   "rel": "region",
+   "from": "santa-barbara-vintners"
+  },
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "And the other.",
+   "rel": "region",
+   "from": "santa-barbara-vintners"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The dish it defines.",
+   "rel": "pairing",
+   "from": "santa-maria-bbq-association"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The long version, with the competing claims.",
+   "rel": "story",
+   "from": "santa-maria-bbq-association"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The valley whose name is on the menu.",
+   "rel": "region",
+   "from": "santa-maria-bbq-association"
+  },
+  {
+   "to": "ava",
+   "type": "term",
+   "name": "AVA",
+   "as": "The instrument it administers.",
+   "rel": "term",
+   "from": "ttb"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "Established under its predecessor bureau in 1981.",
+   "rel": "region",
+   "from": "ttb"
+  },
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "And renamed by the TTB in 2005 after a trademark objection.",
+   "rel": "region",
+   "from": "ttb"
+  },
+  {
+   "to": "santa-maria-bbq-association",
+   "type": "org",
+   "name": "Santa Maria Style Barbeque Association",
+   "as": "The association behind it.",
+   "rel": "org",
+   "from": "dine-out-santa-maria-style"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "What is on every menu in it.",
+   "rel": "pairing",
+   "from": "dine-out-santa-maria-style"
+  },
+  {
+   "to": "hospices-de-beaune",
+   "type": "org",
+   "name": "Hospices de Beaune",
+   "as": "Whose sale it is.",
+   "rel": "org",
+   "from": "hospices-auction"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The region that reads it as a weather report with prices.",
+   "rel": "region",
+   "from": "hospices-auction"
+  },
+  {
+   "to": "willamette-valley",
+   "type": "region",
+   "name": "Willamette Valley",
+   "as": "The valley that hosts it.",
+   "rel": "region",
+   "from": "ipnc"
+  },
+  {
+   "to": "salmon",
+   "type": "pairing",
+   "name": "Salmon",
+   "as": "What gets cooked at the Saturday dinner.",
+   "rel": "pairing",
+   "from": "ipnc"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The single subject.",
+   "rel": "variety",
+   "from": "ipnc"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Whose villages take turns.",
+   "rel": "region",
+   "from": "saint-vincent-tournante"
+  },
+  {
+   "to": "vigneron",
+   "type": "term",
+   "name": "Vigneron",
+   "as": "Whose feast it is.",
+   "rel": "term",
+   "from": "saint-vincent-tournante"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "Half an hour north, and well represented.",
+   "rel": "region",
+   "from": "world-of-pinot-noir"
+  },
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "And the other local AVA.",
+   "rel": "region",
+   "from": "world-of-pinot-noir"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "Established 1981: the country's third.",
+   "rel": "region",
+   "from": "ava"
+  },
+  {
+   "to": "ttb",
+   "type": "org",
+   "name": "TTB",
+   "as": "The bureau that rules on the petitions.",
+   "rel": "org",
+   "from": "ava"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where the same idea comes with rules about what you may plant and how much you may pick.",
+   "rel": "contrast",
+   "from": "ava"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "A grape that can hit sugar before its stems and skins are ready.",
+   "rel": "variety",
+   "from": "brix"
+  },
+  {
+   "to": "hand-harvest",
+   "type": "practice",
+   "name": "Hand harvest",
+   "as": "The decision the number feeds into.",
+   "rel": "practice",
+   "from": "brix"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "The region that counts in these units.",
+   "rel": "region",
+   "from": "climat"
+  },
+  {
+   "to": "lieu-dit",
+   "type": "term",
+   "name": "Lieu-dit",
+   "as": "The wider French term a climat is a particular case of.",
+   "rel": "kin",
+   "from": "climat"
+  },
+  {
+   "to": "clos-de-vougeot",
+   "type": "vineyard",
+   "name": "Clos de Vougeot",
+   "as": "One name, fifty hectares, and a lesson about what a climat does not tell you.",
+   "rel": "vineyard",
+   "from": "climat"
+  },
+  {
+   "to": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "The plot a cru rank is attached to here.",
+   "rel": "kin",
+   "from": "cru"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Four ranks, and the smaller the ground the louder the name.",
+   "rel": "region",
+   "from": "cru"
+  },
+  {
+   "to": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "Burgundy's own word for the ranked version.",
+   "rel": "kin",
+   "from": "lieu-dit"
+  },
+  {
+   "to": "monopole",
+   "type": "term",
+   "name": "Monopole",
+   "as": "What a lieu-dit is called when one owner holds it all.",
+   "rel": "kin",
+   "from": "lieu-dit"
+  },
+  {
+   "to": "romanee-conti",
+   "type": "vineyard",
+   "name": "Romanée-Conti",
+   "as": "1.8 hectares, one owner.",
+   "rel": "vineyard",
+   "from": "monopole"
+  },
+  {
+   "to": "la-tache",
+   "type": "vineyard",
+   "name": "La Tâche",
+   "as": "Five hectares, the same owner.",
+   "rel": "vineyard",
+   "from": "monopole"
+  },
+  {
+   "to": "clos-de-vougeot",
+   "type": "vineyard",
+   "name": "Clos de Vougeot",
+   "as": "The opposite case: one name, eighty owners.",
+   "rel": "contrast",
+   "from": "monopole"
+  },
+  {
+   "to": "louis-jadot",
+   "type": "producer",
+   "name": "Maison Louis Jadot",
+   "as": "A house that grew into a large grower as well.",
+   "rel": "producer",
+   "from": "negociant"
+  },
+  {
+   "to": "joseph-drouhin",
+   "type": "producer",
+   "name": "Maison Joseph Drouhin",
+   "as": "And another.",
+   "rel": "producer",
+   "from": "negociant"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where the trade is structured around this.",
+   "rel": "region",
+   "from": "negociant"
+  },
+  {
+   "to": "pigeage",
+   "type": "practice",
+   "name": "Punching down",
+   "as": "The practice, at length.",
+   "rel": "practice",
+   "from": "pigeage-term"
+  },
+  {
+   "to": "saignee",
+   "type": "practice",
+   "name": "Saignée",
+   "as": "The practice, at length.",
+   "rel": "practice",
+   "from": "saignee-term"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The same vine.",
+   "rel": "variety",
+   "from": "spatburgunder"
+  },
+  {
+   "to": "fruhburgunder",
+   "type": "variety",
+   "name": "Frühburgunder",
+   "as": "The early one the name is set against.",
+   "rel": "contrast",
+   "from": "spatburgunder"
+  },
+  {
+   "to": "baden",
+   "type": "region",
+   "name": "Baden",
+   "as": "Where most of it grows.",
+   "rel": "region",
+   "from": "spatburgunder"
+  },
+  {
+   "to": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "The unit Burgundy uses to make the claim specific.",
+   "rel": "kin",
+   "from": "terroir"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The variety most often held up as the transmitter, whether or not it is.",
+   "rel": "variety",
+   "from": "terroir"
+  },
+  {
+   "to": "whole-cluster",
+   "type": "practice",
+   "name": "Whole cluster",
+   "as": "The practice itself.",
+   "rel": "practice",
+   "from": "vendange-entiere"
+  },
+  {
+   "to": "pinot-meunier",
+   "type": "variety",
+   "name": "Pinot Meunier",
+   "as": "A variety often treated this way in Champagne.",
+   "rel": "variety",
+   "from": "vendange-entiere"
+  },
+  {
+   "to": "negociant",
+   "type": "term",
+   "name": "Négociant",
+   "as": "The other half of the Burgundian trade.",
+   "rel": "contrast",
+   "from": "vigneron"
+  },
+  {
+   "to": "native-yeast",
+   "type": "practice",
+   "name": "Native yeast",
+   "as": "Whose risk this is.",
+   "rel": "kin",
+   "from": "wine-fault-brett"
+  },
+  {
+   "to": "neutral-oak",
+   "type": "practice",
+   "name": "Neutral oak",
+   "as": "Where it lives, if it lives anywhere.",
+   "rel": "kin",
+   "from": "wine-fault-brett"
+  },
+  {
+   "to": "ava",
+   "type": "term",
+   "name": "AVA",
+   "as": "The regulation behind every American boundary here.",
+   "rel": "term",
+   "from": "free-to-use"
+  },
+  {
+   "to": "ttb",
+   "type": "org",
+   "name": "TTB",
+   "as": "Which publishes it.",
+   "rel": "org",
+   "from": "free-to-use"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "A page that says plainly what it could not settle.",
+   "rel": "story",
+   "from": "free-to-use"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The vine doing the travelling.",
+   "rel": "variety",
+   "from": "how-pinot-travelled"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Where it starts.",
+   "rel": "region",
+   "from": "how-pinot-travelled"
+  },
+  {
+   "to": "david-lett",
+   "type": "person",
+   "name": "David Lett",
+   "as": "Who took it to Oregon against advice.",
+   "rel": "person",
+   "from": "how-pinot-travelled"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "type": "story",
+   "name": "The numbers on the vine",
+   "as": "What made it portable at scale.",
+   "rel": "story",
+   "from": "how-pinot-travelled"
+  },
+  {
+   "to": "abel-clone",
+   "type": "clone",
+   "name": "Abel clone",
+   "as": "And the less official route.",
+   "rel": "clone",
+   "from": "how-pinot-travelled"
+  },
+  {
+   "to": "dijon-115",
+   "type": "clone",
+   "name": "Dijon 115",
+   "as": "The number planted most.",
+   "rel": "clone",
+   "from": "the-dijon-numbers"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "The older way, still practised.",
+   "rel": "practice",
+   "from": "the-dijon-numbers"
+  },
+  {
+   "to": "fps",
+   "type": "org",
+   "name": "Foundation Plant Services",
+   "as": "Which holds and tests the American material.",
+   "rel": "org",
+   "from": "the-dijon-numbers"
+  },
+  {
+   "to": "raymond-bernard",
+   "type": "person",
+   "name": "Raymond Bernard",
+   "as": "Who ran the Dijon programme.",
+   "rel": "person",
+   "from": "the-dijon-numbers"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "A variety that mutates enough to make all this necessary.",
+   "rel": "variety",
+   "from": "the-dijon-numbers"
+  },
+  {
+   "to": "sta-rita-hills",
+   "type": "region",
+   "name": "Sta. Rita Hills",
+   "as": "Where much of it was filmed.",
+   "rel": "region",
+   "from": "the-sideways-effect"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The variety it sold.",
+   "rel": "variety",
+   "from": "the-sideways-effect"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "Half an hour north of the film's route, and a beneficiary.",
+   "rel": "region",
+   "from": "the-sideways-effect"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The vine in question.",
+   "rel": "variety",
+   "from": "thin-skin"
+  },
+  {
+   "to": "green-harvest",
+   "type": "practice",
+   "name": "Green harvest",
+   "as": "One answer, with secateurs.",
+   "rel": "practice",
+   "from": "thin-skin"
+  },
+  {
+   "to": "whole-cluster",
+   "type": "practice",
+   "name": "Whole cluster",
+   "as": "Another, in the fermenter.",
+   "rel": "practice",
+   "from": "thin-skin"
+  },
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The dish itself, in one card.",
+   "rel": "pairing",
+   "from": "tri-tip-over-red-oak"
+  },
+  {
+   "to": "red-oak",
+   "type": "pairing",
+   "name": "Red oak",
+   "as": "The wood, and why it stays home.",
+   "rel": "pairing",
+   "from": "tri-tip-over-red-oak"
+  },
+  {
+   "to": "pinquito-beans",
+   "type": "pairing",
+   "name": "Pinquito beans",
+   "as": "The bean that grows nowhere else much.",
+   "rel": "pairing",
+   "from": "tri-tip-over-red-oak"
+  },
+  {
+   "to": "santa-maria-salsa",
+   "type": "pairing",
+   "name": "Santa Maria salsa",
+   "as": "The acid on the plate.",
+   "rel": "pairing",
+   "from": "tri-tip-over-red-oak"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "The AVA on the same ground.",
+   "rel": "region",
+   "from": "tri-tip-over-red-oak"
+  },
+  {
+   "to": "bien-nacido",
+   "type": "vineyard",
+   "name": "Bien Nacido",
+   "as": "The vineyard planted on the old Tepusquet grant.",
+   "rel": "vineyard",
+   "from": "tri-tip-over-red-oak"
+  },
+  {
+   "to": "bob-schutz",
+   "type": "person",
+   "name": "Bob Schutz",
+   "as": "The man Santa Maria credits with the cut.",
+   "rel": "person",
+   "from": "tri-tip-over-red-oak"
+  },
+  {
+   "to": "santa-maria-bbq-association",
+   "type": "org",
+   "name": "Santa Maria Style Barbeque Association",
+   "as": "Which defines the words on the menu.",
+   "rel": "org",
+   "from": "tri-tip-over-red-oak"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The grape on the other side of the question.",
+   "rel": "variety",
+   "from": "tri-tip-over-red-oak"
+  }
+ ]
+}

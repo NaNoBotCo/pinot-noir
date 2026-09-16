@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "id": "los-carneros",
+ "type": "region",
+ "names": {
+  "name": "Los Carneros",
+  "aliases": [
+   "Carneros"
+  ]
+ },
+ "region": [
+  "carneros",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1983,
+  "soil": "shallow clay over bedrock"
+ },
+ "text": {
+  "what": "The cold shoulder where Napa and Sonoma both run down to San Pablo Bay. Wind off the bay every afternoon, clay underfoot, and a harvest that starts weeks before the valley floor upstream."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown for still wine and for sparkling base, often on the same ranch.",
+   "rel": "variety"
+  },
+  {
+   "to": "andre-tchelistcheff",
+   "as": "Who argued for this ground when Napa wanted cabernet.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 38.25,
+  "lon": -122.35,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-los-carneros-ava"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1983",
+   "year": 1983,
+   "source": "s:ecfr-27-9",
+   "note": "48 FR 37368, Aug. 18, 1983"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

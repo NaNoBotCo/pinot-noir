@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "id": "massale-selection",
+ "type": "practice",
+ "names": {
+  "name": "Massal selection",
+  "aliases": [
+   "Sélection massale",
+   "Massale"
+  ]
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "kind": "planting"
+ },
+ "text": {
+  "what": "Taking cuttings from many vines in a block you already trust, instead of ordering one numbered clone from a nursery. You keep the block's variation, and whatever virus it carries.",
+  "how": "A grower walks the old block at harvest, marks the vines that ripen well and crop lightly, and grafts from them. The pay-off is diversity inside one vineyard; the risk is leafroll and fanleaf, which is precisely what clonal certification was invented to stop."
+ },
+ "kin": [
+  {
+   "to": "the-dijon-numbers",
+   "as": "The alternative, and how it won the nursery trade.",
+   "rel": "story"
+  },
+  {
+   "to": "mount-eden",
+   "as": "A selection that travelled this way.",
+   "rel": "clone"
+  },
+  {
+   "to": "abel-clone",
+   "as": "And one whose travel was less orthodox.",
+   "rel": "clone"
+  },
+  {
+   "to": "bien-nacido",
+   "as": "Where certified budwood gets grown at scale instead.",
+   "rel": "vineyard"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:wp-ampelography"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

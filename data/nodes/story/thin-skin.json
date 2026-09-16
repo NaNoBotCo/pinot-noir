@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "id": "thin-skin",
+ "type": "story",
+ "names": {
+  "name": "What thin skin costs"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "essay"
+ },
+ "text": {
+  "what": "Every difficulty pinot noir hands a grower comes from the same anatomy that makes the wine worth the trouble: a small, tight, pinecone-shaped bunch of thin-skinned berries that ripens early."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The vine in question.",
+   "rel": "variety"
+  },
+  {
+   "to": "green-harvest",
+   "as": "One answer, with secateurs.",
+   "rel": "practice"
+  },
+  {
+   "to": "whole-cluster",
+   "as": "Another, in the fermenter.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:oxford-companion-wine-4"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "sections": [
+  {
+   "h": "In the vineyard",
+   "text": "Thin skin splits in rain and rots in humidity. Tight bunches hold moisture against the berries and keep spray out. Early budding walks into spring frost; early ripening walks into a September heat spike that strips acid in days. Little pigment and little phenolic material mean the wine is pale and low in tannin whatever the grower does — so anything that would normally hide a fault has nowhere to hide it."
+  },
+  {
+   "h": "In the cellar",
+   "text": "There is no ballast. Excess new oak shows. Brett shows. Over-extraction turns green rather than powerful, because there is not much tannin to draw and what there is comes with the bitter end of the skins and seeds. Most pinot cellar technique is about restraint and about texture: gentle cap work, old barrels, and decisions made in the first three days."
+  },
+  {
+   "h": "On the balance sheet",
+   "text": "Low yields by rule and by habit, hand picking, sorting, small fermenters, more barrels per litre than a big red needs, and a variety that will refuse a vintage outright. That arithmetic is why grand cru Burgundy costs what it costs, and it is also why so much cheap pinot noir tastes hollow: the grape does not have a cheap register."
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

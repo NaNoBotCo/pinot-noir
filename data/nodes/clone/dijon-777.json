@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "id": "dijon-777",
+ "type": "clone",
+ "names": {
+  "name": "Dijon 777",
+  "aliases": [
+   "777",
+   "ENTAV-INRA 777"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "origin": "Dijon"
+ },
+ "text": {
+  "what": "Deeper colour, smaller crop, more tannin than 115. Planted where a grower wants weight without waiting for a warm year."
+ },
+ "kin": [
+  {
+   "to": "dijon-115",
+   "as": "The aromatic one, usually planted alongside.",
+   "rel": "kin"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "as": "The programme behind the number.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:fps-grapes"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

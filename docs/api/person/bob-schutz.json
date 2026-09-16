@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "bob-schutz",
+ "type": "person",
+ "names": {
+  "name": "Bob Schutz",
+  "sort": "Schutz, Bob"
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "role": "butcher",
+  "country": "United States"
+ },
+ "text": {
+  "what": "A Santa Maria market manager who, in the late 1950s, took a triangular piece of bottom sirloin that was going into the hamburger grinder, seasoned it and put it on a rotisserie. The cut he sold as tri-tip is now the whole town's dish.",
+  "story": "The account comes from Larry Viegas, a butcher who worked with him at a Santa Maria Safeway: an excess of hamburger meat, a piece nobody wanted, salt, pepper and garlic salt, forty-five minutes to an hour on the spit. Other people claim the cut elsewhere — an Army butcher in southern California during the war, an Oakland butcher, a New York restaurateur — and the tri-tip record lays those out side by side."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "The dish that followed.",
+   "rel": "pairing"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "Every claim to the cut, in order.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "His town, and the valley it made famous.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-tri-tip",
+  "s:wp-santa-maria-style-barbecue"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "A Santa Maria market manager who, in the late 1950s, took a triangular piece of bottom sirloin that was going into the hamburger grinder, seasoned it and put it on a rotisserie.",
+ "region_terms": [
+  {
+   "key": "santa-maria-valley",
+   "name": "Santa Maria Valley",
+   "country": "United States",
+   "note": "Bien Nacido, the bench, and the red-oak barbecue on the same ground"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The dish that followed.",
+   "rel": "pairing"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "Every claim to the cut, in order.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-valley",
+   "type": "region",
+   "name": "Santa Maria Valley",
+   "as": "His town, and the valley it made famous.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-tri-tip",
+   "kind": "encyclopaedia",
+   "title": "Tri-tip",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2982651",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368736893",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-santa-maria-style-barbecue",
+   "kind": "encyclopaedia",
+   "title": "Santa Maria–style barbecue",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=22881131",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1328359472",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "santa-maria-tri-tip",
+   "type": "pairing",
+   "name": "Santa Maria tri-tip",
+   "as": "The market manager the town credits.",
+   "rel": "person"
+  },
+  {
+   "from": "tri-tip-over-red-oak",
+   "type": "story",
+   "name": "Tri-tip over red oak",
+   "as": "The man Santa Maria credits with the cut.",
+   "rel": "person"
+  }
+ ]
+}

@@ -1,0 +1,2056 @@
+# Pinot Country — every record, flattened
+
+## Chardonnay (variety)
+URL: https://nanobotco.github.io/pinot-noir/variety/chardonnay/
+JSON: https://nanobotco.github.io/pinot-noir/api/variety/chardonnay.json
+id: chardonnay
+facets: colour=white · country=France
+region: Burgundy, The world
+what: Pinot's child by Gouais blanc, and the white grape sharing almost every hill in this directory. Where pinot goes, it follows — Burgundy, Champagne, the Willamette, Bien Nacido, Central Otago.
+story: DNA work in the 1990s put the cross beyond argument: a pinot crossed with Gouais blanc produced chardonnay, aligoté, auxerrois, gamay, melon and eleven others. The Pinot parent need not have been pinot noir — any member of the family could have done it.
+- kin → pinot-noir (variety): Its parent, and the vine planted on the next row.
+- kin → cote-de-beaune (region): Where the family split the hill: whites on one flank, reds on the other.
+sources: s:wp-chardonnay — Chardonnay; s:wp-pinot-noir — Pinot noir
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Frühburgunder (variety)
+URL: https://nanobotco.github.io/pinot-noir/variety/fruhburgunder/
+JSON: https://nanobotco.github.io/pinot-noir/api/variety/fruhburgunder.json
+id: fruhburgunder
+aliases: Pinot noir précoce · Early Burgundy · Blauer Frühburgunder
+root: German früh (early) + Burgunder (Burgundian)
+facets: colour=black · country=Germany
+region: Ahr, Germany
+what: An early-ripening pinot that comes in two to three weeks ahead of the rest. Germany kept it alive in the Ahr and on the Nahe when growers elsewhere pulled it out for cropping too lightly.
+how: Small bunches, small berries, low yield, and a harvest date that beats autumn rain — useful where the season runs short.
+- kin → pinot-noir (variety): The same family, running four to six weeks ahead of the latest clones.
+- kin → ahr (region): The slate valley that kept it planted.
+sources: s:wp-fr-hburgunder — Pinot Noir Précoce; s:wp-pinot-noir — Pinot noir
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Gamay (variety)
+URL: https://nanobotco.github.io/pinot-noir/variety/gamay/
+JSON: https://nanobotco.github.io/pinot-noir/api/variety/gamay.json
+id: gamay
+aliases: Gamay noir à jus blanc
+facets: colour=black · country=France
+region: Burgundy
+what: Pinot's other well-known child, banished from the Côte d'Or by ducal edict and sent south to granite, where it built Beaujolais.
+story: *Tradition holds —* Philippe le Hardi ordered gamay out of the good slopes in 1395 and pinot noir back in. Whatever the duke's reasons, the split held: pinot took the limestone, gamay took the granite south of Mâcon.
+- kin → pinot-noir (variety): Same parentage story, opposite fate on the same hill.
+- kin → burgundy (region): The region that expelled it from the Côte d'Or and still grows it further south.
+sources: s:wp-gamay — Gamay; s:wp-pinot-noir — Pinot noir
+provenance default: tradition · confidence: medium · needs_verification: True · updated: 2026-09-16
+
+## Pinot blanc (variety)
+URL: https://nanobotco.github.io/pinot-noir/variety/pinot-blanc/
+JSON: https://nanobotco.github.io/pinot-noir/api/variety/pinot-blanc.json
+id: pinot-blanc
+aliases: Weissburgunder · Pinot bianco · Klevner
+facets: colour=white · country=France
+region: Alsace
+what: The white end of the family. A further mutation that can come from pinot gris or pinot noir and can go back the other way, which is why nurserymen watch their mother vines.
+story: Henri Gouges found a white-berried shoot in his Nuits-Saint-Georges vineyard and propagated it; the wine is sold as Nuits-Saint-Georges blanc. *Inference —* nothing published suggests it is more than a selected mutation of the pinot noir already growing there.
+- kin → pinot-noir (variety): The parent form; the mutation runs both ways.
+- kin → pinot-gris (variety): Its neighbour on the colour ladder.
+sources: s:wp-pinot-blanc — Pinot blanc; s:wp-pinot-noir — Pinot noir
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Pinot gris (variety)
+URL: https://nanobotco.github.io/pinot-noir/variety/pinot-gris/
+JSON: https://nanobotco.github.io/pinot-noir/api/variety/pinot-gris.json
+id: pinot-gris
+aliases: Pinot Grigio · Grauburgunder · Ruländer
+facets: colour=grey · country=France
+region: Alsace
+what: A colour sport of pinot: the berry loses most of its pigment and lands somewhere between grey, pink and bronze. Same vine, same bunch, different skin.
+story: A somatic mutation in the VvMYBA1 or VvMYBA2 genes — the switches that tell a grape to make colour. It can arise from pinot noir or from pinot blanc, and it can revert.
+- kin → pinot-noir (variety): The black form, and the one this site is about.
+- kin → pinot-blanc (variety): The next mutation along the same path, in either direction.
+- kin → alsace (region): Where it grows beside its black parent under the same appellation.
+sources: s:wp-pinot-gris — Pinot gris; s:wp-pinot-noir — Pinot noir
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Pinot Meunier (variety)
+URL: https://nanobotco.github.io/pinot-noir/variety/pinot-meunier/
+JSON: https://nanobotco.github.io/pinot-noir/api/variety/pinot-meunier.json
+id: pinot-meunier
+aliases: Meunier · Schwarzriesling · Müllerrebe
+root: French meunier, miller — from the floury white hairs on the leaves
+facets: colour=black · country=France
+region: Champagne
+what: Pinot noir with white down on its shoot tips and leaves — meunier means miller, and the vine looks dusted with flour. It buds later, ripens earlier and survives a frosty Champagne spring that kills its parent.
+how: Genetically it is a chimera: two tissue layers, each carrying its own mutation, neither identical to pinot noir. Propagate it from the wrong layer and you get something else.
+today: Champagne plants it heavily in the frost-prone Marne valley, and a handful of growers now bottle it alone.
+- kin → pinot-noir (variety): The vine it mutated from, and cannot be a parent of.
+- kin → champagne (region): Where it earns its keep: the valley floors that frost.
+- kin → vendange-entiere (term): A press-house decision that treats it the same as its parent.
+sources: s:wp-pinot-meunier — Pinot Meunier; s:wp-pinot-noir — Pinot noir
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Pinot noir (variety)
+URL: https://nanobotco.github.io/pinot-noir/variety/pinot-noir/
+JSON: https://nanobotco.github.io/pinot-noir/api/variety/pinot-noir.json
+id: pinot-noir
+aliases: Pinot Noir · Spätburgunder · Blauburgunder · Pinot nero · Blauer Burgunder
+said: PEE-noh NWAHR
+root: French pin (pine) + noir (black) — the bunch is shaped like a pinecone · the cluster is small and conico-cylindrical
+facets: colour=black · country=France
+region: The world
+what: A black grape from north-eastern France that ripens early, carries thin skin over tight pinecone-shaped bunches, and mutates more readily than almost any vine in cultivation. It gives pale wine with low tannin and high acid, and it rewards cold ground, which is why growers chase it toward the poles, the fog and the hills.
+story: Pinot sits one or two generations from wild Vitis sylvestris, which makes it about as old as cultivated vines get. Crossed with the peasants' workhorse Gouais blanc somewhere in medieval north-eastern France, it fathered chardonnay, gamay, aligoté, auxerrois, melon and eleven more — half the vineyards of France descend from that one mismatch between the nobility's plot and the commoner's. *Tradition holds —* the dukes of Burgundy did the rest of the marketing.
+how: Thin skins and little phenolic material give pale, medium-bodied, low-tannin wine. The same skins split and rot in a wet September. It buds early into frost, ripens early into heat, and its tight bunches trap moisture — every fault it has comes from the same anatomy that makes the wine taste the way it does.
+today: Grown on every continent that can chill it: Burgundy and Champagne, Germany's Ahr and Baden, Oregon, California's fog corridors, Central Otago, Tasmania, Patagonia, the Cape.
+- kin → burgundy (region): Home ground, and the reference every other pinot region gets measured against.
+- kin → pinot-meunier (variety): A chimera of this vine — hairy leaves, earlier ripening, and a third of Champagne.
+- kin → pinot-gris (variety): The same vine with the colour genes switched off partway.
+- kin → chardonnay (variety): Its child, by Gouais blanc; the two share the same hillsides and the same cellars.
+- kin → thin-skin (story): Every difficulty this grape hands a grower, in one place.
+- kin → dijon-115 (clone): One of the numbered selections that let a grower buy this vine by catalogue.
+sources: s:wp-pinot-noir — Pinot noir; s:wine-grapes-2012 — Wine Grapes: A Complete Guide to 1,368 Vine Varieties; s:oxford-companion-wine-4 — The Oxford Companion to Wine
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Ahr (region)
+URL: https://nanobotco.github.io/pinot-noir/region/ahr/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/ahr.json
+id: ahr
+facets: country=Germany · level=region · soil=slate, basalt, greywacke
+region: Ahr, Germany
+what: A narrow slate valley south of Bonn, among the smallest German regions and the one that gives more of its ground to spätburgunder than any other.
+story: Steep terraces on a river that runs east-west, this far north, on dark stone that holds the day's heat. The July 2021 flood tore through the valley and its cellars; growers were still rebuilding years after.
+geo: 50.54, 7.05 (region)
+- kin → pinot-noir (variety): Called spätburgunder here, and grown in a higher share than anywhere else in Germany.
+- kin → fruhburgunder (variety): The early-ripening cousin the valley kept.
+- kin → baden (region): The other German pinot region, warmer and far larger.
+sources: s:wp-ahr-wine-region — Ahr (wine region); s:wp-german-wine — German wine
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Alsace (region)
+URL: https://nanobotco.github.io/pinot-noir/region/alsace/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/alsace.json
+id: alsace
+facets: country=France · level=region
+region: Alsace
+what: A dry strip in the rain shadow of the Vosges where nearly everything is white — except pinot noir, the one red grape the appellation allows.
+today: What used to be pale and often rosé now gets destemmed, barrel-aged and sold as red, and the 2022 rules brought thirteen grand cru sites into play for it. *Tradition holds —* the older bottles were lighter because nobody expected otherwise.
+geo: 48.2, 7.35 (region)
+- kin → pinot-noir (variety): The only red the appellation permits.
+- kin → pinot-gris (variety): Its grey sibling, grown on the same slopes.
+- kin → baden (region): Across the Rhine, the same climate under another flag.
+sources: s:wp-alsace-wine — Alsace wine
+provenance default: cited · confidence: medium · needs_verification: True · updated: 2026-09-16
+
+## Alto Adige (region)
+URL: https://nanobotco.github.io/pinot-noir/region/alto-adige/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/alto-adige.json
+id: alto-adige
+aliases: Südtirol · South Tyrol
+facets: country=Italy · level=doc
+region: Alto Adige
+what: German-speaking Italy, on terraces above Bolzano. Blauburgunder here is pinot nero on the label and Blauburgunder in the village, and it climbs as high as the frost allows.
+geo: 46.5, 11.35 (region)
+- kin → pinot-noir (variety): Called pinot nero and blauburgunder in the same village.
+- kin → baden (region): The other Alpine pinot, north of the ridge.
+sources: s:wp-south-tyrol-wine — South Tyrol wine
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Anderson Valley (region)
+URL: https://nanobotco.github.io/pinot-noir/region/anderson-valley/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/anderson-valley.json
+id: anderson-valley
+facets: country=United States · level=ava · established=1983
+region: Anderson Valley, California
+what: Mendocino's fog gap: a narrow valley along the Navarro River, open to the ocean at one end, redwoods at both edges. Sparkling houses came for the acid and stayed for the pinot.
+story: The 1983 petition counted 47 acres of pinot noir. By 2025 the AVA farmed about 2,457 acres across roughly 100 vineyards, and the wineries buying from them mostly sit outside the valley.
+geo: 39.0, -123.4 (region)
+- kin → pinot-noir (variety): The variety that took the valley over.
+- kin → russian-river-valley (region): The other California fog corridor, an hour south.
+sources: s:wp-anderson-valley-ava — Anderson Valley AVA; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Baden (region)
+URL: https://nanobotco.github.io/pinot-noir/region/baden/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/baden.json
+id: baden
+facets: country=Germany · level=region · soil=loess, limestone, volcanic
+region: Baden, Germany
+what: Germany's warmest vineyards, in the Rhine rift between the Black Forest and the Vosges, facing Alsace across the river. Pinot in its three colours covers most of it.
+how: Spätburgunder alone took 36.8% of Baden's vineyards in 2008 — 5,855 hectares — with grauburgunder and weissburgunder adding another fifth. The Kaiserstuhl, an old volcano on the valley floor, ripens the fullest of it.
+geo: 48.1, 7.85 (region)
+- kin → pinot-noir (variety): Spätburgunder: more than a third of the region's vines.
+- kin → alsace (region): Same rift valley, other bank, similar size.
+- kin → pinot-gris (variety): Grauburgunder, the second Burgundian here.
+sources: s:wp-baden-wine-region — Baden (wine region); s:wp-german-wine — German wine
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Burgundy (region)
+URL: https://nanobotco.github.io/pinot-noir/region/burgundy/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/burgundy.json
+id: burgundy
+aliases: Bourgogne
+facets: country=France · level=region · established=1936 · soil=limestone and marl
+region: Burgundy
+what: A strip of limestone running south-west from Dijon where pinot noir and chardonnay have been sorted, fenced and argued over for a thousand years. Everything here is small: the hill is 40 km long and rarely 2 km wide, and it carries 100 appellations stacked in four ranks.
+story: Medieval monks and the Valois dukes did the surveying: which parcel ripened, which drained, which froze. Denis Morelot wrote it down in 1831; Jules Lavalle classified it in 1855; the Beaune agricultural committee formalised it in 1861; and when the AOC laws arrived in 1936 most of Lavalle's first class became grands crus. The ranks on today's label are a nineteenth-century map given the force of law.
+how: Four ranks, and the smaller the ground the louder the name. Grand cru takes 2% of production at 35 hl/ha and labels the vineyard alone. Premier cru takes 12% at 45 hl/ha and labels village plus vineyard. Village wines take 36% at 50 hl/ha across 42 villages. Regional Bourgogne carries the rest. A grower may always sell down a rank, never up.
+today: UNESCO inscribed the climats in 2015, which put a heritage listing on a land-holding pattern rather than a building.
+geo: 47.05, 4.85 (region)
+- kin → pinot-noir (variety): The grape this hill selected, and the one it exported.
+- kin → cote-de-nuits (region): The northern half, holding nearly every red grand cru.
+- kin → cote-de-beaune (region): The southern half, where the whites take the hill.
+- kin → climat (term): The word for a named parcel, and the unit the whole system counts in.
+- kin → hospices-de-beaune (org): The charity whose November auction sets the tone for the vintage.
+- kin → how-pinot-travelled (story): How cuttings and arguments from this hill reached Oregon, Otago and the Cape.
+sources: s:wp-burgundy-wine — Burgundy wine; s:unesco-1425 — The Climats, terroirs of Burgundy — World Heritage List 1425; s:wp-pinot-noir — Pinot noir; s:morris-inside-burgundy — Inside Burgundy: The Vineyards, the Wine and the People
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Casablanca Valley (region)
+URL: https://nanobotco.github.io/pinot-noir/region/casablanca-valley/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/casablanca-valley.json
+id: casablanca-valley
+facets: country=Chile · level=doc
+region: Casablanca Valley, Chile
+what: Between Santiago and the port at Valparaíso, close enough to the Humboldt current for morning fog. Chile planted it in the 1980s to grow something other than cabernet.
+geo: -33.32, -71.4 (region)
+- kin → pinot-noir (variety): Grown on the cool coastal side of the range.
+- kin → anderson-valley (region): The same trick with fog, a hemisphere away.
+sources: s:wp-casablanca-valley — Casablanca, Chile; s:wp-chilean-wine — Chilean wine
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Central Otago (region)
+URL: https://nanobotco.github.io/pinot-noir/region/central-otago/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/central-otago.json
+id: central-otago
+facets: country=New Zealand · level=gi · soil=schist, loess, glacial gravel
+region: Central Otago, New Zealand
+what: The southernmost commercial wine region on earth, and the only part of New Zealand with a true continental climate — frost in the spring, forty-degree swings in a day, schist under everything.
+story: Vines went from 92 hectares to 1,930 in about two decades. Pinot noir takes over 80% of the plantings, which is a bet no other region of this size has made.
+geo: -45.02, 169.2 (region)
+- kin → pinot-noir (variety): More than four fifths of everything planted here.
+- kin → felton-road (producer): Bannockburn, and the cellar that made the region legible abroad.
+- kin → rippon (producer): Lake Wanaka, and one of the most photographed vineyards anywhere.
+- kin → abel-clone (clone): The cutting that walked through customs and changed New Zealand pinot.
+sources: s:wp-central-otago-wine-region — Central Otago wine region; s:wp-new-zealand-wine — New Zealand wine
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Champagne (region)
+URL: https://nanobotco.github.io/pinot-noir/region/champagne/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/champagne.json
+id: champagne
+facets: country=France · level=region · soil=chalk
+region: Champagne
+what: Chalk country 150 km north-east of Paris where pinot noir is pressed off its skins within hours and comes out white. More pinot noir grows here than anywhere else in France, and almost none of it is red.
+how: Five districts: Montagne de Reims, Vallée de la Marne, Côte des Blancs, Côte de Sézanne, the Aube. Pinot noir leads the Aube and does well on the Montagne; meunier holds the frost-prone Marne floors.
+today: Coteaux Champenois lets a grower bottle the red instead, which in a warm year is no longer a curiosity.
+geo: 49.05, 4.0 (region)
+- kin → pinot-noir (variety): Grown for structure, not colour.
+- kin → pinot-meunier (variety): Its frost insurance on the valley floor.
+- kin → saignee (practice): The bleed that makes rosé, and the other way to use a black grape here.
+sources: s:wp-champagne-wine-region — Champagne wine region; s:wp-champagne — Champagne
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Côte Chalonnaise (region)
+URL: https://nanobotco.github.io/pinot-noir/region/cote-chalonnaise/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/cote-chalonnaise.json
+id: cote-chalonnaise
+facets: country=France · level=district
+region: Côte Chalonnaise, Burgundy
+what: The same limestone, ten miles further south, at a third of the price. Bouzeron, Rully, Mercurey, Givry and Montagny — Mercurey and Givry do the red work.
+geo: 46.75, 4.72 (region)
+- kin → burgundy (region): Burgundy's southern shoulder, outside the Côte d'Or.
+- kin → pinot-noir (variety): Grown here for drinking rather than for keeping.
+sources: s:wp-c-te-chalonnaise — Côte Chalonnaise; s:wp-burgundy-wine — Burgundy wine
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Côte de Beaune (region)
+URL: https://nanobotco.github.io/pinot-noir/region/cote-de-beaune/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/cote-de-beaune.json
+id: cote-de-beaune
+facets: country=France · level=district
+region: Côte de Beaune, Burgundy
+what: From Ladoix south to Maranges, where the hill turns and chardonnay takes the best of it. Corton is its only red grand cru; the reds that matter most sit in Pommard, Volnay and Beaune at premier cru.
+geo: 46.98, 4.78 (region)
+- kin → burgundy (region): The southern half of the Côte d'Or.
+- kin → corton (vineyard): The hill that holds the district's only red grand cru.
+- kin → chardonnay (variety): The grape that takes the white flank of the same slope.
+- kin → hospices-de-beaune (org): Whose vines sit mostly in these communes.
+sources: s:wp-c-te-de-beaune — Côte de Beaune; s:wp-burgundy-wine — Burgundy wine
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Côte de Nuits (region)
+URL: https://nanobotco.github.io/pinot-noir/region/cote-de-nuits/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/cote-de-nuits.json
+id: cote-de-nuits
+facets: country=France · level=district · soil=limestone, marl, scree
+region: Côte de Nuits, Burgundy
+what: Fourteen communes between Dijon and Corgoloin holding 24 of Burgundy's 25 red grand cru appellations. Some of them are tiny — La Romanée covers less than a hectare.
+how: The good ground sits mid-slope, where the scree drains and the sun reaches. Flat land near the village makes village wine; the top of the hill goes cold and thin.
+geo: 47.17, 4.95 (region)
+- kin → burgundy (region): The northern half of the Côte d'Or.
+- kin → romanee-conti (vineyard): The 1.8-hectare monopole at the centre of the argument.
+- kin → clos-de-vougeot (vineyard): Fifty hectares, eighty owners, one grand cru name.
+- kin → chambertin (vineyard): Gevrey's grand cru, and the one Napoleon is said to have carried.
+- kin → musigny (vineyard): Chambolle's grand cru, where the wine goes lace-fine.
+sources: s:wp-c-te-de-nuits — Côte de Nuits; s:wp-burgundy-wine — Burgundy wine
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Dundee Hills (region)
+URL: https://nanobotco.github.io/pinot-noir/region/dundee-hills/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/dundee-hills.json
+id: dundee-hills
+facets: country=United States · level=sub-ava · established=2004 · soil=Jory — basalt-derived red clay loam
+region: Willamette Valley, Oregon
+what: A single hill of red volcanic Jory soil north-west of Dundee, and the ground Oregon pinot noir started on in 1965.
+geo: 45.28, -123.05 (region)
+- kin → willamette-valley (region): The valley AVA this sits inside.
+- kin → eyrie-vineyards (producer): Whose South Block vines are the oldest pinot here.
+- kin → domaine-drouhin-oregon (producer): Built high on the same hill in 1987.
+- kin → sokol-blosser (producer): Planting since 1971, two ridges over.
+sources: s:wp-dundee-hills-ava — Dundee Hills AVA; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Eola-Amity Hills (region)
+URL: https://nanobotco.github.io/pinot-noir/region/eola-amity-hills/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/eola-amity-hills.json
+id: eola-amity-hills
+facets: country=United States · level=sub-ava · established=2006 · soil=basalt, marine sediment
+region: Willamette Valley, Oregon
+what: Basalt hills west of Salem with a hole in the Coast Range beside them. Afternoon wind off the Pacific comes through the Van Duzer Corridor, shuts the vines down and holds the acid.
+geo: 45.0, -123.15 (region)
+- kin → willamette-valley (region): The valley AVA this sits inside.
+- kin → pinot-noir (variety): Grown small-berried here, because the wind stops the vine mid-afternoon.
+sources: s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:wp-eola-amity-hills-ava — Eola-Amity Hills AVA
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Finger Lakes (region)
+URL: https://nanobotco.github.io/pinot-noir/region/finger-lakes/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/finger-lakes.json
+id: finger-lakes
+facets: country=United States · level=ava · established=1982
+region: Finger Lakes, New York
+what: Deep glacial lakes in upstate New York holding off the winter. Riesling country, with pinot noir on the better-drained slopes and in the sparkling base.
+geo: 42.7, -76.9 (region)
+- kin → pinot-noir (variety): Grown where the lake keeps the vine from freezing out.
+sources: s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Hemel-en-Aarde (region)
+URL: https://nanobotco.github.io/pinot-noir/region/hemel-en-aarde/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/hemel-en-aarde.json
+id: hemel-en-aarde
+aliases: Hemel-en-Aarde Valley · Heaven and Earth
+facets: country=South Africa · level=doc · soil=clay over Bokkeveld shale
+region: Hemel-en-Aarde, South Africa
+what: A valley behind Hermanus, running inland from Walker Bay, with clay over decomposed shale and cold air off the Atlantic. South Africa's pinot address.
+geo: -34.38, 19.28 (region)
+- kin → pinot-noir (variety): Planted here from the 1970s, on clay that holds water through a dry summer.
+- kin → burgundy (region): The comparison every grower in the valley invites and then complicates.
+sources: s:wp-walker-bay — Walker Bay; s:wp-south-african-wine — South African wine; s:wp-hermanus — Hermanus
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Jura (region)
+URL: https://nanobotco.github.io/pinot-noir/region/jura/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/jura.json
+id: jura
+facets: country=France · level=region
+region: Jura
+what: One of France's smallest regions — about 1,950 hectares — where pinot noir shares the cellar with poulsard and trousseau and sometimes ends up in the white blend.
+how: Continental and colder than Burgundy, especially in winter. Pinot noir is permitted in Arbois and Côtes du Jura, alone or blended.
+geo: 46.9, 5.65 (region)
+- kin → pinot-noir (variety): One of three reds allowed, and rarely the loudest.
+- kin → burgundy (region): Sixty miles west, and the comparison every Jura grower fields.
+sources: s:wp-jura-wine — Jura wine
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Los Carneros (region)
+URL: https://nanobotco.github.io/pinot-noir/region/los-carneros/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/los-carneros.json
+id: los-carneros
+aliases: Carneros
+facets: country=United States · level=ava · established=1983 · soil=shallow clay over bedrock
+region: Los Carneros, California
+what: The cold shoulder where Napa and Sonoma both run down to San Pablo Bay. Wind off the bay every afternoon, clay underfoot, and a harvest that starts weeks before the valley floor upstream.
+geo: 38.25, -122.35 (region)
+- kin → pinot-noir (variety): Grown for still wine and for sparkling base, often on the same ranch.
+- kin → andre-tchelistcheff (person): Who argued for this ground when Napa wanted cabernet.
+sources: s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:wp-los-carneros-ava — Los Carneros AVA
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Marlborough (region)
+URL: https://nanobotco.github.io/pinot-noir/region/marlborough/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/marlborough.json
+id: marlborough
+facets: country=New Zealand · level=gi
+region: Marlborough, New Zealand
+what: New Zealand's largest region by a distance, known abroad for sauvignon blanc and holding the country's biggest pinot noir planting almost as a side effect — still wine on the clay of the Southern Valleys, sparkling base on the Wairau gravels.
+geo: -41.52, 173.85 (region)
+- kin → pinot-noir (variety): Planted at scale here, and rarely the headline.
+- kin → central-otago (region): The region that gets the pinot attention.
+sources: s:wp-marlborough-wine-region — Marlborough wine region; s:wp-new-zealand-wine — New Zealand wine
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Martinborough (region)
+URL: https://nanobotco.github.io/pinot-noir/region/martinborough/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/martinborough.json
+id: martinborough
+facets: country=New Zealand · level=gi · soil=river gravel over clay
+region: Martinborough, New Zealand
+what: A gravel terrace at the south end of the North Island, in the rain shadow of the Tararua Range, with a town laid out as a Union Jack. Small, dry, windy, and planted almost entirely to pinot noir.
+geo: -41.22, 175.46 (region)
+- kin → pinot-noir (variety): The reason the terrace was planted at all.
+- kin → central-otago (region): The country's other pinot argument, 900 km south.
+- kin → abel-clone (clone): Propagated here first, and named for the customs officer.
+sources: s:wp-martinborough — Martinborough; s:wp-new-zealand-wine — New Zealand wine
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Mornington Peninsula (region)
+URL: https://nanobotco.github.io/pinot-noir/region/mornington-peninsula/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/mornington-peninsula.json
+id: mornington-peninsula
+facets: country=Australia · level=gi
+region: Mornington Peninsula, Australia
+what: An hour south of Melbourne with sea on three sides. Maritime, cool, and cut into small holdings — vineyards here are measured in a few hectares, not a few hundred.
+geo: -38.35, 145.05 (region)
+- kin → pinot-noir (variety): Grown cool and picked early, beside chardonnay.
+- kin → yarra-valley (region): Victoria's other pinot region, inland and in the hills.
+sources: s:wp-mornington-peninsula — Mornington Peninsula; s:wp-australian-wine — Australian wine
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Okanagan Valley (region)
+URL: https://nanobotco.github.io/pinot-noir/region/okanagan-valley/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/okanagan-valley.json
+id: okanagan-valley
+facets: country=Canada · level=gi
+region: Okanagan Valley, Canada
+what: A long lake moderating a northern desert in British Columbia. Hot days, cold nights, a short season, and pinot noir on the cooler northern end.
+geo: 49.8, -119.6 (region)
+- kin → pinot-noir (variety): Grown at the lake's cool end.
+sources: s:wp-okanagan-valley-wine-region — Okanagan Valley (wine region)
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Ribbon Ridge (region)
+URL: https://nanobotco.github.io/pinot-noir/region/ribbon-ridge/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/ribbon-ridge.json
+id: ribbon-ridge
+facets: country=United States · level=sub-ava · established=2005 · soil=Willakenzie marine sediment
+region: Willamette Valley, Oregon
+what: Three and a half square miles of uniform sedimentary soil rising out of Yamhill-Carlton — one of the smallest AVAs in the country, and one of the tidiest arguments for drawing a line around a single landform.
+geo: 45.35, -123.1 (region)
+- kin → yamhill-carlton (region): The larger AVA that surrounds it.
+- kin → willamette-valley (region): And the valley AVA around that.
+sources: s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:wp-ribbon-ridge-ava — Ribbon Ridge AVA
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Russian River Valley (region)
+URL: https://nanobotco.github.io/pinot-noir/region/russian-river-valley/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/russian-river-valley.json
+id: russian-river-valley
+facets: country=United States · level=ava · established=1983 · soil=Goldridge sandy loam
+region: Russian River Valley, Sonoma County, California
+what: Fog runs up the river gap from the Pacific most summer nights and sits until mid-morning. Sonoma planted pinot noir into that fog and the plantings tripled in a decade.
+story: Pinot here went from about 4,000 acres to more than 12,000 by 2003, and the 1999 boundary revision was argued on where the fog actually reaches rather than on county lines.
+geo: 38.48, -122.87 (region)
+- kin → sonoma-coast (region): The larger coastal AVA around it.
+- kin → williams-selyem (producer): The winery that made vineyard-designated Russian River pinot the thing to chase.
+- kin → merry-edwards (person): Who made wine here and put her name on a clone selection.
+sources: s:wp-russian-river-valley-ava — Russian River Valley AVA; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Sancerre (region)
+URL: https://nanobotco.github.io/pinot-noir/region/sancerre/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/sancerre.json
+id: sancerre
+facets: country=France · level=commune
+region: Loire
+what: Better known for sauvignon blanc, and still making red and rosé from pinot noir on the same Kimmeridgian slopes — lighter than Burgundy, good cold.
+story: The Loire's upper reaches answered to the dukes of Burgundy, which is the usual explanation for pinot noir being here at all.
+geo: 47.33, 2.84 (town)
+- kin → pinot-noir (variety): Grown light, and often drunk chilled.
+- kin → burgundy (region): The duchy this ground once answered to.
+sources: s:wp-sancerre-aoc — Sancerre (wine)
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Santa Cruz Mountains (region)
+URL: https://nanobotco.github.io/pinot-noir/region/santa-cruz-mountains/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/santa-cruz-mountains.json
+id: santa-cruz-mountains
+facets: country=United States · level=ava · established=1981
+region: Santa Cruz Mountains, California
+what: Vines scattered through fault-ridge forest either side of the range, some facing the ocean, some facing the bay, none of them flat. Martin Ray planted pinot noir here when almost nobody in California would.
+geo: 37.15, -122.05 (region)
+- kin → martin-ray (person): Who kept pinot noir alive on this ridge through the 1940s and 1950s.
+- kin → mount-eden (clone): The selection that came off his vineyard and travelled.
+sources: s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:wp-santa-cruz-mountains-ava — Santa Cruz Mountains AVA
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Santa Lucia Highlands (region)
+URL: https://nanobotco.github.io/pinot-noir/region/santa-lucia-highlands/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/santa-lucia-highlands.json
+id: santa-lucia-highlands
+facets: country=United States · level=ava · established=1992
+region: Santa Lucia Highlands, Central Coast, California
+what: Terraces on the east face of the Santa Lucia range, above the Salinas Valley floor. The wind comes up the valley every afternoon hard enough to shape the canopy.
+geo: 36.45, -121.4 (region)
+- kin → pinot-noir (variety): Planted on the benches above the fog line.
+- kin → santa-maria-valley (region): Another Central Coast valley that runs the wrong way and gets away with it.
+sources: s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:wp-santa-lucia-highlands-ava — Santa Lucia Highlands AVA
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Santa Maria Valley (region)
+URL: https://nanobotco.github.io/pinot-noir/region/santa-maria-valley/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/santa-maria-valley.json
+id: santa-maria-valley
+facets: country=United States · level=ava · established=1981 · soil=sandy loam to clay loam; alluvial floor, shaly slopes
+region: Santa Maria Valley, Santa Barbara County, Central Coast, California
+what: A funnel opening west to the Pacific at 34.9°N — further south than anywhere sensible for pinot noir, and colder through the growing season than most of Oregon. The transverse ranges turn this valley east-west, the ocean walks straight in, and summer averages 75°F.
+story: Grapes grew here in the 1830s, under the Mexican land grants. Modern planting starts in 1964 with a hundred acres; by the mid-1970s there were over 2,000. The AVA came on 5 August 1981 — the country's third, California's second, and the first for either county. In 2010 the TTB pushed the southern line out to the watershed, adding 18,790 acres and nine vineyards.
+how: Morning fog takes hours to burn off and afternoon wind replaces it. Winkler Region I. Under 14 inches of rain in a normal year, so nearly everything is irrigated.
+today: Pinot noir and chardonnay are the appellation's two flagship varieties — and the same valley cooks the beef that made it famous, over oak cut off these hills.
+geo: 34.93, -120.25 (region)
+- kin → bien-nacido (vineyard): The bench planting that sells this valley's fruit to half of California.
+- kin → tri-tip-over-red-oak (story): Beef, red oak and pinot noir out of one valley — the long version.
+- kin → santa-maria-tri-tip (pairing): What the valley eats, and the argument about what to pour with it.
+- kin → sta-rita-hills (region): The county's other pinot valley, half an hour south.
+- kin → au-bon-climat (producer): Jim Clendenen's winery, built inside Bien Nacido.
+- kin → santa-maria-bbq-association (org): The body that polices what the phrase on the menu means.
+sources: s:wp-santa-maria-valley-ava — Santa Maria Valley AVA; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:wp-santa-maria-valley — Santa Maria Valley AVA
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Sonoma Coast (region)
+URL: https://nanobotco.github.io/pinot-noir/region/sonoma-coast/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/sonoma-coast.json
+id: sonoma-coast
+facets: country=United States · level=ava · established=1987
+region: Sonoma Coast, Sonoma County, California
+what: An AVA big enough to be an argument: it runs from the Pacific bluffs inland across most of the county. The vines that gave it its name sit on the far western ridges, cold and steep, and growers there spent years carving out smaller names.
+today: Fort Ross-Seaview came out of it in 2011, West Sonoma Coast in 2022 — both drawn tighter and closer to the ocean.
+geo: 38.5, -123.1 (region)
+- kin → russian-river-valley (region): Its warmer inland neighbour.
+- kin → pinot-noir (variety): Grown at the edge of where it will ripen at all.
+sources: s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:wp-sonoma-coast-ava — Sonoma Coast AVA
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Sta. Rita Hills (region)
+URL: https://nanobotco.github.io/pinot-noir/region/sta-rita-hills/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/sta-rita-hills.json
+id: sta-rita-hills
+aliases: Santa Rita Hills
+facets: country=United States · level=sub-ava · established=2001 · soil=diatomaceous shale, sandy loam
+region: Sta. Rita Hills, Santa Barbara County, California
+what: A wind tunnel between Buellton and Lompoc where the Santa Ynez Valley opens west to the ocean. Fog in the morning, thirty-knot afternoons, and some of the slowest ripening in California.
+story: Petitioned by growers inside the Santa Ynez Valley AVA who wanted their own name, and established as Santa Rita Hills in 2001. Chile's Viña Santa Rita objected; the TTB shortened it to Sta. Rita Hills in 2005, and the label now carries an abbreviation nobody says out loud.
+geo: 34.63, -120.4 (region)
+- kin → santa-maria-valley (region): The county's other pinot valley, half an hour north.
+- kin → sanford-and-benedict (vineyard): The 1971 planting that proved the ground.
+- kin → richard-sanford (person): Who read the weather maps and picked this gap.
+sources: s:wp-sta-rita-hills-ava — Sta. Rita Hills AVA; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Tasmania (region)
+URL: https://nanobotco.github.io/pinot-noir/region/tasmania/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/tasmania.json
+id: tasmania
+facets: country=Australia · level=gi
+region: Tasmania, Australia
+what: Australia's coldest vineyards, split between the Tamar in the north and the Coal River and Derwent in the south. Most of the pinot noir goes into sparkling base; the rest is picked ripe enough to bottle red.
+geo: -41.6, 147.2 (region)
+- kin → pinot-noir (variety): Grown for bubbles first, red second.
+- kin → champagne (region): The model the sparkling program copies, at 42°S.
+sources: s:wp-tasmanian-wine — Tasmanian wine; s:wp-australian-wine — Australian wine
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Willamette Valley (region)
+URL: https://nanobotco.github.io/pinot-noir/region/willamette-valley/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/willamette-valley.json
+id: willamette-valley
+facets: country=United States · level=ava · established=1983 · soil=volcanic Jory, marine sedimentary, windblown loess
+region: Willamette Valley, Oregon
+what: Three and a half million acres of Oregon between the Coast Range and the Cascades, of which a thin band of hillside grows pinot noir. Eleven AVAs now sit inside it.
+story: David Lett planted pinot noir at Dundee in 1965 against the advice of everyone at Davis, who said Oregon was too cold and too wet. His 1975 Eyrie South Block Reserve placed tenth in a 1979 Paris tasting, Robert Drouhin re-ran the comparison in Beaune the following year, and the Burgundians started buying land. Adelsheim chaired the committee that petitioned for the AVA in 1983.
+how: Cool and wet, with rain that arrives near harvest and decides the vintage. Growers pick on the forecast as much as on sugar.
+today: Pinot noir covered 24,729 acres of Oregon in 2022 and brought the highest price per ton of any variety in the state.
+geo: 45.2, -123.1 (region)
+- kin → dundee-hills (region): The red Jory hills where Oregon pinot started.
+- kin → eola-amity-hills (region): The gap that lets the Van Duzer wind through.
+- kin → yamhill-carlton (region): Old marine sediment, and vines that ripen early.
+- kin → ribbon-ridge (region): A single small ridge, its own AVA.
+- kin → david-lett (person): Who planted the first pinot noir here and argued for the rest.
+- kin → eyrie-vineyards (producer): The winery that made the 1975 that changed the argument.
+- kin → domaine-drouhin-oregon (producer): Burgundy buying in, four years after the tasting.
+sources: s:wp-willamette-valley-ava — Willamette Valley AVA; s:wp-oregon-wine — Oregon wine; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Yamhill-Carlton (region)
+URL: https://nanobotco.github.io/pinot-noir/region/yamhill-carlton/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/yamhill-carlton.json
+id: yamhill-carlton
+facets: country=United States · level=sub-ava · established=2004 · soil=ancient marine sedimentary
+region: Willamette Valley, Oregon
+what: A horseshoe of old marine sediment around the towns of Yamhill and Carlton, draining fast and ripening early.
+geo: 45.3, -123.25 (region)
+- kin → willamette-valley (region): The valley AVA this sits inside.
+- kin → ribbon-ridge (region): The small ridge in the middle of the horseshoe, with its own name.
+sources: s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:wp-yamhill-carlton-ava — Yamhill-Carlton AVA
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Yarra Valley (region)
+URL: https://nanobotco.github.io/pinot-noir/region/yarra-valley/
+JSON: https://nanobotco.github.io/pinot-noir/api/region/yarra-valley.json
+id: yarra-valley
+facets: country=Australia · level=gi
+region: Yarra Valley, Australia
+what: Hills north-east of Melbourne, planted in the 1830s, pulled out by the 1920s, replanted from the 1960s. Cool sites high in the valley grow pinot noir for still wine and for sparkling.
+geo: -37.65, 145.45 (region)
+- kin → pinot-noir (variety): Replanted here first among Australia's cool regions.
+- kin → mornington-peninsula (region): The maritime alternative, an hour and a half away.
+sources: s:wp-yarra-valley — Yarra Valley; s:wp-australian-wine — Australian wine
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Bien Nacido (vineyard)
+URL: https://nanobotco.github.io/pinot-noir/vineyard/bien-nacido/
+JSON: https://nanobotco.github.io/pinot-noir/api/vineyard/bien-nacido.json
+id: bien-nacido
+aliases: Bien Nacido Vineyards · Rancho Tepusquet
+facets: country=United States · established=1969 · soil=sand, chalk and marine loam
+region: Santa Maria Valley, Santa Barbara County, California
+what: Eight hundred acres on the Santa Maria bench, planted in 1969 and farmed row by row for whoever buys the rows. Over 250 acres of it is pinot noir, and the vineyard's name appears on more labels than most wineries manage.
+story: Tomás Olivera took the Rancho Tepusquet grant from Governor Alvarado in 1837; Chumash had fished Tepusquet Creek long before that. Juan Pacífico Ontiveros built the adobe in 1857 and farmed grain, stock and wine grapes. The Millers bought in 1969, reunited two parcels of the grant and planted vines.
+how: Blocks are sold by area rather than by the ton, so a winemaker who wants to crop hard is not arguing with a grower paid by weight. Some customers have bought the same rows for over twenty years and print the block on the label.
+today: Also one of California's larger sources of certified budwood — a good deal of the state's chardonnay started as cuttings from here.
+geo: 34.92, -120.25 (street)
+- kin → santa-maria-valley (region): The AVA it helped define.
+- kin → au-bon-climat (producer): Jim Clendenen's winery, on the property.
+- kin → tri-tip-over-red-oak (story): The same ranch land that fed the vaquero barbecues.
+- kin → massale-selection (practice): What a budwood block is for.
+sources: s:wp-bien-nacido-vineyard — Bien Nacido Vineyards; s:wp-rancho-tepusquet — Rancho Tepusquet; s:wp-santa-maria-valley-ava — Santa Maria Valley AVA
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Chambertin (vineyard)
+URL: https://nanobotco.github.io/pinot-noir/vineyard/chambertin/
+JSON: https://nanobotco.github.io/pinot-noir/api/vineyard/chambertin.json
+id: chambertin
+facets: country=France
+region: Côte de Nuits, Burgundy
+what: Gevrey's grand cru on the mid-slope, and the name the village bolted onto its own in 1847 — the first commune in Burgundy to do it, and the start of every double-barrelled name on the Côte.
+geo: 47.22, 4.96 (street)
+- kin → cote-de-nuits (region): The district it sits in.
+- kin → burgundy (region): Where the habit of appending the best vineyard to the village name began.
+sources: s:wp-gevrey-chambertin — Gevrey-Chambertin; s:wp-burgundy-wine — Burgundy wine
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Clos de Vougeot (vineyard)
+URL: https://nanobotco.github.io/pinot-noir/vineyard/clos-de-vougeot/
+JSON: https://nanobotco.github.io/pinot-noir/api/vineyard/clos-de-vougeot.json
+id: clos-de-vougeot
+facets: country=France · soil=limestone at the top, clay at the bottom
+region: Côte de Nuits, Burgundy
+what: Fifty hectares behind a wall the Cistercians of Cîteaux built, and more than eighty owners inside it. One name on every label, and a slope that runs from grand cru ground at the top to heavy clay by the road.
+story: Bought or gifted to the monks between the twelfth and early fourteenth centuries, farmed as one block for six hundred years, then broken up after the Revolution and split again at every inheritance. The wall is the appellation; the ground inside it is not one thing.
+geo: 47.176, 4.955 (street)
+- kin → cote-de-nuits (region): The district it sits in.
+- kin → climat (term): The unit this vineyard is usually held up to explain — and to complicate.
+- kin → burgundy (region): Where dividing land by inheritance became the system.
+sources: s:wp-clos-de-vougeot — Clos de Vougeot
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Corton (vineyard)
+URL: https://nanobotco.github.io/pinot-noir/vineyard/corton/
+JSON: https://nanobotco.github.io/pinot-noir/api/vineyard/corton.json
+id: corton
+facets: country=France
+region: Côte de Beaune, Burgundy
+what: The hill above Aloxe, and Burgundy's largest grand cru: 95 hectares in production, nearly all of it red, and the only red grand cru on the Côte de Beaune.
+geo: 47.07, 4.86 (region)
+- kin → cote-de-beaune (region): The district whose only red grand cru this is.
+- kin → hospices-de-beaune (org): Whose auction lots include Corton parcels given by donors.
+sources: s:wp-corton-aoc — Corton (wine)
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## La Tâche (vineyard)
+URL: https://nanobotco.github.io/pinot-noir/vineyard/la-tache/
+JSON: https://nanobotco.github.io/pinot-noir/api/vineyard/la-tache.json
+id: la-tache
+facets: country=France · soil=limestone, marl
+region: Côte de Nuits, Burgundy
+what: Five hectares in Vosne-Romanée, one owner, about 12,700 bottles. The appellation rules set 35 hl/ha, 9,000 vines to the hectare and 11.5% potential alcohol before anyone picks.
+geo: 47.16, 4.953 (street)
+- kin → drc (producer): Its sole owner.
+- kin → romanee-conti (vineyard): Its neighbour, and the more famous half of the same domaine.
+sources: s:wp-la-t-che-aoc — La Tâche AOC
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Musigny (vineyard)
+URL: https://nanobotco.github.io/pinot-noir/vineyard/musigny/
+JSON: https://nanobotco.github.io/pinot-noir/api/vineyard/musigny.json
+id: musigny
+facets: country=France · soil=thin limestone over rock
+region: Côte de Nuits, Burgundy
+what: Ten hectares above Chambolle, the one grand cru of the Côte de Nuits that also makes a white — about two thirds of a hectare of it.
+geo: 47.19, 4.96 (street)
+- kin → cote-de-nuits (region): The district it sits in.
+- kin → chardonnay (variety): The exception planted here: Musigny blanc.
+sources: s:wp-le-musigny — Musigny AOC
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Richebourg (vineyard)
+URL: https://nanobotco.github.io/pinot-noir/vineyard/richebourg/
+JSON: https://nanobotco.github.io/pinot-noir/api/vineyard/richebourg.json
+id: richebourg
+facets: country=France
+region: Côte de Nuits, Burgundy
+what: Vosne-Romanée grand cru north of Romanée-Conti, on deeper soil, giving the broadest wine of that group of neighbours.
+geo: 47.165, 4.957 (street)
+- kin → romanee-conti (vineyard): Its neighbour up the slope.
+- kin → domaine-leroy (producer): One of the holders whose name sells the parcel.
+- kin → henri-jayer (person): Who farmed here and taught half the Côte how he did it.
+sources: s:wp-richebourg — Richebourg; s:meadows-pearl — The Pearl of the Côte: The Great Wines of Vosne-Romanée
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Romanée-Conti (vineyard)
+URL: https://nanobotco.github.io/pinot-noir/vineyard/romanee-conti/
+JSON: https://nanobotco.github.io/pinot-noir/api/vineyard/romanee-conti.json
+id: romanee-conti
+facets: country=France · established=1936 · soil=limestone, marl · status=open
+region: Côte de Nuits, Burgundy
+what: Under two hectares of Vosne-Romanée hillside, held by one owner, producing about 3,500 bottles a year. No other patch of ground in wine carries this much argument per square metre.
+story: Louis François de Bourbon, prince de Conti, bought it in 1760 through an agent and kept the wine for himself; the name stuck. It survived phylloxera on ungrafted vines until 1945, when the harvest fell to about 2.5 hl/ha and 600 bottles, and the vineyard was pulled and replanted.
+geo: 47.163, 4.955 (street)
+- kin → drc (producer): Its sole owner, and the domaine named after it.
+- kin → la-tache (vineyard): The other monopole down the same slope.
+- kin → cote-de-nuits (region): The district it sits in.
+- kin → monopole (term): One owner, one vineyard — the word for this arrangement.
+sources: s:wp-roman-e-conti — Romanée-Conti; s:meadows-pearl — The Pearl of the Côte: The Great Wines of Vosne-Romanée
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Sanford & Benedict (vineyard)
+URL: https://nanobotco.github.io/pinot-noir/vineyard/sanford-and-benedict/
+JSON: https://nanobotco.github.io/pinot-noir/api/vineyard/sanford-and-benedict.json
+id: sanford-and-benedict
+facets: country=United States · established=1971
+region: Sta. Rita Hills, Santa Barbara County, California
+what: The planting that proved the Santa Ynez river gap: put in during 1971 by Richard Sanford and Michael Benedict on a north-facing slope nobody else wanted, and now inside the Sta. Rita Hills AVA.
+story: *Tradition holds —* Sanford went looking with weather records rather than with a realtor, hunting a valley that ran east-west so the ocean air could reach the vines. The old block still gets picked separately and named on labels made by people who never owned it.
+geo: 34.62, -120.3 (street)
+- kin → sta-rita-hills (region): The AVA drawn around this ground thirty years later.
+- kin → richard-sanford (person): Who chose the site.
+sources: s:wp-sta-rita-hills-ava — Sta. Rita Hills AVA; s:haeger-north-american — North American Pinot Noir
+provenance default: tradition · confidence: medium · needs_verification: True · updated: 2026-09-16
+
+## Adelsheim Vineyard (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/adelsheim/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/adelsheim.json
+id: adelsheim
+facets: country=United States · established=1971
+region: Willamette Valley, Oregon
+what: David and Ginny Adelsheim bought 19 acres outside Newberg in 1971. He then spent decades on the committee work — the AVA petitions, the clone imports, the arguments about what Oregon should be allowed to call itself.
+address: Newberg, OR
+geo: 45.32, -122.99 (street)
+- kin → willamette-valley (region): Whose 1983 AVA petition he chaired.
+- kin → dijon-115 (clone): One of the Dijon selections Oregon imported through that work.
+sources: s:wp-adelsheim-vineyard — Adelsheim Vineyard; s:wp-willamette-valley-ava — Willamette Valley AVA
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Au Bon Climat (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/au-bon-climat/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/au-bon-climat.json
+id: au-bon-climat
+facets: country=United States · established=1982
+region: Santa Maria Valley, Santa Barbara County, California
+what: Founded in 1982 by Jim Clendenen and Adam Tolmach, and housed inside Bien Nacido since. Clendenen ran it alone from 1990 and made Santa Barbara pinot noir something people ordered by name.
+address: Santa Maria, CA
+geo: 34.92, -120.26 (street)
+- kin → jim-clendenen (person): Who ran it for four decades.
+- kin → bien-nacido (vineyard): The vineyard it lives inside and buys from.
+- kin → santa-maria-valley (region): The valley it argued for.
+- kin → tri-tip-over-red-oak (story): Beef and pinot out of one valley — the long version.
+sources: s:wp-au-bon-climat — Au Bon Climat; s:wp-jim-clendenen — Jim Clendenen
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Bass Phillip (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/bass-phillip/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/bass-phillip.json
+id: bass-phillip
+facets: country=Australia · established=1979
+region: Australia
+what: Phillip Jones planted at Leongatha in South Gippsland in 1979 and did not sell a bottle for twelve years. He planted at Burgundian density in a corner of Victoria nobody rated, and the wines became Australia's pinot benchmark.
+address: Leongatha, Victoria
+geo: -38.48, 145.95 (street)
+- kin → high-density-planting (practice): The decision the vineyard is built on.
+- kin → pinot-noir (variety): What the cabernet was replaced with.
+sources: s:wp-bass-phillip — Bass Phillip
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Calera (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/calera/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/calera.json
+id: calera
+facets: country=United States · established=1975
+region: California
+what: Josh Jensen went looking for limestone in California because Burgundy grows on it, found a lime kiln site high on Mount Harlan in San Benito County, and planted pinot noir at 2,200 feet in 1975.
+story: Jensen worked harvests at the Domaine de la Romanée-Conti and at Dujac, came home with an idea about soil, and spent a year with geological survey maps before buying. Marq de Villiers wrote a book about the place in 1993.
+address: Hollister, CA
+geo: 36.66, -121.13 (street)
+- kin → josh-jensen (person): Who chose the limestone and planted it.
+- kin → calera-selection (clone): The cuttings that came home with him, and what growers now call them.
+- kin → burgundy (region): The comparison he was explicitly chasing.
+sources: s:devilliers-heartbreak — The Heartbreak Grape: A Journey in Search of the Perfect Pinot Noir; s:haeger-north-american — North American Pinot Noir
+provenance default: tradition · confidence: medium · needs_verification: True · updated: 2026-09-16
+
+## Domaine de la Romanée-Conti (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/drc/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/drc.json
+id: drc
+aliases: DRC · Domaine de la Romanee-Conti
+facets: country=France · status=unknown
+region: Côte de Nuits, Burgundy
+what: The Vosne-Romanée domaine that owns Romanée-Conti and La Tâche outright and holds pieces of Richebourg, Échezeaux, Grands Échezeaux, Romanée-Saint-Vivant and Montrachet. Sold in mixed cases, allocated by relationship, and resold at multiples nobody at the domaine sets.
+story: The Abbey of Saint-Vivant in Vosne held 1.8 hectares here from 1232. The prince de Conti bought the parcel in 1760; the Revolution sold it on; the Villaine and Leroy families have run the domaine through the twentieth century. Five hectares in La Tâche and Grands Échezeaux went biodynamic first, and the practice spread from there.
+address: Vosne-Romanée, Côte-d'Or
+geo: 47.162, 4.951 (street)
+- kin → romanee-conti (vineyard): Its monopole, and its name.
+- kin → la-tache (vineyard): Its other monopole.
+- kin → aubert-de-villaine (person): Co-director, and the man who carried the Climats to UNESCO.
+- kin → burgundy (region): The region whose reputation this address both makes and distorts.
+sources: s:wp-domaine-de-la-roman-e-conti — Domaine de la Romanée-Conti; s:meadows-pearl — The Pearl of the Côte: The Great Wines of Vosne-Romanée
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Domaine Drouhin Oregon (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/domaine-drouhin-oregon/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/domaine-drouhin-oregon.json
+id: domaine-drouhin-oregon
+facets: country=United States · established=1987
+region: Willamette Valley, Oregon
+what: Burgundy's answer to the 1979 tasting: the Drouhin family bought land in the Dundee Hills in 1987 and built a gravity-flow winery into the slope, with Véronique Drouhin making the wine.
+address: Dayton, OR
+geo: 45.28, -123.09 (street)
+- kin → joseph-drouhin (producer): The Beaune house behind it.
+- kin → dundee-hills (region): The hill it sits high on.
+- kin → eyrie-vineyards (producer): Whose 1975 pulled the family across the Atlantic.
+sources: s:wp-oregon-wine — Oregon wine; s:wp-joseph-drouhin — Maison Joseph Drouhin
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Domaine Leroy (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/domaine-leroy/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/domaine-leroy.json
+id: domaine-leroy
+facets: country=France
+region: Côte de Nuits, Burgundy
+what: Twenty-three hectares of mostly premier and grand cru Burgundy, farmed biodynamically since Lalou Bize-Leroy assembled the domaine in 1988 out of Charles Noëllat's holdings. Yields are tiny and the wines are priced accordingly.
+address: Vosne-Romanée, Côte-d'Or
+geo: 47.163, 4.948 (street)
+- kin → lalou-bize-leroy (person): Who built it and farms it.
+- kin → richebourg (vineyard): One of the grand cru parcels it holds.
+- kin → native-yeast (practice): Part of the cellar method that follows from farming this way.
+sources: s:wp-domaine-leroy — Domaine Leroy; s:wp-lalou-bize-leroy — Lalou Bize-Leroy
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Felton Road (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/felton-road/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/felton-road.json
+id: felton-road
+facets: country=New Zealand · established=1991
+region: Central Otago, New Zealand
+what: Bannockburn, Central Otago — schist, old gold workings, and a cellar that farms organically and biodynamically and bottles its blocks separately.
+address: Bannockburn, Otago
+geo: -45.05, 169.18 (street)
+- kin → central-otago (region): The region it sits in and helped explain abroad.
+- kin → pinot-noir (variety): Nearly everything in the cellar.
+sources: s:wp-felton-road — Bannockburn, New Zealand; s:wp-central-otago-wine-region — Central Otago wine region
+provenance default: tradition · confidence: medium · needs_verification: True · updated: 2026-09-16
+
+## Hanzell Vineyards (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/hanzell/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/hanzell.json
+id: hanzell
+facets: country=United States · established=1953
+region: Sonoma County, California
+what: James Zellerbach planted two acres of pinot noir and four of chardonnay above Sonoma in 1953, then built a cellar copying Burgundy's methods — French oak, temperature control, inert gas. California winemaking followed him.
+address: Sonoma, CA
+geo: 38.32, -122.44 (street)
+- kin → pinot-noir (variety): Among the earliest serious American plantings after Prohibition.
+- kin → neutral-oak (practice): The barrel question he answered by importing the barrels.
+sources: s:wp-hanzell-vineyards — Hanzell Vineyards
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Maison Joseph Drouhin (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/joseph-drouhin/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/joseph-drouhin.json
+id: joseph-drouhin
+facets: country=France · established=1880
+region: Côte de Beaune, Burgundy
+what: Beaune house founded in 1880, certified organic across its own vineyards from the 2009 vintage, and the family that took Burgundy's argument to Oregon in 1987.
+address: Beaune, Côte-d'Or
+geo: 47.023, 4.836 (street)
+- kin → domaine-drouhin-oregon (producer): The Dundee Hills estate this family built.
+- kin → willamette-valley (region): Where Robert Drouhin re-ran the 1979 tasting and then bought land.
+sources: s:wp-joseph-drouhin — Maison Joseph Drouhin
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Maison Louis Jadot (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/louis-jadot/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/louis-jadot.json
+id: louis-jadot
+facets: country=France · established=1859
+region: Côte de Beaune, Burgundy
+what: A Beaune négociant founded in 1859, farming and buying across 270 hectares of Burgundy including Beaujolais crus, and bottling nothing that is not an appellation wine.
+address: Beaune, Côte-d'Or
+geo: 47.026, 4.84 (street)
+- kin → negociant (term): What this house does, and the word for it.
+- kin → cote-de-beaune (region): Where it sits and where most of its vines are.
+sources: s:wp-maison-louis-jadot — Maison Louis Jadot
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Rippon (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/rippon/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/rippon.json
+id: rippon
+facets: country=New Zealand
+region: Central Otago, New Zealand
+what: Vines on a lake terrace at Wanaka, biodynamic, with the Southern Alps behind them — the photograph that sells Central Otago, and a family that has farmed the slope since the nineteenth century.
+address: Wanaka, Otago
+geo: -44.71, 169.12 (street)
+- kin → central-otago (region): Its region, at the cooler northern end.
+sources: s:wp-rippon — Rippon; s:wp-central-otago-wine-region — Central Otago wine region
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## Sokol Blosser (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/sokol-blosser/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/sokol-blosser.json
+id: sokol-blosser
+facets: country=United States · established=1971
+region: Willamette Valley, Oregon
+what: Bill Blosser and Susan Sokol Blosser planted five acres of pinot noir into a former prune orchard in 1971 and made their first vintage in 1977. The estate has been certified organic since 2005.
+address: Dayton, OR
+geo: 45.27, -123.07 (street)
+- kin → dundee-hills (region): The AVA its blocks sit in.
+- kin → willamette-valley (region): One of the valley's founding estates.
+sources: s:wp-sokol-blosser — Sokol Blosser Winery
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## The Eyrie Vineyards (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/eyrie-vineyards/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/eyrie-vineyards.json
+id: eyrie-vineyards
+facets: country=United States · established=1965
+region: Willamette Valley, Oregon
+what: David and Diana Lett planted the Willamette Valley's first pinot noir in 1965 and made their first vintage in 1970. They also made the first American pinot gris.
+story: Lett went to Oregon against the advice of his professors at Davis, who held that the state was too cold and too wet for vinifera. The 1975 South Block Reserve placed tenth in a Paris tasting in 1979 and second, by fractions, in Robert Drouhin's rematch in Beaune the year after.
+address: McMinnville, OR
+geo: 45.21, -123.2 (street)
+- kin → david-lett (person): Who planted it.
+- kin → dundee-hills (region): The hill his first block sits on.
+- kin → willamette-valley (region): The valley he argued into existence as a wine region.
+- kin → how-pinot-travelled (story): One leg of the journey, told at length.
+sources: s:wp-the-eyrie-vineyards — The Eyrie Vineyards; s:wp-david-lett — David Lett; s:wp-oregon-wine — Oregon wine
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Williams Selyem (producer)
+URL: https://nanobotco.github.io/pinot-noir/producer/williams-selyem/
+JSON: https://nanobotco.github.io/pinot-noir/api/producer/williams-selyem.json
+id: williams-selyem
+facets: country=United States · established=1981
+region: Russian River Valley, Sonoma County, California
+what: Burt Williams and Ed Selyem started in a Forestville garage in the early 1980s, bought fruit from Russian River growers and put the vineyard's name on the label. The mailing list became the model half of California copied.
+address: Healdsburg, CA
+geo: 38.48, -122.9 (street)
+- kin → russian-river-valley (region): The AVA whose reputation it built.
+- kin → burt-williams (person): Who made the wine, then went north and planted his own.
+sources: s:haeger-north-american — North American Pinot Noir; s:wp-russian-river-valley-ava — Russian River Valley AVA
+provenance default: tradition · confidence: medium · needs_verification: True · updated: 2026-09-16
+
+## Abel clone (clone)
+URL: https://nanobotco.github.io/pinot-noir/clone/abel-clone/
+JSON: https://nanobotco.github.io/pinot-noir/api/clone/abel-clone.json
+id: abel-clone
+aliases: Ata Rangi clone · gumboot clone
+facets: origin=Burgundy field selection
+region: New Zealand, Martinborough, Central Otago
+what: New Zealand's most-told vine story: a cutting confiscated at Auckland airport in the 1970s, handed to a customs officer who happened to make wine, propagated, and now planted the length of the country.
+story: *Tradition holds —* the cutting came from the Domaine de la Romanée-Conti, in a traveller's boot, and Malcolm Abel took it home. The nickname 'gumboot' is the version of the story New Zealand prefers to tell. Its origin has never been documented publicly; its behaviour in the vineyard has.
+- kin → martinborough (region): Where it was first propagated in quantity.
+- kin → central-otago (region): And where it now grows, 900 km further south.
+- kin → massale-selection (practice): The practice this story sits at the edge of.
+sources: s:wp-new-zealand-wine — New Zealand wine
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## Calera selection (clone)
+URL: https://nanobotco.github.io/pinot-noir/clone/calera-selection/
+JSON: https://nanobotco.github.io/pinot-noir/api/clone/calera-selection.json
+id: calera-selection
+aliases: Jensen selection
+facets: origin=California
+region: California
+what: Cuttings Josh Jensen is said to have brought back from Burgundy in the mid-1970s, planted on Mount Harlan and passed around California since. Growers who plant it say so on the label.
+story: *Tradition holds —* the cuttings came from the Domaine de la Romanée-Conti. That story is told widely, including by people who bought the plant material; documentation for the specific source is another matter.
+- kin → calera (producer): The vineyard it is named for.
+- kin → josh-jensen (person): Who carried it, by the usual account.
+- kin → massale-selection (practice): The practice, and its grey areas.
+sources: s:devilliers-heartbreak — The Heartbreak Grape: A Journey in Search of the Perfect Pinot Noir; s:haeger-north-american — North American Pinot Noir
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## Dijon 115 (clone)
+URL: https://nanobotco.github.io/pinot-noir/clone/dijon-115/
+JSON: https://nanobotco.github.io/pinot-noir/api/clone/dijon-115.json
+id: dijon-115
+aliases: 115 · ENTAV-INRA 115
+facets: origin=Dijon
+region: The world
+what: Small berries, small bunches, early ripening, aromatic. The most planted of the Dijon selections in the New World and the one growers reach for when a site needs perfume.
+- kin → dijon-777 (clone): Its darker, denser stablemate.
+- kin → dijon-667 (clone): The third of the common trio.
+- kin → raymond-bernard (person): Who ran the selection programme the number comes from.
+- kin → the-dijon-numbers (story): How Burgundy came to sell its vines by catalogue.
+sources: s:wp-pinot-noir — Pinot noir; s:fps-grapes — National Grapevine Registry and the FPS public varieties list
+provenance default: tradition · confidence: medium · needs_verification: True · updated: 2026-09-16
+
+## Dijon 667 (clone)
+URL: https://nanobotco.github.io/pinot-noir/clone/dijon-667/
+JSON: https://nanobotco.github.io/pinot-noir/api/clone/dijon-667.json
+id: dijon-667
+aliases: 667 · ENTAV-INRA 667
+facets: origin=Dijon
+region: The world
+what: The third of the trio that travelled: mid-weight, spicy, and useful for filling the gap between 115's perfume and 777's colour.
+- kin → dijon-115 (clone): Planted with it, almost always.
+- kin → dijon-777 (clone): And with this one.
+sources: s:wp-pinot-noir — Pinot noir; s:fps-grapes — National Grapevine Registry and the FPS public varieties list
+provenance default: tradition · confidence: medium · needs_verification: True · updated: 2026-09-16
+
+## Dijon 777 (clone)
+URL: https://nanobotco.github.io/pinot-noir/clone/dijon-777/
+JSON: https://nanobotco.github.io/pinot-noir/api/clone/dijon-777.json
+id: dijon-777
+aliases: 777 · ENTAV-INRA 777
+facets: origin=Dijon
+region: The world
+what: Deeper colour, smaller crop, more tannin than 115. Planted where a grower wants weight without waiting for a warm year.
+- kin → dijon-115 (clone): The aromatic one, usually planted alongside.
+- kin → the-dijon-numbers (story): The programme behind the number.
+sources: s:wp-pinot-noir — Pinot noir; s:fps-grapes — National Grapevine Registry and the FPS public varieties list
+provenance default: tradition · confidence: medium · needs_verification: True · updated: 2026-09-16
+
+## Mount Eden selection (clone)
+URL: https://nanobotco.github.io/pinot-noir/clone/mount-eden/
+JSON: https://nanobotco.github.io/pinot-noir/api/clone/mount-eden.json
+id: mount-eden
+aliases: Mt. Eden clone · Martin Ray selection
+facets: origin=California
+region: Santa Cruz Mountains, California
+what: A California field selection traced back to Martin Ray's plantings in the Santa Cruz Mountains, and through him, by the usual account, to Paul Masson's cuttings from Burgundy. Tiny clusters, tiny crop.
+story: *Tradition holds —* Masson brought vines from Burgundy to the Santa Cruz Mountains in the 1890s and Ray carried the line forward. The chain is repeated in the trade far more often than it is documented.
+- kin → martin-ray (person): Whose vineyard the cuttings came from.
+- kin → santa-cruz-mountains (region): The ridge it comes off.
+- kin → massale-selection (practice): How a selection like this moves: cuttings, not catalogues.
+sources: s:haeger-north-american — North American Pinot Noir; s:wp-paul-masson — Paul Masson
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## Pinot Droit (clone)
+URL: https://nanobotco.github.io/pinot-noir/clone/pinot-droit/
+JSON: https://nanobotco.github.io/pinot-noir/api/clone/pinot-droit.json
+id: pinot-droit
+aliases: Gamay Beaujolais (Californian misnomer)
+facets: origin=Burgundy field selection
+region: California, Burgundy
+what: Upright-growing, high-cropping selections that suited a grower paid by weight. California sold a series of them under the misnomer 'Gamay Beaujolais', and Burgundy planted them in ground where nobody was looking.
+how: Productive in warm flowering conditions and broad-shouldered in the glass. Growers who wanted a lighter, decumbent vine call those 'pinot fin' or 'pinot tordu' instead.
+- kin → pinot-noir (variety): The same variety, selected for a different habit.
+- kin → the-dijon-numbers (story): What replaced it, and why growers changed their minds.
+sources: s:wp-pinot-noir — Pinot noir
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Pommard, UCD 4 (clone)
+URL: https://nanobotco.github.io/pinot-noir/clone/pommard-ucd4/
+JSON: https://nanobotco.github.io/pinot-noir/api/clone/pommard-ucd4.json
+id: pommard-ucd4
+aliases: UCD 4 · Pommard clone · UCD4
+facets: origin=Burgundy field selection · country=United States
+region: Oregon, California
+what: The workhorse of American pinot noir before the Dijon numbers arrived, and still planted everywhere. Bigger berries, firmer structure, a darker wine than the Dijons give.
+how: Held and distributed through UC Davis, which is where the number comes from. Oregon built its early reputation on this and on Wädenswil.
+- kin → wadenswil-ucd2a (clone): The other half of Oregon's old plantings.
+- kin → dijon-115 (clone): What arrived later and changed the arithmetic.
+- kin → the-dijon-numbers (story): Why a vine has a catalogue number at all.
+sources: s:wp-pinot-noir — Pinot noir; s:fps-grapes — National Grapevine Registry and the FPS public varieties list
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Swan selection (clone)
+URL: https://nanobotco.github.io/pinot-noir/clone/swan-selection/
+JSON: https://nanobotco.github.io/pinot-noir/api/clone/swan-selection.json
+id: swan-selection
+aliases: Joseph Swan selection
+facets: origin=California
+region: Russian River Valley, Sonoma County, California
+what: A Russian River field selection off Joseph Swan's vineyard, planted through Sonoma for its small berries and its dark, savoury wine.
+- kin → russian-river-valley (region): Where it comes from and mostly stays.
+- kin → massale-selection (practice): How it spread.
+sources: s:haeger-north-american — North American Pinot Noir
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## Wädenswil, UCD 2A (clone)
+URL: https://nanobotco.github.io/pinot-noir/clone/wadenswil-ucd2a/
+JSON: https://nanobotco.github.io/pinot-noir/api/clone/wadenswil-ucd2a.json
+id: wadenswil-ucd2a
+aliases: UCD 2A · Wadensvil · Wädenswil
+facets: origin=Swiss
+region: Oregon
+what: A Swiss research-station selection that reached Oregon early and stayed. Lighter in colour, higher in aromatics, and often blended against Pommard to fill the middle.
+how: Named for the Swiss federal research station at Wädenswil on Lake Zurich, and distributed in America through UC Davis as UCD 1A and 2A.
+- kin → pommard-ucd4 (clone): Its planting partner in old Oregon blocks.
+- kin → willamette-valley (region): Where the pairing did the early work.
+sources: s:wp-pinot-noir — Pinot noir; s:fps-grapes — National Grapevine Registry and the FPS public varieties list
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Cold soak (practice)
+URL: https://nanobotco.github.io/pinot-noir/practice/cold-soak/
+JSON: https://nanobotco.github.io/pinot-noir/api/practice/cold-soak.json
+id: cold-soak
+aliases: Pre-fermentation maceration · Macération à froid
+facets: kind=ferment
+region: The world
+what: Chilling the crushed fruit and holding it below fermentation temperature for days before the yeast start. Water pulls colour and aroma out of the skins; alcohol has not arrived yet to pull tannin.
+how: Three to six days near 10 °C, usually under dry ice or a blanket of CO₂ to keep spoilage organisms and oxygen out. Whether it does what its advocates claim is one of the livelier arguments in a pinot cellar.
+- kin → whole-cluster (practice): A decision taken at the same moment, on the same fruit.
+- kin → native-yeast (practice): Cold soak lasts until something starts the ferment — which is where this comes in.
+sources: s:wp-maceration-wine — Maceration (wine)
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Green harvest (practice)
+URL: https://nanobotco.github.io/pinot-noir/practice/green-harvest/
+JSON: https://nanobotco.github.io/pinot-noir/api/practice/green-harvest.json
+id: green-harvest
+aliases: Vendange verte · Crop thinning
+facets: kind=vineyard
+region: The world
+what: Cutting unripe bunches onto the ground in summer so the vine ripens fewer. Yield control with secateurs, after the vine has already set more fruit than the grower wants.
+how: Pinot crops generously if allowed to; appellation rules cap yield, and growers who want concentration cut below the cap. Done too late, the remaining berries just get bigger.
+- kin → burgundy (region): Where the yield caps are written into the appellation.
+- kin → high-density-planting (practice): The other way to make each vine carry less.
+sources: s:oxford-companion-wine-4 — The Oxford Companion to Wine
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Hand harvest (practice)
+URL: https://nanobotco.github.io/pinot-noir/practice/hand-harvest/
+JSON: https://nanobotco.github.io/pinot-noir/api/practice/hand-harvest.json
+id: hand-harvest
+facets: kind=vineyard
+region: The world
+what: Picking into small crates by hand, so the bunch arrives whole and the cellar decides what to do with it. A machine strips berries off the stem in the row, which settles the whole-cluster question before anyone gets a vote.
+how: Whole-cluster work, sorting tables and cold soaks all assume intact fruit. Steep slopes settle it anyway: no machine drives the Côte d'Or's mid-slope.
+- kin → whole-cluster (practice): The decision hand-picking keeps open.
+- kin → burgundy (region): Where the slope makes the choice for you.
+sources: s:oxford-companion-wine-4 — The Oxford Companion to Wine
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## High-density planting (practice)
+URL: https://nanobotco.github.io/pinot-noir/practice/high-density-planting/
+JSON: https://nanobotco.github.io/pinot-noir/api/practice/high-density-planting.json
+id: high-density-planting
+facets: kind=planting
+region: Burgundy, The world
+what: Nine to twelve thousand vines a hectare, rows a metre apart, each vine carrying a handful of bunches. Burgundy's grand cru rules set a floor of 9,000 vines per hectare and the New World mostly did not follow.
+how: More vines, more competition, smaller root systems each, less fruit per plant at the same yield per hectare. It also means narrow tractors, more labour and more money in the ground before the first harvest.
+- kin → la-tache (vineyard): Where the 9,000-vine minimum is written into the appellation.
+- kin → bass-phillip (producer): Which planted at Burgundian density in Gippsland and waited twelve years to sell a bottle.
+sources: s:wp-la-t-che-aoc — La Tâche AOC; s:wp-bass-phillip — Bass Phillip
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Malolactic fermentation (practice)
+URL: https://nanobotco.github.io/pinot-noir/practice/malolactic/
+JSON: https://nanobotco.github.io/pinot-noir/api/practice/malolactic.json
+id: malolactic
+aliases: Malo · MLF · Secondary fermentation
+facets: kind=ferment
+region: The world
+what: A bacterial conversion, not a yeast one: lactic acid bacteria turn sharp malic acid into softer lactic acid and let off CO₂. Nearly every red pinot noir goes through it.
+how: Usually after the alcoholic ferment, often in barrel over the winter, and in cold cellars it can wait until spring warms the room. It lowers total acidity, raises pH and can leave a buttery note from diacetyl.
+- kin → neutral-oak (practice): Where it usually happens: in barrel, over a cold winter.
+- kin → pinot-noir (variety): A high-acid grape, which is why the softening matters here.
+sources: s:wp-malolactic-fermentation — Malolactic fermentation
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Massal selection (practice)
+URL: https://nanobotco.github.io/pinot-noir/practice/massale-selection/
+JSON: https://nanobotco.github.io/pinot-noir/api/practice/massale-selection.json
+id: massale-selection
+aliases: Sélection massale · Massale
+facets: kind=planting
+region: Burgundy, The world
+what: Taking cuttings from many vines in a block you already trust, instead of ordering one numbered clone from a nursery. You keep the block's variation, and whatever virus it carries.
+how: A grower walks the old block at harvest, marks the vines that ripen well and crop lightly, and grafts from them. The pay-off is diversity inside one vineyard; the risk is leafroll and fanleaf, which is precisely what clonal certification was invented to stop.
+- kin → the-dijon-numbers (story): The alternative, and how it won the nursery trade.
+- kin → mount-eden (clone): A selection that travelled this way.
+- kin → abel-clone (clone): And one whose travel was less orthodox.
+- kin → bien-nacido (vineyard): Where certified budwood gets grown at scale instead.
+sources: s:wp-pinot-noir — Pinot noir; s:wp-ampelography — Ampelography
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Native yeast (practice)
+URL: https://nanobotco.github.io/pinot-noir/practice/native-yeast/
+JSON: https://nanobotco.github.io/pinot-noir/api/practice/native-yeast.json
+id: native-yeast
+aliases: Wild ferment · Spontaneous fermentation · Indigenous yeast
+facets: kind=ferment
+region: The world
+what: Letting whatever came in on the fruit and lives in the cellar start the ferment, instead of pitching a selected strain from a packet.
+how: The early work is done by non-Saccharomyces species that die off as alcohol rises; Saccharomyces cerevisiae finishes. The risk is a stuck ferment or a population you did not want; the argument for it is the character those first days leave behind.
+- kin → cold-soak (practice): What ends a cold soak, if nobody intervenes.
+- kin → wine-fault-brett (term): The organism that gets blamed when this goes wrong.
+sources: s:wp-yeast-in-winemaking — Yeast in winemaking
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Neutral oak (practice)
+URL: https://nanobotco.github.io/pinot-noir/practice/neutral-oak/
+JSON: https://nanobotco.github.io/pinot-noir/api/practice/neutral-oak.json
+id: neutral-oak
+aliases: Old barrels · Used barriques
+facets: kind=ageing
+region: Burgundy, The world
+what: A barrel that has already given up its flavour — third use, fourth, older. It still lets oxygen through the staves and still shapes texture; it just stops tasting of the forest.
+how: New oak gives vanillin, toast and tannin, and pinot noir has little weight to hide any of it. Cellars set a percentage of new wood per wine and often drop it for the lighter vineyards.
+- kin → malolactic (practice): What happens inside these barrels, over winter.
+- kin → hanzell (producer): Which imported French barrels to California and started the argument there.
+sources: s:wp-oak-wine — Oak (wine); s:wp-barrel — Barrel
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Punching down (practice)
+URL: https://nanobotco.github.io/pinot-noir/practice/pigeage/
+JSON: https://nanobotco.github.io/pinot-noir/api/practice/pigeage.json
+id: pigeage
+aliases: Pigeage · Punch-down
+facets: kind=ferment
+region: Burgundy, The world
+what: Pushing the floating cap of skins back under the wine, by foot or by plunger, several times a day. Pinot's cap rises fast and dries out if nobody moves it.
+how: Punching down extracts more gently than pumping over; it also warms the ferment and pushes oxygen in. Count and timing are how a cellar sets tannin without over-extracting a grape that has little to spare.
+- kin → whole-cluster (practice): What a foot meets when the stems stay in.
+- kin → saignee (practice): The other lever for concentration, pulled before fermentation.
+- kin → pigeage-term (term): The word itself.
+sources: s:wp-maceration-wine — Maceration (wine); s:wp-fermentation-in-winemaking — Fermentation in winemaking
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Saignée (practice)
+URL: https://nanobotco.github.io/pinot-noir/practice/saignee/
+JSON: https://nanobotco.github.io/pinot-noir/api/practice/saignee.json
+id: saignee
+facets: kind=press
+region: The world, Champagne
+what: Bleeding juice off a red fermenter early, to raise the skin-to-juice ratio in what stays behind. The juice that comes out is sold as rosé.
+how: Runs the other way round from making rosé on purpose: here the pink wine is a by-product of concentrating the red, and it tastes like one unless the fruit was picked with it in mind.
+- kin → saignee-term (term): The word, from saigner, to bleed.
+- kin → champagne (region): Where rosé is more often made by blending red wine in instead.
+sources: s:wp-ros — Rosé; s:oxford-companion-wine-4 — The Oxford Companion to Wine
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Whole cluster (practice)
+URL: https://nanobotco.github.io/pinot-noir/practice/whole-cluster/
+JSON: https://nanobotco.github.io/pinot-noir/api/practice/whole-cluster.json
+id: whole-cluster
+aliases: Whole-bunch · Vendange entière · Stem inclusion
+facets: kind=ferment
+region: Burgundy, The world
+what: Putting bunches into the fermenter with their stems still attached, instead of pulling the berries off first. Stems bring water, potassium, tannin and a green-stalk smell that turns spicy when it works and stalky when it doesn't.
+how: Stems raise pH by absorbing acid, cool the ferment by taking up heat, and build a lattice that lets a cap breathe. Growers pick a percentage — 30%, 50%, all of it — and argue about it forever. Ripe lignified stems help; green ones taste like the pruning pile.
+- kin → vendange-entiere (term): The French word, and its root.
+- kin → pigeage (practice): The other half of the same fermentation decision.
+- kin → pinot-noir (variety): A variety thin enough in tannin to notice what the stems add.
+sources: s:wp-maceration-wine — Maceration (wine); s:oxford-companion-wine-4 — The Oxford Companion to Wine
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Coq au vin (pairing)
+URL: https://nanobotco.github.io/pinot-noir/pairing/coq-au-vin/
+JSON: https://nanobotco.github.io/pinot-noir/api/pairing/coq-au-vin.json
+id: coq-au-vin
+facets: course=main · country=France
+region: Burgundy
+what: A tough old bird braised in red wine, lardons, mushrooms and onions, thickened with its own blood in the oldest versions. Burgundy cooks it in Burgundy and drinks the same wine with it.
+story: The dish attaches itself to Julius Caesar in the usual apocryphal way. What it is, plainly, is a way to make a rooster edible: long, slow, wet heat and acid.
+- kin → pinot-noir (variety): The wine in the pot and in the glass.
+- kin → burgundy (region): Where the version with a named wine comes from.
+- kin → mushrooms (pairing): In the pot from the start.
+sources: s:wp-coq-au-vin — Coq au vin
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Duck (pairing)
+URL: https://nanobotco.github.io/pinot-noir/pairing/duck/
+JSON: https://nanobotco.github.io/pinot-noir/api/pairing/duck.json
+id: duck
+facets: course=bird · country=France
+region: Burgundy, The world
+what: The pairing pinot noir gets asked about most: dark meat, a thick fat cap, and enough savoury weight to meet a wine with little tannin.
+how: Roasted whole, seared as breast, or salted and cooked in its own fat as confit. Fat carries flavour and coats the tongue; a high-acid red cuts through it in a way a low-acid one does not.
+- kin → pinot-noir (variety): The wine most often poured with it.
+- kin → burgundy (region): Where the pairing is a house rule.
+- kin → mushrooms (pairing): The other half of most plates it arrives on.
+sources: s:wp-duck-as-food — Duck as food; s:wp-wine-and-food-matching — Wine and food pairing
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Mushrooms (pairing)
+URL: https://nanobotco.github.io/pinot-noir/pairing/mushrooms/
+JSON: https://nanobotco.github.io/pinot-noir/api/pairing/mushrooms.json
+id: mushrooms
+facets: course=fungus · country=France
+region: Burgundy, Oregon, The world
+what: The flavour bridge: older pinot noir picks up a forest-floor smell, and a plate of fungi meets it head on. Glutamates in the mushroom read as savoury, which is the same register a mature bottle moves into.
+- kin → duck (pairing): Its usual companion on the plate.
+- kin → pinot-noir (variety): The wine whose aged character it mirrors.
+- kin → truffle-pairing (pairing): The expensive end of the same idea.
+sources: s:wp-edible-mushroom — Edible mushroom; s:wp-umami — Umami
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Pinquito beans (pairing)
+URL: https://nanobotco.github.io/pinot-noir/pairing/pinquito-beans/
+JSON: https://nanobotco.github.io/pinot-noir/api/pairing/pinquito-beans.json
+id: pinquito-beans
+aliases: Pinquitos
+facets: course=side · country=United States
+region: Santa Maria Valley, California
+what: A small pink bean grown in the Santa Maria Valley and almost nowhere else, cooked with bacon or ham, garlic, chilli and a little tomato, and served in a bowl beside the beef.
+story: Considered indigenous to this valley; a cross between a pink bean and a small white one. Betteravia Farms began growing them commercially in 1972, and a handful of local brands still supply the barbecue trade.
+- kin → santa-maria-tri-tip (pairing): The plate it belongs to.
+- kin → santa-maria-valley (region): The only ground that grows them at scale.
+sources: s:wp-santa-maria-style-barbecue — Santa Maria–style barbecue
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Red oak (pairing)
+URL: https://nanobotco.github.io/pinot-noir/pairing/red-oak/
+JSON: https://nanobotco.github.io/pinot-noir/api/pairing/red-oak.json
+id: red-oak
+aliases: Coast live oak · Quercus agrifolia · Encina
+facets: course=condiment · country=United States
+region: Santa Maria Valley, California
+what: The wood the whole style rests on. In Santa Maria, red oak means coast live oak — Quercus agrifolia — which grows on the hills around the valley and burns down to hot, steady coals without throwing much smoke.
+how: Split, burned down to coals in a firebox or at the edge of the pit, then raked under a grate on a hand crank. The cook moves the meat up and down instead of moving the fire. Little smoke matters here: the valley is windy, and the cooking is hot and quick rather than long and low.
+notes: The local name turns out to be good botany. Coast live oak is a semi-evergreen oak of the California Floristic Province, growing from Mendocino south into northern Baja, and it sits in the red oak section of the genus — though unusually for that group its acorns ripen in seven or eight months rather than eighteen. Californio Spanish called the tree encina, which is why Encinitas and Encinal are on the map.
+- kin → santa-maria-tri-tip (pairing): The meat it cooks.
+- kin → tri-tip-over-red-oak (story): Why the wood is the part that cannot be exported.
+- kin → santa-maria-valley (region): The hills it grows on.
+sources: s:wp-quercus-agrifolia — Quercus agrifolia; s:wp-santa-maria-style-barbecue — Santa Maria–style barbecue
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Salmon (pairing)
+URL: https://nanobotco.github.io/pinot-noir/pairing/salmon/
+JSON: https://nanobotco.github.io/pinot-noir/api/pairing/salmon.json
+id: salmon
+facets: course=fish · country=United States
+region: Oregon, Willamette Valley
+what: A fish oily enough to take a red wine, and in Oregon the pairing is local logic rather than theory — the fish and the pinot come from the same watershed.
+how: Grilled over alder, or roasted. The oil in the flesh and the char off the fire both find something to do with a light red.
+- kin → ipnc (event): Where a valley full of growers eats it every summer.
+- kin → willamette-valley (region): The valley that grows the wine beside the river.
+- kin → pinot-noir (variety): The red that gets poured with fish without an argument.
+sources: s:wp-salmon-as-food — Salmon as food; s:wp-wine-and-food-matching — Wine and food pairing
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Santa Maria salsa (pairing)
+URL: https://nanobotco.github.io/pinot-noir/pairing/santa-maria-salsa/
+JSON: https://nanobotco.github.io/pinot-noir/api/pairing/santa-maria-salsa.json
+id: santa-maria-salsa
+facets: course=condiment · country=United States
+region: Santa Maria Valley, California
+what: Chopped raw tomato, celery, green chilli, onion and a shot of vinegar or Worcestershire — thinner and sharper than a Mexican pico de gallo, and spooned over sliced beef rather than eaten with chips.
+how: The acid is the point: the meat is lean and salty, and the salsa cuts it. That also changes what happens when you drink something with it.
+- kin → santa-maria-tri-tip (pairing): What it goes on.
+- kin → tri-tip-over-red-oak (story): Where the acid question meets the wine question.
+sources: s:wp-santa-maria-style-barbecue — Santa Maria–style barbecue; s:wp-salsa-sauce — Salsa (food)
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Santa Maria tri-tip (pairing)
+URL: https://nanobotco.github.io/pinot-noir/pairing/santa-maria-tri-tip/
+JSON: https://nanobotco.github.io/pinot-noir/api/pairing/santa-maria-tri-tip.json
+id: santa-maria-tri-tip
+aliases: Tri-tip · Santa Maria steak · Triangle tip · Newport steak
+facets: course=main · country=United States
+region: Santa Maria Valley, California
+what: A triangular two-to-five-pound piece of bottom sirloin, rolled in salt, pepper and garlic, grilled over red oak coals to medium-rare and sliced across the grain. In its home valley it arrives with pinquito beans, salsa, green salad and buttered French bread grilled on the same fire.
+story: The barbecue is older than the cut. Californio ranchers fed their vaqueros each spring from oak-coal pits, and the Santa Maria Club ran a stag barbecue for up to 700 people a month from 1931. Top sirloin was the meat. In the late 1950s a market manager in Santa Maria put a triangular piece that usually went to the grinder on a rotisserie instead, and by the 1960s the town had a cut of its own.
+how: Grill directly over red oak, fat side up, turning once; pull at 130–135 °F and let it rest before slicing. The grain changes direction inside the muscle, so the knife has to change with it. Central California butchers leave the fat cap on; butchers elsewhere trim it.
+today: Sold country-wide now, and still the default thing to cook at a Santa Maria Valley fundraiser, rodeo or school benefit.
+geo: 34.953, -120.436 (town)
+- kin → tri-tip-over-red-oak (story): The long version: the ranch, the oak, the competing claims, and the wine question.
+- kin → red-oak (pairing): The wood, which is not a red oak.
+- kin → pinquito-beans (pairing): What comes beside it.
+- kin → santa-maria-salsa (pairing): And what goes on it.
+- kin → santa-maria-valley (region): The valley that also grows pinot noir on the same hills.
+- kin → bob-schutz (person): The market manager the town credits.
+- kin → santa-maria-bbq-association (org): Which defines the phrase on the menu.
+sources: s:wp-santa-maria-style-barbecue — Santa Maria–style barbecue; s:wp-tri-tip — Tri-tip; s:usda-imps-100 — Institutional Meat Purchase Specifications, Series 100 — Fresh Beef; s:web-smv-bbq-association — Santa Maria Style Barbeque Association; s:wp-cut-of-beef — Cut of beef
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Truffle (pairing)
+URL: https://nanobotco.github.io/pinot-noir/pairing/truffle-pairing/
+JSON: https://nanobotco.github.io/pinot-noir/api/pairing/truffle-pairing.json
+id: truffle-pairing
+facets: course=fungus · country=France
+region: Burgundy
+what: Burgundy has its own black truffle, and the smell does to a glass of old pinot what nothing else does. Shaved late, over something plain, and never cooked hard.
+- kin → mushrooms (pairing): The everyday version of the same pairing.
+- kin → burgundy (region): Where both come from.
+sources: s:wp-truffle — Truffle
+provenance default: tradition · confidence: low · needs_verification: False · updated: 2026-09-16
+
+## Washed-rind cheese (pairing)
+URL: https://nanobotco.github.io/pinot-noir/pairing/washed-rind-cheese/
+JSON: https://nanobotco.github.io/pinot-noir/api/pairing/washed-rind-cheese.json
+id: washed-rind-cheese
+facets: course=cheese · country=France
+region: Burgundy
+what: Époisses, Soumaintrain, Langres — Burgundy's own cheeses, washed in brine and marc until they smell like a farmyard and taste milder than they smell. The classic local match, and a difficult one: the same wash that makes the rind pungent can flatten a delicate bottle.
+- kin → burgundy (region): Whose cheese board this is.
+- kin → pinot-noir (variety): Poured with it locally, and argued about everywhere else.
+sources: s:wp-wine-and-food-matching — Wine and food pairing
+provenance default: tradition · confidence: low · needs_verification: False · updated: 2026-09-16
+
+## André Tchelistcheff (person)
+URL: https://nanobotco.github.io/pinot-noir/person/andre-tchelistcheff/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/andre-tchelistcheff.json
+id: andre-tchelistcheff
+facets: role=winemaker · country=United States
+region: California, Los Carneros
+what: Russian-born, Paris-trained, and the winemaker most often credited with teaching post-Prohibition California what a cellar is for. He is remembered for cabernet, and he also argued for cold ground — Carneros among it.
+- kin → los-carneros (region): The cold shoulder he pointed people toward.
+- kin → hanzell (producer): A contemporary experiment in importing Burgundian cellar practice.
+sources: s:wp-andr-tchelistcheff — André Tchelistcheff
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Aubert de Villaine (person)
+URL: https://nanobotco.github.io/pinot-noir/person/aubert-de-villaine/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/aubert-de-villaine.json
+id: aubert-de-villaine
+facets: role=owner · country=France
+region: Burgundy
+what: Co-director of the Domaine de la Romanée-Conti from 1974 to 2021, and the man who spent a decade carrying Burgundy's climats to UNESCO.
+story: He ran the domaine alongside Lalou Bize-Leroy until disagreements ended that arrangement in 1991, stepped back to an advisory role in 2022, and chaired the campaign that put the climats on the World Heritage List in 2015.
+- kin → drc (producer): The domaine he ran for nearly fifty years.
+- kin → climat (term): The unit he argued was heritage.
+- kin → lalou-bize-leroy (person): Co-director until 1991.
+sources: s:wp-aubert-de-villaine — Aubert de Villaine; s:unesco-1425 — The Climats, terroirs of Burgundy — World Heritage List 1425
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Bob Schutz (person)
+URL: https://nanobotco.github.io/pinot-noir/person/bob-schutz/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/bob-schutz.json
+id: bob-schutz
+facets: role=butcher · country=United States
+region: Santa Maria Valley, California
+what: A Santa Maria market manager who, in the late 1950s, took a triangular piece of bottom sirloin that was going into the hamburger grinder, seasoned it and put it on a rotisserie. The cut he sold as tri-tip is now the whole town's dish.
+story: The account comes from Larry Viegas, a butcher who worked with him at a Santa Maria Safeway: an excess of hamburger meat, a piece nobody wanted, salt, pepper and garlic salt, forty-five minutes to an hour on the spit. Other people claim the cut elsewhere — an Army butcher in southern California during the war, an Oakland butcher, a New York restaurateur — and the tri-tip record lays those out side by side.
+- kin → santa-maria-tri-tip (pairing): The dish that followed.
+- kin → tri-tip-over-red-oak (story): Every claim to the cut, in order.
+- kin → santa-maria-valley (region): His town, and the valley it made famous.
+sources: s:wp-tri-tip — Tri-tip; s:wp-santa-maria-style-barbecue — Santa Maria–style barbecue
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Burt Williams (person)
+URL: https://nanobotco.github.io/pinot-noir/person/burt-williams/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/burt-williams.json
+id: burt-williams
+facets: role=winemaker · country=United States
+region: Russian River Valley, Anderson Valley, Sonoma County, California
+what: Made Williams Selyem's wine in a Forestville garage, put growers' vineyard names on the front label when nobody else bothered, then sold up and planted his own vines in Anderson Valley.
+- kin → williams-selyem (producer): The winery he founded with Ed Selyem.
+- kin → russian-river-valley (region): The AVA his labels advertised.
+sources: s:haeger-north-american — North American Pinot Noir
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## David Lett (person)
+URL: https://nanobotco.github.io/pinot-noir/person/david-lett/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/david-lett.json
+id: david-lett
+facets: role=grower · country=United States
+region: Willamette Valley, Oregon
+what: Left UC Davis in 1964 with a degree and a plan to grow pinot noir outside Burgundy, and in 1965 planted it in the Willamette Valley — against the advice of every professor he had.
+story: His 1975 Eyrie South Block Reserve placed tenth in a 1979 Paris tasting of pinot noir. Robert Drouhin ran the comparison again in Beaune in 1980, where it came second by a fraction to one of his own wines, and Burgundy took Oregon seriously from then on.
+- kin → eyrie-vineyards (producer): The winery he founded.
+- kin → willamette-valley (region): The valley he bet on.
+- kin → pinot-gris (variety): And the first American planting of it.
+sources: s:wp-david-lett — David Lett; s:wp-the-eyrie-vineyards — The Eyrie Vineyards; s:wp-oregon-wine — Oregon wine
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Henri Jayer (person)
+URL: https://nanobotco.github.io/pinot-noir/person/henri-jayer/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/henri-jayer.json
+id: henri-jayer
+facets: role=winemaker · country=France
+region: Côte de Nuits, Burgundy
+what: A Vosne-Romanée grower who started with a 3-hectare inheritance in the 1950s and changed how the Côte handles pinot noir — destemming, cold soak before fermentation, no filtration, clean fruit above all.
+story: He read oenology at Dijon in the 1940s and farmed parcels in Échezeaux and Beaux Monts. His bottles now sell for more than almost any other Burgundy at auction, which is a fact about the market, not about the wine in the bottle.
+- kin → richebourg (vineyard): One of the parcels his name is attached to.
+- kin → cold-soak (practice): A practice his cellar made standard on the Côte.
+- kin → cote-de-nuits (region): Where he worked all his life.
+sources: s:wp-henri-jayer — Henri Jayer
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Jim Clendenen (person)
+URL: https://nanobotco.github.io/pinot-noir/person/jim-clendenen/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/jim-clendenen.json
+id: jim-clendenen
+facets: role=winemaker · country=United States
+region: Santa Maria Valley, Santa Barbara County, California
+what: Founded Au Bon Climat in 1982 and spent forty years making Burgundian varieties on the Central Coast — big hair, big arguments, and a refusal to chase ripeness when everyone else did.
+story: Born in Akron in 1953, died in 2021. Santa Barbara County called him the godfather of its wine trade, and he pushed the county's pinot noir and chardonnay into export markets that had not previously looked south of Monterey.
+- kin → au-bon-climat (producer): The winery he built and ran.
+- kin → bien-nacido (vineyard): Where it lives.
+- kin → santa-maria-valley (region): The valley he argued for.
+sources: s:wp-jim-clendenen — Jim Clendenen; s:wp-au-bon-climat — Au Bon Climat
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Josh Jensen (person)
+URL: https://nanobotco.github.io/pinot-noir/person/josh-jensen/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/josh-jensen.json
+id: josh-jensen
+facets: role=owner · country=United States
+region: California
+what: Worked harvests at the Domaine de la Romanée-Conti and Dujac, came home convinced the ground mattered more than the recipe, and hunted California for limestone until he found an old lime kiln on Mount Harlan.
+- kin → calera (producer): What he built on the limestone.
+- kin → calera-selection (clone): The cuttings that travelled with him.
+- kin → burgundy (region): Where he learned the argument.
+sources: s:devilliers-heartbreak — The Heartbreak Grape: A Journey in Search of the Perfect Pinot Noir; s:haeger-north-american — North American Pinot Noir
+provenance default: tradition · confidence: medium · needs_verification: True · updated: 2026-09-16
+
+## Lalou Bize-Leroy (person)
+URL: https://nanobotco.github.io/pinot-noir/person/lalou-bize-leroy/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/lalou-bize-leroy.json
+id: lalou-bize-leroy
+facets: role=owner · country=France
+region: Burgundy
+what: Took over her father's négociant house in 1955, co-managed the Domaine de la Romanée-Conti from 1974, and built Domaine Leroy and Domaine d'Auvenay into biodynamic estates with famously small crops.
+- kin → domaine-leroy (producer): The domaine she assembled in 1988.
+- kin → drc (producer): Which she co-directed until 1991.
+- kin → aubert-de-villaine (person): Her co-director there.
+sources: s:wp-lalou-bize-leroy — Lalou Bize-Leroy; s:wp-domaine-leroy — Domaine Leroy
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Martin Ray (person)
+URL: https://nanobotco.github.io/pinot-noir/person/martin-ray/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/martin-ray.json
+id: martin-ray
+facets: role=owner · country=United States
+region: Santa Cruz Mountains, California
+what: Bought Paul Masson's mountain winery in 1936, sold it during the war, and spent the rest of his life above Saratoga making pinot noir and chardonnay when California was planting neither.
+story: *Tradition holds —* Ray insisted on varietal bottlings with nothing blended in, at a time when 'burgundy' on a California label meant whatever was in the tank. The vineyard he planted is the source of the Mount Eden selection.
+- kin → mount-eden (clone): The selection that came off his vines.
+- kin → santa-cruz-mountains (region): The ridge he farmed.
+- kin → paul-masson-person (person): Whose winery he bought.
+sources: s:haeger-north-american — North American Pinot Noir; s:wp-paul-masson — Paul Masson
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## Merry Edwards (person)
+URL: https://nanobotco.github.io/pinot-noir/person/merry-edwards/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/merry-edwards.json
+id: merry-edwards
+facets: role=winemaker · country=United States
+region: Russian River Valley, Sonoma County, California
+what: One of California's first women to run a winery cellar, at Mount Eden in 1974, then at Matanzas Creek, then under her own name in the Russian River — where she also selected a pinot noir now propagated as her own.
+- kin → russian-river-valley (region): Where her own vineyards sit.
+- kin → massale-selection (practice): How the selection bearing her name moves.
+sources: s:haeger-north-american — North American Pinot Noir
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## Paul Masson (person)
+URL: https://nanobotco.github.io/pinot-noir/person/paul-masson-person/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/paul-masson-person.json
+id: paul-masson-person
+facets: role=owner · country=United States
+region: Santa Cruz Mountains, California
+what: Born in a wine village outside Beaune in 1859, arrived in California in 1878, and built a sparkling-wine business in the Santa Cruz Mountains on vines he brought from Burgundy.
+- kin → martin-ray (person): Who bought his mountain winery in 1936.
+- kin → mount-eden (clone): The selection the trade traces back through him.
+- kin → santa-cruz-mountains (region): Where he planted.
+sources: s:wp-paul-masson — Paul Masson
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Raymond Bernard (person)
+URL: https://nanobotco.github.io/pinot-noir/person/raymond-bernard/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/raymond-bernard.json
+id: raymond-bernard
+facets: role=scientist · country=France
+region: Burgundy
+what: The Dijon agronomist behind the clonal selection programme that gave the world the numbered pinot noirs — 113, 114, 115, 667, 777 and the rest.
+story: *Tradition holds —* Bernard directed the ONIVINS station at Dijon, ran the trials that certified the selections, and helped get the first of them to Oregon in the 1980s. The programme is well documented in the trade press; this record leans on the trade's account and says so.
+- kin → dijon-115 (clone): The selection most planted from that programme.
+- kin → the-dijon-numbers (story): The whole story.
+- kin → adelsheim (producer): Who worked the Oregon end of the import.
+sources: s:haeger-north-american — North American Pinot Noir; s:wp-pinot-noir — Pinot noir
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## Richard Sanford (person)
+URL: https://nanobotco.github.io/pinot-noir/person/richard-sanford/
+JSON: https://nanobotco.github.io/pinot-noir/api/person/richard-sanford.json
+id: richard-sanford
+facets: role=grower · country=United States
+region: Sta. Rita Hills, Santa Barbara County, California
+what: Read weather data instead of real-estate listings, worked out that the Santa Ynez Valley runs east-west and lets the ocean in, and planted pinot noir at Sanford & Benedict in 1971.
+- kin → sanford-and-benedict (vineyard): The vineyard he planted with Michael Benedict.
+- kin → sta-rita-hills (region): The AVA drawn around that ground in 2001.
+sources: s:haeger-north-american — North American Pinot Noir; s:wp-sta-rita-hills-ava — Sta. Rita Hills AVA
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## BIVB (org)
+URL: https://nanobotco.github.io/pinot-noir/org/bivb/
+JSON: https://nanobotco.github.io/pinot-noir/api/org/bivb.json
+id: bivb
+aliases: Bureau Interprofessionnel des Vins de Bourgogne
+facets: country=France · kind=association · status=open
+region: Burgundy
+what: Burgundy's trade body: the growers, the négociants and the appellation statistics, in one office in Beaune.
+geo: 47.024, 4.84 (town)
+- kin → burgundy (region): Whose numbers it publishes.
+- kin → negociant (term): One half of the trade it represents.
+sources: s:wp-burgundy-wine — Burgundy wine
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Foundation Plant Services (org)
+URL: https://nanobotco.github.io/pinot-noir/org/fps/
+JSON: https://nanobotco.github.io/pinot-noir/api/org/fps.json
+id: fps
+aliases: Foundation Plant Services, UC Davis · FPS
+facets: country=United States · kind=nursery · status=open
+region: California
+what: The UC Davis programme that holds, tests and distributes certified grapevine material in the United States. The numbers on American clones — UCD 4, UCD 2A — are its numbers.
+how: Imported vines go through quarantine and virus testing before release. That process is why certified material is slow and expensive, and why suitcase cuttings keep happening.
+address: Davis, CA
+geo: 38.54, -121.75 (street)
+- kin → pommard-ucd4 (clone): Whose number is an FPS number.
+- kin → massale-selection (practice): The alternative, and its risks.
+- kin → the-dijon-numbers (story): How the catalogue came to exist.
+sources: s:fps-grapes — National Grapevine Registry and the FPS public varieties list; s:wp-foundation-plant-services — Agriculture in California
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Hospices de Beaune (org)
+URL: https://nanobotco.github.io/pinot-noir/org/hospices-de-beaune/
+JSON: https://nanobotco.github.io/pinot-noir/api/org/hospices-de-beaune.json
+id: hospices-de-beaune
+facets: country=France · kind=association · established=1443 · status=open
+region: Côte de Beaune, Burgundy
+what: A charitable hospital founded in 1443 that has been given vineyard land for five and a half centuries and sells the wine at auction every November to pay for the medicine.
+story: Nicolas Rolin, chancellor to Philip the Good, and his wife Guigone de Salins built the Hôtel-Dieu with its tiled roof. Donors have left vines to it ever since, and the cuvées carry the donors' names.
+address: Beaune, Côte-d'Or
+geo: 47.022, 4.837 (street)
+- kin → hospices-auction (event): Its November sale.
+- kin → corton (vineyard): Among the parcels it holds.
+- kin → cote-de-beaune (region): Where nearly all its vines sit.
+sources: s:wp-hospices-de-beaune — Hospices de Beaune
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## INAO (org)
+URL: https://nanobotco.github.io/pinot-noir/org/inao/
+JSON: https://nanobotco.github.io/pinot-noir/api/org/inao.json
+id: inao
+aliases: Institut national de l'origine et de la qualité
+facets: country=France · kind=appellation · status=open
+region: Burgundy, Champagne, Alsace
+what: The French body that defines appellations, polices their boundaries and decides what may be planted, at what density, and how much may be picked.
+geo: 48.85, 2.35 (town)
+- kin → burgundy (region): Whose four ranks it administers.
+- kin → ava (term): The American equivalent, which regulates far less.
+- kin → cru (term): The rank it grants and withholds.
+sources: s:inao — Institut national de l'origine et de la qualité; s:wp-appellation-dorigine-contr-l-e — Appellation d'origine contrôlée
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Oregon Wine Board (org)
+URL: https://nanobotco.github.io/pinot-noir/org/oregon-wine-board/
+JSON: https://nanobotco.github.io/pinot-noir/api/org/oregon-wine-board.json
+id: oregon-wine-board
+facets: country=United States · kind=association · status=open
+region: Oregon, Willamette Valley
+what: The state commission that funds Oregon's viticulture research and publishes the harvest statistics this site quotes.
+address: Portland, OR
+geo: 45.52, -122.68 (town)
+- kin → willamette-valley (region): The region most of its numbers describe.
+sources: s:wp-oregon-wine — Oregon wine
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Santa Barbara Vintners (org)
+URL: https://nanobotco.github.io/pinot-noir/org/santa-barbara-vintners/
+JSON: https://nanobotco.github.io/pinot-noir/api/org/santa-barbara-vintners.json
+id: santa-barbara-vintners
+facets: country=United States · kind=association · status=open
+region: Santa Barbara County, California
+what: The county association that runs the tasting weekends and publishes the maps for the Santa Maria Valley, the Sta. Rita Hills and everything between.
+address: Los Olivos, CA
+geo: 34.62, -120.19 (town)
+- kin → santa-maria-valley (region): One of the AVAs it represents.
+- kin → sta-rita-hills (region): And the other.
+sources: s:wp-santa-barbara-county-wine — Santa Barbara County wine
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Santa Maria Style Barbeque Association (org)
+URL: https://nanobotco.github.io/pinot-noir/org/santa-maria-bbq-association/
+JSON: https://nanobotco.github.io/pinot-noir/api/org/santa-maria-bbq-association.json
+id: santa-maria-bbq-association
+facets: country=United States · kind=association · status=open
+region: Santa Maria Valley, California
+what: The body at the Santa Maria Valley Chamber of Commerce that defines the local barbecue and certifies places serving it: beef rolled in salt, pepper and garlic, cooked on skewers over coals of red oak native to the valley.
+today: Its page points readers to 'Santa Maria Style Barbeque Certified' locations and invites places to get certified; the criteria themselves were not published on the page this project read on 16 September 2026.
+address: Santa Maria, CA
+geo: 34.953, -120.436 (town)
+- kin → santa-maria-tri-tip (pairing): The dish it defines.
+- kin → tri-tip-over-red-oak (story): The long version, with the competing claims.
+- kin → santa-maria-valley (region): The valley whose name is on the menu.
+sources: s:web-smv-bbq-association — Santa Maria Style Barbeque Association; s:wp-santa-maria-style-barbecue — Santa Maria–style barbecue
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## TTB (org)
+URL: https://nanobotco.github.io/pinot-noir/org/ttb/
+JSON: https://nanobotco.github.io/pinot-noir/api/org/ttb.json
+id: ttb
+aliases: Alcohol and Tobacco Tax and Trade Bureau
+facets: country=United States · kind=appellation · status=open
+region: California, Oregon
+what: The US Alcohol and Tobacco Tax and Trade Bureau: it rules on AVA petitions, writes them into 27 CFR part 9, and approves every label that goes on a bottle.
+how: An AVA petition has to show the name is already used for the place, propose a boundary, and show the growing conditions differ from the ground around it. Nothing in the rule speaks to quality.
+geo: 38.9, -77.03 (town)
+- kin → ava (term): The instrument it administers.
+- kin → santa-maria-valley (region): Established under its predecessor bureau in 1981.
+- kin → sta-rita-hills (region): And renamed by the TTB in 2005 after a trademark objection.
+sources: s:ttb-ava — American Viticultural Area (AVA); s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Dine Out Santa Maria Style (event)
+URL: https://nanobotco.github.io/pinot-noir/event/dine-out-santa-maria-style/
+JSON: https://nanobotco.github.io/pinot-noir/api/event/dine-out-santa-maria-style.json
+id: dine-out-santa-maria-style
+facets: country=United States · status=seasonal
+region: Santa Maria Valley, California
+what: A Chamber of Commerce restaurant fortnight built around the local barbecue — the valley's way of pointing visitors at the places that cook it.
+address: Santa Maria, CA
+geo: 34.953, -120.436 (town)
+- kin → santa-maria-bbq-association (org): The association behind it.
+- kin → santa-maria-tri-tip (pairing): What is on every menu in it.
+sources: s:web-smv-bbq-association — Santa Maria Style Barbeque Association; s:web-smv-visit-bbq — Santa Maria Valley — barbecue and the valley's restaurants
+provenance default: cited · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## Hospices de Beaune auction (event)
+URL: https://nanobotco.github.io/pinot-noir/event/hospices-auction/
+JSON: https://nanobotco.github.io/pinot-noir/api/event/hospices-auction.json
+id: hospices-auction
+facets: country=France · status=seasonal · kind=association
+region: Côte de Beaune, Burgundy
+what: The third Sunday of November in Beaune: the hospital's barrels go under the hammer, buyers pay well over the market, and the trade reads the prices as a verdict on the vintage.
+how: Lots are barrels of new wine, sold by cuvée names that belong to the donors who gave the land. The buyer arranges the élevage and the bottling.
+geo: 47.022, 4.837 (town)
+- kin → hospices-de-beaune (org): Whose sale it is.
+- kin → burgundy (region): The region that reads it as a weather report with prices.
+sources: s:wp-hospices-de-beaune — Hospices de Beaune
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## International Pinot Noir Celebration (event)
+URL: https://nanobotco.github.io/pinot-noir/event/ipnc/
+JSON: https://nanobotco.github.io/pinot-noir/api/event/ipnc.json
+id: ipnc
+facets: country=United States · status=seasonal
+region: Willamette Valley, Oregon
+what: Three days at Linfield College in McMinnville every summer since 1987: growers from everywhere pinot noir is grown, pouring beside each other under tents, with salmon grilled over alder on the Saturday.
+address: McMinnville, OR
+geo: 45.21, -123.19 (town)
+- kin → willamette-valley (region): The valley that hosts it.
+- kin → salmon (pairing): What gets cooked at the Saturday dinner.
+- kin → pinot-noir (variety): The single subject.
+sources: s:wp-oregon-wine — Oregon wine
+provenance default: tradition · confidence: medium · needs_verification: True · updated: 2026-09-16
+
+## Saint-Vincent Tournante (event)
+URL: https://nanobotco.github.io/pinot-noir/event/saint-vincent-tournante/
+JSON: https://nanobotco.github.io/pinot-noir/api/event/saint-vincent-tournante.json
+id: saint-vincent-tournante
+facets: country=France · status=seasonal
+region: Burgundy
+what: Burgundy's growers' festival, held in a different village each January — the confréries process, the village decorates its streets with paper flowers, and the cellars open.
+story: Saint Vincent is the growers' patron. The 'tournante' part is the rotation: the honour moves village to village, and the village that holds it spends a year preparing.
+geo: 47.1, 4.9 (region)
+- kin → burgundy (region): Whose villages take turns.
+- kin → vigneron (term): Whose feast it is.
+sources: s:wp-burgundy-wine — Burgundy wine
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## World of Pinot Noir (event)
+URL: https://nanobotco.github.io/pinot-noir/event/world-of-pinot-noir/
+JSON: https://nanobotco.github.io/pinot-noir/api/event/world-of-pinot-noir.json
+id: world-of-pinot-noir
+facets: country=United States · status=seasonal
+region: Santa Barbara County, California
+what: A March weekend on the Santa Barbara coast where producers from Burgundy, Oregon, California and the southern hemisphere pour side by side — held at the ocean end of the county that grows the stuff.
+address: Santa Barbara, CA
+geo: 34.43, -119.87 (town)
+- kin → santa-maria-valley (region): Half an hour north, and well represented.
+- kin → sta-rita-hills (region): And the other local AVA.
+sources: s:wp-santa-barbara-county-wine — Santa Barbara County wine
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## AVA (term)
+URL: https://nanobotco.github.io/pinot-noir/word/ava/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/ava.json
+id: ava
+aliases: American Viticultural Area
+root: English initialism; the regulation calls it a 'viticultural area'
+facets: letter=A · kind=appellation
+region: California, Oregon
+what: American Viticultural Area: a boundary drawn around ground with a name, established by federal rule in 27 CFR part 9. It says where the grapes grew and nothing at all about how good they were.
+how: Anybody may petition. The petition has to show the name is in use, the boundary is justified and the growing conditions are distinguishable. There is no yield cap, no variety list and no quality tier — which is the whole difference from an AOC.
+- kin → santa-maria-valley (region): Established 1981: the country's third.
+- kin → ttb (org): The bureau that rules on the petitions.
+- kin → burgundy (region): Where the same idea comes with rules about what you may plant and how much you may pick.
+sources: s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:wp-american-viticultural-area — American Viticultural Area
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Brett (term)
+URL: https://nanobotco.github.io/pinot-noir/word/wine-fault-brett/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/wine-fault-brett.json
+id: wine-fault-brett
+aliases: Brettanomyces
+root: Latinised Greek: Brettano- (British) + -myces (fungus) — named in a Carlsberg lab from British beer
+facets: letter=B · kind=cellar
+region: The world
+what: Brettanomyces, a yeast that lives in old barrels and makes phenols people describe as barnyard, plaster or clove. Some drinkers read a little of it as complexity, laboratories read it as spoilage, and pinot noir shows it early because there is so little else in the way.
+- kin → native-yeast (practice): Whose risk this is.
+- kin → neutral-oak (practice): Where it lives, if it lives anywhere.
+sources: s:wp-brettanomyces — Brettanomyces; s:wp-wine-fault — Wine fault
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Brix (term)
+URL: https://nanobotco.github.io/pinot-noir/word/brix/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/brix.json
+id: brix
+root: Named for Adolf Brix, the nineteenth-century German scientist who refined the scale
+facets: letter=B · kind=vineyard
+region: California, Oregon
+what: Sugar in the juice, as a percentage by weight. Pickers read it off a refractometer in the row, and it is the number most arguments about picking dates are conducted in — usually alongside acid and pH, which matter as much.
+- kin → pinot-noir (variety): A grape that can hit sugar before its stems and skins are ready.
+- kin → hand-harvest (practice): The decision the number feeds into.
+sources: s:wp-winemaking — Winemaking
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Climat (term)
+URL: https://nanobotco.github.io/pinot-noir/word/climat/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/climat.json
+id: climat
+root: French climat, from Latin clima, Greek klima — a slope, a zone of the sky; the Burgundian sense is a named plot · the everyday French word for climate is the same word, which confuses every visitor
+facets: letter=C · kind=vineyard
+region: Burgundy
+what: In Burgundy, a named parcel of vineyard with a boundary, a history and a reputation — not a weather word. There are over a thousand of them on the Côte d'Or, and UNESCO listed the lot in 2015.
+how: A climat is drawn on the ground, and the appellation rank is attached to it. Two neighbouring climats can differ by a rank and by a factor of ten in price.
+- kin → burgundy (region): The region that counts in these units.
+- kin → lieu-dit (term): The wider French term a climat is a particular case of.
+- kin → clos-de-vougeot (vineyard): One name, fifty hectares, and a lesson about what a climat does not tell you.
+sources: s:unesco-1425 — The Climats, terroirs of Burgundy — World Heritage List 1425; s:wp-burgundy-wine — Burgundy wine
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Cru (term)
+URL: https://nanobotco.github.io/pinot-noir/word/cru/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/cru.json
+id: cru
+root: French cru, past participle of croître, to grow — 'that which has grown'
+facets: letter=C · kind=vineyard
+region: Burgundy, The world
+what: A growth: a vineyard, or a class of vineyards, recognised for what it yields. Grand cru and premier cru rank the ground in Burgundy; in Bordeaux the same word ranks the château instead.
+- kin → climat (term): The plot a cru rank is attached to here.
+- kin → burgundy (region): Four ranks, and the smaller the ground the louder the name.
+sources: s:wp-grand-cru — Grand cru; s:wp-premier-cru — First Growth
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Lieu-dit (term)
+URL: https://nanobotco.github.io/pinot-noir/word/lieu-dit/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/lieu-dit.json
+id: lieu-dit
+root: French lieu (place) + dit (said, called) — 'the place they call'
+facets: letter=L · kind=vineyard
+region: Burgundy, Alsace
+what: A named place on the cadastral map — the official French term for a piece of ground people call something. Every climat is a lieu-dit; not every lieu-dit carries a cru rank.
+- kin → climat (term): Burgundy's own word for the ranked version.
+- kin → monopole (term): What a lieu-dit is called when one owner holds it all.
+sources: s:wp-burgundy-wine — Burgundy wine
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Monopole (term)
+URL: https://nanobotco.github.io/pinot-noir/word/monopole/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/monopole.json
+id: monopole
+root: French monopole, from Greek monos (single) + pōlein (to sell)
+facets: letter=M · kind=vineyard
+region: Burgundy
+what: A named vineyard held whole by one owner. Rare in Burgundy, where inheritance splits everything, and printed on the label whenever it is true.
+- kin → romanee-conti (vineyard): 1.8 hectares, one owner.
+- kin → la-tache (vineyard): Five hectares, the same owner.
+- kin → clos-de-vougeot (vineyard): The opposite case: one name, eighty owners.
+sources: s:wp-monopole-wine — Monopole (wine)
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Négociant (term)
+URL: https://nanobotco.github.io/pinot-noir/word/negociant/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/negociant.json
+id: negociant
+root: French négociant, a trader, from Latin negotiari, to do business
+facets: letter=N · kind=cellar
+region: Burgundy
+what: A merchant who buys grapes, juice or finished wine, raises it in their own cellar and sells it under their own name. Half of Burgundy's output moves this way.
+how: A négociant-éleveur raises what it buys. A domaine bottles only its own fruit. Many houses do both and the label says which is which, if you read the small print.
+- kin → louis-jadot (producer): A house that grew into a large grower as well.
+- kin → joseph-drouhin (producer): And another.
+- kin → burgundy (region): Where the trade is structured around this.
+sources: s:wp-n-gociant — Winemaker
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Pigeage (term)
+URL: https://nanobotco.github.io/pinot-noir/word/pigeage-term/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/pigeage-term.json
+id: pigeage-term
+root: French pigeage, from piger / pigeon-dialect verbs for treading or pressing down · the exact etymon is disputed; Burgundian dialect is the usual source given
+facets: letter=P · kind=ferment
+region: Burgundy
+what: Punching the cap down into the wine. The old tool is a plunger; the old method is bare legs.
+- kin → pigeage (practice): The practice, at length.
+sources: s:wp-maceration-wine — Maceration (wine)
+provenance default: tradition · confidence: low · needs_verification: True · updated: 2026-09-16
+
+## Saignée (term)
+URL: https://nanobotco.github.io/pinot-noir/word/saignee-term/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/saignee-term.json
+id: saignee-term
+root: French saignée, a bleeding, from saigner, to bleed, from Latin sanguinare
+facets: letter=S · kind=press
+region: The world
+what: The bleed. Juice drawn off a red fermenter to concentrate what stays, and sold as rosé.
+- kin → saignee (practice): The practice, at length.
+sources: s:wp-ros — Rosé
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Spätburgunder (term)
+URL: https://nanobotco.github.io/pinot-noir/word/spatburgunder/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/spatburgunder.json
+id: spatburgunder
+aliases: Blauburgunder · Blauer Spätburgunder
+root: German spät (late) + Burgunder (Burgundian)
+facets: letter=S · kind=vineyard
+region: Germany
+what: German for pinot noir, and a name that carries an argument: 'late Burgundian', against the früh — early — one that ripens weeks sooner.
+- kin → pinot-noir (variety): The same vine.
+- kin → fruhburgunder (variety): The early one the name is set against.
+- kin → baden (region): Where most of it grows.
+sources: s:wp-german-wine — German wine; s:wp-baden-wine-region — Baden (wine region)
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Terroir (term)
+URL: https://nanobotco.github.io/pinot-noir/word/terroir/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/terroir.json
+id: terroir
+root: French terroir, from Latin territorium; older French sense 'soil, ground'
+facets: letter=T · kind=vineyard
+region: The world
+what: The claim that a wine tastes of where it grew — soil, slope, aspect, weather, and the habits of the people farming it. In France it is also a legal argument, because appellations are drawn on it.
+- kin → climat (term): The unit Burgundy uses to make the claim specific.
+- kin → pinot-noir (variety): The variety most often held up as the transmitter, whether or not it is.
+sources: s:wp-terroir — Terroir
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Vendange entière (term)
+URL: https://nanobotco.github.io/pinot-noir/word/vendange-entiere/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/vendange-entiere.json
+id: vendange-entiere
+root: French vendange (grape harvest, from Latin vindemia) + entière (whole)
+facets: letter=V · kind=ferment
+region: Burgundy
+what: Whole harvest: the bunches go in as they came off the vine, stems and all.
+- kin → whole-cluster (practice): The practice itself.
+- kin → pinot-meunier (variety): A variety often treated this way in Champagne.
+sources: s:wp-maceration-wine — Maceration (wine)
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Vigneron (term)
+URL: https://nanobotco.github.io/pinot-noir/word/vigneron/
+JSON: https://nanobotco.github.io/pinot-noir/api/term/vigneron.json
+id: vigneron
+root: French vigneron, from vigne (vine), from Latin vinea
+facets: letter=V · kind=vineyard
+region: Burgundy, The world
+what: A grower who makes the wine. Not a winemaker who buys fruit and not a farmer who sells it — the word insists on both halves of the job.
+- kin → negociant (term): The other half of the Burgundian trade.
+sources: s:oxford-companion-wine-4 — The Oxford Companion to Wine
+provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## How pinot left the hill (story)
+URL: https://nanobotco.github.io/pinot-noir/story/how-pinot-travelled/
+JSON: https://nanobotco.github.io/pinot-noir/api/story/how-pinot-travelled.json
+id: how-pinot-travelled
+facets: kind=essay
+region: The world
+what: Burgundy spent a thousand years working out which slope did what. Everyone else has had about sixty years, and has spent most of it looking for the same three things: a cold growing season, a long one, and something in the ground that drains.
+- kin → pinot-noir (variety): The vine doing the travelling.
+- kin → burgundy (region): Where it starts.
+- kin → david-lett (person): Who took it to Oregon against advice.
+- kin → the-dijon-numbers (story): What made it portable at scale.
+- kin → abel-clone (clone): And the less official route.
+sources: s:wp-oregon-wine — Oregon wine; s:wp-the-eyrie-vineyards — The Eyrie Vineyards; s:wp-russian-river-valley-ava — Russian River Valley AVA; s:wp-central-otago-wine-region — Central Otago wine region; s:wp-santa-maria-valley-ava — Santa Maria Valley AVA; s:wp-pinot-noir — Pinot noir
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## One film, measured (story)
+URL: https://nanobotco.github.io/pinot-noir/story/the-sideways-effect/
+JSON: https://nanobotco.github.io/pinot-noir/api/story/the-sideways-effect.json
+id: the-sideways-effect
+facets: kind=essay
+region: Santa Barbara County, California
+what: In October 2004 a comedy about two men on a road trip through Santa Barbara County put a speech about pinot noir into cinemas, and the American wine trade could see it in the sales figures within months.
+- kin → sta-rita-hills (region): Where much of it was filmed.
+- kin → pinot-noir (variety): The variety it sold.
+- kin → santa-maria-valley (region): Half an hour north of the film's route, and a beneficiary.
+sources: s:wp-sideways — Sideways; s:wp-sta-rita-hills-ava — Sta. Rita Hills AVA
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## The numbers on the vine (story)
+URL: https://nanobotco.github.io/pinot-noir/story/the-dijon-numbers/
+JSON: https://nanobotco.github.io/pinot-noir/api/story/the-dijon-numbers.json
+id: the-dijon-numbers
+facets: kind=essay
+region: Burgundy, Oregon, The world
+what: A grower ordering pinot noir today picks numbers out of a catalogue: 115, 667, 777, or Pommard, or Wädenswil. Each one is a single mother vine, tested clean of virus and copied. That is a twentieth-century invention, and it changed what a vineyard can be.
+- kin → dijon-115 (clone): The number planted most.
+- kin → massale-selection (practice): The older way, still practised.
+- kin → fps (org): Which holds and tests the American material.
+- kin → raymond-bernard (person): Who ran the Dijon programme.
+- kin → pinot-noir (variety): A variety that mutates enough to make all this necessary.
+sources: s:wp-pinot-noir — Pinot noir; s:fps-grapes — National Grapevine Registry and the FPS public varieties list; s:haeger-north-american — North American Pinot Noir
+provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
+
+## Tri-tip over red oak (story)
+URL: https://nanobotco.github.io/pinot-noir/story/tri-tip-over-red-oak/
+JSON: https://nanobotco.github.io/pinot-noir/api/story/tri-tip-over-red-oak.json
+id: tri-tip-over-red-oak
+facets: kind=essay · country=United States
+region: Santa Maria Valley, Santa Barbara County, California
+what: One California valley cooks beef over local oak, grows pinot noir on the hills that oak comes off, and rarely puts the two together in the same sentence. This page follows both — the ranch barbecue that became a town's dish, the butcher's cut five different people claim, the wood that is the part nobody can ship, and what happens when a thin-skinned grape meets a salted, charred, medium-rare piece of bottom sirloin.
+geo: 34.95, -120.3 (region)
+- kin → santa-maria-tri-tip (pairing): The dish itself, in one card.
+- kin → red-oak (pairing): The wood, and why it stays home.
+- kin → pinquito-beans (pairing): The bean that grows nowhere else much.
+- kin → santa-maria-salsa (pairing): The acid on the plate.
+- kin → santa-maria-valley (region): The AVA on the same ground.
+- kin → bien-nacido (vineyard): The vineyard planted on the old Tepusquet grant.
+- kin → bob-schutz (person): The man Santa Maria credits with the cut.
+- kin → santa-maria-bbq-association (org): Which defines the words on the menu.
+- kin → pinot-noir (variety): The grape on the other side of the question.
+sources: s:wp-santa-maria-style-barbecue — Santa Maria–style barbecue; s:wp-tri-tip — Tri-tip; s:wp-santa-maria-valley-ava — Santa Maria Valley AVA; s:wp-bien-nacido-vineyard — Bien Nacido Vineyards; s:wp-quercus-agrifolia — Quercus agrifolia; s:web-smv-bbq-association — Santa Maria Style Barbeque Association; s:wp-santa-maria-california — Santa Maria, California; s:wp-rancho-tepusquet — Rancho Tepusquet; s:wp-cut-of-beef — Cut of beef; s:usda-imps-100 — Institutional Meat Purchase Specifications, Series 100 — Fresh Beef; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:web-smv-visit-bbq — Santa Maria Valley — barbecue and the valley's restaurants; s:sunset-2013-true — This Unsung California Town Has the West's Best BBQ; s:wp-salsa-sauce — Salsa (food)
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## What thin skin costs (story)
+URL: https://nanobotco.github.io/pinot-noir/story/thin-skin/
+JSON: https://nanobotco.github.io/pinot-noir/api/story/thin-skin.json
+id: thin-skin
+facets: kind=essay
+region: The world
+what: Every difficulty pinot noir hands a grower comes from the same anatomy that makes the wine worth the trouble: a small, tight, pinecone-shaped bunch of thin-skinned berries that ripens early.
+- kin → pinot-noir (variety): The vine in question.
+- kin → green-harvest (practice): One answer, with secateurs.
+- kin → whole-cluster (practice): Another, in the fermenter.
+sources: s:wp-pinot-noir — Pinot noir; s:oxford-companion-wine-4 — The Oxford Companion to Wine
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
+
+## Where this comes from (story)
+URL: https://nanobotco.github.io/pinot-noir/story/free-to-use/
+JSON: https://nanobotco.github.io/pinot-noir/api/story/free-to-use.json
+id: free-to-use
+facets: kind=resources
+region: The world
+what: Every fact on this site points at something you can open yourself. This page lists what those things are, what each one costs to use, and where the gaps sit.
+- kin → ava (term): The regulation behind every American boundary here.
+- kin → ttb (org): Which publishes it.
+- kin → tri-tip-over-red-oak (story): A page that says plainly what it could not settle.
+sources: s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:natural-earth — Natural Earth; s:osm — OpenStreetMap; s:oxford-companion-wine-4 — The Oxford Companion to Wine
+provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16

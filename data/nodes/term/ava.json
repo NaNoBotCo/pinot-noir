@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "id": "ava",
+ "type": "term",
+ "names": {
+  "name": "AVA",
+  "aliases": [
+   "American Viticultural Area"
+  ]
+ },
+ "etymology": {
+  "root": "English initialism; the regulation calls it a 'viticultural area'",
+  "tier": "cited",
+  "source": "s:ecfr-27-9"
+ },
+ "region": [
+  "california",
+  "oregon"
+ ],
+ "facets": {
+  "letter": "A",
+  "kind": "appellation"
+ },
+ "text": {
+  "what": "American Viticultural Area: a boundary drawn around ground with a name, established by federal rule in 27 CFR part 9. It says where the grapes grew and nothing at all about how good they were.",
+  "how": "Anybody may petition. The petition has to show the name is in use, the boundary is justified and the growing conditions are distinguishable. There is no yield cap, no variety list and no quality tier — which is the whole difference from an AOC."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-valley",
+   "as": "Established 1981: the country's third.",
+   "rel": "region"
+  },
+  {
+   "to": "ttb",
+   "as": "The bureau that rules on the petitions.",
+   "rel": "org"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where the same idea comes with rules about what you may plant and how much you may pick.",
+   "rel": "contrast"
+  }
+ ],
+ "sources": [
+  "s:ecfr-27-9",
+  "s:wp-american-viticultural-area"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

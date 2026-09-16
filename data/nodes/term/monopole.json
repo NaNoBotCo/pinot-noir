@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "monopole",
+ "type": "term",
+ "names": {
+  "name": "Monopole"
+ },
+ "etymology": {
+  "root": "French monopole, from Greek monos (single) + pōlein (to sell)",
+  "tier": "cited",
+  "source": "s:wp-monopole-wine"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "letter": "M",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "A named vineyard held whole by one owner. Rare in Burgundy, where inheritance splits everything, and printed on the label whenever it is true."
+ },
+ "kin": [
+  {
+   "to": "romanee-conti",
+   "as": "1.8 hectares, one owner.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "la-tache",
+   "as": "Five hectares, the same owner.",
+   "rel": "vineyard"
+  },
+  {
+   "to": "clos-de-vougeot",
+   "as": "The opposite case: one name, eighty owners.",
+   "rel": "contrast"
+  }
+ ],
+ "sources": [
+  "s:wp-monopole-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

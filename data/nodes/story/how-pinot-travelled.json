@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "id": "how-pinot-travelled",
+ "type": "story",
+ "names": {
+  "name": "How pinot left the hill"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "essay"
+ },
+ "text": {
+  "what": "Burgundy spent a thousand years working out which slope did what. Everyone else has had about sixty years, and has spent most of it looking for the same three things: a cold growing season, a long one, and something in the ground that drains."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "The vine doing the travelling.",
+   "rel": "variety"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where it starts.",
+   "rel": "region"
+  },
+  {
+   "to": "david-lett",
+   "as": "Who took it to Oregon against advice.",
+   "rel": "person"
+  },
+  {
+   "to": "the-dijon-numbers",
+   "as": "What made it portable at scale.",
+   "rel": "story"
+  },
+  {
+   "to": "abel-clone",
+   "as": "And the less official route.",
+   "rel": "clone"
+  }
+ ],
+ "sources": [
+  "s:wp-oregon-wine",
+  "s:wp-the-eyrie-vineyards",
+  "s:wp-russian-river-valley-ava",
+  "s:wp-central-otago-wine-region",
+  "s:wp-santa-maria-valley-ava",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "sections": [
+  {
+   "h": "The problem to be solved",
+   "text": "Pinot noir ripens early, which in a warm place means it ripens too fast: sugar arrives before flavour and the acid falls out. It has thin skin, which in a wet place means rot. It buds early, which in a frosty place means no crop. Every region that grows it well has found a way to be cold without being lethal — fog, altitude, a lake, a wind gap, a long maritime autumn."
+  },
+  {
+   "h": "Oregon, 1965",
+   "text": "David Lett left UC Davis in 1964 with a plan to grow pinot noir outside Burgundy and, in 1965, planted in the Willamette Valley against the advice of every professor he had. His 1975 South Block Reserve placed tenth in a Paris tasting in 1979. Robert Drouhin ran the comparison again in Beaune the next year, where it came second by a fraction to one of his own wines. In 1987 the Drouhin family bought land in the Dundee Hills."
+  },
+  {
+   "h": "California's fog corridors",
+   "text": "California's answer was not altitude but marine air. Fog runs up the Russian River gap, through the Navarro at Anderson Valley, across the Carneros shoulder from San Pablo Bay, and straight into the transverse valleys of Santa Barbara County — where the mountains run east-west and let the ocean walk inland. Russian River pinot plantings went from about 4,000 acres to over 12,000 between the late 1990s and 2003. Santa Maria Valley, at 34.9°N, runs colder through the growing season than most of Oregon."
+  },
+  {
+   "h": "The southern hemisphere",
+   "text": "Central Otago planted 92 hectares and grew to 1,930, with over 80% of it pinot noir — the only region of its size to bet that hard on one variety. Martinborough took a gravel terrace in a rain shadow. Tasmania and Mornington took the sea. Chile took the Humboldt current, South Africa took the clay behind Hermanus, and Patagonia took wind and long light."
+  },
+  {
+   "h": "What travelled with it",
+   "text": "Cuttings, mostly, and arguments. Pommard and Wädenswil through UC Davis, then the Dijon numbers through the French selection programme and Oregon's importers. Some of it moved less formally: New Zealand still tells the story of a cutting confiscated at Auckland airport and handed to a customs officer who made wine. What did not travel is the part Burgundy spent a millennium on — a map of which parcel does what, drawn by people who had time to be wrong repeatedly."
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

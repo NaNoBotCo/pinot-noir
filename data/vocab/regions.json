@@ -1,0 +1,299 @@
+{
+ "note": "Open list. A record may name a region not listed here; validate.py warns so it can be added. Regions are the wine world's own geography, not administrative units.",
+ "entries": [
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  },
+  {
+   "key": "cote-de-nuits",
+   "name": "Côte de Nuits",
+   "country": "France",
+   "note": "Marsannay south to Corton; most of the red grands crus sit on this strip"
+  },
+  {
+   "key": "cote-de-beaune",
+   "name": "Côte de Beaune",
+   "country": "France",
+   "note": "Corton south to Santenay; reds and the great whites share the hill"
+  },
+  {
+   "key": "cote-chalonnaise",
+   "name": "Côte Chalonnaise",
+   "country": "France",
+   "note": "Rully, Mercurey, Givry — the same limestone, gentler prices"
+  },
+  {
+   "key": "champagne",
+   "name": "Champagne",
+   "country": "France",
+   "note": "pinot noir by area is the region's largest planting, mostly pressed white"
+  },
+  {
+   "key": "alsace",
+   "name": "Alsace",
+   "country": "France",
+   "note": "the one red grape the appellation allows"
+  },
+  {
+   "key": "loire",
+   "name": "Loire",
+   "country": "France",
+   "note": "Sancerre rouge, Menetou-Salon, the northern edge of ripeness"
+  },
+  {
+   "key": "jura",
+   "name": "Jura",
+   "country": "France",
+   "note": "Arbois and Côtes du Jura, often beside poulsard and trousseau"
+  },
+  {
+   "key": "germany",
+   "name": "Germany",
+   "country": "Germany",
+   "note": "spätburgunder; the third-largest pinot noir planting on earth"
+  },
+  {
+   "key": "ahr",
+   "name": "Ahr",
+   "country": "Germany",
+   "note": "a narrow slate valley north of the Mosel that grows almost nothing else"
+  },
+  {
+   "key": "baden",
+   "name": "Baden",
+   "country": "Germany",
+   "note": "the warmest German region, across the Rhine from Alsace"
+  },
+  {
+   "key": "pfalz",
+   "name": "Pfalz",
+   "country": "Germany",
+   "note": "sandstone and limestone, riesling's neighbour"
+  },
+  {
+   "key": "switzerland",
+   "name": "Switzerland",
+   "country": "Switzerland",
+   "note": "blauburgunder in Graubünden, pinot noir in Valais and Neuchâtel"
+  },
+  {
+   "key": "alto-adige",
+   "name": "Alto Adige",
+   "country": "Italy",
+   "note": "blauburgunder / pinot nero on the high terraces above Bolzano"
+  },
+  {
+   "key": "england",
+   "name": "England",
+   "country": "United Kingdom",
+   "note": "chalk and sparkling wine; still reds where the season allows"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  },
+  {
+   "key": "willamette",
+   "name": "Willamette Valley",
+   "country": "United States",
+   "note": "a hundred miles of valley floor and volcanic hills south of Portland"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  },
+  {
+   "key": "sonoma",
+   "name": "Sonoma County",
+   "country": "United States",
+   "note": "Russian River, the true coast, Carneros' western half"
+  },
+  {
+   "key": "russian-river",
+   "name": "Russian River Valley",
+   "country": "United States",
+   "note": "fog up the river valley, and the AVA that taught California what pinot could do"
+  },
+  {
+   "key": "sonoma-coast",
+   "name": "Sonoma Coast",
+   "country": "United States",
+   "note": "a vast AVA and, at its western edge, vines within sight of the Pacific"
+  },
+  {
+   "key": "anderson-valley",
+   "name": "Anderson Valley",
+   "country": "United States",
+   "note": "Mendocino, the Navarro River, fog through the redwood gap"
+  },
+  {
+   "key": "carneros",
+   "name": "Los Carneros",
+   "country": "United States",
+   "note": "the cold shoulder where Napa and Sonoma both reach San Pablo Bay"
+  },
+  {
+   "key": "santa-lucia-highlands",
+   "name": "Santa Lucia Highlands",
+   "country": "United States",
+   "note": "benchland terraces above the Salinas Valley wind"
+  },
+  {
+   "key": "santa-cruz-mountains",
+   "name": "Santa Cruz Mountains",
+   "country": "United States",
+   "note": "fault ridges either side of the range; Martin Ray's ground"
+  },
+  {
+   "key": "central-coast",
+   "name": "Central Coast",
+   "country": "United States",
+   "note": "Monterey down to Santa Barbara, an AVA large enough to hold several climates"
+  },
+  {
+   "key": "santa-barbara",
+   "name": "Santa Barbara County",
+   "country": "United States",
+   "note": "the transverse ranges turn the valleys east-west and let the ocean in"
+  },
+  {
+   "key": "sta-rita-hills",
+   "name": "Sta. Rita Hills",
+   "country": "United States",
+   "note": "a wind tunnel between Buellton and Lompoc"
+  },
+  {
+   "key": "santa-maria-valley",
+   "name": "Santa Maria Valley",
+   "country": "United States",
+   "note": "Bien Nacido, the bench, and the red-oak barbecue on the same ground"
+  },
+  {
+   "key": "new-york",
+   "name": "New York",
+   "country": "United States",
+   "note": "the Finger Lakes and Long Island"
+  },
+  {
+   "key": "finger-lakes",
+   "name": "Finger Lakes",
+   "country": "United States",
+   "note": "deep glacial lakes holding off the winter"
+  },
+  {
+   "key": "new-zealand",
+   "name": "New Zealand",
+   "country": "New Zealand",
+   "note": "the country pinot noir made its second home"
+  },
+  {
+   "key": "central-otago",
+   "name": "Central Otago",
+   "country": "New Zealand",
+   "note": "the southernmost wine region on earth, and continental with it"
+  },
+  {
+   "key": "martinborough",
+   "name": "Martinborough",
+   "country": "New Zealand",
+   "note": "Wairarapa gravels in the rain shadow of the Tararua Range"
+  },
+  {
+   "key": "marlborough",
+   "name": "Marlborough",
+   "country": "New Zealand",
+   "note": "better known for sauvignon blanc; the largest pinot planting in the country"
+  },
+  {
+   "key": "australia",
+   "name": "Australia",
+   "country": "Australia",
+   "note": "cool corners of a warm continent"
+  },
+  {
+   "key": "mornington",
+   "name": "Mornington Peninsula",
+   "country": "Australia",
+   "note": "sea on three sides, an hour from Melbourne"
+  },
+  {
+   "key": "yarra",
+   "name": "Yarra Valley",
+   "country": "Australia",
+   "note": "cool hills where Australian pinot got serious"
+  },
+  {
+   "key": "tasmania",
+   "name": "Tasmania",
+   "country": "Australia",
+   "note": "the coolest Australian ground; sparkling base and still red"
+  },
+  {
+   "key": "chile",
+   "name": "Chile",
+   "country": "Chile",
+   "note": "coastal valleys where the Humboldt current reaches inland"
+  },
+  {
+   "key": "casablanca",
+   "name": "Casablanca Valley",
+   "country": "Chile",
+   "note": "morning fog between Santiago and the sea"
+  },
+  {
+   "key": "argentina",
+   "name": "Argentina",
+   "country": "Argentina",
+   "note": "Patagonia, and altitude further north"
+  },
+  {
+   "key": "patagonia",
+   "name": "Patagonia",
+   "country": "Argentina",
+   "note": "Río Negro and Neuquén, wind and long light"
+  },
+  {
+   "key": "south-africa",
+   "name": "South Africa",
+   "country": "South Africa",
+   "note": "Walker Bay and the Cape's cool pockets"
+  },
+  {
+   "key": "hemel-en-aarde",
+   "name": "Hemel-en-Aarde",
+   "country": "South Africa",
+   "note": "clay over shale in the hills above Hermanus"
+  },
+  {
+   "key": "canada",
+   "name": "Canada",
+   "country": "Canada",
+   "note": "Okanagan, Niagara, Prince Edward County"
+  },
+  {
+   "key": "okanagan",
+   "name": "Okanagan Valley",
+   "country": "Canada",
+   "note": "a long lake moderating a northern desert"
+  },
+  {
+   "key": "niagara",
+   "name": "Niagara Peninsula",
+   "country": "Canada",
+   "note": "the escarpment and the lake"
+  }
+ ]
+}

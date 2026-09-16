@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "id": "terroir",
+ "type": "term",
+ "names": {
+  "name": "Terroir"
+ },
+ "etymology": {
+  "root": "French terroir, from Latin territorium; older French sense 'soil, ground'",
+  "tier": "cited",
+  "source": "s:wp-terroir"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "letter": "T",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "The claim that a wine tastes of where it grew — soil, slope, aspect, weather, and the habits of the people farming it. In France it is also a legal argument, because appellations are drawn on it."
+ },
+ "kin": [
+  {
+   "to": "climat",
+   "as": "The unit Burgundy uses to make the claim specific.",
+   "rel": "kin"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "The variety most often held up as the transmitter, whether or not it is.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-terroir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The claim that a wine tastes of where it grew — soil, slope, aspect, weather, and the habits of the people farming it. In France it is also a legal argument, because appellations are drawn on it.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "climat",
+   "type": "term",
+   "name": "Climat",
+   "as": "The unit Burgundy uses to make the claim specific.",
+   "rel": "kin"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "The variety most often held up as the transmitter, whether or not it is.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-terroir",
+   "kind": "encyclopaedia",
+   "title": "Terroir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=896092",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364178782",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "etymology": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

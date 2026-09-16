@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "id": "washed-rind-cheese",
+ "type": "pairing",
+ "names": {
+  "name": "Washed-rind cheese"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "course": "cheese",
+  "country": "France"
+ },
+ "text": {
+  "what": "Époisses, Soumaintrain, Langres — Burgundy's own cheeses, washed in brine and marc until they smell like a farmyard and taste milder than they smell. The classic local match, and a difficult one: the same wash that makes the rind pungent can flatten a delicate bottle."
+ },
+ "kin": [
+  {
+   "to": "burgundy",
+   "as": "Whose cheese board this is.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "Poured with it locally, and argued about everywhere else.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-wine-and-food-matching"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "updated": "2026-09-16",
+ "blurb": "Époisses, Soumaintrain, Langres — Burgundy's own cheeses, washed in brine and marc until they smell like a farmyard and taste milder than they smell.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Whose cheese board this is.",
+   "rel": "region"
+  },
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Poured with it locally, and argued about everywhere else.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-wine-and-food-matching",
+   "kind": "encyclopaedia",
+   "title": "Wine and food pairing",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1045978",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1348171918",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

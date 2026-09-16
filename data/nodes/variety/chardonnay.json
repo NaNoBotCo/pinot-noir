@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "id": "chardonnay",
+ "type": "variety",
+ "names": {
+  "name": "Chardonnay"
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "colour": "white",
+  "country": "France"
+ },
+ "text": {
+  "what": "Pinot's child by Gouais blanc, and the white grape sharing almost every hill in this directory. Where pinot goes, it follows — Burgundy, Champagne, the Willamette, Bien Nacido, Central Otago.",
+  "story": "DNA work in the 1990s put the cross beyond argument: a pinot crossed with Gouais blanc produced chardonnay, aligoté, auxerrois, gamay, melon and eleven others. The Pinot parent need not have been pinot noir — any member of the family could have done it."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Its parent, and the vine planted on the next row.",
+   "rel": "origin"
+  },
+  {
+   "to": "cote-de-beaune",
+   "as": "Where the family split the hill: whites on one flank, reds on the other.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-chardonnay",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

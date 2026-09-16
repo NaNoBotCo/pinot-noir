@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "chardonnay",
+ "type": "variety",
+ "names": {
+  "name": "Chardonnay"
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "colour": "white",
+  "country": "France"
+ },
+ "text": {
+  "what": "Pinot's child by Gouais blanc, and the white grape sharing almost every hill in this directory. Where pinot goes, it follows — Burgundy, Champagne, the Willamette, Bien Nacido, Central Otago.",
+  "story": "DNA work in the 1990s put the cross beyond argument: a pinot crossed with Gouais blanc produced chardonnay, aligoté, auxerrois, gamay, melon and eleven others. The Pinot parent need not have been pinot noir — any member of the family could have done it."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Its parent, and the vine planted on the next row.",
+   "rel": "origin"
+  },
+  {
+   "to": "cote-de-beaune",
+   "as": "Where the family split the hill: whites on one flank, reds on the other.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-chardonnay",
+  "s:wp-pinot-noir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Pinot's child by Gouais blanc, and the white grape sharing almost every hill in this directory. Where pinot goes, it follows — Burgundy, Champagne, the Willamette, Bien Nacido, Central Otago.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  },
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Its parent, and the vine planted on the next row.",
+   "rel": "origin"
+  },
+  {
+   "to": "cote-de-beaune",
+   "type": "region",
+   "name": "Côte de Beaune",
+   "as": "Where the family split the hill: whites on one flank, reds on the other.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-chardonnay",
+   "kind": "encyclopaedia",
+   "title": "Chardonnay",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=37566",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375174126",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pinot-noir",
+   "kind": "encyclopaedia",
+   "title": "Pinot noir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=197760",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371302191",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.story": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Its child, by Gouais blanc; the two share the same hillsides and the same cellars.",
+   "rel": "offspring"
+  },
+  {
+   "from": "cote-de-beaune",
+   "type": "region",
+   "name": "Côte de Beaune",
+   "as": "The grape that takes the white flank of the same slope.",
+   "rel": "variety"
+  },
+  {
+   "from": "musigny",
+   "type": "vineyard",
+   "name": "Musigny",
+   "as": "The exception planted here: Musigny blanc.",
+   "rel": "variety"
+  }
+ ]
+}

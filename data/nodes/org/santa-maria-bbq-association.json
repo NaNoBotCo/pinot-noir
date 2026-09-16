@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "id": "santa-maria-bbq-association",
+ "type": "org",
+ "names": {
+  "name": "Santa Maria Style Barbeque Association"
+ },
+ "region": [
+  "santa-maria-valley",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "kind": "association",
+  "status": "open"
+ },
+ "text": {
+  "what": "The body at the Santa Maria Valley Chamber of Commerce that defines the local barbecue and certifies places serving it: beef rolled in salt, pepper and garlic, cooked on skewers over coals of red oak native to the valley.",
+  "today": "Its page points readers to 'Santa Maria Style Barbeque Certified' locations and invites places to get certified; the criteria themselves were not published on the page this project read on 16 September 2026."
+ },
+ "kin": [
+  {
+   "to": "santa-maria-tri-tip",
+   "as": "The dish it defines.",
+   "rel": "pairing"
+  },
+  {
+   "to": "tri-tip-over-red-oak",
+   "as": "The long version, with the competing claims.",
+   "rel": "story"
+  },
+  {
+   "to": "santa-maria-valley",
+   "as": "The valley whose name is on the menu.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 34.953,
+  "lon": -120.436,
+  "precision": "town"
+ },
+ "address": {
+  "city": "Santa Maria",
+  "state": "CA",
+  "country": "US"
+ },
+ "links": [
+  {
+   "label": "Santa Maria Style Barbeque Association",
+   "url": "https://www.santamaria.com/our-community/bbq-association/"
+  }
+ ],
+ "sources": [
+  "s:web-smv-bbq-association",
+  "s:wp-santa-maria-style-barbecue"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

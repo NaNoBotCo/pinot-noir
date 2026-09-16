@@ -1,0 +1,180 @@
+{
+ "schema": 1,
+ "id": "baden",
+ "type": "region",
+ "names": {
+  "name": "Baden"
+ },
+ "region": [
+  "baden",
+  "germany"
+ ],
+ "facets": {
+  "country": "Germany",
+  "level": "region",
+  "soil": "loess, limestone, volcanic"
+ },
+ "text": {
+  "what": "Germany's warmest vineyards, in the Rhine rift between the Black Forest and the Vosges, facing Alsace across the river. Pinot in its three colours covers most of it.",
+  "how": "Spätburgunder alone took 36.8% of Baden's vineyards in 2008 — 5,855 hectares — with grauburgunder and weissburgunder adding another fifth. The Kaiserstuhl, an old volcano on the valley floor, ripens the fullest of it."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Spätburgunder: more than a third of the region's vines.",
+   "rel": "variety"
+  },
+  {
+   "to": "alsace",
+   "as": "Same rift valley, other bank, similar size.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "pinot-gris",
+   "as": "Grauburgunder, the second Burgundian here.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 48.1,
+  "lon": 7.85,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-baden-wine-region",
+  "s:wp-german-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Vineyard",
+   "value": 15906,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-baden-wine-region",
+   "tier": "cited"
+  },
+  {
+   "key": "hectares_pinot",
+   "label": "Spätburgunder",
+   "value": 5855,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-baden-wine-region",
+   "tier": "cited",
+   "note": "36.8% of the region's vines"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Germany's warmest vineyards, in the Rhine rift between the Black Forest and the Vosges, facing Alsace across the river. Pinot in its three colours covers most of it.",
+ "region_terms": [
+  {
+   "key": "baden",
+   "name": "Baden",
+   "country": "Germany",
+   "note": "the warmest German region, across the Rhine from Alsace"
+  },
+  {
+   "key": "germany",
+   "name": "Germany",
+   "country": "Germany",
+   "note": "spätburgunder; the third-largest pinot noir planting on earth"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Spätburgunder: more than a third of the region's vines.",
+   "rel": "variety"
+  },
+  {
+   "to": "alsace",
+   "type": "region",
+   "name": "Alsace",
+   "as": "Same rift valley, other bank, similar size.",
+   "rel": "neighbour"
+  },
+  {
+   "to": "pinot-gris",
+   "type": "variety",
+   "name": "Pinot gris",
+   "as": "Grauburgunder, the second Burgundian here.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-baden-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Baden (wine region)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=14989190",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1343190178",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-german-wine",
+   "kind": "encyclopaedia",
+   "title": "German wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1039202",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363074961",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "ahr",
+   "type": "region",
+   "name": "Ahr",
+   "as": "The other German pinot region, warmer and far larger.",
+   "rel": "neighbour"
+  },
+  {
+   "from": "alsace",
+   "type": "region",
+   "name": "Alsace",
+   "as": "Across the Rhine, the same climate under another flag.",
+   "rel": "neighbour"
+  },
+  {
+   "from": "alto-adige",
+   "type": "region",
+   "name": "Alto Adige",
+   "as": "The other Alpine pinot, north of the ridge.",
+   "rel": "neighbour"
+  },
+  {
+   "from": "spatburgunder",
+   "type": "term",
+   "name": "Spätburgunder",
+   "as": "Where most of it grows.",
+   "rel": "region"
+  }
+ ]
+}

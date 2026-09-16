@@ -1,0 +1,139 @@
+{
+ "schema": 1,
+ "id": "pigeage",
+ "type": "practice",
+ "names": {
+  "name": "Punching down",
+  "aliases": [
+   "Pigeage",
+   "Punch-down"
+  ]
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "kind": "ferment"
+ },
+ "text": {
+  "what": "Pushing the floating cap of skins back under the wine, by foot or by plunger, several times a day. Pinot's cap rises fast and dries out if nobody moves it.",
+  "how": "Punching down extracts more gently than pumping over; it also warms the ferment and pushes oxygen in. Count and timing are how a cellar sets tannin without over-extracting a grape that has little to spare."
+ },
+ "kin": [
+  {
+   "to": "whole-cluster",
+   "as": "What a foot meets when the stems stay in.",
+   "rel": "kin"
+  },
+  {
+   "to": "saignee",
+   "as": "The other lever for concentration, pulled before fermentation.",
+   "rel": "contrast"
+  },
+  {
+   "to": "pigeage-term",
+   "as": "The word itself.",
+   "rel": "term"
+  }
+ ],
+ "sources": [
+  "s:wp-maceration-wine",
+  "s:wp-fermentation-in-winemaking"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Pushing the floating cap of skins back under the wine, by foot or by plunger, several times a day. Pinot's cap rises fast and dries out if nobody moves it.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  },
+  {
+   "key": "world",
+   "name": "The world",
+   "country": null,
+   "note": "use when a node belongs everywhere pinot noir is grown"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "whole-cluster",
+   "type": "practice",
+   "name": "Whole cluster",
+   "as": "What a foot meets when the stems stay in.",
+   "rel": "kin"
+  },
+  {
+   "to": "saignee",
+   "type": "practice",
+   "name": "Saignée",
+   "as": "The other lever for concentration, pulled before fermentation.",
+   "rel": "contrast"
+  },
+  {
+   "to": "pigeage-term",
+   "type": "term",
+   "name": "Pigeage",
+   "as": "The word itself.",
+   "rel": "term"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-maceration-wine",
+   "kind": "encyclopaedia",
+   "title": "Maceration (wine)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1455948",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1302144966",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fermentation-in-winemaking",
+   "kind": "encyclopaedia",
+   "title": "Fermentation in winemaking",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=13824744",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1334072242",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "text.how": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "whole-cluster",
+   "type": "practice",
+   "name": "Whole cluster",
+   "as": "The other half of the same fermentation decision.",
+   "rel": "kin"
+  },
+  {
+   "from": "pigeage-term",
+   "type": "term",
+   "name": "Pigeage",
+   "as": "The practice, at length.",
+   "rel": "practice"
+  }
+ ]
+}

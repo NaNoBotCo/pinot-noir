@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "id": "jura",
+ "type": "region",
+ "names": {
+  "name": "Jura"
+ },
+ "region": [
+  "jura"
+ ],
+ "facets": {
+  "country": "France",
+  "level": "region"
+ },
+ "text": {
+  "what": "One of France's smallest regions — about 1,950 hectares — where pinot noir shares the cellar with poulsard and trousseau and sometimes ends up in the white blend.",
+  "how": "Continental and colder than Burgundy, especially in winter. Pinot noir is permitted in Arbois and Côtes du Jura, alone or blended."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "One of three reds allowed, and rarely the loudest.",
+   "rel": "variety"
+  },
+  {
+   "to": "burgundy",
+   "as": "Sixty miles west, and the comparison every Jura grower fields.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": 46.9,
+  "lon": 5.65,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-jura-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Vineyard",
+   "value": 1950,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-jura-wine",
+   "tier": "cited"
+  },
+  {
+   "key": "wineries",
+   "label": "Wineries",
+   "value": 230,
+   "unit": "",
+   "year": null,
+   "source": "s:wp-jura-wine",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "One of France's smallest regions — about 1,950 hectares — where pinot noir shares the cellar with poulsard and trousseau and sometimes ends up in the white blend.",
+ "region_terms": [
+  {
+   "key": "jura",
+   "name": "Jura",
+   "country": "France",
+   "note": "Arbois and Côtes du Jura, often beside poulsard and trousseau"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "One of three reds allowed, and rarely the loudest.",
+   "rel": "variety"
+  },
+  {
+   "to": "burgundy",
+   "type": "region",
+   "name": "Burgundy",
+   "as": "Sixty miles west, and the comparison every Jura grower fields.",
+   "rel": "neighbour"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-jura-wine",
+   "kind": "encyclopaedia",
+   "title": "Jura wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=2655795",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364484294",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "text.how": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

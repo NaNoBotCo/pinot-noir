@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "id": "domaine-leroy",
+ "type": "producer",
+ "names": {
+  "name": "Domaine Leroy"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France"
+ },
+ "text": {
+  "what": "Twenty-three hectares of mostly premier and grand cru Burgundy, farmed biodynamically since Lalou Bize-Leroy assembled the domaine in 1988 out of Charles Noëllat's holdings. Yields are tiny and the wines are priced accordingly."
+ },
+ "kin": [
+  {
+   "to": "lalou-bize-leroy",
+   "as": "Who built it and farms it.",
+   "rel": "made-by"
+  },
+  {
+   "to": "richebourg",
+   "as": "One of the grand cru parcels it holds.",
+   "rel": "owns"
+  },
+  {
+   "to": "native-yeast",
+   "as": "Part of the cellar method that follows from farming this way.",
+   "rel": "practice"
+  }
+ ],
+ "geo": {
+  "lat": 47.163,
+  "lon": 4.948,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Vosne-Romanée",
+  "state": "Côte-d'Or",
+  "country": "FR"
+ },
+ "sources": [
+  "s:wp-domaine-leroy",
+  "s:wp-lalou-bize-leroy"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Vines",
+   "value": 23,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-domaine-leroy",
+   "tier": "cited"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "biodynamic-certified",
+   "source": "s:wp-domaine-leroy",
+   "tier": "cited",
+   "note": "certified by Ecocert"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

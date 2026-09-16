@@ -1,0 +1,152 @@
+{
+ "schema": 1,
+ "id": "mount-eden",
+ "type": "clone",
+ "names": {
+  "name": "Mount Eden selection",
+  "aliases": [
+   "Mt. Eden clone",
+   "Martin Ray selection"
+  ]
+ },
+ "region": [
+  "santa-cruz-mountains",
+  "california"
+ ],
+ "facets": {
+  "origin": "California"
+ },
+ "text": {
+  "what": "A California field selection traced back to Martin Ray's plantings in the Santa Cruz Mountains, and through him, by the usual account, to Paul Masson's cuttings from Burgundy. Tiny clusters, tiny crop.",
+  "story": "*Tradition holds —* Masson brought vines from Burgundy to the Santa Cruz Mountains in the 1890s and Ray carried the line forward. The chain is repeated in the trade far more often than it is documented."
+ },
+ "kin": [
+  {
+   "to": "martin-ray",
+   "as": "Whose vineyard the cuttings came from.",
+   "rel": "origin"
+  },
+  {
+   "to": "santa-cruz-mountains",
+   "as": "The ridge it comes off.",
+   "rel": "region"
+  },
+  {
+   "to": "massale-selection",
+   "as": "How a selection like this moves: cuttings, not catalogues.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:haeger-north-american",
+  "s:wp-paul-masson"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A California field selection traced back to Martin Ray's plantings in the Santa Cruz Mountains, and through him, by the usual account, to Paul Masson's cuttings from Burgundy. Tiny clusters, tiny crop.",
+ "region_terms": [
+  {
+   "key": "santa-cruz-mountains",
+   "name": "Santa Cruz Mountains",
+   "country": "United States",
+   "note": "fault ridges either side of the range; Martin Ray's ground"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "martin-ray",
+   "type": "person",
+   "name": "Martin Ray",
+   "as": "Whose vineyard the cuttings came from.",
+   "rel": "origin"
+  },
+  {
+   "to": "santa-cruz-mountains",
+   "type": "region",
+   "name": "Santa Cruz Mountains",
+   "as": "The ridge it comes off.",
+   "rel": "region"
+  },
+  {
+   "to": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "How a selection like this moves: cuttings, not catalogues.",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:haeger-north-american",
+   "kind": "book",
+   "title": "North American Pinot Noir",
+   "author": "John Winthrop Haeger",
+   "publisher": "University of California Press",
+   "year": 2004
+  },
+  {
+   "id": "s:wp-paul-masson",
+   "kind": "encyclopaedia",
+   "title": "Paul Masson",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1338911",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1355864523",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "text.story": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "santa-cruz-mountains",
+   "type": "region",
+   "name": "Santa Cruz Mountains",
+   "as": "The selection that came off his vineyard and travelled.",
+   "rel": "clone"
+  },
+  {
+   "from": "massale-selection",
+   "type": "practice",
+   "name": "Massal selection",
+   "as": "A selection that travelled this way.",
+   "rel": "clone"
+  },
+  {
+   "from": "martin-ray",
+   "type": "person",
+   "name": "Martin Ray",
+   "as": "The selection that came off his vines.",
+   "rel": "clone"
+  },
+  {
+   "from": "paul-masson-person",
+   "type": "person",
+   "name": "Paul Masson",
+   "as": "The selection the trade traces back through him.",
+   "rel": "clone"
+  }
+ ]
+}

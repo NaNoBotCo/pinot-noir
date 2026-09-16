@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "id": "chambertin",
+ "type": "vineyard",
+ "names": {
+  "name": "Chambertin"
+ },
+ "region": [
+  "cote-de-nuits",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France"
+ },
+ "text": {
+  "what": "Gevrey's grand cru on the mid-slope, and the name the village bolted onto its own in 1847 — the first commune in Burgundy to do it, and the start of every double-barrelled name on the Côte."
+ },
+ "kin": [
+  {
+   "to": "cote-de-nuits",
+   "as": "The district it sits in.",
+   "rel": "whole"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where the habit of appending the best vineyard to the village name began.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.22,
+  "lon": 4.96,
+  "precision": "street"
+ },
+ "sources": [
+  "s:wp-gevrey-chambertin",
+  "s:wp-burgundy-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares_village",
+   "label": "Gevrey-Chambertin planted to pinot noir",
+   "value": 310,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-gevrey-chambertin",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

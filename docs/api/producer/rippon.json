@@ -1,0 +1,117 @@
+{
+ "schema": 1,
+ "id": "rippon",
+ "type": "producer",
+ "names": {
+  "name": "Rippon"
+ },
+ "region": [
+  "central-otago",
+  "new-zealand"
+ ],
+ "facets": {
+  "country": "New Zealand"
+ },
+ "text": {
+  "what": "Vines on a lake terrace at Wanaka, biodynamic, with the Southern Alps behind them — the photograph that sells Central Otago, and a family that has farmed the slope since the nineteenth century."
+ },
+ "kin": [
+  {
+   "to": "central-otago",
+   "as": "Its region, at the cooler northern end.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": -44.71,
+  "lon": 169.12,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Wanaka",
+  "state": "Otago",
+  "country": "NZ"
+ },
+ "sources": [
+  "s:wp-rippon",
+  "s:wp-central-otago-wine-region"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Vines on a lake terrace at Wanaka, biodynamic, with the Southern Alps behind them — the photograph that sells Central Otago, and a family that has farmed the slope since the nineteenth century.",
+ "region_terms": [
+  {
+   "key": "central-otago",
+   "name": "Central Otago",
+   "country": "New Zealand",
+   "note": "the southernmost wine region on earth, and continental with it"
+  },
+  {
+   "key": "new-zealand",
+   "name": "New Zealand",
+   "country": "New Zealand",
+   "note": "the country pinot noir made its second home"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "as": "Its region, at the cooler northern end.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-rippon",
+   "kind": "encyclopaedia",
+   "title": "Rippon",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=15971242",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1015530625",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-central-otago-wine-region",
+   "kind": "encyclopaedia",
+   "title": "Central Otago wine region",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=1468699",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363939055",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "geo": {
+   "tier": "tradition"
+  },
+  "address": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "central-otago",
+   "type": "region",
+   "name": "Central Otago",
+   "as": "Lake Wanaka, and one of the most photographed vineyards anywhere.",
+   "rel": "producer"
+  }
+ ]
+}

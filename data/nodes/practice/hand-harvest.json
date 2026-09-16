@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "id": "hand-harvest",
+ "type": "practice",
+ "names": {
+  "name": "Hand harvest"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "Picking into small crates by hand, so the bunch arrives whole and the cellar decides what to do with it. A machine strips berries off the stem in the row, which settles the whole-cluster question before anyone gets a vote.",
+  "how": "Whole-cluster work, sorting tables and cold soaks all assume intact fruit. Steep slopes settle it anyway: no machine drives the Côte d'Or's mid-slope."
+ },
+ "kin": [
+  {
+   "to": "whole-cluster",
+   "as": "The decision hand-picking keeps open.",
+   "rel": "kin"
+  },
+  {
+   "to": "burgundy",
+   "as": "Where the slope makes the choice for you.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:oxford-companion-wine-4"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,121 @@
+{
+ "schema": 1,
+ "id": "mornington-peninsula",
+ "type": "region",
+ "names": {
+  "name": "Mornington Peninsula"
+ },
+ "region": [
+  "mornington",
+  "australia"
+ ],
+ "facets": {
+  "country": "Australia",
+  "level": "gi"
+ },
+ "text": {
+  "what": "An hour south of Melbourne with sea on three sides. Maritime, cool, and cut into small holdings — vineyards here are measured in a few hectares, not a few hundred."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown cool and picked early, beside chardonnay.",
+   "rel": "variety"
+  },
+  {
+   "to": "yarra-valley",
+   "as": "Victoria's other pinot region, inland and in the hills.",
+   "rel": "neighbour"
+  }
+ ],
+ "geo": {
+  "lat": -38.35,
+  "lon": 145.05,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-mornington-peninsula",
+  "s:wp-australian-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "An hour south of Melbourne with sea on three sides. Maritime, cool, and cut into small holdings — vineyards here are measured in a few hectares, not a few hundred.",
+ "region_terms": [
+  {
+   "key": "mornington",
+   "name": "Mornington Peninsula",
+   "country": "Australia",
+   "note": "sea on three sides, an hour from Melbourne"
+  },
+  {
+   "key": "australia",
+   "name": "Australia",
+   "country": "Australia",
+   "note": "cool corners of a warm continent"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown cool and picked early, beside chardonnay.",
+   "rel": "variety"
+  },
+  {
+   "to": "yarra-valley",
+   "type": "region",
+   "name": "Yarra Valley",
+   "as": "Victoria's other pinot region, inland and in the hills.",
+   "rel": "neighbour"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-mornington-peninsula",
+   "kind": "encyclopaedia",
+   "title": "Mornington Peninsula",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=492787",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368089781",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-australian-wine",
+   "kind": "encyclopaedia",
+   "title": "Australian wine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3959588",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1343408200",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "yarra-valley",
+   "type": "region",
+   "name": "Yarra Valley",
+   "as": "The maritime alternative, an hour and a half away.",
+   "rel": "neighbour"
+  }
+ ]
+}

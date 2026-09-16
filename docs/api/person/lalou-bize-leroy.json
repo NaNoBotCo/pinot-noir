@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lalou-bize-leroy",
+ "type": "person",
+ "names": {
+  "name": "Lalou Bize-Leroy",
+  "sort": "Bize-Leroy, Lalou"
+ },
+ "region": [
+  "burgundy"
+ ],
+ "facets": {
+  "role": "owner",
+  "country": "France"
+ },
+ "text": {
+  "what": "Took over her father's négociant house in 1955, co-managed the Domaine de la Romanée-Conti from 1974, and built Domaine Leroy and Domaine d'Auvenay into biodynamic estates with famously small crops."
+ },
+ "kin": [
+  {
+   "to": "domaine-leroy",
+   "as": "The domaine she assembled in 1988.",
+   "rel": "made-by"
+  },
+  {
+   "to": "drc",
+   "as": "Which she co-directed until 1991.",
+   "rel": "kin"
+  },
+  {
+   "to": "aubert-de-villaine",
+   "as": "Her co-director there.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-lalou-bize-leroy",
+  "s:wp-domaine-leroy"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Took over her father's négociant house in 1955, co-managed the Domaine de la Romanée-Conti from 1974, and built Domaine Leroy and Domaine d'Auvenay into biodynamic estates with famously small crops.",
+ "region_terms": [
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "domaine-leroy",
+   "type": "producer",
+   "name": "Domaine Leroy",
+   "as": "The domaine she assembled in 1988.",
+   "rel": "made-by"
+  },
+  {
+   "to": "drc",
+   "type": "producer",
+   "name": "Domaine de la Romanée-Conti",
+   "as": "Which she co-directed until 1991.",
+   "rel": "kin"
+  },
+  {
+   "to": "aubert-de-villaine",
+   "type": "person",
+   "name": "Aubert de Villaine",
+   "as": "Her co-director there.",
+   "rel": "kin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-lalou-bize-leroy",
+   "kind": "encyclopaedia",
+   "title": "Lalou Bize-Leroy",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=9588650",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363874379",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-domaine-leroy",
+   "kind": "encyclopaedia",
+   "title": "Domaine Leroy",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=56625561",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1300818613",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "domaine-leroy",
+   "type": "producer",
+   "name": "Domaine Leroy",
+   "as": "Who built it and farms it.",
+   "rel": "made-by"
+  },
+  {
+   "from": "aubert-de-villaine",
+   "type": "person",
+   "name": "Aubert de Villaine",
+   "as": "Co-director until 1991.",
+   "rel": "kin"
+  }
+ ]
+}

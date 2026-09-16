@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "tasmania",
+ "type": "region",
+ "names": {
+  "name": "Tasmania"
+ },
+ "region": [
+  "tasmania",
+  "australia"
+ ],
+ "facets": {
+  "country": "Australia",
+  "level": "gi"
+ },
+ "text": {
+  "what": "Australia's coldest vineyards, split between the Tamar in the north and the Coal River and Derwent in the south. Most of the pinot noir goes into sparkling base; the rest is picked ripe enough to bottle red."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown for bubbles first, red second.",
+   "rel": "variety"
+  },
+  {
+   "to": "champagne",
+   "as": "The model the sparkling program copies, at 42°S.",
+   "rel": "contrast"
+  }
+ ],
+ "geo": {
+  "lat": -41.6,
+  "lon": 147.2,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-tasmanian-wine",
+  "s:wp-australian-wine"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

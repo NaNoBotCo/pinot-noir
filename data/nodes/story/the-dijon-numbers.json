@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "id": "the-dijon-numbers",
+ "type": "story",
+ "names": {
+  "name": "The numbers on the vine"
+ },
+ "region": [
+  "burgundy",
+  "oregon",
+  "world"
+ ],
+ "facets": {
+  "kind": "essay"
+ },
+ "text": {
+  "what": "A grower ordering pinot noir today picks numbers out of a catalogue: 115, 667, 777, or Pommard, or Wädenswil. Each one is a single mother vine, tested clean of virus and copied. That is a twentieth-century invention, and it changed what a vineyard can be."
+ },
+ "kin": [
+  {
+   "to": "dijon-115",
+   "as": "The number planted most.",
+   "rel": "clone"
+  },
+  {
+   "to": "massale-selection",
+   "as": "The older way, still practised.",
+   "rel": "practice"
+  },
+  {
+   "to": "fps",
+   "as": "Which holds and tests the American material.",
+   "rel": "org"
+  },
+  {
+   "to": "raymond-bernard",
+   "as": "Who ran the Dijon programme.",
+   "rel": "person"
+  },
+  {
+   "to": "pinot-noir",
+   "as": "A variety that mutates enough to make all this necessary.",
+   "rel": "variety"
+  }
+ ],
+ "sources": [
+  "s:wp-pinot-noir",
+  "s:fps-grapes",
+  "s:haeger-north-american"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  },
+  "fields": {
+   "sections[3].text": {
+    "tier": "tradition",
+    "note": "trade folklore, recorded as folklore"
+   }
+  }
+ },
+ "sections": [
+  {
+   "h": "Why a vine needs a number",
+   "text": "Pinot noir mutates readily — there are hundreds of clones in vineyards and collections — and it carries virus. Leafroll and fanleaf will quietly cost a grower ripeness for thirty years. Clonal selection answers both: pick one vine that performs, test it clean, propagate it, give it a number, and every plant from that line behaves roughly the same."
+  },
+  {
+   "h": "What Dijon did",
+   "text": "France's national programme selected and certified pinot noir clones through the university and research station at Dijon, and the numbers — 113, 114, 115, 667, 777, 828 and others — reached the New World from the 1980s. *Tradition holds —* Raymond Bernard directed the work and helped get the first material to Oregon. Before that, American plantings ran mostly on Pommard (UCD 4) and Wädenswil (UCD 1A and 2A) out of UC Davis, and Oregon made its early reputation on exactly those two."
+  },
+  {
+   "h": "What it cost",
+   "text": "Uniformity. A block of one clone ripens together, which is convenient, and tastes like one thing, which is not always what you want. Growers hedge by planting several numbers in strips and blending them back, or by taking cuttings from an old block instead — massal selection, which keeps the variation and the virus together.\n\nCalifornia also learned what happens when nobody checks: high-cropping upright selections sold as 'Gamay Beaujolais' were pinot noir under another name, and a generation of plantings suffered for it."
+  },
+  {
+   "h": "The suitcase",
+   "text": "Certified material is slow. Quarantine and virus indexing take years, and growers in a hurry have always found other routes. The California trade repeats that the Calera selection came home with Josh Jensen from Burgundy; New Zealand tells the Abel story as folklore. Neither is documented, both are planted widely, and the nurseries that sell certified vines will tell you exactly what that costs everybody else."
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

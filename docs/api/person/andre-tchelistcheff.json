@@ -1,0 +1,103 @@
+{
+ "schema": 1,
+ "id": "andre-tchelistcheff",
+ "type": "person",
+ "names": {
+  "name": "André Tchelistcheff",
+  "sort": "Tchelistcheff, André"
+ },
+ "region": [
+  "california",
+  "carneros"
+ ],
+ "facets": {
+  "role": "winemaker",
+  "country": "United States"
+ },
+ "text": {
+  "what": "Russian-born, Paris-trained, and the winemaker most often credited with teaching post-Prohibition California what a cellar is for. He is remembered for cabernet, and he also argued for cold ground — Carneros among it."
+ },
+ "kin": [
+  {
+   "to": "los-carneros",
+   "as": "The cold shoulder he pointed people toward.",
+   "rel": "region"
+  },
+  {
+   "to": "hanzell",
+   "as": "A contemporary experiment in importing Burgundian cellar practice.",
+   "rel": "kin"
+  }
+ ],
+ "sources": [
+  "s:wp-andr-tchelistcheff"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Russian-born, Paris-trained, and the winemaker most often credited with teaching post-Prohibition California what a cellar is for. He is remembered for cabernet, and he also argued for cold ground — Carneros among it.",
+ "region_terms": [
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  },
+  {
+   "key": "carneros",
+   "name": "Los Carneros",
+   "country": "United States",
+   "note": "the cold shoulder where Napa and Sonoma both reach San Pablo Bay"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "los-carneros",
+   "type": "region",
+   "name": "Los Carneros",
+   "as": "The cold shoulder he pointed people toward.",
+   "rel": "region"
+  },
+  {
+   "to": "hanzell",
+   "type": "producer",
+   "name": "Hanzell Vineyards",
+   "as": "A contemporary experiment in importing Burgundian cellar practice.",
+   "rel": "kin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-andr-tchelistcheff",
+   "kind": "encyclopaedia",
+   "title": "André Tchelistcheff",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=3607017",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1354489790",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "los-carneros",
+   "type": "region",
+   "name": "Los Carneros",
+   "as": "Who argued for this ground when Napa wanted cabernet.",
+   "rel": "person"
+  }
+ ]
+}

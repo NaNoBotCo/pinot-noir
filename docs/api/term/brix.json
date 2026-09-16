@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "brix",
+ "type": "term",
+ "names": {
+  "name": "Brix"
+ },
+ "etymology": {
+  "root": "Named for Adolf Brix, the nineteenth-century German scientist who refined the scale",
+  "tier": "tradition"
+ },
+ "region": [
+  "california",
+  "oregon"
+ ],
+ "facets": {
+  "letter": "B",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "Sugar in the juice, as a percentage by weight. Pickers read it off a refractometer in the row, and it is the number most arguments about picking dates are conducted in — usually alongside acid and pH, which matter as much."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "A grape that can hit sugar before its stems and skins are ready.",
+   "rel": "variety"
+  },
+  {
+   "to": "hand-harvest",
+   "as": "The decision the number feeds into.",
+   "rel": "practice"
+  }
+ ],
+ "sources": [
+  "s:wp-winemaking"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Sugar in the juice, as a percentage by weight. Pickers read it off a refractometer in the row, and it is the number most arguments about picking dates are conducted in — usually alongside acid and pH, which matter as…",
+ "region_terms": [
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  },
+  {
+   "key": "oregon",
+   "name": "Oregon",
+   "country": "United States",
+   "note": "the Willamette Valley and the AVAs nested inside it"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "A grape that can hit sugar before its stems and skins are ready.",
+   "rel": "variety"
+  },
+  {
+   "to": "hand-harvest",
+   "type": "practice",
+   "name": "Hand harvest",
+   "as": "The decision the number feeds into.",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-winemaking",
+   "kind": "encyclopaedia",
+   "title": "Winemaking",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=373172",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373928422",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "tradition"
+  },
+  "etymology": {
+   "tier": "tradition"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": []
+}

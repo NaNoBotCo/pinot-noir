@@ -1,0 +1,136 @@
+{
+ "schema": 1,
+ "id": "hanzell",
+ "type": "producer",
+ "names": {
+  "name": "Hanzell Vineyards"
+ },
+ "region": [
+  "sonoma",
+  "california"
+ ],
+ "facets": {
+  "country": "United States",
+  "established": 1953
+ },
+ "text": {
+  "what": "James Zellerbach planted two acres of pinot noir and four of chardonnay above Sonoma in 1953, then built a cellar copying Burgundy's methods — French oak, temperature control, inert gas. California winemaking followed him."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Among the earliest serious American plantings after Prohibition.",
+   "rel": "variety"
+  },
+  {
+   "to": "neutral-oak",
+   "as": "The barrel question he answered by importing the barrels.",
+   "rel": "practice"
+  }
+ ],
+ "geo": {
+  "lat": 38.32,
+  "lon": -122.44,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Sonoma",
+  "state": "CA",
+  "country": "US"
+ },
+ "sources": [
+  "s:wp-hanzell-vineyards"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "acres_pinot",
+   "label": "Pinot noir first planted",
+   "value": 2,
+   "unit": "acres",
+   "year": 1953,
+   "source": "s:wp-hanzell-vineyards",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "James Zellerbach planted two acres of pinot noir and four of chardonnay above Sonoma in 1953, then built a cellar copying Burgundy's methods — French oak, temperature control, inert gas.",
+ "region_terms": [
+  {
+   "key": "sonoma",
+   "name": "Sonoma County",
+   "country": "United States",
+   "note": "Russian River, the true coast, Carneros' western half"
+  },
+  {
+   "key": "california",
+   "name": "California",
+   "country": "United States",
+   "note": "from Anderson Valley to the Santa Maria bench, wherever fog reaches"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Among the earliest serious American plantings after Prohibition.",
+   "rel": "variety"
+  },
+  {
+   "to": "neutral-oak",
+   "type": "practice",
+   "name": "Neutral oak",
+   "as": "The barrel question he answered by importing the barrels.",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-hanzell-vineyards",
+   "kind": "encyclopaedia",
+   "title": "Hanzell Vineyards",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=31227179",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1148167066",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  },
+  "address": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "neutral-oak",
+   "type": "practice",
+   "name": "Neutral oak",
+   "as": "Which imported French barrels to California and started the argument there.",
+   "rel": "producer"
+  },
+  {
+   "from": "andre-tchelistcheff",
+   "type": "person",
+   "name": "André Tchelistcheff",
+   "as": "A contemporary experiment in importing Burgundian cellar practice.",
+   "rel": "kin"
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "id": "louis-jadot",
+ "type": "producer",
+ "names": {
+  "name": "Maison Louis Jadot"
+ },
+ "region": [
+  "cote-de-beaune",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France",
+  "established": 1859
+ },
+ "text": {
+  "what": "A Beaune négociant founded in 1859, farming and buying across 270 hectares of Burgundy including Beaujolais crus, and bottling nothing that is not an appellation wine."
+ },
+ "kin": [
+  {
+   "to": "negociant",
+   "as": "What this house does, and the word for it.",
+   "rel": "term"
+  },
+  {
+   "to": "cote-de-beaune",
+   "as": "Where it sits and where most of its vines are.",
+   "rel": "region"
+  }
+ ],
+ "geo": {
+  "lat": 47.026,
+  "lon": 4.84,
+  "precision": "street"
+ },
+ "address": {
+  "city": "Beaune",
+  "state": "Côte-d'Or",
+  "country": "FR"
+ },
+ "sources": [
+  "s:wp-maison-louis-jadot"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "Vineyards controlled",
+   "value": 270,
+   "unit": "ha",
+   "year": null,
+   "source": "s:wp-maison-louis-jadot",
+   "tier": "cited"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A Beaune négociant founded in 1859, farming and buying across 270 hectares of Burgundy including Beaujolais crus, and bottling nothing that is not an appellation wine.",
+ "region_terms": [
+  {
+   "key": "cote-de-beaune",
+   "name": "Côte de Beaune",
+   "country": "France",
+   "note": "Corton south to Santenay; reds and the great whites share the hill"
+  },
+  {
+   "key": "burgundy",
+   "name": "Burgundy",
+   "country": "France",
+   "note": "the Côte d'Or and its neighbours; the grape's home ground and its reference set"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "negociant",
+   "type": "term",
+   "name": "Négociant",
+   "as": "What this house does, and the word for it.",
+   "rel": "term"
+  },
+  {
+   "to": "cote-de-beaune",
+   "type": "region",
+   "name": "Côte de Beaune",
+   "as": "Where it sits and where most of its vines are.",
+   "rel": "region"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-maison-louis-jadot",
+   "kind": "encyclopaedia",
+   "title": "Maison Louis Jadot",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/?curid=7897895",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1327642944",
+   "accessed": "2026-09-16",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  },
+  "address": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "kin_in": [
+  {
+   "from": "negociant",
+   "type": "term",
+   "name": "Négociant",
+   "as": "A house that grew into a large grower as well.",
+   "rel": "producer"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "id": "corton",
+ "type": "vineyard",
+ "names": {
+  "name": "Corton"
+ },
+ "region": [
+  "cote-de-beaune",
+  "burgundy"
+ ],
+ "facets": {
+  "country": "France"
+ },
+ "text": {
+  "what": "The hill above Aloxe, and Burgundy's largest grand cru: 95 hectares in production, nearly all of it red, and the only red grand cru on the Côte de Beaune."
+ },
+ "kin": [
+  {
+   "to": "cote-de-beaune",
+   "as": "The district whose only red grand cru this is.",
+   "rel": "whole"
+  },
+  {
+   "to": "hospices-de-beaune",
+   "as": "Whose auction lots include Corton parcels given by donors.",
+   "rel": "org"
+  }
+ ],
+ "geo": {
+  "lat": 47.07,
+  "lon": 4.86,
+  "precision": "region"
+ },
+ "sources": [
+  "s:wp-corton-aoc"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "measures": [
+  {
+   "key": "hectares",
+   "label": "In production",
+   "value": 94.78,
+   "unit": "ha",
+   "year": 2008,
+   "source": "s:wp-corton-aoc",
+   "tier": "cited"
+  },
+  {
+   "key": "hectolitres",
+   "label": "Wine made",
+   "value": 2984,
+   "unit": "hl",
+   "year": 2008,
+   "source": "s:wp-corton-aoc",
+   "tier": "cited",
+   "note": "2,822 hl red, 162 hl white"
+  }
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

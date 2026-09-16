@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "cru",
+ "type": "term",
+ "names": {
+  "name": "Cru"
+ },
+ "etymology": {
+  "root": "French cru, past participle of croître, to grow — 'that which has grown'",
+  "tier": "cited",
+  "source": "s:wp-grand-cru"
+ },
+ "region": [
+  "burgundy",
+  "world"
+ ],
+ "facets": {
+  "letter": "C",
+  "kind": "vineyard"
+ },
+ "text": {
+  "what": "A growth: a vineyard, or a class of vineyards, recognised for what it yields. Grand cru and premier cru rank the ground in Burgundy; in Bordeaux the same word ranks the château instead."
+ },
+ "kin": [
+  {
+   "to": "climat",
+   "as": "The plot a cru rank is attached to here.",
+   "rel": "kin"
+  },
+  {
+   "to": "burgundy",
+   "as": "Four ranks, and the smaller the ground the louder the name.",
+   "rel": "region"
+  }
+ ],
+ "sources": [
+  "s:wp-grand-cru",
+  "s:wp-premier-cru"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,108 @@
+{
+ "schema": 1,
+ "id": "finger-lakes",
+ "type": "region",
+ "names": {
+  "name": "Finger Lakes"
+ },
+ "region": [
+  "finger-lakes",
+  "new-york"
+ ],
+ "facets": {
+  "country": "United States",
+  "level": "ava",
+  "established": 1982
+ },
+ "text": {
+  "what": "Deep glacial lakes in upstate New York holding off the winter. Riesling country, with pinot noir on the better-drained slopes and in the sparkling base."
+ },
+ "kin": [
+  {
+   "to": "pinot-noir",
+   "as": "Grown where the lake keeps the vine from freezing out.",
+   "rel": "variety"
+  }
+ ],
+ "geo": {
+  "lat": 42.7,
+  "lon": -76.9,
+  "precision": "region"
+ },
+ "sources": [
+  "s:ecfr-27-9"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited"
+  }
+ },
+ "recognitions": [
+  {
+   "by": "ttb",
+   "what": "American Viticultural Area, established 1982",
+   "year": 1982,
+   "source": "s:ecfr-27-9",
+   "note": "47 FR 38518, Sept. 1, 1982"
+  }
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Deep glacial lakes in upstate New York holding off the winter. Riesling country, with pinot noir on the better-drained slopes and in the sparkling base.",
+ "region_terms": [
+  {
+   "key": "finger-lakes",
+   "name": "Finger Lakes",
+   "country": "United States",
+   "note": "deep glacial lakes holding off the winter"
+  },
+  {
+   "key": "new-york",
+   "name": "New York",
+   "country": "United States",
+   "note": "the Finger Lakes and Long Island"
+  }
+ ],
+ "kin_out": [
+  {
+   "to": "pinot-noir",
+   "type": "variety",
+   "name": "Pinot noir",
+   "as": "Grown where the lake keeps the vine from freezing out.",
+   "rel": "variety"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:ecfr-27-9",
+   "kind": "regulation",
+   "title": "27 CFR part 9 — American Viticultural Areas",
+   "publisher": "Electronic Code of Federal Regulations, US Government Publishing Office",
+   "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9",
+   "licence": "public domain",
+   "note": "the AVA list, each section carrying the Federal Register citation that established it; harvested into data/harvest/ava.json"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited"
+  },
+  "geo": {
+   "tier": "cited"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "ttb",
+   "label": "US Alcohol and Tobacco Tax and Trade Bureau",
+   "what": "American Viticultural Area, established 1982",
+   "url": "",
+   "year": 1982,
+   "source": "s:ecfr-27-9"
+  }
+ ],
+ "acclaim": 1,
+ "kin_in": []
+}
