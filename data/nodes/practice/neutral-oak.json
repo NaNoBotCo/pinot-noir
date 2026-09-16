@@ -42,5 +42,22 @@
   }
  },
  "confidence": "medium",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "neutral-oak/neutral-oak-wine-cave-in-burgundy.jpg",
+   "source": "commons",
+   "title": "File:Wine cave in Burgundy.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wine_cave_in_Burgundy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWine_cave_in_Burgundy.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "author": "Philip Larson",
+   "credit": "originally posted to Flickr as DSC02022",
+   "alt": "Wine cave containing aging oak barrels of wine in the French region of Burgundy",
+   "date": "2008-08-11 09:12:52",
+   "primary": true,
+   "sha256": "bbf8796232d9454717e753eb9f2c5914c874aaa3d5b51fc82b887ad0b216006e"
+  }
+ ]
 }

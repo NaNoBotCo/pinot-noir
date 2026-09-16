@@ -53,5 +53,22 @@
   }
  ],
  "confidence": "medium",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "chambertin/chambertin-vineyards-gevrey-chambertin.jpg",
+   "source": "commons",
+   "title": "File:Vineyards Gevrey-Chambertin.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Vineyards_Gevrey-Chambertin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AVineyards_Gevrey-Chambertin.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Urban",
+   "credit": "Own work",
+   "alt": "Vignoble de Gevrey-Chambertin, Bourgogne, France.",
+   "date": "2006-07-26",
+   "primary": true,
+   "sha256": "f097f01d340677dd49c9c502a101779e111e2ab07a2cd659ad4b7a4a69485dae"
+  }
+ ]
 }

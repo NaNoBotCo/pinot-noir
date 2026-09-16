@@ -80,6 +80,23 @@
  ],
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "champagne/champagne-verzenay-vignoble.jpg",
+   "source": "commons",
+   "title": "File:Verzenay vignoble.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Verzenay_vignoble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AVerzenay_vignoble.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Vassil",
+   "credit": "Own work",
+   "alt": "Vignoble du champagne sur la Montagne de Reims: Verzenay.(Mai 2007)",
+   "date": "12/05/07",
+   "primary": true,
+   "sha256": "64ce4fd190d0a12a07f1a4c5c2b378ebd22df5f53804df2d554bc3e9fc5651f4"
+  }
+ ],
  "blurb": "Chalk country 150 km north-east of Paris where pinot noir is pressed off its skins within hours and comes out white. More pinot noir grows here than anywhere else in France, and almost none of it is red.",
  "region_terms": [
   {
@@ -148,7 +165,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "champagne/champagne-verzenay-vignoble.jpg",
+  "source": "commons",
+  "title": "File:Verzenay vignoble.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Verzenay_vignoble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AVerzenay_vignoble.jpg",
+  "license": "Public domain",
+  "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+  "author": "Vassil",
+  "credit": "Own work",
+  "alt": "Vignoble du champagne sur la Montagne de Reims: Verzenay.(Mai 2007)",
+  "date": "12/05/07",
+  "primary": true,
+  "sha256": "64ce4fd190d0a12a07f1a4c5c2b378ebd22df5f53804df2d554bc3e9fc5651f4"
+ },
  "tag_facts": [],
  "recognition_facts": [],
  "acclaim": 0,

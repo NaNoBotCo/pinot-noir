@@ -85,6 +85,23 @@
  },
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "pinot-noir/pinot-noir-ov-pinot-noir.jpg",
+   "source": "commons",
+   "title": "File:OV-pinot-noir.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/OV-pinot-noir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AOV-pinot-noir.jpg",
+   "license": "CC BY-SA 2.5",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+   "author": "Olivier Vanpé",
+   "credit": "",
+   "alt": "Bunch of Pinot Noir grapes in Volnay, Burgundy in early August, when the grapes have begun to get their colour.",
+   "date": "2005-08-04",
+   "primary": true,
+   "sha256": "dca1ec3f4bbd7262b81cdfd684e2eca51284725966063c9b13b8a5385bdfd236"
+  }
+ ],
  "blurb": "A black grape from north-eastern France that ripens early, carries thin skin over tight pinecone-shaped bunches, and mutates more readily than almost any vine in cultivation.",
  "region_terms": [
   {
@@ -185,7 +202,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "pinot-noir/pinot-noir-ov-pinot-noir.jpg",
+  "source": "commons",
+  "title": "File:OV-pinot-noir.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/OV-pinot-noir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AOV-pinot-noir.jpg",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+  "author": "Olivier Vanpé",
+  "credit": "",
+  "alt": "Bunch of Pinot Noir grapes in Volnay, Burgundy in early August, when the grapes have begun to get their colour.",
+  "date": "2005-08-04",
+  "primary": true,
+  "sha256": "dca1ec3f4bbd7262b81cdfd684e2eca51284725966063c9b13b8a5385bdfd236"
+ },
  "tag_facts": [],
  "recognition_facts": [],
  "acclaim": 0,

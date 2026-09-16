@@ -36,5 +36,22 @@
   }
  },
  "confidence": "medium",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "hand-harvest/hand-harvest-hand-harvesting-in-the-vaucluse.jpg",
+   "source": "commons",
+   "title": "File:Hand harvesting in the Vaucluse.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hand_harvesting_in_the_Vaucluse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AHand_harvesting_in_the_Vaucluse.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "Steven Verbruggen",
+   "credit": "Flickr: Real wine pickers",
+   "alt": "Harvesting wine grapes in the French wine region of the Vaucluse",
+   "date": "2008-09-08 14:25:34",
+   "primary": true,
+   "sha256": "660ad9c43cac3470d9f69ce26723369a218efa3257fe181f228126796b6e3d10"
+  }
+ ]
 }

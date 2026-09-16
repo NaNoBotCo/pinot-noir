@@ -84,6 +84,23 @@
  ],
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "anderson-valley/anderson-valley-anderson-valley-pinot-noir-with-vineyard-in-background.jpg",
+   "source": "commons",
+   "title": "File:Anderson Valley Pinot noir with vineyard in background.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Anderson_Valley_Pinot_noir_with_vineyard_in_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AAnderson_Valley_Pinot_noir_with_vineyard_in_background.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "Ethan Prater",
+   "credit": "originally posted to Flickr as Esterlina Tasting Room, Anderson Valley, CA",
+   "alt": "From Esterlina Tasting Room in Mendocino County California.",
+   "date": "Taken on 14 March 2009, 16:07:15",
+   "primary": true,
+   "sha256": "80c05a80799bf6fd270058ad7da65084ad876272e58d46952bad68ca0d516eda"
+  }
+ ],
  "blurb": "Mendocino's fog gap: a narrow valley along the Navarro River, open to the ocean at one end, redwoods at both edges. Sparkling houses came for the acid and stayed for the pinot.",
  "region_terms": [
   {
@@ -147,7 +164,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "anderson-valley/anderson-valley-anderson-valley-pinot-noir-with-vineyard-in-background.jpg",
+  "source": "commons",
+  "title": "File:Anderson Valley Pinot noir with vineyard in background.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Anderson_Valley_Pinot_noir_with_vineyard_in_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AAnderson_Valley_Pinot_noir_with_vineyard_in_background.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "author": "Ethan Prater",
+  "credit": "originally posted to Flickr as Esterlina Tasting Room, Anderson Valley, CA",
+  "alt": "From Esterlina Tasting Room in Mendocino County California.",
+  "date": "Taken on 14 March 2009, 16:07:15",
+  "primary": true,
+  "sha256": "80c05a80799bf6fd270058ad7da65084ad876272e58d46952bad68ca0d516eda"
+ },
  "tag_facts": [],
  "recognition_facts": [
   {

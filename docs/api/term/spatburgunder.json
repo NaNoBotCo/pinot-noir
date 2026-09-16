@@ -52,6 +52,23 @@
  },
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "spatburgunder/spatburgunder-traube-des-blauen-sp-tburgunders.jpg",
+   "source": "commons",
+   "title": "File:Traube des blauen Spätburgunders.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Traube_des_blauen_Sp%C3%A4tburgunders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ATraube_des_blauen_Sp%C3%A4tburgunders.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Wladyslaw",
+   "credit": "Own work (Original text: selbst erstellt)",
+   "alt": "Trauben und Blätter des blauen Spätburgunders",
+   "date": "2008-08-30",
+   "primary": true,
+   "sha256": "95a7077ed9f281702a24b1a6bddee780f2b075cb965255c9431fbe4a0cf20503"
+  }
+ ],
  "blurb": "German for pinot noir, and a name that carries an argument: 'late Burgundian', against the früh — early — one that ripens weeks sooner.",
  "region_terms": [
   {
@@ -114,7 +131,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "spatburgunder/spatburgunder-traube-des-blauen-sp-tburgunders.jpg",
+  "source": "commons",
+  "title": "File:Traube des blauen Spätburgunders.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Traube_des_blauen_Sp%C3%A4tburgunders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ATraube_des_blauen_Sp%C3%A4tburgunders.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Wladyslaw",
+  "credit": "Own work (Original text: selbst erstellt)",
+  "alt": "Trauben und Blätter des blauen Spätburgunders",
+  "date": "2008-08-30",
+  "primary": true,
+  "sha256": "95a7077ed9f281702a24b1a6bddee780f2b075cb965255c9431fbe4a0cf20503"
+ },
  "tag_facts": [],
  "recognition_facts": [],
  "acclaim": 0,

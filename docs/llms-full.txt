@@ -107,6 +107,7 @@ today: Grown on every continent that can chill it: Burgundy and Champagne, Germa
 - kin → chardonnay (variety): Its child, by Gouais blanc; the two share the same hillsides and the same cellars.
 - kin → thin-skin (story): Every difficulty this grape hands a grower, in one place.
 - kin → dijon-115 (clone): One of the numbered selections that let a grower buy this vine by catalogue.
+- image: https://nanobotco.github.io/pinot-noir/images/pinot-noir/pinot-noir-ov-pinot-noir.jpg · CC BY-SA 2.5 · Olivier Vanpé · https://commons.wikimedia.org/wiki/File%3AOV-pinot-noir.jpg
 sources: s:wp-pinot-noir — Pinot noir; s:wine-grapes-2012 — Wine Grapes: A Complete Guide to 1,368 Vine Varieties; s:oxford-companion-wine-4 — The Oxford Companion to Wine
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -122,6 +123,7 @@ geo: 50.54, 7.05 (region)
 - kin → pinot-noir (variety): Called spätburgunder here, and grown in a higher share than anywhere else in Germany.
 - kin → fruhburgunder (variety): The early-ripening cousin the valley kept.
 - kin → baden (region): The other German pinot region, warmer and far larger.
+- image: https://nanobotco.github.io/pinot-noir/images/ahr/ahr-vineyard-in-the-ahr-valley-germany.jpg · CC0 1.0 · 1998alexkane · https://commons.wikimedia.org/wiki/File%3AVineyard_in_the_Ahr_Valley%2C_Germany.jpg
 sources: s:wp-ahr-wine-region — Ahr (wine region); s:wp-german-wine — German wine
 provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
 
@@ -165,6 +167,7 @@ story: The 1983 petition counted 47 acres of pinot noir. By 2025 the AVA farmed 
 geo: 39.0, -123.4 (region)
 - kin → pinot-noir (variety): The variety that took the valley over.
 - kin → russian-river-valley (region): The other California fog corridor, an hour south.
+- image: https://nanobotco.github.io/pinot-noir/images/anderson-valley/anderson-valley-anderson-valley-pinot-noir-with-vineyard-in-background.jpg · CC BY 2.0 · Ethan Prater · https://commons.wikimedia.org/wiki/File%3AAnderson_Valley_Pinot_noir_with_vineyard_in_background.jpg
 sources: s:wp-anderson-valley-ava — Anderson Valley AVA; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -180,6 +183,7 @@ geo: 48.1, 7.85 (region)
 - kin → pinot-noir (variety): Spätburgunder: more than a third of the region's vines.
 - kin → alsace (region): Same rift valley, other bank, similar size.
 - kin → pinot-gris (variety): Grauburgunder, the second Burgundian here.
+- image: https://nanobotco.github.io/pinot-noir/images/baden/baden-bickensohl-kaiserstuhl-totenkopf-2004.jpg · CC BY-SA 4.0 · Jacquesverlaeken · https://commons.wikimedia.org/wiki/File%3ABickensohl_Kaiserstuhl_Totenkopf_2004.jpg
 sources: s:wp-baden-wine-region — Baden (wine region); s:wp-german-wine — German wine
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -201,6 +205,7 @@ geo: 47.05, 4.85 (region)
 - kin → climat (term): The word for a named parcel, and the unit the whole system counts in.
 - kin → hospices-de-beaune (org): The charity whose November auction sets the tone for the vintage.
 - kin → how-pinot-travelled (story): How cuttings and arguments from this hill reached Oregon, Otago and the Cape.
+- image: https://nanobotco.github.io/pinot-noir/images/burgundy/burgundy-landscape-and-vineyards-in-bourgogne.jpg · CC BY-SA 2.0 · tara hunt · https://commons.wikimedia.org/wiki/File%3ALandscape_and_vineyards_in_Bourgogne.jpg
 sources: s:wp-burgundy-wine — Burgundy wine; s:unesco-1425 — The Climats, terroirs of Burgundy — World Heritage List 1425; s:wp-pinot-noir — Pinot noir; s:morris-inside-burgundy — Inside Burgundy: The Vineyards, the Wine and the People
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -230,6 +235,7 @@ geo: -45.02, 169.2 (region)
 - kin → felton-road (producer): Bannockburn, and the cellar that made the region legible abroad.
 - kin → rippon (producer): Lake Wanaka, and one of the most photographed vineyards anywhere.
 - kin → abel-clone (clone): The cutting that walked through customs and changed New Zealand pinot.
+- image: https://nanobotco.github.io/pinot-noir/images/central-otago/central-otago-bannockburn-1-central-otago.jpg · CC BY-SA 4.0 · AnnWoolliams · https://commons.wikimedia.org/wiki/File%3ABannockburn_%281%29%2C_Central_Otago.jpg
 sources: s:wp-central-otago-wine-region — Central Otago wine region; s:wp-new-zealand-wine — New Zealand wine
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -246,6 +252,7 @@ geo: 49.05, 4.0 (region)
 - kin → pinot-noir (variety): Grown for structure, not colour.
 - kin → pinot-meunier (variety): Its frost insurance on the valley floor.
 - kin → saignee (practice): The bleed that makes rosé, and the other way to use a black grape here.
+- image: https://nanobotco.github.io/pinot-noir/images/champagne/champagne-verzenay-vignoble.jpg · Public domain · Vassil · https://commons.wikimedia.org/wiki/File%3AVerzenay_vignoble.jpg
 sources: s:wp-champagne-wine-region — Champagne wine region; s:wp-champagne — Champagne
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -291,6 +298,7 @@ geo: 47.17, 4.95 (region)
 - kin → clos-de-vougeot (vineyard): Fifty hectares, eighty owners, one grand cru name.
 - kin → chambertin (vineyard): Gevrey's grand cru, and the one Napoleon is said to have carried.
 - kin → musigny (vineyard): Chambolle's grand cru, where the wine goes lace-fine.
+- image: https://nanobotco.github.io/pinot-noir/images/cote-de-nuits/cote-de-nuits-weinberg-cote-de-nuits.jpg · CC BY-SA 2.5 · Stefan Bauer, https://www.ferras.at · https://commons.wikimedia.org/wiki/File%3AWeinberg_Cote_de_Nuits.jpg
 sources: s:wp-c-te-de-nuits — Côte de Nuits; s:wp-burgundy-wine — Burgundy wine
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -306,6 +314,7 @@ geo: 45.28, -123.05 (region)
 - kin → eyrie-vineyards (producer): Whose South Block vines are the oldest pinot here.
 - kin → domaine-drouhin-oregon (producer): Built high on the same hill in 1987.
 - kin → sokol-blosser (producer): Planting since 1971, two ridges over.
+- image: https://nanobotco.github.io/pinot-noir/images/dundee-hills/dundee-hills-pinot-noir-vineyard-in-the-dundee-hills-ava-of-oregon.jpg · CC BY-SA 2.0 · Luke · https://commons.wikimedia.org/wiki/File%3APinot_noir_vineyard_in_the_Dundee_hills_AVA_of_Oregon.jpg
 sources: s:wp-dundee-hills-ava — Dundee Hills AVA; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -413,6 +422,7 @@ what: An hour south of Melbourne with sea on three sides. Maritime, cool, and cu
 geo: -38.35, 145.05 (region)
 - kin → pinot-noir (variety): Grown cool and picked early, beside chardonnay.
 - kin → yarra-valley (region): Victoria's other pinot region, inland and in the hills.
+- image: https://nanobotco.github.io/pinot-noir/images/mornington-peninsula/mornington-peninsula-csiro-scienceimage-1982-pinot-noir-vines-at-the-main-aa1ee67.jpg · CC BY 3.0 · , CSIRO · https://commons.wikimedia.org/wiki/File%3ACSIRO_ScienceImage_1982_Pinot_Noir_vines_at_the_Main_Ridge_Estate.jpg
 sources: s:wp-mornington-peninsula — Mornington Peninsula; s:wp-australian-wine — Australian wine
 provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
 
@@ -453,6 +463,7 @@ geo: 38.48, -122.87 (region)
 - kin → sonoma-coast (region): The larger coastal AVA around it.
 - kin → williams-selyem (producer): The winery that made vineyard-designated Russian River pinot the thing to chase.
 - kin → merry-edwards (person): Who made wine here and put her name on a clone selection.
+- image: https://nanobotco.github.io/pinot-noir/images/russian-river-valley/russian-river-valley-russian-river-valley-vineyard-in-autumn.jpg · CC BY 2.0 · GoodWineUnder20 · https://commons.wikimedia.org/wiki/File%3ARussian_River_Valley_Vineyard_in_autumn.jpg
 sources: s:wp-russian-river-valley-ava — Russian River Valley AVA; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -577,6 +588,7 @@ geo: 45.2, -123.1 (region)
 - kin → david-lett (person): Who planted the first pinot noir here and argued for the rest.
 - kin → eyrie-vineyards (producer): The winery that made the 1975 that changed the argument.
 - kin → domaine-drouhin-oregon (producer): Burgundy buying in, four years after the tasting.
+- image: https://nanobotco.github.io/pinot-noir/images/willamette-valley/willamette-valley-vineyard-in-willamette-valley.jpg · CC BY-SA 2.0 · David Burn · https://commons.wikimedia.org/wiki/File%3AVineyard_in_Willamette_Valley.jpg
 sources: s:wp-willamette-valley-ava — Willamette Valley AVA; s:wp-oregon-wine — Oregon wine; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -635,6 +647,7 @@ what: Gevrey's grand cru on the mid-slope, and the name the village bolted onto 
 geo: 47.22, 4.96 (street)
 - kin → cote-de-nuits (region): The district it sits in.
 - kin → burgundy (region): Where the habit of appending the best vineyard to the village name began.
+- image: https://nanobotco.github.io/pinot-noir/images/chambertin/chambertin-vineyards-gevrey-chambertin.jpg · Public domain · Urban · https://commons.wikimedia.org/wiki/File%3AVineyards_Gevrey-Chambertin.jpg
 sources: s:wp-gevrey-chambertin — Gevrey-Chambertin; s:wp-burgundy-wine — Burgundy wine
 provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
 
@@ -650,6 +663,7 @@ geo: 47.176, 4.955 (street)
 - kin → cote-de-nuits (region): The district it sits in.
 - kin → climat (term): The unit this vineyard is usually held up to explain — and to complicate.
 - kin → burgundy (region): Where dividing land by inheritance became the system.
+- image: https://nanobotco.github.io/pinot-noir/images/clos-de-vougeot/clos-de-vougeot-chateau-du-clos-de-vougeot-4.jpg · CC BY-SA 3.0 · Arnaud 25 · https://commons.wikimedia.org/wiki/File%3AChateau_du_clos_de_Vougeot_4.JPG
 sources: s:wp-clos-de-vougeot — Clos de Vougeot
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -663,6 +677,7 @@ what: The hill above Aloxe, and Burgundy's largest grand cru: 95 hectares in pro
 geo: 47.07, 4.86 (region)
 - kin → cote-de-beaune (region): The district whose only red grand cru this is.
 - kin → hospices-de-beaune (org): Whose auction lots include Corton parcels given by donors.
+- image: https://nanobotco.github.io/pinot-noir/images/corton/corton-corton-hill-nov-2009.jpg · CC BY-SA 3.0 · Tomas er · https://commons.wikimedia.org/wiki/File%3ACorton_hill_Nov_2009.jpg
 sources: s:wp-corton-aoc — Corton (wine)
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -689,6 +704,7 @@ what: Ten hectares above Chambolle, the one grand cru of the Côte de Nuits that
 geo: 47.19, 4.96 (street)
 - kin → cote-de-nuits (region): The district it sits in.
 - kin → chardonnay (variety): The exception planted here: Musigny blanc.
+- image: https://nanobotco.github.io/pinot-noir/images/musigny/musigny-village-et-vignes-de-chambolle-musigny-c-te-d-or-06.jpg · CC BY-SA 4.0 · Jean de l'Auxois · https://commons.wikimedia.org/wiki/File%3AVillage_et_vignes_de_Chambolle-Musigny_%28C%C3%B4te-d%27Or%29_06.jpg
 sources: s:wp-le-musigny — Musigny AOC
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -719,6 +735,7 @@ geo: 47.163, 4.955 (street)
 - kin → la-tache (vineyard): The other monopole down the same slope.
 - kin → cote-de-nuits (region): The district it sits in.
 - kin → monopole (term): One owner, one vineyard — the word for this arrangement.
+- image: https://nanobotco.github.io/pinot-noir/images/romanee-conti/romanee-conti-roman-e-conti-vineyard.jpg · CC BY 2.0 · Andrea Schaffer · https://commons.wikimedia.org/wiki/File%3ARoman%C3%A9e-Conti_vineyard.jpg
 sources: s:wp-roman-e-conti — Romanée-Conti; s:meadows-pearl — The Pearl of the Côte: The Great Wines of Vosne-Romanée
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -811,6 +828,7 @@ geo: 47.162, 4.951 (street)
 - kin → la-tache (vineyard): Its other monopole.
 - kin → aubert-de-villaine (person): Co-director, and the man who carried the Climats to UNESCO.
 - kin → burgundy (region): The region whose reputation this address both makes and distorts.
+- image: https://nanobotco.github.io/pinot-noir/images/drc/drc-domaine-de-la-roman-e-conti-7309836076.jpg · CC BY 2.0 · Michal Osmenda from Brussels, Belgium · https://commons.wikimedia.org/wiki/File%3ADomaine_de_la_Roman%C3%A9e-Conti_%287309836076%29.jpg
 sources: s:wp-domaine-de-la-roman-e-conti — Domaine de la Romanée-Conti; s:meadows-pearl — The Pearl of the Côte: The Great Wines of Vosne-Romanée
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -1138,6 +1156,7 @@ what: Picking into small crates by hand, so the bunch arrives whole and the cell
 how: Whole-cluster work, sorting tables and cold soaks all assume intact fruit. Steep slopes settle it anyway: no machine drives the Côte d'Or's mid-slope.
 - kin → whole-cluster (practice): The decision hand-picking keeps open.
 - kin → burgundy (region): Where the slope makes the choice for you.
+- image: https://nanobotco.github.io/pinot-noir/images/hand-harvest/hand-harvest-hand-harvesting-in-the-vaucluse.jpg · CC BY 2.0 · Steven Verbruggen · https://commons.wikimedia.org/wiki/File%3AHand_harvesting_in_the_Vaucluse.jpg
 sources: s:oxford-companion-wine-4 — The Oxford Companion to Wine
 provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
 
@@ -1165,6 +1184,7 @@ what: A bacterial conversion, not a yeast one: lactic acid bacteria turn sharp m
 how: Usually after the alcoholic ferment, often in barrel over the winter, and in cold cellars it can wait until spring warms the room. It lowers total acidity, raises pH and can leave a buttery note from diacetyl.
 - kin → neutral-oak (practice): Where it usually happens: in barrel, over a cold winter.
 - kin → pinot-noir (variety): A high-acid grape, which is why the softening matters here.
+- image: https://nanobotco.github.io/pinot-noir/images/malolactic/malolactic-cave-de-bourgogne.jpg · CC BY-SA 3.0 · Arnaud 25 · https://commons.wikimedia.org/wiki/File%3ACave_de_Bourgogne.jpg
 sources: s:wp-malolactic-fermentation — Malolactic fermentation
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -1209,6 +1229,7 @@ what: A barrel that has already given up its flavour — third use, fourth, olde
 how: New oak gives vanillin, toast and tannin, and pinot noir has little weight to hide any of it. Cellars set a percentage of new wood per wine and often drop it for the lighter vineyards.
 - kin → malolactic (practice): What happens inside these barrels, over winter.
 - kin → hanzell (producer): Which imported French barrels to California and started the argument there.
+- image: https://nanobotco.github.io/pinot-noir/images/neutral-oak/neutral-oak-wine-cave-in-burgundy.jpg · CC BY-SA 2.0 · Philip Larson · https://commons.wikimedia.org/wiki/File%3AWine_cave_in_Burgundy.jpg
 sources: s:wp-oak-wine — Oak (wine); s:wp-barrel — Barrel
 provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
 
@@ -1266,6 +1287,7 @@ story: The dish attaches itself to Julius Caesar in the usual apocryphal way. Wh
 - kin → pinot-noir (variety): The wine in the pot and in the glass.
 - kin → burgundy (region): Where the version with a named wine comes from.
 - kin → mushrooms (pairing): In the pot from the start.
+- image: https://nanobotco.github.io/pinot-noir/images/coq-au-vin/coq-au-vin-coq-au-vin.jpg · CC BY 2.5 · MattHucke at en.wikipedia · https://commons.wikimedia.org/wiki/File%3ACoq_au_vin.jpg
 sources: s:wp-coq-au-vin — Coq au vin
 provenance default: cited · confidence: medium · needs_verification: False · updated: 2026-09-16
 
@@ -1280,6 +1302,7 @@ how: Roasted whole, seared as breast, or salted and cooked in its own fat as con
 - kin → pinot-noir (variety): The wine most often poured with it.
 - kin → burgundy (region): Where the pairing is a house rule.
 - kin → mushrooms (pairing): The other half of most plates it arrives on.
+- image: https://nanobotco.github.io/pinot-noir/images/duck/duck-duck-dish-walluf.jpg · CC BY-SA 4.0 · Gerda Arendt · https://commons.wikimedia.org/wiki/File%3ADuck_dish%2C_Walluf.jpg
 sources: s:wp-duck-as-food — Duck as food; s:wp-wine-and-food-matching — Wine and food pairing
 provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
 
@@ -1293,6 +1316,7 @@ what: The flavour bridge: older pinot noir picks up a forest-floor smell, and a 
 - kin → duck (pairing): Its usual companion on the plate.
 - kin → pinot-noir (variety): The wine whose aged character it mirrors.
 - kin → truffle-pairing (pairing): The expensive end of the same idea.
+- image: https://nanobotco.github.io/pinot-noir/images/mushrooms/mushrooms-edible-fungi-in-basket-2009-g1.jpg · Public domain · George Chernilevsky · https://commons.wikimedia.org/wiki/File%3AEdible_fungi_in_basket_2009_G1.jpg
 sources: s:wp-edible-mushroom — Edible mushroom; s:wp-umami — Umami
 provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
 
@@ -1323,6 +1347,7 @@ notes: The local name turns out to be good botany. Coast live oak is a semi-ever
 - kin → santa-maria-tri-tip (pairing): The meat it cooks.
 - kin → tri-tip-over-red-oak (story): Why the wood is the part that cannot be exported.
 - kin → santa-maria-valley (region): The hills it grows on.
+- image: https://nanobotco.github.io/pinot-noir/images/red-oak/red-oak-quercus-agrifolia-6.jpg · CC BY-SA 4.0 · Eugene Zelenko · https://commons.wikimedia.org/wiki/File%3AQuercus_agrifolia-6.jpg
 sources: s:wp-quercus-agrifolia — Quercus agrifolia; s:wp-santa-maria-style-barbecue — Santa Maria–style barbecue
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -1337,6 +1362,7 @@ how: Grilled over alder, or roasted. The oil in the flesh and the char off the f
 - kin → ipnc (event): Where a valley full of growers eats it every summer.
 - kin → willamette-valley (region): The valley that grows the wine beside the river.
 - kin → pinot-noir (variety): The red that gets poured with fish without an argument.
+- image: https://nanobotco.github.io/pinot-noir/images/salmon/salmon-grilled-plated-salmon-fillet.jpg · CC0 1.0 · DanaTentis · https://commons.wikimedia.org/wiki/File%3AGrilled_plated_salmon_fillet.jpg
 sources: s:wp-salmon-as-food — Salmon as food; s:wp-wine-and-food-matching — Wine and food pairing
 provenance default: tradition · confidence: medium · needs_verification: False · updated: 2026-09-16
 
@@ -1372,6 +1398,7 @@ geo: 34.953, -120.436 (town)
 - kin → santa-maria-valley (region): The valley that also grows pinot noir on the same hills.
 - kin → bob-schutz (person): The market manager the town credits.
 - kin → santa-maria-bbq-association (org): Which defines the phrase on the menu.
+- image: https://nanobotco.github.io/pinot-noir/images/santa-maria-tri-tip/santa-maria-tri-tip-santamaria-stylebbq.jpg · CC BY 2.0 · Eugene Kim from San Francisco, USA · https://commons.wikimedia.org/wiki/File%3ASantaMaria-StyleBBQ.jpg
 sources: s:wp-santa-maria-style-barbecue — Santa Maria–style barbecue; s:wp-tri-tip — Tri-tip; s:usda-imps-100 — Institutional Meat Purchase Specifications, Series 100 — Fresh Beef; s:web-smv-bbq-association — Santa Maria Style Barbeque Association; s:wp-cut-of-beef — Cut of beef
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -1628,6 +1655,7 @@ geo: 47.022, 4.837 (street)
 - kin → hospices-auction (event): Its November sale.
 - kin → corton (vineyard): Among the parcels it holds.
 - kin → cote-de-beaune (region): Where nearly all its vines sit.
+- image: https://nanobotco.github.io/pinot-noir/images/hospices-de-beaune/hospices-de-beaune-beaune-h-tel-dieu-cour-01.jpg · CC BY-SA 4.0 · Benjamin Smith · https://commons.wikimedia.org/wiki/File%3ABeaune_-_H%C3%B4tel-Dieu_-_Cour_-_01.jpg
 sources: s:wp-hospices-de-beaune — Hospices de Beaune
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -1925,6 +1953,7 @@ what: German for pinot noir, and a name that carries an argument: 'late Burgundi
 - kin → pinot-noir (variety): The same vine.
 - kin → fruhburgunder (variety): The early one the name is set against.
 - kin → baden (region): Where most of it grows.
+- image: https://nanobotco.github.io/pinot-noir/images/spatburgunder/spatburgunder-traube-des-blauen-sp-tburgunders.jpg · CC BY-SA 3.0 · Wladyslaw · https://commons.wikimedia.org/wiki/File%3ATraube_des_blauen_Sp%C3%A4tburgunders.jpg
 sources: s:wp-german-wine — German wine; s:wp-baden-wine-region — Baden (wine region)
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 
@@ -2026,6 +2055,7 @@ geo: 34.95, -120.3 (region)
 - kin → bob-schutz (person): The man Santa Maria credits with the cut.
 - kin → santa-maria-bbq-association (org): Which defines the words on the menu.
 - kin → pinot-noir (variety): The grape on the other side of the question.
+- image: https://nanobotco.github.io/pinot-noir/images/tri-tip-over-red-oak/tri-tip-over-red-oak-santamaria-stylebbq.jpg · CC BY 2.0 · Eugene Kim from San Francisco, USA · https://commons.wikimedia.org/wiki/File%3ASantaMaria-StyleBBQ.jpg
 sources: s:wp-santa-maria-style-barbecue — Santa Maria–style barbecue; s:wp-tri-tip — Tri-tip; s:wp-santa-maria-valley-ava — Santa Maria Valley AVA; s:wp-bien-nacido-vineyard — Bien Nacido Vineyards; s:wp-quercus-agrifolia — Quercus agrifolia; s:web-smv-bbq-association — Santa Maria Style Barbeque Association; s:wp-santa-maria-california — Santa Maria, California; s:wp-rancho-tepusquet — Rancho Tepusquet; s:wp-cut-of-beef — Cut of beef; s:usda-imps-100 — Institutional Meat Purchase Specifications, Series 100 — Fresh Beef; s:ecfr-27-9 — 27 CFR part 9 — American Viticultural Areas; s:web-smv-visit-bbq — Santa Maria Valley — barbecue and the valley's restaurants; s:sunset-2013-true — This Unsung California Town Has the West's Best BBQ; s:wp-salsa-sauce — Salsa (food)
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
 

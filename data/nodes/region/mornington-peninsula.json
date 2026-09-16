@@ -43,5 +43,22 @@
   }
  },
  "confidence": "medium",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "mornington-peninsula/mornington-peninsula-csiro-scienceimage-1982-pinot-noir-vines-at-the-main-aa1ee67.jpg",
+   "source": "commons",
+   "title": "File:CSIRO ScienceImage 1982 Pinot Noir vines at the Main Ridge Estate.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CSIRO_ScienceImage_1982_Pinot_Noir_vines_at_the_Main_Ridge_Estate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ACSIRO_ScienceImage_1982_Pinot_Noir_vines_at_the_Main_Ridge_Estate.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": ", CSIRO",
+   "credit": "http://www.scienceimage.csiro.au/image/1982",
+   "alt": "Pinot Noir vines at the Main Ridge Estate vineyard, Mornington Peninsula Victoria, Australia.",
+   "date": "",
+   "primary": true,
+   "sha256": "b0c2edd4fb4ceeee5d6cd9a274aa2023758a28d9b2db44446bd2095f93f2ac4e"
+  }
+ ]
 }

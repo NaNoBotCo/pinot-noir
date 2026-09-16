@@ -886,6 +886,23 @@
    },
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "pinot-noir/pinot-noir-ov-pinot-noir.jpg",
+     "source": "commons",
+     "title": "File:OV-pinot-noir.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/OV-pinot-noir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AOV-pinot-noir.jpg",
+     "license": "CC BY-SA 2.5",
+     "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+     "author": "Olivier Vanpé",
+     "credit": "",
+     "alt": "Bunch of Pinot Noir grapes in Volnay, Burgundy in early August, when the grapes have begun to get their colour.",
+     "date": "2005-08-04",
+     "primary": true,
+     "sha256": "dca1ec3f4bbd7262b81cdfd684e2eca51284725966063c9b13b8a5385bdfd236"
+    }
+   ],
    "blurb": "A black grape from north-eastern France that ripens early, carries thin skin over tight pinecone-shaped bunches, and mutates more readily than almost any vine in cultivation.",
    "region_terms": [
     {
@@ -986,7 +1003,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "pinot-noir/pinot-noir-ov-pinot-noir.jpg",
+    "source": "commons",
+    "title": "File:OV-pinot-noir.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/OV-pinot-noir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AOV-pinot-noir.jpg",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "author": "Olivier Vanpé",
+    "credit": "",
+    "alt": "Bunch of Pinot Noir grapes in Volnay, Burgundy in early August, when the grapes have begun to get their colour.",
+    "date": "2005-08-04",
+    "primary": true,
+    "sha256": "dca1ec3f4bbd7262b81cdfd684e2eca51284725966063c9b13b8a5385bdfd236"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -1413,6 +1444,23 @@
    ],
    "confidence": "medium",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "ahr/ahr-vineyard-in-the-ahr-valley-germany.jpg",
+     "source": "commons",
+     "title": "File:Vineyard in the Ahr Valley, Germany.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Vineyard_in_the_Ahr_Valley%2C_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AVineyard_in_the_Ahr_Valley%2C_Germany.jpg",
+     "license": "CC0 1.0",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "author": "1998alexkane",
+     "credit": "Own work",
+     "alt": "vineyard in the Ahr Valley, Germany",
+     "date": "19 November 2023 (according to Exif data",
+     "primary": true,
+     "sha256": "cd2be5efe09af644774ea3d7ed119d97737cfa03ccaeae581019556c2c0ca3e4"
+    }
+   ],
    "blurb": "A narrow slate valley south of Bonn, among the smallest German regions and the one that gives more of its ground to spätburgunder than any other.",
    "region_terms": [
     {
@@ -1485,7 +1533,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "ahr/ahr-vineyard-in-the-ahr-valley-germany.jpg",
+    "source": "commons",
+    "title": "File:Vineyard in the Ahr Valley, Germany.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Vineyard_in_the_Ahr_Valley%2C_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AVineyard_in_the_Ahr_Valley%2C_Germany.jpg",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "1998alexkane",
+    "credit": "Own work",
+    "alt": "vineyard in the Ahr Valley, Germany",
+    "date": "19 November 2023 (according to Exif data",
+    "primary": true,
+    "sha256": "cd2be5efe09af644774ea3d7ed119d97737cfa03ccaeae581019556c2c0ca3e4"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -1816,6 +1878,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "anderson-valley/anderson-valley-anderson-valley-pinot-noir-with-vineyard-in-background.jpg",
+     "source": "commons",
+     "title": "File:Anderson Valley Pinot noir with vineyard in background.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Anderson_Valley_Pinot_noir_with_vineyard_in_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AAnderson_Valley_Pinot_noir_with_vineyard_in_background.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "Ethan Prater",
+     "credit": "originally posted to Flickr as Esterlina Tasting Room, Anderson Valley, CA",
+     "alt": "From Esterlina Tasting Room in Mendocino County California.",
+     "date": "Taken on 14 March 2009, 16:07:15",
+     "primary": true,
+     "sha256": "80c05a80799bf6fd270058ad7da65084ad876272e58d46952bad68ca0d516eda"
+    }
+   ],
    "blurb": "Mendocino's fog gap: a narrow valley along the Navarro River, open to the ocean at one end, redwoods at both edges. Sparkling houses came for the acid and stayed for the pinot.",
    "region_terms": [
     {
@@ -1879,7 +1958,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "anderson-valley/anderson-valley-anderson-valley-pinot-noir-with-vineyard-in-background.jpg",
+    "source": "commons",
+    "title": "File:Anderson Valley Pinot noir with vineyard in background.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Anderson_Valley_Pinot_noir_with_vineyard_in_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AAnderson_Valley_Pinot_noir_with_vineyard_in_background.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Ethan Prater",
+    "credit": "originally posted to Flickr as Esterlina Tasting Room, Anderson Valley, CA",
+    "alt": "From Esterlina Tasting Room in Mendocino County California.",
+    "date": "Taken on 14 March 2009, 16:07:15",
+    "primary": true,
+    "sha256": "80c05a80799bf6fd270058ad7da65084ad876272e58d46952bad68ca0d516eda"
+   },
    "tag_facts": [],
    "recognition_facts": [
     {
@@ -1976,6 +2069,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "baden/baden-bickensohl-kaiserstuhl-totenkopf-2004.jpg",
+     "source": "commons",
+     "title": "File:Bickensohl Kaiserstuhl Totenkopf 2004.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bickensohl_Kaiserstuhl_Totenkopf_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ABickensohl_Kaiserstuhl_Totenkopf_2004.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Jacquesverlaeken",
+     "credit": "Own work",
+     "alt": "Vineyards below the Totenkopf (556 m) at Bickensohl, Kaiserstuhl, Baden.",
+     "date": "2004-08-06",
+     "primary": true,
+     "sha256": "0b6a43205a3bdb02cfadd774912b9bd542b68c0ec69d16cc9b8ec3bc525bf3b8"
+    }
+   ],
    "blurb": "Germany's warmest vineyards, in the Rhine rift between the Black Forest and the Vosges, facing Alsace across the river. Pinot in its three colours covers most of it.",
    "region_terms": [
     {
@@ -2047,7 +2157,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "baden/baden-bickensohl-kaiserstuhl-totenkopf-2004.jpg",
+    "source": "commons",
+    "title": "File:Bickensohl Kaiserstuhl Totenkopf 2004.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bickensohl_Kaiserstuhl_Totenkopf_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ABickensohl_Kaiserstuhl_Totenkopf_2004.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": "Jacquesverlaeken",
+    "credit": "Own work",
+    "alt": "Vineyards below the Totenkopf (556 m) at Bickensohl, Kaiserstuhl, Baden.",
+    "date": "2004-08-06",
+    "primary": true,
+    "sha256": "0b6a43205a3bdb02cfadd774912b9bd542b68c0ec69d16cc9b8ec3bc525bf3b8"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -2204,6 +2328,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "burgundy/burgundy-landscape-and-vineyards-in-bourgogne.jpg",
+     "source": "commons",
+     "title": "File:Landscape and vineyards in Bourgogne.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Landscape_and_vineyards_in_Bourgogne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALandscape_and_vineyards_in_Bourgogne.jpg",
+     "license": "CC BY-SA 2.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+     "author": "tara hunt",
+     "credit": "Flickr: in Bourgogne",
+     "alt": "From author: \"Burgundy region...mostly around the appellations of Chambelle-Musigny and Chambertin, but in and around Dijon, Beaune and area.\"",
+     "date": "2006-09-24 04:15:15",
+     "primary": true,
+     "sha256": "5a5e8a1aecbeeb69891ac94f88fbeb395a76bbca7023b62b441c8c9ba848fe77"
+    }
+   ],
    "blurb": "A strip of limestone running south-west from Dijon where pinot noir and chardonnay have been sorted, fenced and argued over for a thousand years.",
    "region_terms": [
     {
@@ -2312,7 +2453,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "burgundy/burgundy-landscape-and-vineyards-in-bourgogne.jpg",
+    "source": "commons",
+    "title": "File:Landscape and vineyards in Bourgogne.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Landscape_and_vineyards_in_Bourgogne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ALandscape_and_vineyards_in_Bourgogne.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "tara hunt",
+    "credit": "Flickr: in Bourgogne",
+    "alt": "From author: \"Burgundy region...mostly around the appellations of Chambelle-Musigny and Chambertin, but in and around Dijon, Beaune and area.\"",
+    "date": "2006-09-24 04:15:15",
+    "primary": true,
+    "sha256": "5a5e8a1aecbeeb69891ac94f88fbeb395a76bbca7023b62b441c8c9ba848fe77"
+   },
    "tag_facts": [],
    "recognition_facts": [
     {
@@ -2716,6 +2871,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "central-otago/central-otago-bannockburn-1-central-otago.jpg",
+     "source": "commons",
+     "title": "File:Bannockburn (1), Central Otago.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bannockburn_%281%29%2C_Central_Otago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ABannockburn_%281%29%2C_Central_Otago.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "AnnWoolliams",
+     "credit": "Own work",
+     "alt": "Bannockburn, Central Otago, South Island, NZ",
+     "date": "2022-04-21",
+     "primary": true,
+     "sha256": "ae99ba50200fccc3a7448d9f3061da12ce5accd6e2e9c6f2c5630ea26d13d72a"
+    }
+   ],
    "blurb": "The southernmost commercial wine region on earth, and the only part of New Zealand with a true continental climate — frost in the spring, forty-degree swings in a day, schist under everything.",
    "region_terms": [
     {
@@ -2794,7 +2966,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "central-otago/central-otago-bannockburn-1-central-otago.jpg",
+    "source": "commons",
+    "title": "File:Bannockburn (1), Central Otago.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bannockburn_%281%29%2C_Central_Otago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ABannockburn_%281%29%2C_Central_Otago.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": "AnnWoolliams",
+    "credit": "Own work",
+    "alt": "Bannockburn, Central Otago, South Island, NZ",
+    "date": "2022-04-21",
+    "primary": true,
+    "sha256": "ae99ba50200fccc3a7448d9f3061da12ce5accd6e2e9c6f2c5630ea26d13d72a"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -2918,6 +3104,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "champagne/champagne-verzenay-vignoble.jpg",
+     "source": "commons",
+     "title": "File:Verzenay vignoble.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Verzenay_vignoble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AVerzenay_vignoble.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Vassil",
+     "credit": "Own work",
+     "alt": "Vignoble du champagne sur la Montagne de Reims: Verzenay.(Mai 2007)",
+     "date": "12/05/07",
+     "primary": true,
+     "sha256": "64ce4fd190d0a12a07f1a4c5c2b378ebd22df5f53804df2d554bc3e9fc5651f4"
+    }
+   ],
    "blurb": "Chalk country 150 km north-east of Paris where pinot noir is pressed off its skins within hours and comes out white. More pinot noir grows here than anywhere else in France, and almost none of it is red.",
    "region_terms": [
     {
@@ -2986,7 +3189,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "champagne/champagne-verzenay-vignoble.jpg",
+    "source": "commons",
+    "title": "File:Verzenay vignoble.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Verzenay_vignoble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AVerzenay_vignoble.jpg",
+    "license": "Public domain",
+    "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+    "author": "Vassil",
+    "credit": "Own work",
+    "alt": "Vignoble du champagne sur la Montagne de Reims: Verzenay.(Mai 2007)",
+    "date": "12/05/07",
+    "primary": true,
+    "sha256": "64ce4fd190d0a12a07f1a4c5c2b378ebd22df5f53804df2d554bc3e9fc5651f4"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -3394,6 +3611,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "cote-de-nuits/cote-de-nuits-weinberg-cote-de-nuits.jpg",
+     "source": "commons",
+     "title": "File:Weinberg Cote de Nuits.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Weinberg_Cote_de_Nuits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWeinberg_Cote_de_Nuits.jpg",
+     "license": "CC BY-SA 2.5",
+     "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+     "author": "Stefan Bauer, https://www.ferras.at",
+     "credit": "Own work",
+     "alt": "Vineyard in Côte de Beaune, Burgundy, France",
+     "date": "2005-08-07",
+     "primary": true,
+     "sha256": "9869d51e7d0afe3a5b514ae1f8758a988ca69667b3e3de83495a42d6f9ba29b7"
+    }
+   ],
    "blurb": "Fourteen communes between Dijon and Corgoloin holding 24 of Burgundy's 25 red grand cru appellations. Some of them are tiny — La Romanée covers less than a hectare.",
    "region_terms": [
     {
@@ -3479,7 +3713,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "cote-de-nuits/cote-de-nuits-weinberg-cote-de-nuits.jpg",
+    "source": "commons",
+    "title": "File:Weinberg Cote de Nuits.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Weinberg_Cote_de_Nuits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AWeinberg_Cote_de_Nuits.jpg",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "author": "Stefan Bauer, https://www.ferras.at",
+    "credit": "Own work",
+    "alt": "Vineyard in Côte de Beaune, Burgundy, France",
+    "date": "2005-08-07",
+    "primary": true,
+    "sha256": "9869d51e7d0afe3a5b514ae1f8758a988ca69667b3e3de83495a42d6f9ba29b7"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -3615,6 +3863,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "dundee-hills/dundee-hills-pinot-noir-vineyard-in-the-dundee-hills-ava-of-oregon.jpg",
+     "source": "commons",
+     "title": "File:Pinot noir vineyard in the Dundee hills AVA of Oregon.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pinot_noir_vineyard_in_the_Dundee_hills_AVA_of_Oregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APinot_noir_vineyard_in_the_Dundee_hills_AVA_of_Oregon.jpg",
+     "license": "CC BY-SA 2.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+     "author": "Luke",
+     "credit": "Flickr: Wine Country",
+     "alt": "Pinot Noir grapes at Archery Summit in the Willamette Valley wine region of Dundee Hills",
+     "date": "2008-09-12 18:08:45",
+     "primary": true,
+     "sha256": "2ca6b806160344f9049c2bc15cf5bbb7a9612970588afbcc7fa68bf8491ec595"
+    }
+   ],
    "blurb": "A single hill of red volcanic Jory soil north-west of Dundee, and the ground Oregon pinot noir started on in 1965.",
    "region_terms": [
     {
@@ -3689,7 +3954,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "dundee-hills/dundee-hills-pinot-noir-vineyard-in-the-dundee-hills-ava-of-oregon.jpg",
+    "source": "commons",
+    "title": "File:Pinot noir vineyard in the Dundee hills AVA of Oregon.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pinot_noir_vineyard_in_the_Dundee_hills_AVA_of_Oregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3APinot_noir_vineyard_in_the_Dundee_hills_AVA_of_Oregon.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Luke",
+    "credit": "Flickr: Wine Country",
+    "alt": "Pinot Noir grapes at Archery Summit in the Willamette Valley wine region of Dundee Hills",
+    "date": "2008-09-12 18:08:45",
+    "primary": true,
+    "sha256": "2ca6b806160344f9049c2bc15cf5bbb7a9612970588afbcc7fa68bf8491ec595"
+   },
    "tag_facts": [],
    "recognition_facts": [
     {
@@ -4665,6 +4944,23 @@
    },
    "confidence": "medium",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "mornington-peninsula/mornington-peninsula-csiro-scienceimage-1982-pinot-noir-vines-at-the-main-aa1ee67.jpg",
+     "source": "commons",
+     "title": "File:CSIRO ScienceImage 1982 Pinot Noir vines at the Main Ridge Estate.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CSIRO_ScienceImage_1982_Pinot_Noir_vines_at_the_Main_Ridge_Estate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ACSIRO_ScienceImage_1982_Pinot_Noir_vines_at_the_Main_Ridge_Estate.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": ", CSIRO",
+     "credit": "http://www.scienceimage.csiro.au/image/1982",
+     "alt": "Pinot Noir vines at the Main Ridge Estate vineyard, Mornington Peninsula Victoria, Australia.",
+     "date": "",
+     "primary": true,
+     "sha256": "b0c2edd4fb4ceeee5d6cd9a274aa2023758a28d9b2db44446bd2095f93f2ac4e"
+    }
+   ],
    "blurb": "An hour south of Melbourne with sea on three sides. Maritime, cool, and cut into small holdings — vineyards here are measured in a few hectares, not a few hundred.",
    "region_terms": [
     {
@@ -4726,7 +5022,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "mornington-peninsula/mornington-peninsula-csiro-scienceimage-1982-pinot-noir-vines-at-the-main-aa1ee67.jpg",
+    "source": "commons",
+    "title": "File:CSIRO ScienceImage 1982 Pinot Noir vines at the Main Ridge Estate.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CSIRO_ScienceImage_1982_Pinot_Noir_vines_at_the_Main_Ridge_Estate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ACSIRO_ScienceImage_1982_Pinot_Noir_vines_at_the_Main_Ridge_Estate.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "author": ", CSIRO",
+    "credit": "http://www.scienceimage.csiro.au/image/1982",
+    "alt": "Pinot Noir vines at the Main Ridge Estate vineyard, Mornington Peninsula Victoria, Australia.",
+    "date": "",
+    "primary": true,
+    "sha256": "b0c2edd4fb4ceeee5d6cd9a274aa2023758a28d9b2db44446bd2095f93f2ac4e"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -5052,6 +5362,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "russian-river-valley/russian-river-valley-russian-river-valley-vineyard-in-autumn.jpg",
+     "source": "commons",
+     "title": "File:Russian River Valley Vineyard in autumn.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Russian_River_Valley_Vineyard_in_autumn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARussian_River_Valley_Vineyard_in_autumn.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "GoodWineUnder20",
+     "credit": "originally posted to Flickr as Russian River Valley Walk, Wine Bloggers Conference",
+     "alt": "Vineyards in the California wine region of the Russian River Valley in Sonoma",
+     "date": "Taken on 24 October 2008, 22:46:30",
+     "primary": true,
+     "sha256": "cda455eba61700945b113954b1a4c6662d1141c5635ad394c7e64e7e7032a6de"
+    }
+   ],
    "blurb": "Fog runs up the river gap from the Pacific most summer nights and sits until mid-morning. Sonoma planted pinot noir into that fog and the plantings tripled in a decade.",
    "region_terms": [
     {
@@ -5128,7 +5455,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "russian-river-valley/russian-river-valley-russian-river-valley-vineyard-in-autumn.jpg",
+    "source": "commons",
+    "title": "File:Russian River Valley Vineyard in autumn.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Russian_River_Valley_Vineyard_in_autumn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ARussian_River_Valley_Vineyard_in_autumn.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "GoodWineUnder20",
+    "credit": "originally posted to Flickr as Russian River Valley Walk, Wine Bloggers Conference",
+    "alt": "Vineyards in the California wine region of the Russian River Valley in Sonoma",
+    "date": "Taken on 24 October 2008, 22:46:30",
+    "primary": true,
+    "sha256": "cda455eba61700945b113954b1a4c6662d1141c5635ad394c7e64e7e7032a6de"
+   },
    "tag_facts": [],
    "recognition_facts": [
     {
@@ -6552,6 +6893,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "willamette-valley/willamette-valley-vineyard-in-willamette-valley.jpg",
+     "source": "commons",
+     "title": "File:Vineyard in Willamette Valley.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Vineyard_in_Willamette_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AVineyard_in_Willamette_Valley.jpg",
+     "license": "CC BY-SA 2.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+     "author": "David Burn",
+     "credit": "Flickr: IMG_6185",
+     "alt": "Vineyard in the Oregon wine region of Willamette Valley",
+     "date": "2009-10-11 01:25:26",
+     "primary": true,
+     "sha256": "d3dffc146921275c4bda74945e3b2ee2dd1ec3952f319277e5599c0f8cc63ce2"
+    }
+   ],
    "blurb": "Three and a half million acres of Oregon between the Coast Range and the Cascades, of which a thin band of hillside grows pinot noir. Eleven AVAs now sit inside it.",
    "region_terms": [
     {
@@ -6666,7 +7024,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "willamette-valley/willamette-valley-vineyard-in-willamette-valley.jpg",
+    "source": "commons",
+    "title": "File:Vineyard in Willamette Valley.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Vineyard_in_Willamette_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AVineyard_in_Willamette_Valley.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "David Burn",
+    "credit": "Flickr: IMG_6185",
+    "alt": "Vineyard in the Oregon wine region of Willamette Valley",
+    "date": "2009-10-11 01:25:26",
+    "primary": true,
+    "sha256": "d3dffc146921275c4bda74945e3b2ee2dd1ec3952f319277e5599c0f8cc63ce2"
+   },
    "tag_facts": [],
    "recognition_facts": [
     {
@@ -7358,6 +7730,23 @@
    ],
    "confidence": "medium",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "chambertin/chambertin-vineyards-gevrey-chambertin.jpg",
+     "source": "commons",
+     "title": "File:Vineyards Gevrey-Chambertin.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Vineyards_Gevrey-Chambertin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AVineyards_Gevrey-Chambertin.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Urban",
+     "credit": "Own work",
+     "alt": "Vignoble de Gevrey-Chambertin, Bourgogne, France.",
+     "date": "2006-07-26",
+     "primary": true,
+     "sha256": "f097f01d340677dd49c9c502a101779e111e2ab07a2cd659ad4b7a4a69485dae"
+    }
+   ],
    "blurb": "Gevrey's grand cru on the mid-slope, and the name the village bolted onto its own in 1847 — the first commune in Burgundy to do it, and the start of every double-barrelled name on the Côte.",
    "region_terms": [
     {
@@ -7419,7 +7808,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "chambertin/chambertin-vineyards-gevrey-chambertin.jpg",
+    "source": "commons",
+    "title": "File:Vineyards Gevrey-Chambertin.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Vineyards_Gevrey-Chambertin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AVineyards_Gevrey-Chambertin.jpg",
+    "license": "Public domain",
+    "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+    "author": "Urban",
+    "credit": "Own work",
+    "alt": "Vignoble de Gevrey-Chambertin, Bourgogne, France.",
+    "date": "2006-07-26",
+    "primary": true,
+    "sha256": "f097f01d340677dd49c9c502a101779e111e2ab07a2cd659ad4b7a4a69485dae"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -7514,6 +7917,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "clos-de-vougeot/clos-de-vougeot-chateau-du-clos-de-vougeot-4.jpg",
+     "source": "commons",
+     "title": "File:Chateau du clos de Vougeot 4.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Chateau_du_clos_de_Vougeot_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChateau_du_clos_de_Vougeot_4.JPG",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Arnaud 25",
+     "credit": "Own work",
+     "alt": "Clos Vougeot",
+     "date": "2006-10-20",
+     "primary": true,
+     "sha256": "2468c26df36ef2740c64afa369f862c33295d0f215629f0d96e2fa9a6a1507d5"
+    }
+   ],
    "blurb": "Fifty hectares behind a wall the Cistercians of Cîteaux built, and more than eighty owners inside it. One name on every label, and a slope that runs from grand cru ground at the top to heavy clay by the road.",
    "region_terms": [
     {
@@ -7575,7 +7995,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "clos-de-vougeot/clos-de-vougeot-chateau-du-clos-de-vougeot-4.jpg",
+    "source": "commons",
+    "title": "File:Chateau du clos de Vougeot 4.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Chateau_du_clos_de_Vougeot_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AChateau_du_clos_de_Vougeot_4.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Arnaud 25",
+    "credit": "Own work",
+    "alt": "Clos Vougeot",
+    "date": "2006-10-20",
+    "primary": true,
+    "sha256": "2468c26df36ef2740c64afa369f862c33295d0f215629f0d96e2fa9a6a1507d5"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -7668,6 +8102,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "corton/corton-corton-hill-nov-2009.jpg",
+     "source": "commons",
+     "title": "File:Corton hill Nov 2009.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Corton_hill_Nov_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ACorton_hill_Nov_2009.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Tomas er",
+     "credit": "Own work",
+     "alt": "The Corton hill as seen from southwest (by D18 road at les Basses Vergelesses). Most of the vineyards on the hill are in the Corton climats of le Charlemagne (left) and les Pougets (right), both in Al",
+     "date": "2009-11-02",
+     "primary": true,
+     "sha256": "28154396cb9e798b14c67ac3976ee74fb455aa2134ba19e7b2c600d7bcc8500a"
+    }
+   ],
    "blurb": "The hill above Aloxe, and Burgundy's largest grand cru: 95 hectares in production, nearly all of it red, and the only red grand cru on the Côte de Beaune.",
    "region_terms": [
     {
@@ -7719,7 +8170,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "corton/corton-corton-hill-nov-2009.jpg",
+    "source": "commons",
+    "title": "File:Corton hill Nov 2009.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Corton_hill_Nov_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ACorton_hill_Nov_2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Tomas er",
+    "credit": "Own work",
+    "alt": "The Corton hill as seen from southwest (by D18 road at les Basses Vergelesses). Most of the vineyards on the hill are in the Corton climats of le Charlemagne (left) and les Pougets (right), both in Al",
+    "date": "2009-11-02",
+    "primary": true,
+    "sha256": "28154396cb9e798b14c67ac3976ee74fb455aa2134ba19e7b2c600d7bcc8500a"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -7987,6 +8452,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "musigny/musigny-village-et-vignes-de-chambolle-musigny-c-te-d-or-06.jpg",
+     "source": "commons",
+     "title": "File:Village et vignes de Chambolle-Musigny (Côte-d'Or) 06.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Village_et_vignes_de_Chambolle-Musigny_%28C%C3%B4te-d%27Or%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AVillage_et_vignes_de_Chambolle-Musigny_%28C%C3%B4te-d%27Or%29_06.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Jean de l'Auxois",
+     "credit": "Own work",
+     "alt": "Village et vignes de Chambolle-Musigny, Côte-d'Or.",
+     "date": "2022-05-21 10:33:42",
+     "primary": true,
+     "sha256": "d67db2af77c2a469219cf730c6f716fcd3768733d1741d56df9cd6079a9a3eaf"
+    }
+   ],
    "blurb": "Ten hectares above Chambolle, the one grand cru of the Côte de Nuits that also makes a white — about two thirds of a hectare of it.",
    "region_terms": [
     {
@@ -8038,7 +8520,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "musigny/musigny-village-et-vignes-de-chambolle-musigny-c-te-d-or-06.jpg",
+    "source": "commons",
+    "title": "File:Village et vignes de Chambolle-Musigny (Côte-d'Or) 06.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Village_et_vignes_de_Chambolle-Musigny_%28C%C3%B4te-d%27Or%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AVillage_et_vignes_de_Chambolle-Musigny_%28C%C3%B4te-d%27Or%29_06.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": "Jean de l'Auxois",
+    "credit": "Own work",
+    "alt": "Village et vignes de Chambolle-Musigny, Côte-d'Or.",
+    "date": "2022-05-21 10:33:42",
+    "primary": true,
+    "sha256": "d67db2af77c2a469219cf730c6f716fcd3768733d1741d56df9cd6079a9a3eaf"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -8277,6 +8773,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "romanee-conti/romanee-conti-roman-e-conti-vineyard.jpg",
+     "source": "commons",
+     "title": "File:Romanée-Conti vineyard.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Roman%C3%A9e-Conti_vineyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARoman%C3%A9e-Conti_vineyard.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "Andrea Schaffer",
+     "credit": "Flickr: Romanée-Conti vineyard",
+     "alt": "Exterior wall to the Grand Cru Burgundy vineyard in the cote de nuit wine region of France",
+     "date": "Taken on 20 July 2010, 10:31:38",
+     "primary": true,
+     "sha256": "875c962a48711f2ff2d3376015c10ec7142919a8eea3a330fef3f12397316ec0"
+    }
+   ],
    "blurb": "Under two hectares of Vosne-Romanée hillside, held by one owner, producing about 3,500 bottles a year. No other patch of ground in wine carries this much argument per square metre.",
    "region_terms": [
     {
@@ -8353,7 +8866,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "romanee-conti/romanee-conti-roman-e-conti-vineyard.jpg",
+    "source": "commons",
+    "title": "File:Romanée-Conti vineyard.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Roman%C3%A9e-Conti_vineyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ARoman%C3%A9e-Conti_vineyard.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Andrea Schaffer",
+    "credit": "Flickr: Romanée-Conti vineyard",
+    "alt": "Exterior wall to the Grand Cru Burgundy vineyard in the cote de nuit wine region of France",
+    "date": "Taken on 20 July 2010, 10:31:38",
+    "primary": true,
+    "sha256": "875c962a48711f2ff2d3376015c10ec7142919a8eea3a330fef3f12397316ec0"
+   },
    "tag_facts": [
     {
      "key": "monopole",
@@ -9526,6 +10053,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "drc/drc-domaine-de-la-roman-e-conti-7309836076.jpg",
+     "source": "commons",
+     "title": "File:Domaine de la Romanée-Conti (7309836076).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Domaine_de_la_Roman%C3%A9e-Conti_%287309836076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ADomaine_de_la_Roman%C3%A9e-Conti_%287309836076%29.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "Michal Osmenda from Brussels, Belgium",
+     "credit": "Domaine de la Romanée-Conti",
+     "alt": "Domaine de la Romanée-Conti",
+     "date": "2012-05-26 11:55",
+     "primary": true,
+     "sha256": "ee68c183f468d31c9e6258edfbdc6d8476316d002d2c3e21262bcae29bc77b1c"
+    }
+   ],
    "blurb": "The Vosne-Romanée domaine that owns Romanée-Conti and La Tâche outright and holds pieces of Richebourg, Échezeaux, Grands Échezeaux, Romanée-Saint-Vivant and Montrachet.",
    "region_terms": [
     {
@@ -9605,7 +10149,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "drc/drc-domaine-de-la-roman-e-conti-7309836076.jpg",
+    "source": "commons",
+    "title": "File:Domaine de la Romanée-Conti (7309836076).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Domaine_de_la_Roman%C3%A9e-Conti_%287309836076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ADomaine_de_la_Roman%C3%A9e-Conti_%287309836076%29.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Michal Osmenda from Brussels, Belgium",
+    "credit": "Domaine de la Romanée-Conti",
+    "alt": "Domaine de la Romanée-Conti",
+    "date": "2012-05-26 11:55",
+    "primary": true,
+    "sha256": "ee68c183f468d31c9e6258edfbdc6d8476316d002d2c3e21262bcae29bc77b1c"
+   },
    "tag_facts": [
     {
      "key": "no-visits",
@@ -12337,6 +12895,23 @@
    },
    "confidence": "medium",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "hand-harvest/hand-harvest-hand-harvesting-in-the-vaucluse.jpg",
+     "source": "commons",
+     "title": "File:Hand harvesting in the Vaucluse.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hand_harvesting_in_the_Vaucluse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AHand_harvesting_in_the_Vaucluse.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "Steven Verbruggen",
+     "credit": "Flickr: Real wine pickers",
+     "alt": "Harvesting wine grapes in the French wine region of the Vaucluse",
+     "date": "2008-09-08 14:25:34",
+     "primary": true,
+     "sha256": "660ad9c43cac3470d9f69ce26723369a218efa3257fe181f228126796b6e3d10"
+    }
+   ],
    "blurb": "Picking into small crates by hand, so the bunch arrives whole and the cellar decides what to do with it.",
    "region_terms": [
     {
@@ -12381,7 +12956,21 @@
      "tier": "tradition"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "hand-harvest/hand-harvest-hand-harvesting-in-the-vaucluse.jpg",
+    "source": "commons",
+    "title": "File:Hand harvesting in the Vaucluse.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hand_harvesting_in_the_Vaucluse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AHand_harvesting_in_the_Vaucluse.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Steven Verbruggen",
+    "credit": "Flickr: Real wine pickers",
+    "alt": "Harvesting wine grapes in the French wine region of the Vaucluse",
+    "date": "2008-09-08 14:25:34",
+    "primary": true,
+    "sha256": "660ad9c43cac3470d9f69ce26723369a218efa3257fe181f228126796b6e3d10"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -12562,6 +13151,23 @@
    },
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "malolactic/malolactic-cave-de-bourgogne.jpg",
+     "source": "commons",
+     "title": "File:Cave de Bourgogne.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cave_de_Bourgogne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ACave_de_Bourgogne.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Arnaud 25",
+     "credit": "Own work",
+     "alt": "Wine cellar in Burgundy",
+     "date": "",
+     "primary": true,
+     "sha256": "deae580843d82bce5113f833103da1bb6ef792bcaba02bd136db74ff9f3c5ebf"
+    }
+   ],
    "blurb": "A bacterial conversion, not a yeast one: lactic acid bacteria turn sharp malic acid into softer lactic acid and let off CO₂. Nearly every red pinot noir goes through it.",
    "region_terms": [
     {
@@ -12607,7 +13213,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "malolactic/malolactic-cave-de-bourgogne.jpg",
+    "source": "commons",
+    "title": "File:Cave de Bourgogne.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cave_de_Bourgogne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ACave_de_Bourgogne.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Arnaud 25",
+    "credit": "Own work",
+    "alt": "Wine cellar in Burgundy",
+    "date": "",
+    "primary": true,
+    "sha256": "deae580843d82bce5113f833103da1bb6ef792bcaba02bd136db74ff9f3c5ebf"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -12976,6 +13596,23 @@
    },
    "confidence": "medium",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "neutral-oak/neutral-oak-wine-cave-in-burgundy.jpg",
+     "source": "commons",
+     "title": "File:Wine cave in Burgundy.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wine_cave_in_Burgundy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWine_cave_in_Burgundy.jpg",
+     "license": "CC BY-SA 2.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+     "author": "Philip Larson",
+     "credit": "originally posted to Flickr as DSC02022",
+     "alt": "Wine cave containing aging oak barrels of wine in the French region of Burgundy",
+     "date": "2008-08-11 09:12:52",
+     "primary": true,
+     "sha256": "bbf8796232d9454717e753eb9f2c5914c874aaa3d5b51fc82b887ad0b216006e"
+    }
+   ],
    "blurb": "A barrel that has already given up its flavour — third use, fourth, older. It still lets oxygen through the staves and still shapes texture; it just stops tasting of the forest.",
    "region_terms": [
     {
@@ -13037,7 +13674,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "neutral-oak/neutral-oak-wine-cave-in-burgundy.jpg",
+    "source": "commons",
+    "title": "File:Wine cave in Burgundy.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wine_cave_in_Burgundy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AWine_cave_in_Burgundy.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Philip Larson",
+    "credit": "originally posted to Flickr as DSC02022",
+    "alt": "Wine cave containing aging oak barrels of wine in the French region of Burgundy",
+    "date": "2008-08-11 09:12:52",
+    "primary": true,
+    "sha256": "bbf8796232d9454717e753eb9f2c5914c874aaa3d5b51fc82b887ad0b216006e"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -13538,6 +14189,23 @@
    },
    "confidence": "medium",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "coq-au-vin/coq-au-vin-coq-au-vin.jpg",
+     "source": "commons",
+     "title": "File:Coq au vin.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Coq_au_vin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ACoq_au_vin.jpg",
+     "license": "CC BY 2.5",
+     "license_url": "https://creativecommons.org/licenses/by/2.5/",
+     "author": "MattHucke at en.wikipedia",
+     "credit": "Own work",
+     "alt": "Coq au vin, awaiting cooking.",
+     "date": "7 April 2007 (original upload date)",
+     "primary": true,
+     "sha256": "16c2988f2385b1662e164f88982e87c1ddf00f201dcdf0a7f909d397f250db35"
+    }
+   ],
    "blurb": "A tough old bird braised in red wine, lardons, mushrooms and onions, thickened with its own blood in the oldest versions. Burgundy cooks it in Burgundy and drinks the same wine with it.",
    "region_terms": [
     {
@@ -13590,7 +14258,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "coq-au-vin/coq-au-vin-coq-au-vin.jpg",
+    "source": "commons",
+    "title": "File:Coq au vin.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Coq_au_vin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ACoq_au_vin.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "author": "MattHucke at en.wikipedia",
+    "credit": "Own work",
+    "alt": "Coq au vin, awaiting cooking.",
+    "date": "7 April 2007 (original upload date)",
+    "primary": true,
+    "sha256": "16c2988f2385b1662e164f88982e87c1ddf00f201dcdf0a7f909d397f250db35"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -13643,6 +14325,23 @@
    },
    "confidence": "medium",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "duck/duck-duck-dish-walluf.jpg",
+     "source": "commons",
+     "title": "File:Duck dish, Walluf.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Duck_dish%2C_Walluf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ADuck_dish%2C_Walluf.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Gerda Arendt",
+     "credit": "Own work",
+     "alt": "Roasted duck with chestnuts and dumplings, served at Restaurant Agathes, Walluf",
+     "date": "2022-03-06",
+     "primary": true,
+     "sha256": "d67a1e8e70a755e819d57edaa4d9d3d14a8cab4f42853ceff80fc27f62afed69"
+    }
+   ],
    "blurb": "The pairing pinot noir gets asked about most: dark meat, a thick fat cap, and enough savoury weight to meet a wine with little tannin.",
    "region_terms": [
     {
@@ -13711,7 +14410,21 @@
      "tier": "tradition"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "duck/duck-duck-dish-walluf.jpg",
+    "source": "commons",
+    "title": "File:Duck dish, Walluf.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Duck_dish%2C_Walluf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ADuck_dish%2C_Walluf.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": "Gerda Arendt",
+    "credit": "Own work",
+    "alt": "Roasted duck with chestnuts and dumplings, served at Restaurant Agathes, Walluf",
+    "date": "2022-03-06",
+    "primary": true,
+    "sha256": "d67a1e8e70a755e819d57edaa4d9d3d14a8cab4f42853ceff80fc27f62afed69"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -13772,6 +14485,23 @@
    },
    "confidence": "medium",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "mushrooms/mushrooms-edible-fungi-in-basket-2009-g1.jpg",
+     "source": "commons",
+     "title": "File:Edible fungi in basket 2009 G1.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edible_fungi_in_basket_2009_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AEdible_fungi_in_basket_2009_G1.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "George Chernilevsky",
+     "credit": "Own work",
+     "alt": "Picked edible fungi in basket. Cep (Boletus edulis and Boletus reticulatus), golden chanterelle Cantharellus cibarius, Xerocomus chrysenteron, Xerocomus subtomentosus and Russula vesca. Trophies of a ",
+     "date": "2009-07-11",
+     "primary": true,
+     "sha256": "75bdf31ee2ca373f960acd1c62a68980e85b7a26cff2bd96f5789b90c85f01ad"
+    }
+   ],
    "blurb": "The flavour bridge: older pinot noir picks up a forest-floor smell, and a plate of fungi meets it head on. Glutamates in the mushroom read as savoury, which is the same register a mature bottle moves into.",
    "region_terms": [
     {
@@ -13843,7 +14573,21 @@
      "tier": "tradition"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "mushrooms/mushrooms-edible-fungi-in-basket-2009-g1.jpg",
+    "source": "commons",
+    "title": "File:Edible fungi in basket 2009 G1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edible_fungi_in_basket_2009_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AEdible_fungi_in_basket_2009_G1.jpg",
+    "license": "Public domain",
+    "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+    "author": "George Chernilevsky",
+    "credit": "Own work",
+    "alt": "Picked edible fungi in basket. Cep (Boletus edulis and Boletus reticulatus), golden chanterelle Cantharellus cibarius, Xerocomus chrysenteron, Xerocomus subtomentosus and Russula vesca. Trophies of a ",
+    "date": "2009-07-11",
+    "primary": true,
+    "sha256": "75bdf31ee2ca373f960acd1c62a68980e85b7a26cff2bd96f5789b90c85f01ad"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -14055,6 +14799,23 @@
    },
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "red-oak/red-oak-quercus-agrifolia-6.jpg",
+     "source": "commons",
+     "title": "File:Quercus agrifolia-6.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Quercus_agrifolia-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AQuercus_agrifolia-6.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Eugene Zelenko",
+     "credit": "Own work",
+     "alt": "Coast Live Oak",
+     "date": "2009-03-29",
+     "primary": true,
+     "sha256": "ec28d1441af4139e70eb7ceae8760290e6a3d27d25cd6fc71f63cd82276fddce"
+    }
+   ],
    "blurb": "The wood the whole style rests on. In Santa Maria, red oak means coast live oak — Quercus agrifolia — which grows on the hills around the valley and burns down to hot, steady coals without throwing much smoke.",
    "region_terms": [
     {
@@ -14123,7 +14884,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "red-oak/red-oak-quercus-agrifolia-6.jpg",
+    "source": "commons",
+    "title": "File:Quercus agrifolia-6.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Quercus_agrifolia-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AQuercus_agrifolia-6.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": "Eugene Zelenko",
+    "credit": "Own work",
+    "alt": "Coast Live Oak",
+    "date": "2009-03-29",
+    "primary": true,
+    "sha256": "ec28d1441af4139e70eb7ceae8760290e6a3d27d25cd6fc71f63cd82276fddce"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -14191,6 +14966,23 @@
    },
    "confidence": "medium",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "salmon/salmon-grilled-plated-salmon-fillet.jpg",
+     "source": "commons",
+     "title": "File:Grilled plated salmon fillet.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Grilled_plated_salmon_fillet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AGrilled_plated_salmon_fillet.jpg",
+     "license": "CC0 1.0",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "author": "DanaTentis",
+     "credit": "https://pixabay.com/photos/salmon-fish-grilled-fish-grill-1485014/",
+     "alt": "A grilled, plated salmon fillet",
+     "date": "2016-06-29",
+     "primary": true,
+     "sha256": "344855a6702ef1fa9e5fd437cd6556ff8eac82e7d8dad53fad9de4b7086d80c5"
+    }
+   ],
    "blurb": "A fish oily enough to take a red wine, and in Oregon the pairing is local logic rather than theory — the fish and the pinot come from the same watershed.",
    "region_terms": [
     {
@@ -14259,7 +15051,21 @@
      "tier": "tradition"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "salmon/salmon-grilled-plated-salmon-fillet.jpg",
+    "source": "commons",
+    "title": "File:Grilled plated salmon fillet.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Grilled_plated_salmon_fillet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AGrilled_plated_salmon_fillet.jpg",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "DanaTentis",
+    "credit": "https://pixabay.com/photos/salmon-fish-grilled-fish-grill-1485014/",
+    "alt": "A grilled, plated salmon fillet",
+    "date": "2016-06-29",
+    "primary": true,
+    "sha256": "344855a6702ef1fa9e5fd437cd6556ff8eac82e7d8dad53fad9de4b7086d80c5"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -14553,6 +15359,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "santa-maria-tri-tip/santa-maria-tri-tip-santamaria-stylebbq.jpg",
+     "source": "commons",
+     "title": "File:SantaMaria-StyleBBQ.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/SantaMaria-StyleBBQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ASantaMaria-StyleBBQ.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "Eugene Kim from San Francisco, USA",
+     "credit": "Santa Maria-Style BBQ",
+     "alt": "Santa Maria-style barbecue: Tri-tip with salsa, pink beans (can't get pinquitos outside of Santa Maria), salad, and garlic bread. Would have been nice if the meat were rarer, but it was still deliciou",
+     "date": "2007-07-04 12:11",
+     "primary": true,
+     "sha256": "d9b375372d89e4db7f83801718d69d71bd32d7012ad6ead2a9e8ac19a90253ae"
+    }
+   ],
    "blurb": "A triangular two-to-five-pound piece of bottom sirloin, rolled in salt, pepper and garlic, grilled over red oak coals to medium-rare and sliced across the grain.",
    "region_terms": [
     {
@@ -14686,7 +15509,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "santa-maria-tri-tip/santa-maria-tri-tip-santamaria-stylebbq.jpg",
+    "source": "commons",
+    "title": "File:SantaMaria-StyleBBQ.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/SantaMaria-StyleBBQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ASantaMaria-StyleBBQ.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Eugene Kim from San Francisco, USA",
+    "credit": "Santa Maria-Style BBQ",
+    "alt": "Santa Maria-style barbecue: Tri-tip with salsa, pink beans (can't get pinquitos outside of Santa Maria), salad, and garlic bread. Would have been nice if the meat were rarer, but it was still deliciou",
+    "date": "2007-07-04 12:11",
+    "primary": true,
+    "sha256": "d9b375372d89e4db7f83801718d69d71bd32d7012ad6ead2a9e8ac19a90253ae"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -17008,6 +17845,23 @@
    },
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "hospices-de-beaune/hospices-de-beaune-beaune-h-tel-dieu-cour-01.jpg",
+     "source": "commons",
+     "title": "File:Beaune - Hôtel-Dieu - Cour - 01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Beaune_-_H%C3%B4tel-Dieu_-_Cour_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ABeaune_-_H%C3%B4tel-Dieu_-_Cour_-_01.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Benjamin Smith",
+     "credit": "Own work",
+     "alt": "Beaune (Côte-d'Or, France) - Hôtel-Dieu (former hospital) - Courtyard - The glazed tiles roof",
+     "date": "2025-08-07",
+     "primary": true,
+     "sha256": "96dad483efe8a7b3f719fdd06fafee1a4857e20b59ff482283c77d740e9f9d51"
+    }
+   ],
    "blurb": "A charitable hospital founded in 1443 that has been given vineyard land for five and a half centuries and sells the wine at auction every November to pay for the medicine.",
    "region_terms": [
     {
@@ -17072,7 +17926,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "hospices-de-beaune/hospices-de-beaune-beaune-h-tel-dieu-cour-01.jpg",
+    "source": "commons",
+    "title": "File:Beaune - Hôtel-Dieu - Cour - 01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Beaune_-_H%C3%B4tel-Dieu_-_Cour_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ABeaune_-_H%C3%B4tel-Dieu_-_Cour_-_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": "Benjamin Smith",
+    "credit": "Own work",
+    "alt": "Beaune (Côte-d'Or, France) - Hôtel-Dieu (former hospital) - Courtyard - The glazed tiles roof",
+    "date": "2025-08-07",
+    "primary": true,
+    "sha256": "96dad483efe8a7b3f719fdd06fafee1a4857e20b59ff482283c77d740e9f9d51"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -19522,6 +20390,23 @@
    },
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "spatburgunder/spatburgunder-traube-des-blauen-sp-tburgunders.jpg",
+     "source": "commons",
+     "title": "File:Traube des blauen Spätburgunders.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Traube_des_blauen_Sp%C3%A4tburgunders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ATraube_des_blauen_Sp%C3%A4tburgunders.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Wladyslaw",
+     "credit": "Own work (Original text: selbst erstellt)",
+     "alt": "Trauben und Blätter des blauen Spätburgunders",
+     "date": "2008-08-30",
+     "primary": true,
+     "sha256": "95a7077ed9f281702a24b1a6bddee780f2b075cb965255c9431fbe4a0cf20503"
+    }
+   ],
    "blurb": "German for pinot noir, and a name that carries an argument: 'late Burgundian', against the früh — early — one that ripens weeks sooner.",
    "region_terms": [
     {
@@ -19584,7 +20469,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "spatburgunder/spatburgunder-traube-des-blauen-sp-tburgunders.jpg",
+    "source": "commons",
+    "title": "File:Traube des blauen Spätburgunders.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Traube_des_blauen_Sp%C3%A4tburgunders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ATraube_des_blauen_Sp%C3%A4tburgunders.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Wladyslaw",
+    "credit": "Own work (Original text: selbst erstellt)",
+    "alt": "Trauben und Blätter des blauen Spätburgunders",
+    "date": "2008-08-30",
+    "primary": true,
+    "sha256": "95a7077ed9f281702a24b1a6bddee780f2b075cb965255c9431fbe4a0cf20503"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,
@@ -21065,6 +21964,23 @@
    ],
    "confidence": "high",
    "updated": "2026-09-16",
+   "images": [
+    {
+     "file": "tri-tip-over-red-oak/tri-tip-over-red-oak-santamaria-stylebbq.jpg",
+     "source": "commons",
+     "title": "File:SantaMaria-StyleBBQ.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/SantaMaria-StyleBBQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ASantaMaria-StyleBBQ.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "Eugene Kim from San Francisco, USA",
+     "credit": "Santa Maria-Style BBQ",
+     "alt": "Santa Maria-style barbecue: Tri-tip with salsa, pink beans (can't get pinquitos outside of Santa Maria), salad, and garlic bread. Would have been nice if the meat were rarer, but it was still deliciou",
+     "date": "2007-07-04 12:11",
+     "primary": true,
+     "sha256": "d9b375372d89e4db7f83801718d69d71bd32d7012ad6ead2a9e8ac19a90253ae"
+    }
+   ],
    "blurb": "One California valley cooks beef over local oak, grows pinot noir on the hills that oak comes off, and rarely puts the two together in the same sentence.",
    "region_terms": [
     {
@@ -21296,7 +22212,21 @@
      "tier": "cited"
     }
    },
-   "primary_image": null,
+   "primary_image": {
+    "file": "tri-tip-over-red-oak/tri-tip-over-red-oak-santamaria-stylebbq.jpg",
+    "source": "commons",
+    "title": "File:SantaMaria-StyleBBQ.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/SantaMaria-StyleBBQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ASantaMaria-StyleBBQ.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Eugene Kim from San Francisco, USA",
+    "credit": "Santa Maria-Style BBQ",
+    "alt": "Santa Maria-style barbecue: Tri-tip with salsa, pink beans (can't get pinquitos outside of Santa Maria), salad, and garlic bread. Would have been nice if the meat were rarer, but it was still deliciou",
+    "date": "2007-07-04 12:11",
+    "primary": true,
+    "sha256": "d9b375372d89e4db7f83801718d69d71bd32d7012ad6ead2a9e8ac19a90253ae"
+   },
    "tag_facts": [],
    "recognition_facts": [],
    "acclaim": 0,

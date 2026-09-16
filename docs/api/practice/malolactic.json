@@ -42,6 +42,23 @@
  },
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "malolactic/malolactic-cave-de-bourgogne.jpg",
+   "source": "commons",
+   "title": "File:Cave de Bourgogne.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cave_de_Bourgogne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ACave_de_Bourgogne.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Arnaud 25",
+   "credit": "Own work",
+   "alt": "Wine cellar in Burgundy",
+   "date": "",
+   "primary": true,
+   "sha256": "deae580843d82bce5113f833103da1bb6ef792bcaba02bd136db74ff9f3c5ebf"
+  }
+ ],
  "blurb": "A bacterial conversion, not a yeast one: lactic acid bacteria turn sharp malic acid into softer lactic acid and let off CO₂. Nearly every red pinot noir goes through it.",
  "region_terms": [
   {
@@ -87,7 +104,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "malolactic/malolactic-cave-de-bourgogne.jpg",
+  "source": "commons",
+  "title": "File:Cave de Bourgogne.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cave_de_Bourgogne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ACave_de_Bourgogne.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Arnaud 25",
+  "credit": "Own work",
+  "alt": "Wine cellar in Burgundy",
+  "date": "",
+  "primary": true,
+  "sha256": "deae580843d82bce5113f833103da1bb6ef792bcaba02bd136db74ff9f3c5ebf"
+ },
  "tag_facts": [],
  "recognition_facts": [],
  "acclaim": 0,

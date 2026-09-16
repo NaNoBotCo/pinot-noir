@@ -72,6 +72,23 @@
  ],
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "drc/drc-domaine-de-la-roman-e-conti-7309836076.jpg",
+   "source": "commons",
+   "title": "File:Domaine de la Romanée-Conti (7309836076).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Domaine_de_la_Roman%C3%A9e-Conti_%287309836076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ADomaine_de_la_Roman%C3%A9e-Conti_%287309836076%29.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "Michal Osmenda from Brussels, Belgium",
+   "credit": "Domaine de la Romanée-Conti",
+   "alt": "Domaine de la Romanée-Conti",
+   "date": "2012-05-26 11:55",
+   "primary": true,
+   "sha256": "ee68c183f468d31c9e6258edfbdc6d8476316d002d2c3e21262bcae29bc77b1c"
+  }
+ ],
  "blurb": "The Vosne-Romanée domaine that owns Romanée-Conti and La Tâche outright and holds pieces of Richebourg, Échezeaux, Grands Échezeaux, Romanée-Saint-Vivant and Montrachet.",
  "region_terms": [
   {
@@ -151,7 +168,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "drc/drc-domaine-de-la-roman-e-conti-7309836076.jpg",
+  "source": "commons",
+  "title": "File:Domaine de la Romanée-Conti (7309836076).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Domaine_de_la_Roman%C3%A9e-Conti_%287309836076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ADomaine_de_la_Roman%C3%A9e-Conti_%287309836076%29.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "author": "Michal Osmenda from Brussels, Belgium",
+  "credit": "Domaine de la Romanée-Conti",
+  "alt": "Domaine de la Romanée-Conti",
+  "date": "2012-05-26 11:55",
+  "primary": true,
+  "sha256": "ee68c183f468d31c9e6258edfbdc6d8476316d002d2c3e21262bcae29bc77b1c"
+ },
  "tag_facts": [
   {
    "key": "no-visits",

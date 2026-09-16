@@ -84,5 +84,22 @@
   }
  ],
  "confidence": "high",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "dundee-hills/dundee-hills-pinot-noir-vineyard-in-the-dundee-hills-ava-of-oregon.jpg",
+   "source": "commons",
+   "title": "File:Pinot noir vineyard in the Dundee hills AVA of Oregon.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pinot_noir_vineyard_in_the_Dundee_hills_AVA_of_Oregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APinot_noir_vineyard_in_the_Dundee_hills_AVA_of_Oregon.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "author": "Luke",
+   "credit": "Flickr: Wine Country",
+   "alt": "Pinot Noir grapes at Archery Summit in the Willamette Valley wine region of Dundee Hills",
+   "date": "2008-09-12 18:08:45",
+   "primary": true,
+   "sha256": "2ca6b806160344f9049c2bc15cf5bbb7a9612970588afbcc7fa68bf8491ec595"
+  }
+ ]
 }

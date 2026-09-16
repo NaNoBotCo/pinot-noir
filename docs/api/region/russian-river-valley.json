@@ -73,6 +73,23 @@
  ],
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "russian-river-valley/russian-river-valley-russian-river-valley-vineyard-in-autumn.jpg",
+   "source": "commons",
+   "title": "File:Russian River Valley Vineyard in autumn.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Russian_River_Valley_Vineyard_in_autumn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARussian_River_Valley_Vineyard_in_autumn.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "GoodWineUnder20",
+   "credit": "originally posted to Flickr as Russian River Valley Walk, Wine Bloggers Conference",
+   "alt": "Vineyards in the California wine region of the Russian River Valley in Sonoma",
+   "date": "Taken on 24 October 2008, 22:46:30",
+   "primary": true,
+   "sha256": "cda455eba61700945b113954b1a4c6662d1141c5635ad394c7e64e7e7032a6de"
+  }
+ ],
  "blurb": "Fog runs up the river gap from the Pacific most summer nights and sits until mid-morning. Sonoma planted pinot noir into that fog and the plantings tripled in a decade.",
  "region_terms": [
   {
@@ -149,7 +166,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "russian-river-valley/russian-river-valley-russian-river-valley-vineyard-in-autumn.jpg",
+  "source": "commons",
+  "title": "File:Russian River Valley Vineyard in autumn.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Russian_River_Valley_Vineyard_in_autumn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ARussian_River_Valley_Vineyard_in_autumn.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "author": "GoodWineUnder20",
+  "credit": "originally posted to Flickr as Russian River Valley Walk, Wine Bloggers Conference",
+  "alt": "Vineyards in the California wine region of the Russian River Valley in Sonoma",
+  "date": "Taken on 24 October 2008, 22:46:30",
+  "primary": true,
+  "sha256": "cda455eba61700945b113954b1a4c6662d1141c5635ad394c7e64e7e7032a6de"
+ },
  "tag_facts": [],
  "recognition_facts": [
   {

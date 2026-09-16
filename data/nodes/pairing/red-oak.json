@@ -50,5 +50,22 @@
   }
  },
  "confidence": "high",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "red-oak/red-oak-quercus-agrifolia-6.jpg",
+   "source": "commons",
+   "title": "File:Quercus agrifolia-6.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Quercus_agrifolia-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AQuercus_agrifolia-6.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Eugene Zelenko",
+   "credit": "Own work",
+   "alt": "Coast Live Oak",
+   "date": "2009-03-29",
+   "primary": true,
+   "sha256": "ec28d1441af4139e70eb7ceae8760290e6a3d27d25cd6fc71f63cd82276fddce"
+  }
+ ]
 }

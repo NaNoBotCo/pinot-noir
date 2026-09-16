@@ -63,6 +63,23 @@
  ],
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "corton/corton-corton-hill-nov-2009.jpg",
+   "source": "commons",
+   "title": "File:Corton hill Nov 2009.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Corton_hill_Nov_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ACorton_hill_Nov_2009.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Tomas er",
+   "credit": "Own work",
+   "alt": "The Corton hill as seen from southwest (by D18 road at les Basses Vergelesses). Most of the vineyards on the hill are in the Corton climats of le Charlemagne (left) and les Pougets (right), both in Al",
+   "date": "2009-11-02",
+   "primary": true,
+   "sha256": "28154396cb9e798b14c67ac3976ee74fb455aa2134ba19e7b2c600d7bcc8500a"
+  }
+ ],
  "blurb": "The hill above Aloxe, and Burgundy's largest grand cru: 95 hectares in production, nearly all of it red, and the only red grand cru on the Côte de Beaune.",
  "region_terms": [
   {
@@ -114,7 +131,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "corton/corton-corton-hill-nov-2009.jpg",
+  "source": "commons",
+  "title": "File:Corton hill Nov 2009.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Corton_hill_Nov_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ACorton_hill_Nov_2009.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Tomas er",
+  "credit": "Own work",
+  "alt": "The Corton hill as seen from southwest (by D18 road at les Basses Vergelesses). Most of the vineyards on the hill are in the Corton climats of le Charlemagne (left) and les Pougets (right), both in Al",
+  "date": "2009-11-02",
+  "primary": true,
+  "sha256": "28154396cb9e798b14c67ac3976ee74fb455aa2134ba19e7b2c600d7bcc8500a"
+ },
  "tag_facts": [],
  "recognition_facts": [],
  "acclaim": 0,

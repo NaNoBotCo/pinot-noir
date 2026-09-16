@@ -78,5 +78,22 @@
   }
  ],
  "confidence": "high",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "clos-de-vougeot/clos-de-vougeot-chateau-du-clos-de-vougeot-4.jpg",
+   "source": "commons",
+   "title": "File:Chateau du clos de Vougeot 4.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Chateau_du_clos_de_Vougeot_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChateau_du_clos_de_Vougeot_4.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Arnaud 25",
+   "credit": "Own work",
+   "alt": "Clos Vougeot",
+   "date": "2006-10-20",
+   "primary": true,
+   "sha256": "2468c26df36ef2740c64afa369f862c33295d0f215629f0d96e2fa9a6a1507d5"
+  }
+ ]
 }

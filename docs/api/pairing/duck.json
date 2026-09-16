@@ -45,6 +45,23 @@
  },
  "confidence": "medium",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "duck/duck-duck-dish-walluf.jpg",
+   "source": "commons",
+   "title": "File:Duck dish, Walluf.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Duck_dish%2C_Walluf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ADuck_dish%2C_Walluf.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Gerda Arendt",
+   "credit": "Own work",
+   "alt": "Roasted duck with chestnuts and dumplings, served at Restaurant Agathes, Walluf",
+   "date": "2022-03-06",
+   "primary": true,
+   "sha256": "d67a1e8e70a755e819d57edaa4d9d3d14a8cab4f42853ceff80fc27f62afed69"
+  }
+ ],
  "blurb": "The pairing pinot noir gets asked about most: dark meat, a thick fat cap, and enough savoury weight to meet a wine with little tannin.",
  "region_terms": [
   {
@@ -113,7 +130,21 @@
    "tier": "tradition"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "duck/duck-duck-dish-walluf.jpg",
+  "source": "commons",
+  "title": "File:Duck dish, Walluf.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Duck_dish%2C_Walluf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ADuck_dish%2C_Walluf.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Gerda Arendt",
+  "credit": "Own work",
+  "alt": "Roasted duck with chestnuts and dumplings, served at Restaurant Agathes, Walluf",
+  "date": "2022-03-06",
+  "primary": true,
+  "sha256": "d67a1e8e70a755e819d57edaa4d9d3d14a8cab4f42853ceff80fc27f62afed69"
+ },
  "tag_facts": [],
  "recognition_facts": [],
  "acclaim": 0,

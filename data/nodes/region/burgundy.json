@@ -119,5 +119,22 @@
   }
  ],
  "confidence": "high",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "burgundy/burgundy-landscape-and-vineyards-in-bourgogne.jpg",
+   "source": "commons",
+   "title": "File:Landscape and vineyards in Bourgogne.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Landscape_and_vineyards_in_Bourgogne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALandscape_and_vineyards_in_Bourgogne.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "author": "tara hunt",
+   "credit": "Flickr: in Bourgogne",
+   "alt": "From author: \"Burgundy region...mostly around the appellations of Chambelle-Musigny and Chambertin, but in and around Dijon, Beaune and area.\"",
+   "date": "2006-09-24 04:15:15",
+   "primary": true,
+   "sha256": "5a5e8a1aecbeeb69891ac94f88fbeb395a76bbca7023b62b441c8c9ba848fe77"
+  }
+ ]
 }

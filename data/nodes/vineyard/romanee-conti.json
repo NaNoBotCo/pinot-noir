@@ -85,5 +85,22 @@
   }
  ],
  "confidence": "high",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "romanee-conti/romanee-conti-roman-e-conti-vineyard.jpg",
+   "source": "commons",
+   "title": "File:Romanée-Conti vineyard.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Roman%C3%A9e-Conti_vineyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARoman%C3%A9e-Conti_vineyard.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "Andrea Schaffer",
+   "credit": "Flickr: Romanée-Conti vineyard",
+   "alt": "Exterior wall to the Grand Cru Burgundy vineyard in the cote de nuit wine region of France",
+   "date": "Taken on 20 July 2010, 10:31:38",
+   "primary": true,
+   "sha256": "875c962a48711f2ff2d3376015c10ec7142919a8eea3a330fef3f12397316ec0"
+  }
+ ]
 }

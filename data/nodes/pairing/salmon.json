@@ -44,5 +44,22 @@
   }
  },
  "confidence": "medium",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "salmon/salmon-grilled-plated-salmon-fillet.jpg",
+   "source": "commons",
+   "title": "File:Grilled plated salmon fillet.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Grilled_plated_salmon_fillet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AGrilled_plated_salmon_fillet.jpg",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "DanaTentis",
+   "credit": "https://pixabay.com/photos/salmon-fish-grilled-fish-grill-1485014/",
+   "alt": "A grilled, plated salmon fillet",
+   "date": "2016-06-29",
+   "primary": true,
+   "sha256": "344855a6702ef1fa9e5fd437cd6556ff8eac82e7d8dad53fad9de4b7086d80c5"
+  }
+ ]
 }

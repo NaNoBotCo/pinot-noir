@@ -63,6 +63,23 @@
  ],
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "musigny/musigny-village-et-vignes-de-chambolle-musigny-c-te-d-or-06.jpg",
+   "source": "commons",
+   "title": "File:Village et vignes de Chambolle-Musigny (Côte-d'Or) 06.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Village_et_vignes_de_Chambolle-Musigny_%28C%C3%B4te-d%27Or%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AVillage_et_vignes_de_Chambolle-Musigny_%28C%C3%B4te-d%27Or%29_06.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Jean de l'Auxois",
+   "credit": "Own work",
+   "alt": "Village et vignes de Chambolle-Musigny, Côte-d'Or.",
+   "date": "2022-05-21 10:33:42",
+   "primary": true,
+   "sha256": "d67db2af77c2a469219cf730c6f716fcd3768733d1741d56df9cd6079a9a3eaf"
+  }
+ ],
  "blurb": "Ten hectares above Chambolle, the one grand cru of the Côte de Nuits that also makes a white — about two thirds of a hectare of it.",
  "region_terms": [
   {
@@ -114,7 +131,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "musigny/musigny-village-et-vignes-de-chambolle-musigny-c-te-d-or-06.jpg",
+  "source": "commons",
+  "title": "File:Village et vignes de Chambolle-Musigny (Côte-d'Or) 06.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Village_et_vignes_de_Chambolle-Musigny_%28C%C3%B4te-d%27Or%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AVillage_et_vignes_de_Chambolle-Musigny_%28C%C3%B4te-d%27Or%29_06.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Jean de l'Auxois",
+  "credit": "Own work",
+  "alt": "Village et vignes de Chambolle-Musigny, Côte-d'Or.",
+  "date": "2022-05-21 10:33:42",
+  "primary": true,
+  "sha256": "d67db2af77c2a469219cf730c6f716fcd3768733d1741d56df9cd6079a9a3eaf"
+ },
  "tag_facts": [],
  "recognition_facts": [],
  "acclaim": 0,

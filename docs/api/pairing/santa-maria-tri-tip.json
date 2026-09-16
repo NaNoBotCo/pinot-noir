@@ -138,6 +138,23 @@
  ],
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "santa-maria-tri-tip/santa-maria-tri-tip-santamaria-stylebbq.jpg",
+   "source": "commons",
+   "title": "File:SantaMaria-StyleBBQ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/SantaMaria-StyleBBQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ASantaMaria-StyleBBQ.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "Eugene Kim from San Francisco, USA",
+   "credit": "Santa Maria-Style BBQ",
+   "alt": "Santa Maria-style barbecue: Tri-tip with salsa, pink beans (can't get pinquitos outside of Santa Maria), salad, and garlic bread. Would have been nice if the meat were rarer, but it was still deliciou",
+   "date": "2007-07-04 12:11",
+   "primary": true,
+   "sha256": "d9b375372d89e4db7f83801718d69d71bd32d7012ad6ead2a9e8ac19a90253ae"
+  }
+ ],
  "blurb": "A triangular two-to-five-pound piece of bottom sirloin, rolled in salt, pepper and garlic, grilled over red oak coals to medium-rare and sliced across the grain.",
  "region_terms": [
   {
@@ -271,7 +288,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "santa-maria-tri-tip/santa-maria-tri-tip-santamaria-stylebbq.jpg",
+  "source": "commons",
+  "title": "File:SantaMaria-StyleBBQ.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/SantaMaria-StyleBBQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ASantaMaria-StyleBBQ.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "author": "Eugene Kim from San Francisco, USA",
+  "credit": "Santa Maria-Style BBQ",
+  "alt": "Santa Maria-style barbecue: Tri-tip with salsa, pink beans (can't get pinquitos outside of Santa Maria), salad, and garlic bread. Would have been nice if the meat were rarer, but it was still deliciou",
+  "date": "2007-07-04 12:11",
+  "primary": true,
+  "sha256": "d9b375372d89e4db7f83801718d69d71bd32d7012ad6ead2a9e8ac19a90253ae"
+ },
  "tag_facts": [],
  "recognition_facts": [],
  "acclaim": 0,

@@ -62,6 +62,23 @@
  },
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "hospices-de-beaune/hospices-de-beaune-beaune-h-tel-dieu-cour-01.jpg",
+   "source": "commons",
+   "title": "File:Beaune - Hôtel-Dieu - Cour - 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Beaune_-_H%C3%B4tel-Dieu_-_Cour_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABeaune_-_H%C3%B4tel-Dieu_-_Cour_-_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Benjamin Smith",
+   "credit": "Own work",
+   "alt": "Beaune (Côte-d'Or, France) - Hôtel-Dieu (former hospital) - Courtyard - The glazed tiles roof",
+   "date": "2025-08-07",
+   "primary": true,
+   "sha256": "96dad483efe8a7b3f719fdd06fafee1a4857e20b59ff482283c77d740e9f9d51"
+  }
+ ],
  "blurb": "A charitable hospital founded in 1443 that has been given vineyard land for five and a half centuries and sells the wine at auction every November to pay for the medicine.",
  "region_terms": [
   {
@@ -126,7 +143,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "hospices-de-beaune/hospices-de-beaune-beaune-h-tel-dieu-cour-01.jpg",
+  "source": "commons",
+  "title": "File:Beaune - Hôtel-Dieu - Cour - 01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Beaune_-_H%C3%B4tel-Dieu_-_Cour_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ABeaune_-_H%C3%B4tel-Dieu_-_Cour_-_01.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Benjamin Smith",
+  "credit": "Own work",
+  "alt": "Beaune (Côte-d'Or, France) - Hôtel-Dieu (former hospital) - Courtyard - The glazed tiles roof",
+  "date": "2025-08-07",
+  "primary": true,
+  "sha256": "96dad483efe8a7b3f719fdd06fafee1a4857e20b59ff482283c77d740e9f9d51"
+ },
  "tag_facts": [],
  "recognition_facts": [],
  "acclaim": 0,

@@ -71,5 +71,22 @@
   }
  ],
  "confidence": "high",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "baden/baden-bickensohl-kaiserstuhl-totenkopf-2004.jpg",
+   "source": "commons",
+   "title": "File:Bickensohl Kaiserstuhl Totenkopf 2004.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bickensohl_Kaiserstuhl_Totenkopf_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABickensohl_Kaiserstuhl_Totenkopf_2004.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Jacquesverlaeken",
+   "credit": "Own work",
+   "alt": "Vineyards below the Totenkopf (556 m) at Bickensohl, Kaiserstuhl, Baden.",
+   "date": "2004-08-06",
+   "primary": true,
+   "sha256": "0b6a43205a3bdb02cfadd774912b9bd542b68c0ec69d16cc9b8ec3bc525bf3b8"
+  }
+ ]
 }

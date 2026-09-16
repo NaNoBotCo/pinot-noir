@@ -76,5 +76,22 @@
   }
  ],
  "confidence": "high",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "central-otago/central-otago-bannockburn-1-central-otago.jpg",
+   "source": "commons",
+   "title": "File:Bannockburn (1), Central Otago.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bannockburn_%281%29%2C_Central_Otago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABannockburn_%281%29%2C_Central_Otago.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "AnnWoolliams",
+   "credit": "Own work",
+   "alt": "Bannockburn, Central Otago, South Island, NZ",
+   "date": "2022-04-21",
+   "primary": true,
+   "sha256": "ae99ba50200fccc3a7448d9f3061da12ce5accd6e2e9c6f2c5630ea26d13d72a"
+  }
+ ]
 }

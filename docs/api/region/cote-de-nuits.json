@@ -81,6 +81,23 @@
  ],
  "confidence": "high",
  "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "cote-de-nuits/cote-de-nuits-weinberg-cote-de-nuits.jpg",
+   "source": "commons",
+   "title": "File:Weinberg Cote de Nuits.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Weinberg_Cote_de_Nuits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWeinberg_Cote_de_Nuits.jpg",
+   "license": "CC BY-SA 2.5",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+   "author": "Stefan Bauer, https://www.ferras.at",
+   "credit": "Own work",
+   "alt": "Vineyard in Côte de Beaune, Burgundy, France",
+   "date": "2005-08-07",
+   "primary": true,
+   "sha256": "9869d51e7d0afe3a5b514ae1f8758a988ca69667b3e3de83495a42d6f9ba29b7"
+  }
+ ],
  "blurb": "Fourteen communes between Dijon and Corgoloin holding 24 of Burgundy's 25 red grand cru appellations. Some of them are tiny — La Romanée covers less than a hectare.",
  "region_terms": [
   {
@@ -166,7 +183,21 @@
    "tier": "cited"
   }
  },
- "primary_image": null,
+ "primary_image": {
+  "file": "cote-de-nuits/cote-de-nuits-weinberg-cote-de-nuits.jpg",
+  "source": "commons",
+  "title": "File:Weinberg Cote de Nuits.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Weinberg_Cote_de_Nuits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AWeinberg_Cote_de_Nuits.jpg",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+  "author": "Stefan Bauer, https://www.ferras.at",
+  "credit": "Own work",
+  "alt": "Vineyard in Côte de Beaune, Burgundy, France",
+  "date": "2005-08-07",
+  "primary": true,
+  "sha256": "9869d51e7d0afe3a5b514ae1f8758a988ca69667b3e3de83495a42d6f9ba29b7"
+ },
  "tag_facts": [],
  "recognition_facts": [],
  "acclaim": 0,

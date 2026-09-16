@@ -67,5 +67,22 @@
   }
  ],
  "confidence": "medium",
- "updated": "2026-09-16"
+ "updated": "2026-09-16",
+ "images": [
+  {
+   "file": "ahr/ahr-vineyard-in-the-ahr-valley-germany.jpg",
+   "source": "commons",
+   "title": "File:Vineyard in the Ahr Valley, Germany.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Vineyard_in_the_Ahr_Valley%2C_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AVineyard_in_the_Ahr_Valley%2C_Germany.jpg",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "1998alexkane",
+   "credit": "Own work",
+   "alt": "vineyard in the Ahr Valley, Germany",
+   "date": "19 November 2023 (according to Exif data",
+   "primary": true,
+   "sha256": "cd2be5efe09af644774ea3d7ed119d97737cfa03ccaeae581019556c2c0ca3e4"
+  }
+ ]
 }
