@@ -1,0 +1,55 @@
+The records in data/ and the pages built from them are licensed
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Parts of this repository are NOT under that licence, and carry their own:
+
+  data/harvest/osm-places.json and every cellar point derived from it, including
+  build/api/cellars.json and docs/api/cellars.json
+      © OpenStreetMap contributors, Open Database Licence 1.0 (share-alike)
+      https://opendatacommons.org/licenses/odbl/1-0/
+
+  data/harvest/ava.json — 27 CFR part 9, American Viticultural Areas
+      a work of the United States government: public domain
+
+  data/harvest/wp/** — plain-text Wikipedia articles, kept as a working corpus
+      CC BY-SA 4.0, each article cited by the revision this project read
+
+  data/geo/** — Natural Earth outlines
+      public domain
+
+  data/images/** and docs/images/**
+      each picture carries its own licence in the .json sidecar beside it and on
+      the page that shows it: CC0, public domain, CC BY, CC BY-SA or the Free Art
+      Licence. None of them is relicensed by this repository.
+
+Recipes copied in full are public domain or CC BY-SA and named on the page.
+Anything still in copyright appears as its ingredient list only — a list of what
+goes into a dish is a fact; somebody's method is not.
+
+The code in tools/ is MIT:
+
+Copyright (c) 2026 NaNoBotCo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+The verbatim text of the licence named above is in LICENSE beside this file.
+The layers on this page are the terms; LICENSE carries the wording a machine
+matches against.
