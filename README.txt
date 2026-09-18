@@ -69,3 +69,13 @@ GEOGRAPHY OF THE REPO
   cards/                        card masters (gitignored; docs/cards/ is published)
   build/                        generated, gitignored
   docs/                         the published build, committed on purpose
+
+
+LICENCE
+Records, prose and pages: CC BY-SA 4.0. Other layers — upstream data,
+pictures, tools — keep their own terms, set out in LICENSE.
+
+COMMERCIAL LICENCE
+If share-alike doesn't fit your use — a corpus, a product, a model — a
+commercial licence is available. Open an issue and say what you need:
+https://github.com/NaNoBotCo/pinot-noir/issues
