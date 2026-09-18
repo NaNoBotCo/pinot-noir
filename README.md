@@ -64,12 +64,12 @@ publish.
 
 ## Licences
 
-Records CC BY-SA 4.0. Cellar points OpenStreetMap, ODbL 1.0. Appellation data public
+Records CC BY 4.0. Cellar points OpenStreetMap, ODbL 1.0. Appellation data public
 domain. Pictures carry their own licence, per file. Code MIT. See `LICENSE`.
 
-**Commercial licence.** If share-alike doesn't fit your use — a corpus, a
-product, a model — a commercial licence is available.
-[Open an issue](https://github.com/NaNoBotCo/pinot-noir/issues) and say what you need.
+**Using it.** Attribution is the whole of the condition — copy it, adapt it,
+sell it, index it, train on it, and say where it came from.
+[Open an issue](https://github.com/NaNoBotCo/pinot-noir/issues) if something is missing.
 
 ---
 
