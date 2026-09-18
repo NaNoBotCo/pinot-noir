@@ -133,7 +133,7 @@ figcaption{font-size:.8rem;color:var(--mute);margin-top:.4rem;font-family:var(--
 .card .thumb{width:100%;aspect-ratio:16/9;object-fit:cover;object-position:80% center;border-radius:9px;margin-bottom:.55rem;display:block;background:var(--chip)}
 .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:.9rem}
 .card a.t{font-family:var(--display);font-weight:700;text-decoration:none;font-size:1.06rem}.card p{margin:.3rem 0 0;font-size:.9rem;color:var(--mute)}
-footer{max-width:66rem;margin:0 auto;padding:1rem;color:var(--mute);font-size:.85rem;border-top:1px solid var(--line);font-family:var(--ui)}.bots a{margin-right:.7rem}.fleet{margin:.6rem 0 0;line-height:1.9}.fleet a{margin-right:.55rem;white-space:nowrap}
+footer{max-width:66rem;margin:0 auto;padding:1rem;color:var(--mute);font-size:.85rem;border-top:1px solid var(--line);font-family:var(--ui)}.bots a{margin-right:.7rem}.support{margin:.45rem 0 0}.support a{margin-right:.5rem}.fleet{margin:.6rem 0 0;line-height:1.9}.fleet a{margin-right:.55rem;white-space:nowrap}
 .btn{display:inline-block;padding:.55rem 1.05rem;border-radius:999px;background:var(--wine);color:#fff;text-decoration:none;font-weight:700;border:2px solid var(--wine);font-family:var(--sign);font-size:.92rem;letter-spacing:.04em}
 .btn.ghost{background:transparent;color:var(--ink);border-color:var(--line)}.btn:hover{color:#fff;filter:brightness(1.1)}.btn.ghost:hover{color:var(--ink);border-color:var(--wine)}
 .cta{display:flex;gap:.6rem;flex-wrap:wrap;margin:.8rem 0}
@@ -213,6 +213,7 @@ def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None 
 <div class="bots">For the machines: <a href="{r}api/nodes.json">nodes.json</a> <a href="{r}api/cellars.json">cellars.json</a> <a href="{r}api/kin.json">kin.json</a> <a href="{r}nodes.jsonl">nodes.jsonl</a> <a href="{r}nodes.csv">nodes.csv</a> <a href="{r}llms-full.txt">llms-full.txt</a> <a href="{r}sitemap.xml">sitemap.xml</a> <a href="{r}feed.xml">feed.xml</a> <a href="{r}api/coverage.json">coverage</a> <a href="{r}api/sources.json">sources</a></div>
 <p>Records licensed <a href="{DATA_LICENSE}">CC BY 4.0</a>. Cellar points from <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, ODbL. Appellation dates from 27 CFR part 9, public domain. Outlines from Natural Earth. Every field says where it came from.</p>
 {fleet.row_html("pinot-noir")}
+{fleet.support_html()}
 </footer>
 </body>
 </html>
