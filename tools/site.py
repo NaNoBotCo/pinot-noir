@@ -214,6 +214,7 @@ def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None 
 <p>Records licensed <a href="{DATA_LICENSE}">CC BY 4.0</a>. Cellar points from <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, ODbL. Appellation dates from 27 CFR part 9, public domain. Outlines from Natural Earth. Every field says where it came from.</p>
 {fleet.row_html("pinot-noir")}
 {fleet.support_html()}
+{fleet.maker_html()}
 </footer>
 </body>
 </html>
