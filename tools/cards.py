@@ -498,6 +498,7 @@ def main(argv: list[str]) -> int:
         "cellars": ("The cellars", "Domaines, wineries and tasting rooms — who presses the fruit, and who lets you in.", "who makes it", allmap, None, None),
         "table": ("At the table", "Tri-tip over red oak, duck, salmon, mushrooms, a washed-rind cheese and a cold cellar.", "what goes beside it", None, None, None),
         "words": ("The words, with their roots", "Climat from the Greek for a slope. Saignée from the verb to bleed. Spätburgunder, the late Burgundian, against the früh one.", "vocabulary", None, None, None),
+        "wander": ("Wander", "A page at random. If nothing happens, pick from the list.", "a page at random", None, None, None),
         "stories": ("The long reads", "How the grape left the hill, what thin skin costs, the numbers on the vine, and one California valley that cooks beef over the same oak it grows pinot beside.", "long reads", None, None, None),
         "coverage": ("Coverage", "The scope as an object: where every row comes from, what each tag needs before it is granted, and what has not been read yet.", "coverage", None, None, None),
         "search": ("Search the directory", "Spätburgunder, blauburgunder, pinot nero — same vine, three spellings, and near spellings are found and said to be near.", "search", None, None, None),
