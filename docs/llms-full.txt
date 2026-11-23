@@ -1196,7 +1196,7 @@ aliases: Sélection massale · Massale
 facets: kind=planting
 region: Burgundy, The world
 what: Taking cuttings from many vines in a block you already trust, instead of ordering one numbered clone from a nursery. You keep the block's variation, and whatever virus it carries.
-how: A grower walks the old block at harvest, marks the vines that ripen well and crop lightly, and grafts from them. The pay-off is diversity inside one vineyard; the risk is leafroll and fanleaf, which is precisely what clonal certification was invented to stop.
+how: A grower walks the old block at harvest, marks the vines that ripen well and crop lightly, and grafts from them. The pay-off is diversity inside one vineyard; the cost is that leafroll and fanleaf travel with the wood, which is precisely what clonal certification was invented to stop.
 - kin → the-dijon-numbers (story): The alternative, and how it won the nursery trade.
 - kin → mount-eden (clone): A selection that travelled this way.
 - kin → abel-clone (clone): And one whose travel was less orthodox.
@@ -1212,7 +1212,7 @@ aliases: Wild ferment · Spontaneous fermentation · Indigenous yeast
 facets: kind=ferment
 region: The world
 what: Letting whatever came in on the fruit and lives in the cellar start the ferment, instead of pitching a selected strain from a packet.
-how: The early work is done by non-Saccharomyces species that die off as alcohol rises; Saccharomyces cerevisiae finishes. The risk is a stuck ferment or a population you did not want; the argument for it is the character those first days leave behind.
+how: The early work is done by non-Saccharomyces species that die off as alcohol rises; Saccharomyces cerevisiae finishes. It can end in a stuck ferment or an unwanted population; the argument for it is the character those first days leave behind.
 - kin → cold-soak (practice): What ends a cold soak, if nobody intervenes.
 - kin → wine-fault-brett (term): The organism that gets blamed when this goes wrong.
 sources: s:wp-yeast-in-winemaking — Yeast in winemaking
@@ -1637,7 +1637,7 @@ how: Imported vines go through quarantine and virus testing before release. That
 address: Davis, CA
 geo: 38.54, -121.75 (street)
 - kin → pommard-ucd4 (clone): Whose number is an FPS number.
-- kin → massale-selection (practice): The alternative, and its risks.
+- kin → massale-selection (practice): The alternative, uncertified, viruses and all.
 - kin → the-dijon-numbers (story): How the catalogue came to exist.
 sources: s:fps-grapes — National Grapevine Registry and the FPS public varieties list; s:wp-foundation-plant-services — Agriculture in California
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
@@ -1829,7 +1829,7 @@ root: Latinised Greek: Brettano- (British) + -myces (fungus) — named in a Carl
 facets: letter=B · kind=cellar
 region: The world
 what: Brettanomyces, a yeast that lives in old barrels and makes phenols people describe as barnyard, plaster or clove. Some drinkers read a little of it as complexity, laboratories read it as spoilage, and pinot noir shows it early because there is so little else in the way.
-- kin → native-yeast (practice): Whose risk this is.
+- kin → native-yeast (practice): The ferment that leaves room for it.
 - kin → neutral-oak (practice): Where it lives, if it lives anywhere.
 sources: s:wp-brettanomyces — Brettanomyces; s:wp-wine-fault — Wine fault
 provenance default: cited · confidence: high · needs_verification: False · updated: 2026-09-16
