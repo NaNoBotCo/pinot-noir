@@ -1,5 +1,5 @@
 {
- "built": "2026-09-23",
+ "built": "2026-11-23",
  "count": 143,
  "nodes": [
   {
@@ -13261,7 +13261,7 @@
    },
    "text": {
     "what": "Taking cuttings from many vines in a block you already trust, instead of ordering one numbered clone from a nursery. You keep the block's variation, and whatever virus it carries.",
-    "how": "A grower walks the old block at harvest, marks the vines that ripen well and crop lightly, and grafts from them. The pay-off is diversity inside one vineyard; the risk is leafroll and fanleaf, which is precisely what clonal certification was invented to stop."
+    "how": "A grower walks the old block at harvest, marks the vines that ripen well and crop lightly, and grafts from them. The pay-off is diversity inside one vineyard; the cost is that leafroll and fanleaf travel with the wood, which is precisely what clonal certification was invented to stop."
    },
    "kin": [
     {
@@ -13422,7 +13422,7 @@
      "from": "fps",
      "type": "org",
      "name": "Foundation Plant Services",
-     "as": "The alternative, and its risks.",
+     "as": "The alternative, uncertified, viruses and all.",
      "rel": "practice"
     },
     {
@@ -13454,7 +13454,7 @@
    },
    "text": {
     "what": "Letting whatever came in on the fruit and lives in the cellar start the ferment, instead of pitching a selected strain from a packet.",
-    "how": "The early work is done by non-Saccharomyces species that die off as alcohol rises; Saccharomyces cerevisiae finishes. The risk is a stuck ferment or a population you did not want; the argument for it is the character those first days leave behind."
+    "how": "The early work is done by non-Saccharomyces species that die off as alcohol rises; Saccharomyces cerevisiae finishes. It can end in a stuck ferment or an unwanted population; the argument for it is the character those first days leave behind."
    },
    "kin": [
     {
@@ -13546,7 +13546,7 @@
      "from": "wine-fault-brett",
      "type": "term",
      "name": "Brett",
-     "as": "Whose risk this is.",
+     "as": "The ferment that leaves room for it.",
      "rel": "kin"
     }
    ]
@@ -17665,7 +17665,7 @@
     },
     {
      "to": "massale-selection",
-     "as": "The alternative, and its risks.",
+     "as": "The alternative, uncertified, viruses and all.",
      "rel": "practice"
     },
     {
@@ -17722,7 +17722,7 @@
      "to": "massale-selection",
      "type": "practice",
      "name": "Massal selection",
-     "as": "The alternative, and its risks.",
+     "as": "The alternative, uncertified, viruses and all.",
      "rel": "practice"
     },
     {
@@ -20817,7 +20817,7 @@
    "kin": [
     {
      "to": "native-yeast",
-     "as": "Whose risk this is.",
+     "as": "The ferment that leaves room for it.",
      "rel": "kin"
     },
     {
@@ -20851,7 +20851,7 @@
      "to": "native-yeast",
      "type": "practice",
      "name": "Native yeast",
-     "as": "Whose risk this is.",
+     "as": "The ferment that leaves room for it.",
      "rel": "kin"
     },
     {
@@ -21951,7 +21951,7 @@
     },
     {
      "h": "So what do you drink with it?",
-     "text": "Start with what the food does, because the food is the harder half.\n\nThe meat is lean, with a fat cap on one side and a salty, charred crust on all of them. It is served medium-rare, so there is blood and iron in it. The salsa is sharp — raw tomato, chilli, onion, celery, vinegar — and it goes on top, not on the side. The beans are earthy and often carry pork. The bread is buttered and grilled. Nothing on the plate is sweet, and nothing is sauced in the barbecue-sauce sense.\n\nNow what pinot noir brings: acid, modest tannin, red fruit, and — in wine from this valley in particular — a savoury, faintly bloody note that sits close to what rare beef already tastes like. *Inference —* the acid is the hinge. A sharp salsa flattens a soft, low-acid red and leaves it tasting of nothing; a wine with acid of its own meets it instead. Iron in rare meat and iron-edged savour in the wine are a match by similarity, which is the same reason duck works.\n\nWhat cuts the other way, and it is a real objection: char and oak smoke are bullies. A delicate bottle can simply lose. Tri-tip is also lean enough to leave tannin unbuffered — there is little fat to soften it — which is an argument against a big tannic red as much as for a small one. *Inference —* the risk with pinot is not tannin, it is scale: a light village wine gets buried, while the denser Santa Maria bottles, with their stem spice and their savour, stand up.\n\nWhat the valley itself pours is a separate question from what theory says, and the sources this project has read do not answer it. The tradition's own literature describes the plate in detail and says nothing about wine. Local steakhouses stock the county's syrah and cabernet as well as its pinot. **This page will not hand down a verdict it cannot source.** What it can say is that the two things came off one piece of ground, and that the ground's cold fog explains both of them."
+     "text": "Start with what the food does, because the food is the harder half.\n\nThe meat is lean, with a fat cap on one side and a salty, charred crust on all of them. It is served medium-rare, so there is blood and iron in it. The salsa is sharp — raw tomato, chilli, onion, celery, vinegar — and it goes on top, not on the side. The beans are earthy and often carry pork. The bread is buttered and grilled. Nothing on the plate is sweet, and nothing is sauced in the barbecue-sauce sense.\n\nNow what pinot noir brings: acid, modest tannin, red fruit, and — in wine from this valley in particular — a savoury, faintly bloody note that sits close to what rare beef already tastes like. *Inference —* the acid is the hinge. A sharp salsa flattens a soft, low-acid red and leaves it tasting of nothing; a wine with acid of its own meets it instead. Iron in rare meat and iron-edged savour in the wine are a match by similarity, which is the same reason duck works.\n\nWhat cuts the other way, and it is a real objection: char and oak smoke are bullies. A delicate bottle can simply lose. Tri-tip is also lean enough to leave tannin unbuffered — there is little fat to soften it — which is an argument against a big tannic red as much as for a small one. *Inference —* the trouble with pinot is not tannin, it is scale: a light village wine gets buried, while the denser Santa Maria bottles, with their stem spice and their savour, stand up.\n\nWhat the valley itself pours is a separate question from what theory says, and the sources this project has read do not answer it. The tradition's own literature describes the plate in detail and says nothing about wine. Local steakhouses stock the county's syrah and cabernet as well as its pinot. **This page will not hand down a verdict it cannot source.** What it can say is that the two things came off one piece of ground, and that the ground's cold fog explains both of them."
     },
     {
      "h": "If you are cooking it",
