@@ -423,7 +423,7 @@
   },
   "tags": {
    "type": "array",
-   "description": "Claims about a cellar or a site that a reader might choose by. Every tag names its evidence; ownership, welcome and certification tags are never inferred.",
+   "description": "Claims about a cellar or a site that a reader might choose by.",
    "items": {
     "type": "object",
     "required": [

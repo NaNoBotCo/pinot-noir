@@ -1,5 +1,5 @@
 {
- "note": "Tag keys a cellar or vineyard record may carry. Each tag names a source. Ownership and welcome tags are never inferred from a name, a photograph or a hunch. A certification tag names the certifier. Tier cited = a named page; harvested = a public register or dataset fetched by a tool; field = someone stood there.",
+ "note": "Tag keys a cellar or vineyard record may carry. Each tag names a source. A certification tag names the certifier. Tier cited = a named page; harvested = a public register or dataset fetched by a tool; field = someone stood there.",
  "entries": [
   {
    "key": "tasting-room",
@@ -146,7 +146,7 @@
    "label": "LGBTQ+ owned",
    "icon": "🏳️‍🌈",
    "group": "welcome",
-   "evidence": "the business's own statement, a directory or press list whose framing says the businesses in it are LGBTQ-owned; never inferred",
+   "evidence": "the business's own statement, a directory or press list whose framing says the businesses in it are LGBTQ-owned",
    "resources": [
     "r:nglcc"
    ]

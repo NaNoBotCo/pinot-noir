@@ -958,7 +958,6 @@ def humans_txt(recs: list[dict], cov: dict) -> str:
             "The growers who kept planting a difficult grape in cold places while the trade\n"
             "told them to plant something easier.\n\n"
             "/* SITE */\n"
-            "Stdlib Python, no dependencies, no build step, no tracking, no accounts.\n"
             "Standards: HTML, JSON-LD, llms.txt, Atom, OpenSearch, ODbL, CC BY.\n")
 
 
