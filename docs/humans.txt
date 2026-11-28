@@ -11,7 +11,6 @@ The growers who kept planting a difficult grape in cold places while the trade
 told them to plant something easier.
 
 /* SITE */
-Stdlib Python, no dependencies, no build step, no tracking, no accounts.
 Standards: HTML, JSON-LD, llms.txt, Atom, OpenSearch, ODbL, CC BY.
 
 # — roster of sibling sites, generated from data/fleet.json —

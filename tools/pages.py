@@ -168,7 +168,7 @@ def visit_page(page, cellars: dict, recs: list, tagvocab: dict, site_url: str) -
             + '<button type="button" data-tag="__page" aria-pressed="false">📄 Written up here</button>'
             '<button type="button" data-tag="__open" aria-pressed="false">🗓 Open today</button></div>'
             '<p class="mute" id="say" aria-live="polite"></p><ul class="hits" id="out"></ul>'
-            f'<h2>Reading the tags</h2><p class="mute">Every tag names its evidence, and a tag is never inferred from a name or a photograph. '
+            f'<h2>Reading the tags</h2><p class="mute">'
             f'A cellar with no tags has not been read yet — that is a fact about this project, not about the cellar.</p>'
             '<table class="tbl-twin"><tr><th>tag</th><th>what earns it</th></tr>'
             + "".join(f'<tr><th>{E(tags[k].get("icon",""))} {E(tags[k]["label"])}</th><td>{E(tags[k].get("evidence",""))}</td></tr>' for k in sorted(tags))
